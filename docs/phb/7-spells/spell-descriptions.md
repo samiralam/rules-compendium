@@ -1,3 +1,7 @@
+---
+toc_depth: 1
+---
+
 # Spell Descriptions
 
 The spells are presented in alphabetical order.
@@ -5,10 +9,7 @@ The spells are presented in alphabetical order.
 ---
 
 
-Spells (A)
-----------
-
-### [Acid Splash](/spells/2618844-acid-splash)
+## [Acid Splash](/spells/2618844-acid-splash)
 
 *Evocation Cantrip (Sorcerer, Wizard)*
 
@@ -26,7 +27,7 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 ---
 
-### [Aid](/spells/2618845-aid)
+## [Aid](/spells/2618845-aid)
 
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 
@@ -44,7 +45,7 @@ Choose up to three creatures within range. Each target’s Hit Point maximum and
 
 ---
 
-### [Alarm](/spells/2619222-alarm)
+## [Alarm](/spells/2619222-alarm)
 
 *Level 1 Abjuration (Ranger, Wizard)*
 
@@ -64,7 +65,7 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 
 ---
 
-### [Alter Self](/spells/2618846-alter-self)
+## [Alter Self](/spells/2618846-alter-self)
 
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
@@ -84,7 +85,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 ---
 
-### [Animal Friendship](/spells/2618847-animal-friendship)
+## [Animal Friendship](/spells/2618847-animal-friendship)
 
 *Level 1 Enchantment (Bard, Druid, Ranger)*
 
@@ -102,7 +103,7 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 ---
 
-### [Animal Messenger](/spells/2618850-animal-messenger)
+## [Animal Messenger](/spells/2618850-animal-messenger)
 
 *Level 2 Enchantment (Bard, Druid, Ranger)*
 
@@ -122,7 +123,7 @@ When the Beast arrives, it delivers your message to the creature that you descri
 
 ---
 
-### [Animal Shapes](/spells/2618851-animal-shapes)
+## [Animal Shapes](/spells/2618851-animal-shapes)
 
 *Level 8 Transmutation (Druid)*
 
@@ -142,7 +143,7 @@ The target gains a number of [Temporary Hit Points](/sources/dnd/free-rules/rule
 
 ---
 
-### [Animate Dead](/spells/2618853-animate-dead)
+## [Animate Dead](/spells/2618853-animate-dead)
 
 *Level 3 Necromancy (Cleric, Wizard)*
 
@@ -164,7 +165,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 ---
 
-### [Animate Objects](/spells/2618855-animate-objects)
+## [Animate Objects](/spells/2618855-animate-objects)
 
 *Level 5 Transmutation (Bard, Sorcerer, Wizard)*
 
@@ -184,41 +185,43 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 
 ***Using a Higher-Level Spell Slot.*** The creature’s Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
 
-> #### Animated Object
-> 
-> *Huge or Smaller Construct, Unaligned*
-> 
-> **AC** 15
-> 
-> **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
-> 
-> **Speed** 30 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 16 | +3 | +3 |
-> | DEX | 10 | +0 | +0 |
-> | CON | 10 | +0 | +0 |
-> | INT | 3 | −4 | −4 |
-> | WIS | 3 | −4 | −4 |
-> | CHA | 1 | −5 | −5 |
-> 
-> **Immunities** Poison, Psychic; [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
-> 
-> **Senses** [Blindsight](/sources/dnd/free-rules/rules-glossary#Blindsight) 30 ft., Passive Perception 6
-> 
-> **Languages** Understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> #### Actions
-> 
-> ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).
+!!! info "Animated Object"
+
+    *Huge or Smaller Construct, Unaligned*
+
+    **AC** 15
+
+    **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
+
+    **Speed** 30 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 16 | +3 | +3 |
+    | DEX | 10 | +0 | +0 |
+    | CON | 10 | +0 | +0 |
+    | INT | 3 | −4 | −4 |
+    | WIS | 3 | −4 | −4 |
+    | CHA | 1 | −5 | −5 |
+
+    **Immunities** Poison, Psychic; [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+
+    **Senses** [Blindsight](/sources/dnd/free-rules/rules-glossary#Blindsight) 30 ft., Passive Perception 6
+
+    **Languages** Understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).
 
 
 ---
 
-### [Antilife Shell](/spells/2618856-antilife-shell)
+## [Antilife Shell](/spells/2618856-antilife-shell)
 
 *Level 5 Abjuration (Druid)*
 
@@ -236,7 +239,7 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 ---
 
-### [Antimagic Field](/spells/2618860-antimagic-field)
+## [Antimagic Field](/spells/2618860-antimagic-field)
 
 *Level 8 Abjuration (Cleric, Wizard)*
 
@@ -258,7 +261,7 @@ Ongoing spells, except those cast by an Artifact or a deity, are suppressed in t
 
 ---
 
-### [Antipathy/Sympathy](/spells/2618862-antipathy-sympathy)
+## [Antipathy/Sympathy](/spells/2618862-antipathy-sympathy)
 
 *Level 8 Enchantment (Bard, Druid, Wizard)*
 
@@ -280,7 +283,7 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 
 ---
 
-### [Arcane Eye](/spells/2618863-arcane-eye)
+## [Arcane Eye](/spells/2618863-arcane-eye)
 
 *Level 4 Divination (Wizard)*
 
@@ -298,7 +301,7 @@ As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid 
 
 ---
 
-### [Arcane Gate](/spells/2618865-arcane-gate)
+## [Arcane Gate](/spells/2618865-arcane-gate)
 
 *Level 6 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -318,7 +321,7 @@ A portal is open on only one side (you choose which). Anything entering the open
 
 ---
 
-### [Arcane Lock](/spells/2618868-arcane-lock)
+## [Arcane Lock](/spells/2618868-arcane-lock)
 
 *Level 2 Abjuration (Wizard)*
 
@@ -334,7 +337,7 @@ You touch a closed door, window, gate, container, or hatch and magically lock it
 
 ---
 
-### [Arcane Vigor](/spells/2618831-arcane-vigor)
+## [Arcane Vigor](/spells/2618831-arcane-vigor)
 
 *Level 2 Abjuration (Sorcerer, Wizard)*
 
@@ -352,7 +355,7 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 
 ---
 
-### [Armor of Agathys](/spells/2618870-armor-of-agathys)
+## [Armor of Agathys](/spells/2618870-armor-of-agathys)
 
 *Level 1 Abjuration (Warlock)*
 
@@ -370,7 +373,7 @@ Protective magical frost surrounds you. You gain 5 [Temporary Hit Points](/sourc
 
 ---
 
-### [Arms of Hadar](/spells/2618871-arms-of-hadar)
+## [Arms of Hadar](/spells/2618871-arms-of-hadar)
 
 *Level 1 Conjuration (Warlock)*
 
@@ -388,7 +391,7 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 
 ---
 
-### [Astral Projection](/spells/2618878-astral-projection)
+## [Astral Projection](/spells/2618878-astral-projection)
 
 *Level 9 Necromancy (Cleric, Warlock, Wizard)*
 
@@ -412,7 +415,7 @@ When the spell ends for a target who isn’t dead, the target reappears in its b
 
 ---
 
-### [Augury](/spells/2618882-augury)
+## [Augury](/spells/2618882-augury)
 
 *Level 2 Divination (Cleric, Druid, Wizard)*
 
@@ -427,7 +430,7 @@ When the spell ends for a target who isn’t dead, the target reappears in its b
 You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.
 
 
-#### Omens
+### Omens
 
 
 | Omen | For Results That Will Be... |
@@ -443,7 +446,7 @@ If you cast the spell more than once before finishing a [Long Rest](/sources/dnd
 
 ---
 
-### [Aura of Life](/spells/2618884-aura-of-life)
+## [Aura of Life](/spells/2618884-aura-of-life)
 
 *Level 4 Abjuration (Cleric, Paladin)*
 
@@ -459,7 +462,7 @@ An aura radiates from you in a 30-foot [Emanation](/sources/dnd/free-rules/rules
 
 ---
 
-### [Aura of Purity](/spells/2618888-aura-of-purity)
+## [Aura of Purity](/spells/2618888-aura-of-purity)
 
 *Level 4 Abjuration (Cleric, Paladin)*
 
@@ -475,7 +478,7 @@ An aura radiates from you in a 30-foot [Emanation](/sources/dnd/free-rules/rules
 
 ---
 
-### [Aura of Vitality](/spells/2618891-aura-of-vitality)
+## [Aura of Vitality](/spells/2618891-aura-of-vitality)
 
 *Level 3 Abjuration (Cleric, Druid, Paladin)*
 
@@ -491,7 +494,7 @@ An aura radiates from you in a 30-foot [Emanation](/sources/dnd/free-rules/rules
 
 ---
 
-### [Awaken](/spells/2618897-awaken)
+## [Awaken](/spells/2618897-awaken)
 
 *Level 5 Transmutation (Bard, Druid)*
 
@@ -507,11 +510,7 @@ You spend the casting time tracing magical pathways within a precious gemstone, 
 
 The awakened target has the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 
-
-Spells (B)
-----------
-
-### [Bane](/spells/2618900-bane)
+## [Bane](/spells/2618900-bane)
 
 *Level 1 Enchantment (Bard, Cleric, Warlock)*
 
@@ -529,7 +528,7 @@ Up to three creatures of your choice that you can see within range must each mak
 
 ---
 
-### [Banishing Smite](/spells/2618904-banishing-smite)
+## [Banishing Smite](/spells/2618904-banishing-smite)
 
 *Level 5 Conjuration (Paladin)*
 
@@ -545,7 +544,7 @@ The target hit by the attack roll takes an extra 5d10 Force damage from the atta
 
 ---
 
-### [Banishment](/spells/2618906-banishment)
+## [Banishment](/spells/2618906-banishment)
 
 *Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
 
@@ -565,7 +564,7 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 
 ---
 
-### [Barkskin](/spells/2618907-barkskin)
+## [Barkskin](/spells/2618907-barkskin)
 
 *Level 2 Transmutation (Druid, Ranger)*
 
@@ -581,7 +580,7 @@ You touch a willing creature. Until the spell ends, the target’s skin assumes 
 
 ---
 
-### [Beacon of Hope](/spells/2618911-beacon-of-hope)
+## [Beacon of Hope](/spells/2618911-beacon-of-hope)
 
 *Level 3 Abjuration (Cleric)*
 
@@ -597,7 +596,7 @@ Choose any number of creatures within range. For the duration, each target has [
 
 ---
 
-### [Beast Sense](/spells/2618914-beast-sense)
+## [Beast Sense](/spells/2618914-beast-sense)
 
 *Level 2 Divination (Druid, Ranger)*
 
@@ -613,7 +612,7 @@ You touch a willing Beast. For the duration, you can perceive through the Beast�
 
 ---
 
-### [Befuddlement](/spells/2618832-befuddlement)
+## [Befuddlement](/spells/2618832-befuddlement)
 
 *Level 8 Enchantment (Bard, Druid, Warlock, Wizard)*
 
@@ -633,7 +632,7 @@ On a successful save, the target takes half as much damage only.
 
 ---
 
-### [Bestow Curse](/spells/2618923-bestow-curse)
+## [Bestow Curse](/spells/2618923-bestow-curse)
 
 *Level 3 Necromancy (Bard, Cleric, Wizard)*
 
@@ -656,7 +655,7 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 
 ---
 
-### [Bigby’s Hand](/spells/2618928-bigbys-hand)
+## [Bigby’s Hand](/spells/2618928-bigbys-hand)
 
 *Level 5 Evocation (Sorcerer, Wizard)*
 
@@ -683,7 +682,7 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 
 ---
 
-### [Blade Barrier](/spells/2618929-blade-barrier)
+## [Blade Barrier](/spells/2618929-blade-barrier)
 
 *Level 6 Evocation (Cleric)*
 
@@ -701,7 +700,7 @@ Any creature in the wall’s space makes a Dexterity saving throw, taking 6d10 F
 
 ---
 
-### [Blade Ward](/spells/2618931-blade-ward)
+## [Blade Ward](/spells/2618931-blade-ward)
 
 *Abjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -717,7 +716,7 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 
 ---
 
-### [Bless](/spells/2618933-bless)
+## [Bless](/spells/2618933-bless)
 
 *Level 1 Enchantment (Cleric, Paladin)*
 
@@ -735,7 +734,7 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 ---
 
-### [Blight](/spells/2618934-blight)
+## [Blight](/spells/2618934-blight)
 
 *Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
 
@@ -755,7 +754,7 @@ Alternatively, target a nonmagical plant that isn’t a creature, such as a tree
 
 ---
 
-### [Blinding Smite](/spells/2618936-blinding-smite)
+## [Blinding Smite](/spells/2618936-blinding-smite)
 
 *Level 3 Evocation (Paladin)*
 
@@ -773,7 +772,7 @@ The target hit by the strike takes an extra 3d8 Radiant damage from the attack, 
 
 ---
 
-### [Blindness/Deafness](/spells/2618938-blindness-deafness)
+## [Blindness/Deafness](/spells/2618938-blindness-deafness)
 
 *Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)*
 
@@ -791,7 +790,7 @@ One creature that you can see within range must succeed on a Constitution saving
 
 ---
 
-### [Blink](/spells/2618939-blink)
+## [Blink](/spells/2618939-blink)
 
 *Level 3 Transmutation (Sorcerer, Wizard)*
 
@@ -809,7 +808,7 @@ You return to the other plane at the start of your next turn and when the spell 
 
 ---
 
-### [Blur](/spells/2618945-blur)
+## [Blur](/spells/2618945-blur)
 
 *Level 2 Illusion (Sorcerer, Wizard)*
 
@@ -825,7 +824,7 @@ Your body becomes blurred. For the duration, any creature has [Disadvantage](/so
 
 ---
 
-### [Burning Hands](/spells/2618946-burning-hands)
+## [Burning Hands](/spells/2618946-burning-hands)
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -843,11 +842,7 @@ Flammable objects in the Cone that aren’t being worn or carried start [burning
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-
-Spells (C)
-----------
-
-### [Call Lightning](/spells/2618949-call-lightning)
+## [Call Lightning](/spells/2618949-call-lightning)
 
 *Level 3 Conjuration (Druid)*
 
@@ -871,7 +866,7 @@ If you’re outdoors in a storm when you cast this spell, the spell gives you co
 
 ---
 
-### [Calm Emotions](/spells/2618959-calm-emotions)
+## [Calm Emotions](/spells/2618959-calm-emotions)
 
 *Level 2 Enchantment (Bard, Cleric)*
 
@@ -890,7 +885,7 @@ Each Humanoid in a 20-foot-radius [Sphere](/sources/dnd/free-rules/rules-glossar
 
 ---
 
-### [Chain Lightning](/spells/2618960-chain-lightning)
+## [Chain Lightning](/spells/2618960-chain-lightning)
 
 *Level 6 Evocation (Sorcerer, Wizard)*
 
@@ -910,7 +905,7 @@ Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a fa
 
 ---
 
-### [Charm Monster](/spells/2618963-charm-monster)
+## [Charm Monster](/spells/2618963-charm-monster)
 
 *Level 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -928,7 +923,7 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 
 ---
 
-### [Charm Person](/spells/2618964-charm-person)
+## [Charm Person](/spells/2618964-charm-person)
 
 *Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -946,7 +941,7 @@ One Humanoid you can see within range makes a Wisdom saving throw. It does so wi
 
 ---
 
-### [Chill Touch](/spells/2618965-chill-touch)
+## [Chill Touch](/spells/2618965-chill-touch)
 
 *Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
 
@@ -964,7 +959,7 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 
 ---
 
-### [Chromatic Orb](/spells/2618966-chromatic-orb)
+## [Chromatic Orb](/spells/2618966-chromatic-orb)
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -984,7 +979,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 ---
 
-### [Circle of Death](/spells/2618969-circle-of-death)
+## [Circle of Death](/spells/2618969-circle-of-death)
 
 *Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
 
@@ -1002,7 +997,7 @@ Negative energy ripples out in a 60-foot-radius [Sphere](/sources/dnd/free-rules
 
 ---
 
-### [Circle of Power](/spells/2618970-circle-of-power)
+## [Circle of Power](/spells/2618970-circle-of-power)
 
 *Level 5 Abjuration (Cleric, Paladin, Wizard)*
 
@@ -1018,7 +1013,7 @@ An aura radiates from you in a 30-foot [Emanation](/sources/dnd/free-rules/rules
 
 ---
 
-### [Clairvoyance](/spells/2618972-clairvoyance)
+## [Clairvoyance](/spells/2618972-clairvoyance)
 
 *Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)*
 
@@ -1038,7 +1033,7 @@ A creature that sees the sensor (such as a creature benefiting from [See Invisib
 
 ---
 
-### [Clone](/spells/2618973-clone)
+## [Clone](/spells/2618973-clone)
 
 *Level 8 Necromancy (Wizard)*
 
@@ -1056,7 +1051,7 @@ If the original creature dies after the clone finishes forming, the creature’s
 
 ---
 
-### [Cloudkill](/spells/2618976-cloudkill)
+## [Cloudkill](/spells/2618976-cloudkill)
 
 *Level 5 Conjuration (Sorcerer, Wizard)*
 
@@ -1078,7 +1073,7 @@ The Sphere moves 10 feet away from you at the start of each of your turns.
 
 ---
 
-### [Cloud of Daggers](/spells/2618974-cloud-of-daggers)
+## [Cloud of Daggers](/spells/2618974-cloud-of-daggers)
 
 *Level 2 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -1098,7 +1093,7 @@ On your later turns, you can take a [Magic](/sources/dnd/free-rules/rules-glossa
 
 ---
 
-### [Color Spray](/spells/2618978-color-spray)
+## [Color Spray](/spells/2618978-color-spray)
 
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -1114,7 +1109,7 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 
 ---
 
-### [Command](/spells/2618985-command)
+## [Command](/spells/2618985-command)
 
 *Level 1 Enchantment (Bard, Cleric, Paladin)*
 
@@ -1137,7 +1132,7 @@ You speak a one-word command to a creature you can see within range. The target 
 
 ---
 
-### [Commune](/spells/2618987-commune)
+## [Commune](/spells/2618987-commune)
 
 *Level 5 Divination (Cleric)*
 
@@ -1157,7 +1152,7 @@ If you cast the spell more than once before finishing a [Long Rest](/sources/dnd
 
 ---
 
-### [Commune with Nature](/spells/2618989-commune-with-nature)
+## [Commune with Nature](/spells/2618989-commune-with-nature)
 
 *Level 5 Divination (Druid, Ranger)*
 
@@ -1183,7 +1178,7 @@ For example, you could determine the location of a powerful monster in the area,
 
 ---
 
-### [Compelled Duel](/spells/2618990-compelled-duel)
+## [Compelled Duel](/spells/2618990-compelled-duel)
 
 *Level 1 Enchantment (Paladin)*
 
@@ -1201,7 +1196,7 @@ The spell ends if you make an attack roll against a creature other than the targ
 
 ---
 
-### [Comprehend Languages](/spells/2618993-comprehend-languages)
+## [Comprehend Languages](/spells/2618993-comprehend-languages)
 
 *Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -1217,7 +1212,7 @@ For the duration, you understand the literal meaning of any language that you he
 
 ---
 
-### [Compulsion](/spells/2619041-compulsion)
+## [Compulsion](/spells/2619041-compulsion)
 
 *Level 4 Enchantment (Bard)*
 
@@ -1235,7 +1230,7 @@ For the duration, you can take a Bonus Action to designate a direction that is h
 
 ---
 
-### [Cone of Cold](/spells/2619042-cone-of-cold)
+## [Cone of Cold](/spells/2619042-cone-of-cold)
 
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -1253,7 +1248,7 @@ You unleash a blast of cold air. Each creature in a 60-foot [Cone](/sources/dnd/
 
 ---
 
-### [Confusion](/spells/2619043-confusion)
+## [Confusion](/spells/2619043-confusion)
 
 *Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
 
@@ -1280,7 +1275,7 @@ At the end of each of its turns, an affected target repeats the save, ending the
 
 ---
 
-### [Conjure Animals](/spells/2619044-conjure-animals)
+## [Conjure Animals](/spells/2619044-conjure-animals)
 
 *Level 3 Conjuration (Druid, Ranger)*
 
@@ -1302,7 +1297,7 @@ Whenever the pack moves within 10 feet of a creature you can see and whenever a 
 
 ---
 
-### [Conjure Barrage](/spells/2619045-conjure-barrage)
+## [Conjure Barrage](/spells/2619045-conjure-barrage)
 
 *Level 3 Conjuration (Ranger)*
 
@@ -1320,7 +1315,7 @@ You brandish the weapon used to cast the spell and conjure similar spectral weap
 
 ---
 
-### [Conjure Celestial](/spells/2619046-conjure-celestial)
+## [Conjure Celestial](/spells/2619046-conjure-celestial)
 
 *Level 7 Conjuration (Cleric)*
 
@@ -1346,7 +1341,7 @@ Whenever the Cylinder moves into the space of a creature you can see and wheneve
 
 ---
 
-### [Conjure Elemental](/spells/2619047-conjure-elemental)
+## [Conjure Elemental](/spells/2619047-conjure-elemental)
 
 *Level 5 Conjuration (Druid, Wizard)*
 
@@ -1366,7 +1361,7 @@ Whenever a creature you can see enters the spirit’s space or starts its turn w
 
 ---
 
-### [Conjure Fey](/spells/2619048-conjure-fey)
+## [Conjure Fey](/spells/2619048-conjure-fey)
 
 *Level 6 Conjuration (Druid)*
 
@@ -1386,7 +1381,7 @@ As a Bonus Action on your later turns, you can teleport the spirit to an unoccup
 
 ---
 
-### [Conjure Minor Elementals](/spells/2619049-conjure-minor-elementals)
+## [Conjure Minor Elementals](/spells/2619049-conjure-minor-elementals)
 
 *Level 4 Conjuration (Druid, Wizard)*
 
@@ -1406,7 +1401,7 @@ In addition, the ground in the Emanation is [Difficult Terrain](/sources/dnd/fre
 
 ---
 
-### [Conjure Volley](/spells/2619050-conjure-volley)
+## [Conjure Volley](/spells/2619050-conjure-volley)
 
 *Level 5 Conjuration (Ranger)*
 
@@ -1422,7 +1417,7 @@ You brandish the weapon used to cast the spell and choose a point within range. 
 
 ---
 
-### [Conjure Woodland Beings](/spells/2619051-conjure-woodland-beings)
+## [Conjure Woodland Beings](/spells/2619051-conjure-woodland-beings)
 
 *Level 4 Conjuration (Druid, Ranger)*
 
@@ -1442,7 +1437,7 @@ In addition, you can take the [Disengage](/sources/dnd/free-rules/rules-glossary
 
 ---
 
-### [Contact Other Plane](/spells/2619052-contact-other-plane)
+## [Contact Other Plane](/spells/2619052-contact-other-plane)
 
 *Level 5 Divination (Warlock, Wizard)*
 
@@ -1460,7 +1455,7 @@ On a failed save, you take 6d6 Psychic damage and have the [Incapacitated](/sour
 
 ---
 
-### [Contagion](/spells/2619063-contagion)
+## [Contagion](/spells/2619063-contagion)
 
 *Level 5 Necromancy (Cleric, Druid)*
 
@@ -1480,7 +1475,7 @@ Whenever the Poisoned target receives an effect that would end the Poisoned cond
 
 ---
 
-### [Contingency](/spells/2619053-contingency)
+## [Contingency](/spells/2619053-contingency)
 
 *Level 6 Abjuration (Wizard)*
 
@@ -1500,7 +1495,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 ---
 
-### [Continual Flame](/spells/2619065-continual-flame)
+## [Continual Flame](/spells/2619065-continual-flame)
 
 *Level 2 Evocation (Cleric, Druid, Wizard)*
 
@@ -1516,7 +1511,7 @@ A flame springs from an object that you touch. The effect casts [Bright Light](/
 
 ---
 
-### [Control Water](/spells/2619070-control-water)
+## [Control Water](/spells/2619070-control-water)
 
 *Level 4 Transmutation (Cleric, Druid, Wizard)*
 
@@ -1542,7 +1537,7 @@ The water level remains elevated until the spell ends or you choose a different 
 
 ---
 
-### [Control Weather](/spells/2619054-control-weather)
+## [Control Weather](/spells/2619054-control-weather)
 
 *Level 8 Transmutation (Cleric, Druid, Wizard)*
 
@@ -1561,7 +1556,7 @@ When you cast the spell, you change the current weather conditions, which are de
 When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 
 
-#### Precipitation
+### Precipitation
 
 
 | Stage | Condition |
@@ -1573,7 +1568,7 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Torrential rain, driving hail, or blizzard |
 
 
-#### Temperature
+### Temperature
 
 
 | Stage | Condition |
@@ -1586,7 +1581,7 @@ When you change the weather conditions, find a current condition on the followin
 | 6 | Freezing |
 
 
-#### Wind
+### Wind
 
 
 | Stage | Condition |
@@ -1599,7 +1594,7 @@ When you change the weather conditions, find a current condition on the followin
 
 ---
 
-### [Cordon of Arrows](/spells/2619055-cordon-of-arrows)
+## [Cordon of Arrows](/spells/2619055-cordon-of-arrows)
 
 *Level 2 Transmutation (Ranger)*
 
@@ -1619,7 +1614,7 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 ---
 
-### [Counterspell](/spells/2619072-counterspell)
+## [Counterspell](/spells/2619072-counterspell)
 
 *Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
 
@@ -1635,7 +1630,7 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 
 ---
 
-### [Create Food and Water](/spells/2619073-create-food-and-water)
+## [Create Food and Water](/spells/2619073-create-food-and-water)
 
 *Level 3 Conjuration (Cleric, Paladin)*
 
@@ -1651,7 +1646,7 @@ You create 45 pounds of food and 30 gallons of fresh water on the ground or in c
 
 ---
 
-### [Create or Destroy Water](/spells/2619074-create-or-destroy-water)
+## [Create or Destroy Water](/spells/2619074-create-or-destroy-water)
 
 *Level 1 Transmutation (Cleric, Druid)*
 
@@ -1671,7 +1666,7 @@ You do one of the following:
 
 ---
 
-### [Create Undead](/spells/2619076-create-undead)
+## [Create Undead](/spells/2619076-create-undead)
 
 *Level 6 Necromancy (Cleric, Warlock, Wizard)*
 
@@ -1693,7 +1688,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 ---
 
-### [Creation](/spells/2619077-creation)
+## [Creation](/spells/2619077-creation)
 
 *Level 5 Illusion (Sorcerer, Wizard)*
 
@@ -1710,7 +1705,7 @@ You pull wisps of shadow material from the Shadowfell to create an object within
 The spell’s duration depends on the object’s material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell’s Material component causes the other spell to fail.
 
 
-#### Materials
+### Materials
 
 
 | Material | Duration |
@@ -1725,7 +1720,7 @@ The spell’s duration depends on the object’s material, as shown in the Mater
 
 ---
 
-### [Crown of Madness](/spells/2619056-crown-of-madness)
+## [Crown of Madness](/spells/2619056-crown-of-madness)
 
 *Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -1745,7 +1740,7 @@ On your later turns, you must take the [Magic](/sources/dnd/free-rules/rules-glo
 
 ---
 
-### [Crusader’s Mantle](/spells/2619057-crusaders-mantle)
+## [Crusader’s Mantle](/spells/2619057-crusaders-mantle)
 
 *Level 3 Evocation (Paladin)*
 
@@ -1761,7 +1756,7 @@ You radiate a magical aura in a 30-foot [Emanation](/sources/dnd/free-rules/rule
 
 ---
 
-### [Cure Wounds](/spells/2619079-cure-wounds)
+## [Cure Wounds](/spells/2619079-cure-wounds)
 
 *Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 
@@ -1778,10 +1773,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 ***Using a Higher-Level Spell Slot.*** The healing increases by 2d8 for each spell slot level above 1.
 
 
-Spells (D)
-----------
-
-### [Dancing Lights](/spells/2619058-dancing-lights)
+## [Dancing Lights](/spells/2619058-dancing-lights)
 
 *Illusion Cantrip (Bard, Sorcerer, Wizard)*
 
@@ -1799,7 +1791,7 @@ As a Bonus Action, you can move the lights up to 60 feet to a space within range
 
 ---
 
-### [Darkness](/spells/2619080-darkness)
+## [Darkness](/spells/2619080-darkness)
 
 *Level 2 Evocation (Sorcerer, Warlock, Wizard)*
 
@@ -1819,7 +1811,7 @@ If any of this spell’s area overlaps with an area of [Bright Light](/sources/d
 
 ---
 
-### [Darkvision](/spells/2619082-darkvision)
+## [Darkvision](/spells/2619082-darkvision)
 
 *Level 2 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -1835,7 +1827,7 @@ For the duration, a willing creature you touch has [Darkvision](/sources/dnd/fre
 
 ---
 
-### [Daylight](/spells/2619083-daylight)
+## [Daylight](/spells/2619083-daylight)
 
 *Level 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)*
 
@@ -1855,7 +1847,7 @@ If any of this spell’s area overlaps with an area of [Darkness](/sources/dnd/f
 
 ---
 
-### [Death Ward](/spells/2619085-death-ward)
+## [Death Ward](/spells/2619085-death-ward)
 
 *Level 4 Abjuration (Cleric, Paladin)*
 
@@ -1873,7 +1865,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 ---
 
-### [Delayed Blast Fireball](/spells/2619086-delayed-blast-fireball)
+## [Delayed Blast Fireball](/spells/2619086-delayed-blast-fireball)
 
 *Level 7 Evocation (Sorcerer, Wizard)*
 
@@ -1897,7 +1889,7 @@ When the bead explodes, flammable objects in the explosion that aren’t being w
 
 ---
 
-### [Demiplane](/spells/2619088-demiplane)
+## [Demiplane](/spells/2619088-demiplane)
 
 *Level 8 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -1917,7 +1909,7 @@ Each time you cast this spell, you can create a new demiplane or connect the sha
 
 ---
 
-### [Destructive Wave](/spells/2619089-destructive-wave)
+## [Destructive Wave](/spells/2619089-destructive-wave)
 
 *Level 5 Evocation (Paladin)*
 
@@ -1933,7 +1925,7 @@ Destructive energy ripples outward from you in a 30-foot [Emanation](/sources/dn
 
 ---
 
-### [Detect Evil and Good](/spells/2619090-detect-evil-and-good)
+## [Detect Evil and Good](/spells/2619090-detect-evil-and-good)
 
 *Level 1 Divination (Cleric, Paladin)*
 
@@ -1951,7 +1943,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 ---
 
-### [Detect Magic](/spells/2619097-detect-magic)
+## [Detect Magic](/spells/2619097-detect-magic)
 
 *Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 
@@ -1969,7 +1961,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 ---
 
-### [Detect Poison and Disease](/spells/2619093-detect-poison-and-disease)
+## [Detect Poison and Disease](/spells/2619093-detect-poison-and-disease)
 
 *Level 1 Divination (Cleric, Druid, Paladin, Ranger)*
 
@@ -1987,7 +1979,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 ---
 
-### [Detect Thoughts](/spells/2619099-detect-thoughts)
+## [Detect Thoughts](/spells/2619099-detect-thoughts)
 
 *Level 2 Divination (Bard, Sorcerer, Wizard)*
 
@@ -2011,7 +2003,7 @@ As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action on your 
 
 ---
 
-### [Dimension Door](/spells/2619100-dimension-door)
+## [Dimension Door](/spells/2619100-dimension-door)
 
 *Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -2031,7 +2023,7 @@ If you, the other creature, or both would arrive in a space occupied by a creatu
 
 ---
 
-### [Disguise Self](/spells/2619102-disguise-self)
+## [Disguise Self](/spells/2619102-disguise-self)
 
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -2051,7 +2043,7 @@ To discern that you are disguised, a creature must take the [Study](/sources/dnd
 
 ---
 
-### [Disintegrate](/spells/2619094-disintegrate)
+## [Disintegrate](/spells/2619094-disintegrate)
 
 *Level 6 Transmutation (Sorcerer, Wizard)*
 
@@ -2073,7 +2065,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 ---
 
-### [Dispel Evil and Good](/spells/2619096-dispel-evil-and-good)
+## [Dispel Evil and Good](/spells/2619096-dispel-evil-and-good)
 
 *Level 5 Abjuration (Cleric, Paladin)*
 
@@ -2093,7 +2085,7 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [Disadvan
 
 ---
 
-### [Dispel Magic](/spells/2619103-dispel-magic)
+## [Dispel Magic](/spells/2619103-dispel-magic)
 
 *Level 3 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 
@@ -2111,7 +2103,7 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 ---
 
-### [Dissonant Whispers](/spells/2619104-dissonant-whispers)
+## [Dissonant Whispers](/spells/2619104-dissonant-whispers)
 
 *Level 1 Enchantment (Bard)*
 
@@ -2129,7 +2121,7 @@ One creature of your choice that you can see within range hears a discordant mel
 
 ---
 
-### [Divination](/spells/2619140-divination)
+## [Divination](/spells/2619140-divination)
 
 *Level 4 Divination (Cleric, Druid, Wizard)*
 
@@ -2147,7 +2139,7 @@ If you cast the spell more than once before finishing a [Long Rest](/sources/dnd
 
 ---
 
-### [Divine Favor](/spells/2619142-divine-favor)
+## [Divine Favor](/spells/2619142-divine-favor)
 
 *Level 1 Transmutation (Paladin)*
 
@@ -2163,7 +2155,7 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 
 ---
 
-### [Divine Smite](/spells/2618833-divine-smite)
+## [Divine Smite](/spells/2618833-divine-smite)
 
 *Level 1 Evocation (Paladin)*
 
@@ -2181,7 +2173,7 @@ The target takes an extra 2d8 Radiant damage from the attack. The damage increas
 
 ---
 
-### [Divine Word](/spells/2619144-divine-word)
+## [Divine Word](/spells/2619144-divine-word)
 
 *Level 7 Evocation (Cleric)*
 
@@ -2195,7 +2187,7 @@ The target takes an extra 2d8 Radiant damage from the attack. The damage increas
 
 You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to the current plane for 24 hours by any means short of a [Wish](/spells/2619213-wish) spell.
 
-#### Divine Word Effects
+### Divine Word Effects
 | Hit Points | Effect |
 | --- | --- |
 | 0–20 | The target dies. |
@@ -2205,7 +2197,7 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 
 ---
 
-### [Dominate Beast](/spells/2619146-dominate-beast)
+## [Dominate Beast](/spells/2619146-dominate-beast)
 
 *Level 4 Enchantment (Druid, Ranger, Sorcerer)*
 
@@ -2227,7 +2219,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 ---
 
-### [Dominate Monster](/spells/2619147-dominate-monster)
+## [Dominate Monster](/spells/2619147-dominate-monster)
 
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -2249,7 +2241,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 ---
 
-### [Dominate Person](/spells/2619148-dominate-person)
+## [Dominate Person](/spells/2619148-dominate-person)
 
 *Level 5 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -2271,7 +2263,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 ---
 
-### [Dragon’s Breath](/spells/2619150-dragons-breath)
+## [Dragon’s Breath](/spells/2619150-dragons-breath)
 
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
@@ -2289,7 +2281,7 @@ You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poiso
 
 ---
 
-### [Drawmij’s Instant Summons](/spells/2619154-drawmijs-instant-summons)
+## [Drawmij’s Instant Summons](/spells/2619154-drawmijs-instant-summons)
 
 *Level 6 Conjuration (Wizard)*
 
@@ -2309,7 +2301,7 @@ If another creature is holding or carrying the object, crushing the sapphire doe
 
 ---
 
-### [Dream](/spells/2619156-dream)
+## [Dream](/spells/2619156-dream)
 
 *Level 5 Illusion (Bard, Warlock, Wizard)*
 
@@ -2331,7 +2323,7 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 
 ---
 
-### [Druidcraft](/spells/2619158-druidcraft)
+## [Druidcraft](/spells/2619158-druidcraft)
 
 *Transmutation Cantrip (Druid)*
 
@@ -2351,10 +2343,8 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - ***Fire Play.*** You light or snuff out a candle, a torch, or a campfire.
 
 
-Spells (E)
-----------
 
-### [Earthquake](/spells/2619160-earthquake)
+## [Earthquake](/spells/2619160-earthquake)
 
 *Level 8 Transmutation (Cleric, Druid, Sorcerer)*
 
@@ -2380,7 +2370,7 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 ---
 
-### [Eldritch Blast](/spells/2619161-eldritch-blast)
+## [Eldritch Blast](/spells/2619161-eldritch-blast)
 
 *Evocation Cantrip (Warlock)*
 
@@ -2398,7 +2388,7 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 ---
 
-### [Elementalism](/spells/2618834-elementalism)
+## [Elementalism](/spells/2618834-elementalism)
 
 *Transmutation Cantrip (Druid, Sorcerer, Wizard)*
 
@@ -2420,7 +2410,7 @@ You exert control over the elements, creating one of the following effects withi
 
 ---
 
-### [Elemental Weapon](/spells/2619164-elemental-weapon)
+## [Elemental Weapon](/spells/2619164-elemental-weapon)
 
 *Level 3 Transmutation (Druid, Paladin, Ranger)*
 
@@ -2438,7 +2428,7 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 ---
 
-### [Enhance Ability](/spells/2619165-enhance-ability)
+## [Enhance Ability](/spells/2619165-enhance-ability)
 
 *Level 2 Transmutation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
@@ -2456,7 +2446,7 @@ You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Ch
 
 ---
 
-### [Enlarge/Reduce](/spells/2619170-enlarge-reduce)
+## [Enlarge/Reduce](/spells/2619170-enlarge-reduce)
 
 *Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)*
 
@@ -2478,7 +2468,7 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ---
 
-### [Ensnaring Strike](/spells/2619172-ensnaring-strike)
+## [Ensnaring Strike](/spells/2619172-ensnaring-strike)
 
 *Level 1 Conjuration (Ranger)*
 
@@ -2498,7 +2488,7 @@ While Restrained, the target takes 1d6 Piercing damage at the start of each of i
 
 ---
 
-### [Entangle](/spells/2619186-entangle)
+## [Entangle](/spells/2619186-entangle)
 
 *Level 1 Conjuration (Druid, Ranger)*
 
@@ -2516,7 +2506,7 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 
 ---
 
-### [Enthrall](/spells/2619192-enthrall)
+## [Enthrall](/spells/2619192-enthrall)
 
 *Level 2 Enchantment (Bard, Warlock)*
 
@@ -2532,7 +2522,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 ---
 
-### [Etherealness](/spells/2619193-etherealness)
+## [Etherealness](/spells/2619193-etherealness)
 
 *Level 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
@@ -2556,7 +2546,7 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 ---
 
-### [Evard’s Black Tentacles](/spells/2619187-evards-black-tentacles)
+## [Evard’s Black Tentacles](/spells/2619187-evards-black-tentacles)
 
 *Level 4 Conjuration (Wizard)*
 
@@ -2576,7 +2566,7 @@ A Restrained creature can take an action to make a Strength ([Athletics](/source
 
 ---
 
-### [Expeditious Retreat](/spells/2619189-expeditious-retreat)
+## [Expeditious Retreat](/spells/2619189-expeditious-retreat)
 
 *Level 1 Transmutation (Sorcerer, Warlock, Wizard)*
 
@@ -2592,7 +2582,7 @@ You take the [Dash](/sources/dnd/free-rules/rules-glossary#DashAction) action, a
 
 ---
 
-### [Eyebite](/spells/2619191-eyebite)
+## [Eyebite](/spells/2619191-eyebite)
 
 *Level 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -2613,10 +2603,8 @@ On each of your turns until the spell ends, you can take a [Magic](/sources/dnd/
 - ***Sickened.*** The target has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition.
 
 
-Spells (F)
-----------
 
-### [Fabricate](/spells/2618848-fabricate)
+## [Fabricate](/spells/2618848-fabricate)
 
 *Level 4 Transmutation (Wizard)*
 
@@ -2636,7 +2624,7 @@ Creatures and magic items can’t be created by this spell. You also can’t use
 
 ---
 
-### [Faerie Fire](/spells/2618858-faerie-fire)
+## [Faerie Fire](/spells/2618858-faerie-fire)
 
 *Level 1 Evocation (Bard, Druid)*
 
@@ -2654,7 +2642,7 @@ Attack rolls against an affected creature or object have [Advantage](/sources/dn
 
 ---
 
-### [False Life](/spells/2618866-false-life)
+## [False Life](/spells/2618866-false-life)
 
 *Level 1 Necromancy (Sorcerer, Wizard)*
 
@@ -2672,7 +2660,7 @@ You gain 2d4 + 4 [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#T
 
 ---
 
-### [Fear](/spells/2618872-fear)
+## [Fear](/spells/2618872-fear)
 
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -2690,7 +2678,7 @@ A Frightened creature takes the [Dash](/sources/dnd/free-rules/rules-glossary#Da
 
 ---
 
-### [Feather Fall](/spells/2618874-feather-fall)
+## [Feather Fall](/spells/2618874-feather-fall)
 
 *Level 1 Transmutation (Bard, Sorcerer, Wizard)*
 
@@ -2706,7 +2694,7 @@ Choose up to five falling creatures within range. A falling creature’s rate of
 
 ---
 
-### [Feign Death](/spells/2618873-feign-death)
+## [Feign Death](/spells/2618873-feign-death)
 
 *Level 3 Necromancy (Bard, Cleric, Druid, Wizard)*
 
@@ -2726,7 +2714,7 @@ The target also has Resistance to all damage except Psychic damage, and it has I
 
 ---
 
-### [Find Familiar](/spells/2618877-find-familiar)
+## [Find Familiar](/spells/2618877-find-familiar)
 
 *Level 1 Conjuration (Wizard)*
 
@@ -2752,7 +2740,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 ---
 
-### [Find Steed](/spells/2618879-find-steed)
+## [Find Steed](/spells/2618879-find-steed)
 
 *Level 2 Conjuration (Paladin)*
 
@@ -2774,50 +2762,56 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Otherworldly Steed
-> 
-> *Large Celestial, Fey, or Fiend (Your Choice), Neutral*
-> 
-> **AC** 10 + 1 per spell level
-> 
-> **HP** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
-> 
-> **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 18 | +4 | +4 |
-> | DEX | 12 | +1 | +1 |
-> | CON | 14 | +2 | +2 |
-> | INT | 6 | −2 | −2 |
-> | WIS | 12 | +1 | +1 |
-> | CHA | 8 | −1 | −1 |
-> 
-> **Senses** Passive Perception 11
-> 
-> **Languages** Telepathy 1 mile (works only with you)
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Life Bond.*** When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you’re within 5 feet of it.
-> 
-> ##### Actions
-> 
-> ***Otherworldly Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 plus the spell’s level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
-> 
-> ##### Bonus Actions
-> 
-> ***Fell Glare (Fiend Only; Recharges after a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest)).*** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the end of your next turn.
-> 
-> ***Fey Step (Fey Only; Recharges after a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest)).*** The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
-> 
-> ***Healing Touch (Celestial Only; Recharges after a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest)).*** One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell’s level.
+!!! info "Otherworldly Steed"
+
+    *Large Celestial, Fey, or Fiend (Your Choice), Neutral*
+
+    **AC** 10 + 1 per spell level
+
+    **HP** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell’s level)
+
+    **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 18 | +4 | +4 |
+    | DEX | 12 | +1 | +1 |
+    | CON | 14 | +2 | +2 |
+    | INT | 6 | −2 | −2 |
+    | WIS | 12 | +1 | +1 |
+    | CHA | 8 | −1 | −1 |
+
+    **Senses** Passive Perception 11
+
+    **Languages** Telepathy 1 mile (works only with you)
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Life Bond.*** When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you’re within 5 feet of it.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Otherworldly Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 plus the spell’s level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
+
+    <p style="font-size: 125%;">
+    **Bonus Actions**
+    </p>
+
+    ***Fell Glare (Fiend Only; Recharges after a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest)).*** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the end of your next turn.
+
+    ***Fey Step (Fey Only; Recharges after a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest)).*** The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
+
+    ***Healing Touch (Celestial Only; Recharges after a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest)).*** One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell’s level.
 
 ---
 
-### [Find the Path](/spells/2618881-find-the-path)
+## [Find the Path](/spells/2618881-find-the-path)
 
 *Level 6 Divination (Bard, Cleric, Druid)*
 
@@ -2835,7 +2829,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 ---
 
-### [Find Traps](/spells/2618883-find-traps)
+## [Find Traps](/spells/2618883-find-traps)
 
 *Level 2 Divination (Cleric, Druid, Ranger)*
 
@@ -2853,7 +2847,7 @@ This spell reveals that a trap is present but not its location. You do learn the
 
 ---
 
-### [Finger of Death](/spells/2618885-finger-of-death)
+## [Finger of Death](/spells/2618885-finger-of-death)
 
 *Level 7 Necromancy (Sorcerer, Warlock, Wizard)*
 
@@ -2871,7 +2865,7 @@ A Humanoid killed by this spell rises at the start of your next turn as a [Zombi
 
 ---
 
-### [Fireball](/spells/2618887-fireball)
+## [Fireball](/spells/2618887-fireball)
 
 *Level 3 Evocation (Sorcerer, Wizard)*
 
@@ -2891,7 +2885,7 @@ Flammable objects in the area that aren’t being worn or carried start [burning
 
 ---
 
-### [Fire Bolt](/spells/2618890-fire-bolt)
+## [Fire Bolt](/spells/2618890-fire-bolt)
 
 *Evocation Cantrip (Sorcerer, Wizard)*
 
@@ -2909,7 +2903,7 @@ You hurl a mote of fire at a creature or an object within range. Make a ranged s
 
 ---
 
-### [Fire Shield](/spells/2618894-fire-shield)
+## [Fire Shield](/spells/2618894-fire-shield)
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -2929,7 +2923,7 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 ---
 
-### [Fire Storm](/spells/2618896-fire-storm)
+## [Fire Storm](/spells/2618896-fire-storm)
 
 *Level 7 Evocation (Cleric, Druid, Sorcerer)*
 
@@ -2947,7 +2941,7 @@ Flammable objects in the area that aren’t being worn or carried start [burning
 
 ---
 
-### [Flame Blade](/spells/2618899-flame-blade)
+## [Flame Blade](/spells/2618899-flame-blade)
 
 *Level 2 Evocation (Druid, Sorcerer)*
 
@@ -2969,7 +2963,7 @@ The flaming blade sheds [Bright Light](/sources/dnd/free-rules/rules-glossary#Br
 
 ---
 
-### [Flame Strike](/spells/2618920-flame-strike)
+## [Flame Strike](/spells/2618920-flame-strike)
 
 *Level 5 Evocation (Cleric)*
 
@@ -2987,7 +2981,7 @@ A vertical column of brilliant fire roars down from above. Each creature in a 10
 
 ---
 
-### [Flaming Sphere](/spells/2618919-flaming-sphere)
+## [Flaming Sphere](/spells/2618919-flaming-sphere)
 
 *Level 2 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -3009,7 +3003,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 ---
 
-### [Flesh to Stone](/spells/2618905-flesh-to-stone)
+## [Flesh to Stone](/spells/2618905-flesh-to-stone)
 
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
@@ -3029,7 +3023,7 @@ If you maintain your [Concentration](/sources/dnd/free-rules/rules-glossary#Conc
 
 ---
 
-### [Fly](/spells/2618909-fly)
+## [Fly](/spells/2618909-fly)
 
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
@@ -3047,7 +3041,7 @@ You touch a willing creature. For the duration, the target gains a Fly Speed of 
 
 ---
 
-### [Fog Cloud](/spells/2618910-fog-cloud)
+## [Fog Cloud](/spells/2618910-fog-cloud)
 
 *Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -3065,7 +3059,7 @@ You create a 20-foot-radius [Sphere](/sources/dnd/free-rules/rules-glossary#Sphe
 
 ---
 
-### [Forbiddance](/spells/2618913-forbiddance)
+## [Forbiddance](/spells/2618913-forbiddance)
 
 *Level 6 Abjuration (Cleric)*
 
@@ -3087,7 +3081,7 @@ The spell’s area can’t overlap with the area of another *Forbiddance* spell.
 
 ---
 
-### [Forcecage](/spells/2618916-forcecage)
+## [Forcecage](/spells/2618916-forcecage)
 
 *Level 7 Evocation (Bard, Warlock, Wizard)*
 
@@ -3111,7 +3105,7 @@ This spell can’t be dispelled by [Dispel Magic](/spells/2619103-dispel-magic).
 
 ---
 
-### [Foresight](/spells/2618918-foresight)
+## [Foresight](/spells/2618918-foresight)
 
 *Level 9 Divination (Bard, Druid, Warlock, Wizard)*
 
@@ -3127,7 +3121,7 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 ---
 
-### [Fount of Moonlight](/spells/2618835-fount-of-moonlight)
+## [Fount of Moonlight](/spells/2618835-fount-of-moonlight)
 
 *Level 4 Evocation (Bard, Druid)*
 
@@ -3147,7 +3141,7 @@ In addition, immediately after you take damage from a creature you can see withi
 
 ---
 
-### [Freedom of Movement](/spells/2618921-freedom-of-movement)
+## [Freedom of Movement](/spells/2618921-freedom-of-movement)
 
 *Level 4 Abjuration (Bard, Cleric, Druid, Ranger)*
 
@@ -3167,7 +3161,7 @@ In addition, the target can spend 5 feet of movement to automatically escape fro
 
 ---
 
-### [Friends](/spells/2618924-friends)
+## [Friends](/spells/2618924-friends)
 
 *Enchantment Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -3184,10 +3178,8 @@ You magically emanate a sense of friendship toward one creature you can see with
 The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was Charmed by you.
 
 
-Spells (G)
-----------
 
-### [Gaseous Form](/spells/2618927-gaseous-form)
+## [Gaseous Form](/spells/2618927-gaseous-form)
 
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
@@ -3209,7 +3201,7 @@ The target can’t talk or manipulate objects, and any objects it was carrying o
 
 ---
 
-### [Gate](/spells/2618932-gate)
+## [Gate](/spells/2618932-gate)
 
 *Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)*
 
@@ -3231,7 +3223,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 ---
 
-### [Geas](/spells/2618940-geas)
+## [Geas](/spells/2618940-geas)
 
 *Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
 
@@ -3255,7 +3247,7 @@ A [Remove Curse](/spells/2618943-remove-curse), [Greater Restoration](/spells/26
 
 ---
 
-### [Gentle Repose](/spells/2618942-gentle-repose)
+## [Gentle Repose](/spells/2618942-gentle-repose)
 
 *Level 2 Necromancy (Cleric, Paladin, Wizard)*
 
@@ -3273,7 +3265,7 @@ The spell also effectively extends the time limit on raising the target from the
 
 ---
 
-### [Giant Insect](/spells/2618944-giant-insect)
+## [Giant Insect](/spells/2618944-giant-insect)
 
 *Level 4 Conjuration (Druid)*
 
@@ -3291,50 +3283,56 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Giant Insect
-> 
-> *Large Beast, Unaligned*
-> 
-> **AC** 11 + the spell’s level
-> 
-> **HP** 30 + 10 for each spell level above 4
-> 
-> **Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 17 | +3 | +3 |
-> | DEX | 13 | +1 | +1 |
-> | CON | 15 | +2 | +2 |
-> | INT | 4 | −3 | −3 |
-> | WIS | 14 | +2 | +2 |
-> | CHA | 3 | −4 | −4 |
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
-> 
-> **Languages** Understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Spider Climb.*** The insect can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The insect makes a number of attacks equal to half this spell’s level (round down).
-> 
-> ***Poison Jab.****Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit:* 1d6 + 3 plus the spell’s level Piercing damage plus 1d4 Poison damage.
-> 
-> ***Web Bolt (Spider Only).*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 60 ft. *Hit:* 1d10 + 3 plus the spell’s level Bludgeoning damage, and the target’s Speed is reduced to 0 until the start of the insect’s next turn.
-> 
-> ##### Bonus Actions
-> 
-> ***Venomous Spew (Centipede Only).*** *Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition until the start of the insect’s next turn.
+!!! info "Giant Insect"
+
+    *Large Beast, Unaligned*
+
+    **AC** 11 + the spell’s level
+
+    **HP** 30 + 10 for each spell level above 4
+
+    **Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 17 | +3 | +3 |
+    | DEX | 13 | +1 | +1 |
+    | CON | 15 | +2 | +2 |
+    | INT | 4 | −3 | −3 |
+    | WIS | 14 | +2 | +2 |
+    | CHA | 3 | −4 | −4 |
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
+
+    **Languages** Understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Spider Climb.*** The insect can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The insect makes a number of attacks equal to half this spell’s level (round down).
+
+    ***Poison Jab.****Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit:* 1d6 + 3 plus the spell’s level Piercing damage plus 1d4 Poison damage.
+
+    ***Web Bolt (Spider Only).*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 60 ft. *Hit:* 1d10 + 3 plus the spell’s level Bludgeoning damage, and the target’s Speed is reduced to 0 until the start of the insect’s next turn.
+
+    <p style="font-size: 125%;">
+    **Bonus Actions**
+    </p>
+
+    ***Venomous Spew (Centipede Only).*** *Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition until the start of the insect’s next turn.
 
 ---
 
-### [Glibness](/spells/2618948-glibness)
+## [Glibness](/spells/2618948-glibness)
 
 *Level 8 Enchantment (Bard, Warlock)*
 
@@ -3350,7 +3348,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 ---
 
-### [Globe of Invulnerability](/spells/2618950-globe-of-invulnerability)
+## [Globe of Invulnerability](/spells/2618950-globe-of-invulnerability)
 
 *Level 6 Abjuration (Sorcerer, Wizard)*
 
@@ -3370,7 +3368,7 @@ Any spell of level 5 or lower cast from outside the barrier can’t affect anyth
 
 ---
 
-### [Glyph of Warding](/spells/2618951-glyph-of-warding)
+## [Glyph of Warding](/spells/2618951-glyph-of-warding)
 
 *Level 3 Abjuration (Bard, Cleric, Wizard)*
 
@@ -3402,7 +3400,7 @@ When the glyph is triggered, the stored spell takes effect. If the spell has a t
 
 ---
 
-### [Goodberry](/spells/2618952-goodberry)
+## [Goodberry](/spells/2618952-goodberry)
 
 *Level 1 Conjuration (Druid, Ranger)*
 
@@ -3420,7 +3418,7 @@ Uneaten berries disappear when the spell ends.
 
 ---
 
-### [Grasping Vine](/spells/2618955-grasping-vine)
+## [Grasping Vine](/spells/2618955-grasping-vine)
 
 *Level 4 Conjuration (Druid, Ranger)*
 
@@ -3442,7 +3440,7 @@ As a Bonus Action on your later turns, you can repeat the attack against a creat
 
 ---
 
-### [Grease](/spells/2618957-grease)
+## [Grease](/spells/2618957-grease)
 
 *Level 1 Conjuration (Sorcerer, Wizard)*
 
@@ -3460,7 +3458,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 ---
 
-### [Greater Invisibility](/spells/2618958-greater-invisibility)
+## [Greater Invisibility](/spells/2618958-greater-invisibility)
 
 *Level 4 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -3476,7 +3474,7 @@ A creature you touch has the [Invisible](/sources/dnd/free-rules/rules-glossary#
 
 ---
 
-### [Greater Restoration](/spells/2618961-greater-restoration)
+## [Greater Restoration](/spells/2618961-greater-restoration)
 
 *Level 5 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 
@@ -3498,7 +3496,7 @@ You touch a creature and magically remove one of the following effects from it:
 
 ---
 
-### [Guardian of Faith](/spells/2619135-guardian-of-faith)
+## [Guardian of Faith](/spells/2619135-guardian-of-faith)
 
 *Level 4 Conjuration (Cleric)*
 
@@ -3516,7 +3514,7 @@ Any enemy that moves to a space within 10 feet of the guardian for the first tim
 
 ---
 
-### [Guards and Wards](/spells/2618968-guards-and-wards)
+## [Guards and Wards](/spells/2618968-guards-and-wards)
 
 *Level 6 Abjuration (Bard, Wizard)*
 
@@ -3550,7 +3548,7 @@ The spell creates the effects below within the warded area. [Dispel Magic](/spel
 
 ---
 
-### [Guidance](/spells/2618971-guidance)
+## [Guidance](/spells/2618971-guidance)
 
 *Divination Cantrip (Cleric, Druid)*
 
@@ -3566,7 +3564,7 @@ You touch a willing creature and choose a skill. Until the spell ends, the creat
 
 ---
 
-### [Guiding Bolt](/spells/2619136-guiding-bolt)
+## [Guiding Bolt](/spells/2619136-guiding-bolt)
 
 *Level 1 Evocation (Cleric)*
 
@@ -3584,7 +3582,7 @@ You hurl a bolt of light toward a creature within range. Make a ranged spell att
 
 ---
 
-### [Gust of Wind](/spells/2619137-gust-of-wind)
+## [Gust of Wind](/spells/2619137-gust-of-wind)
 
 *Level 2 Evocation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -3605,10 +3603,7 @@ The gust disperses gas or vapor, and it extinguishes candles and similar unprote
 As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
 
 
-Spells (H)
-----------
-
-### [Hail of Thorns](/spells/2618975-hail-of-thorns)
+## [Hail of Thorns](/spells/2618975-hail-of-thorns)
 
 *Level 1 Conjuration (Ranger)*
 
@@ -3626,7 +3621,7 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 ---
 
-### [Hallow](/spells/2619138-hallow)
+## [Hallow](/spells/2619138-hallow)
 
 *Level 5 Abjuration (Cleric)*
 
@@ -3656,7 +3651,7 @@ You touch a point and infuse an area around it with holy or unholy power. The ar
 
 ---
 
-### [Hallucinatory Terrain](/spells/2619139-hallucinatory-terrain)
+## [Hallucinatory Terrain](/spells/2619139-hallucinatory-terrain)
 
 *Level 4 Illusion (Bard, Druid, Warlock, Wizard)*
 
@@ -3674,7 +3669,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 ---
 
-### [Harm](/spells/2618977-harm)
+## [Harm](/spells/2618977-harm)
 
 *Level 6 Necromancy (Cleric)*
 
@@ -3690,7 +3685,7 @@ You unleash virulent magic on a creature you can see within range. The target ma
 
 ---
 
-### [Haste](/spells/2619141-haste)
+## [Haste](/spells/2619141-haste)
 
 *Level 3 Transmutation (Sorcerer, Wizard)*
 
@@ -3708,7 +3703,7 @@ When the spell ends, the target is [Incapacitated](/sources/dnd/free-rules/rules
 
 ---
 
-### [Heal](/spells/2618979-heal)
+## [Heal](/spells/2618979-heal)
 
 *Level 6 Abjuration (Cleric, Druid)*
 
@@ -3726,7 +3721,7 @@ Choose a creature that you can see within range. Positive energy washes through 
 
 ---
 
-### [Healing Word](/spells/2619143-healing-word)
+## [Healing Word](/spells/2619143-healing-word)
 
 *Level 1 Abjuration (Bard, Cleric, Druid)*
 
@@ -3744,7 +3739,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 
 ---
 
-### [Heat Metal](/spells/2619145-heat-metal)
+## [Heat Metal](/spells/2619145-heat-metal)
 
 *Level 2 Transmutation (Bard, Druid)*
 
@@ -3764,7 +3759,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 ---
 
-### [Hellish Rebuke](/spells/2619149-hellish-rebuke)
+## [Hellish Rebuke](/spells/2619149-hellish-rebuke)
 
 *Level 1 Evocation (Warlock)*
 
@@ -3782,7 +3777,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 ---
 
-### [Heroes’ Feast](/spells/2618983-heroes-feast)
+## [Heroes’ Feast](/spells/2618983-heroes-feast)
 
 *Level 6 Conjuration (Bard, Cleric, Druid)*
 
@@ -3800,7 +3795,7 @@ A creature that partakes gains several benefits, which last for 24 hours. The cr
 
 ---
 
-### [Heroism](/spells/2619151-heroism)
+## [Heroism](/spells/2619151-heroism)
 
 *Level 1 Enchantment (Bard, Paladin)*
 
@@ -3818,7 +3813,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 ---
 
-### [Hex](/spells/2618988-hex)
+## [Hex](/spells/2618988-hex)
 
 *Level 1 Enchantment (Warlock)*
 
@@ -3838,7 +3833,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 
 ---
 
-### [Hold Monster](/spells/2619152-hold-monster)
+## [Hold Monster](/spells/2619152-hold-monster)
 
 *Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -3856,7 +3851,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 ---
 
-### [Hold Person](/spells/2619153-hold-person)
+## [Hold Person](/spells/2619153-hold-person)
 
 *Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -3874,7 +3869,7 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 
 ---
 
-### [Holy Aura](/spells/2619155-holy-aura)
+## [Holy Aura](/spells/2619155-holy-aura)
 
 *Level 8 Abjuration (Cleric)*
 
@@ -3890,7 +3885,7 @@ For the duration, you emit an aura in a 30-foot [Emanation](/sources/dnd/free-ru
 
 ---
 
-### [Hunger of Hadar](/spells/2619162-hunger-of-hadar)
+## [Hunger of Hadar](/spells/2619162-hunger-of-hadar)
 
 *Level 3 Conjuration (Warlock)*
 
@@ -3910,7 +3905,7 @@ Any creature that starts its turn in the area takes 2d6 Cold damage. Any creatur
 
 ---
 
-### [Hunter’s Mark](/spells/2619166-hunters-mark)
+## [Hunter’s Mark](/spells/2619166-hunters-mark)
 
 *Level 1 Divination (Ranger)*
 
@@ -3930,7 +3925,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 
 ---
 
-### [Hypnotic Pattern](/spells/2619168-hypnotic-pattern)
+## [Hypnotic Pattern](/spells/2619168-hypnotic-pattern)
 
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -3947,10 +3942,7 @@ You create a twisting pattern of colors in a 30-foot [Cube](/sources/dnd/free-ru
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
 
-Spells (I)
-----------
-
-### [Ice Knife](/spells/2619171-ice-knife)
+## [Ice Knife](/spells/2619171-ice-knife)
 
 *Level 1 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -3968,7 +3960,7 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 
 ---
 
-### [Ice Storm](/spells/2619178-ice-storm)
+## [Ice Storm](/spells/2619178-ice-storm)
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -3988,7 +3980,7 @@ Hailstones turn ground in the Cylinder into [Difficult Terrain](/sources/dnd/fre
 
 ---
 
-### [Identify](/spells/2619180-identify)
+## [Identify](/spells/2619180-identify)
 
 *Level 1 Divination (Bard, Wizard)*
 
@@ -4006,7 +3998,7 @@ If you instead touch a creature throughout the casting, you learn which ongoing 
 
 ---
 
-### [Illusory Script](/spells/2619173-illusory-script)
+## [Illusory Script](/spells/2619173-illusory-script)
 
 *Level 1 Illusion (Bard, Warlock, Wizard)*
 
@@ -4026,7 +4018,7 @@ A creature that has [Truesight](/sources/dnd/free-rules/rules-glossary#Truesight
 
 ---
 
-### [Imprisonment](/spells/2619175-imprisonment)
+## [Imprisonment](/spells/2619175-imprisonment)
 
 *Level 9 Abjuration (Warlock, Wizard)*
 
@@ -4053,7 +4045,7 @@ A [Dispel Magic](/spells/2619103-dispel-magic) spell can end the spell only if i
 
 ---
 
-### [Incendiary Cloud](/spells/2619177-incendiary-cloud)
+## [Incendiary Cloud](/spells/2619177-incendiary-cloud)
 
 *Level 8 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -4073,7 +4065,7 @@ The cloud moves 10 feet away from you in a direction you choose at the start of 
 
 ---
 
-### [Inflict Wounds](/spells/2619181-inflict-wounds)
+## [Inflict Wounds](/spells/2619181-inflict-wounds)
 
 *Level 1 Necromancy (Cleric)*
 
@@ -4091,7 +4083,7 @@ A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic dam
 
 ---
 
-### [Insect Plague](/spells/2619183-insect-plague)
+## [Insect Plague](/spells/2619183-insect-plague)
 
 *Level 5 Conjuration (Cleric, Druid, Sorcerer)*
 
@@ -4111,7 +4103,7 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 
 ---
 
-### [Invisibility](/spells/2619116-invisibility)
+## [Invisibility](/spells/2619116-invisibility)
 
 *Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -4128,10 +4120,7 @@ A creature you touch has the [Invisible](/sources/dnd/free-rules/rules-glossary#
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2.
 
 
-Spells (J)
-----------
-
-### [Jallarzi’s Storm of Radiance](/spells/2618836-jallarzis-storm-of-radiance)
+## [Jallarzi’s Storm of Radiance](/spells/2618836-jallarzis-storm-of-radiance)
 
 *Level 5 Evocation (Warlock, Wizard)*
 
@@ -4151,7 +4140,7 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 
 ---
 
-### [Jump](/spells/2618991-jump)
+## [Jump](/spells/2618991-jump)
 
 *Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -4171,10 +4160,8 @@ You touch a willing creature. Once on each of its turns until the spell ends, th
 
 
 
-Spells (K)
-----------
 
-### [Knock](/spells/2618992-knock)
+## [Knock](/spells/2618992-knock)
 
 *Level 2 Transmutation (Bard, Sorcerer, Wizard)*
 
@@ -4195,10 +4182,8 @@ If the target is held shut by [Arcane Lock](/spells/2618868-arcane-lock), that s
 When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
 
 
-Spells (L)
-----------
 
-### [Legend Lore](/spells/2619010-legend-lore)
+## [Legend Lore](/spells/2619010-legend-lore)
 
 *Level 5 Divination (Bard, Cleric, Wizard)*
 
@@ -4218,7 +4203,7 @@ If the famous thing you chose isn’t actually famous, you hear sad musical note
 
 ---
 
-### [Leomund’s Secret Chest](/spells/2619012-leomunds-secret-chest)
+## [Leomund’s Secret Chest](/spells/2619012-leomunds-secret-chest)
 
 *Level 4 Conjuration (Wizard)*
 
@@ -4238,7 +4223,7 @@ After 60 days, there is a cumulative 5 percent chance at the end of each day tha
 
 ---
 
-### [Leomund’s Tiny Hut](/spells/2619013-leomunds-tiny-hut)
+## [Leomund’s Tiny Hut](/spells/2619013-leomunds-tiny-hut)
 
 *Level 3 Evocation (Bard, Wizard)*
 
@@ -4260,7 +4245,7 @@ The spell ends early if you leave the Emanation or if you cast it again.
 
 ---
 
-### [Lesser Restoration](/spells/2619016-lesser-restoration)
+## [Lesser Restoration](/spells/2619016-lesser-restoration)
 
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 
@@ -4276,7 +4261,7 @@ You touch a creature and end one condition on it: [Blinded](/sources/dnd/free-ru
 
 ---
 
-### [Levitate](/spells/2618994-levitate)
+## [Levitate](/spells/2618994-levitate)
 
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
@@ -4296,7 +4281,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 ---
 
-### [Light](/spells/2618996-light)
+## [Light](/spells/2618996-light)
 
 *Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)*
 
@@ -4314,7 +4299,7 @@ Covering the object with something opaque blocks the light. The spell ends if yo
 
 ---
 
-### [Lightning Arrow](/spells/2618997-lightning-arrow)
+## [Lightning Arrow](/spells/2618997-lightning-arrow)
 
 *Level 3 Transmutation (Ranger)*
 
@@ -4334,7 +4319,7 @@ The weapon or ammunition then returns to its normal form.
 
 ---
 
-### [Lightning Bolt](/spells/2618999-lightning-bolt)
+## [Lightning Bolt](/spells/2618999-lightning-bolt)
 
 *Level 3 Evocation (Sorcerer, Wizard)*
 
@@ -4352,7 +4337,7 @@ A stroke of lightning forming a 100-foot-long, 5-foot-wide [Line](/sources/dnd/f
 
 ---
 
-### [Locate Animals or Plants](/spells/2619000-locate-animals-or-plants)
+## [Locate Animals or Plants](/spells/2619000-locate-animals-or-plants)
 
 *Level 2 Divination (Bard, Druid, Ranger)*
 
@@ -4368,7 +4353,7 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 
 ---
 
-### [Locate Creature](/spells/2619001-locate-creature)
+## [Locate Creature](/spells/2619001-locate-creature)
 
 *Level 4 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
@@ -4388,7 +4373,7 @@ This spell can’t locate a creature if any thickness of lead blocks a direct pa
 
 ---
 
-### [Locate Object](/spells/2619002-locate-object)
+## [Locate Object](/spells/2619002-locate-object)
 
 *Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
@@ -4408,7 +4393,7 @@ This spell can’t locate an object if any thickness of lead blocks a direct pat
 
 ---
 
-### [Longstrider](/spells/2619004-longstrider)
+## [Longstrider](/spells/2619004-longstrider)
 
 *Level 1 Transmutation (Bard, Druid, Ranger, Wizard)*
 
@@ -4425,10 +4410,8 @@ You touch a creature. The target’s Speed increases by 10 feet until the spell 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
 
-Spells (M)
-----------
 
-### [Mage Armor](/spells/2619006-mage-armor)
+## [Mage Armor](/spells/2619006-mage-armor)
 
 *Level 1 Abjuration (Sorcerer, Wizard)*
 
@@ -4444,7 +4427,7 @@ You touch a willing creature who isn’t wearing armor. Until the spell ends, th
 
 ---
 
-### [Mage Hand](/spells/2619008-mage-hand)
+## [Mage Hand](/spells/2619008-mage-hand)
 
 *Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -4466,7 +4449,7 @@ The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
 ---
 
-### [Magic Circle](/spells/2619018-magic-circle)
+## [Magic Circle](/spells/2619018-magic-circle)
 
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
@@ -4492,7 +4475,7 @@ Each time you cast this spell, you can cause its magic to operate in the reverse
 
 ---
 
-### [Magic Jar](/spells/2619021-magic-jar)
+## [Magic Jar](/spells/2619021-magic-jar)
 
 *Level 6 Necromancy (Wizard)*
 
@@ -4520,7 +4503,7 @@ When the spell ends, the container is destroyed.
 
 ---
 
-### [Magic Missile](/spells/2619022-magic-missile)
+## [Magic Missile](/spells/2619022-magic-missile)
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -4538,7 +4521,7 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 
 ---
 
-### [Magic Mouth](/spells/2619023-magic-mouth)
+## [Magic Mouth](/spells/2619023-magic-mouth)
 
 *Level 2 Illusion (Bard, Wizard)*
 
@@ -4558,7 +4541,7 @@ The trigger can be as general or as detailed as you like, though it must be base
 
 ---
 
-### [Magic Weapon](/spells/2619024-magic-weapon)
+## [Magic Weapon](/spells/2619024-magic-weapon)
 
 *Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)*
 
@@ -4576,7 +4559,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ---
 
-### [Major Image](/spells/2619025-major-image)
+## [Major Image](/spells/2619025-major-image)
 
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -4598,7 +4581,7 @@ Physical interaction with the image reveals it to be an illusion, for things can
 
 ---
 
-### [Mass Cure Wounds](/spells/2619026-mass-cure-wounds)
+## [Mass Cure Wounds](/spells/2619026-mass-cure-wounds)
 
 *Level 5 Abjuration (Bard, Cleric, Druid)*
 
@@ -4616,7 +4599,7 @@ A wave of healing energy washes out from a point you can see within range. Choos
 
 ---
 
-### [Mass Heal](/spells/2619027-mass-heal)
+## [Mass Heal](/spells/2619027-mass-heal)
 
 *Level 9 Abjuration (Cleric)*
 
@@ -4632,7 +4615,7 @@ A flood of healing energy flows from you into creatures around you. You restore 
 
 ---
 
-### [Mass Healing Word](/spells/2619028-mass-healing-word)
+## [Mass Healing Word](/spells/2619028-mass-healing-word)
 
 *Level 3 Abjuration (Bard, Cleric)*
 
@@ -4650,7 +4633,7 @@ Up to six creatures of your choice that you can see within range regain Hit Poin
 
 ---
 
-### [Mass Suggestion](/spells/2619029-mass-suggestion)
+## [Mass Suggestion](/spells/2619029-mass-suggestion)
 
 *Level 6 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -4670,7 +4653,7 @@ Each target must succeed on a Wisdom saving throw or have the [Charmed](/sources
 
 ---
 
-### [Maze](/spells/2619030-maze)
+## [Maze](/spells/2619030-maze)
 
 *Level 8 Conjuration (Wizard)*
 
@@ -4690,7 +4673,7 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 ---
 
-### [Meld into Stone](/spells/2619031-meld-into-stone)
+## [Meld into Stone](/spells/2619031-meld-into-stone)
 
 *Level 3 Transmutation (Cleric, Druid, Ranger)*
 
@@ -4710,7 +4693,7 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 ---
 
-### [Melf’s Acid Arrow](/spells/2619032-melfs-acid-arrow)
+## [Melf’s Acid Arrow](/spells/2619032-melfs-acid-arrow)
 
 *Level 2 Evocation (Wizard)*
 
@@ -4728,7 +4711,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ---
 
-### [Mending](/spells/2619033-mending)
+## [Mending](/spells/2619033-mending)
 
 *Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
 
@@ -4746,7 +4729,7 @@ This spell can physically repair a magic item, but it can’t restore magic to s
 
 ---
 
-### [Message](/spells/2619034-message)
+## [Message](/spells/2619034-message)
 
 *Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)*
 
@@ -4764,7 +4747,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 ---
 
-### [Meteor Swarm](/spells/2619035-meteor-swarm)
+## [Meteor Swarm](/spells/2619035-meteor-swarm)
 
 *Level 9 Evocation (Sorcerer, Wizard)*
 
@@ -4782,7 +4765,7 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 ---
 
-### [Mind Blank](/spells/2619036-mind-blank)
+## [Mind Blank](/spells/2619036-mind-blank)
 
 *Level 8 Abjuration (Bard, Wizard)*
 
@@ -4798,7 +4781,7 @@ Until the spell ends, one willing creature you touch has Immunity to Psychic dam
 
 ---
 
-### [Mind Sliver](/spells/2619037-mind-sliver)
+## [Mind Sliver](/spells/2619037-mind-sliver)
 
 *Enchantment Cantrip (Sorcerer, Warlock, Wizard)*
 
@@ -4816,7 +4799,7 @@ You try to temporarily sliver the mind of one creature you can see within range.
 
 ---
 
-### [Mind Spike](/spells/2619038-mind-spike)
+## [Mind Spike](/spells/2619038-mind-spike)
 
 *Level 2 Divination (Sorcerer, Warlock, Wizard)*
 
@@ -4834,7 +4817,7 @@ You drive a spike of psionic energy into the mind of one creature you can see wi
 
 ---
 
-### [Minor Illusion](/spells/2619039-minor-illusion)
+## [Minor Illusion](/spells/2619039-minor-illusion)
 
 *Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -4856,7 +4839,7 @@ If a creature takes a [Study](/sources/dnd/free-rules/rules-glossary#StudyAction
 
 ---
 
-### [Mirage Arcane](/spells/2619040-mirage-arcane)
+## [Mirage Arcane](/spells/2619040-mirage-arcane)
 
 *Level 7 Illusion (Bard, Druid, Wizard)*
 
@@ -4878,7 +4861,7 @@ Creatures with [Truesight](/sources/dnd/free-rules/rules-glossary#Truesight) can
 
 ---
 
-### [Mirror Image](/spells/2619060-mirror-image)
+## [Mirror Image](/spells/2619060-mirror-image)
 
 *Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -4898,7 +4881,7 @@ A creature is unaffected by this spell if it has the [Blinded](/sources/dnd/free
 
 ---
 
-### [Mislead](/spells/2619131-mislead)
+## [Mislead](/spells/2619131-mislead)
 
 *Level 5 Illusion (Bard, Warlock, Wizard)*
 
@@ -4918,7 +4901,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 ---
 
-### [Misty Step](/spells/2619133-misty-step)
+## [Misty Step](/spells/2619133-misty-step)
 
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -4934,7 +4917,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 ---
 
-### [Modify Memory](/spells/2619109-modify-memory)
+## [Modify Memory](/spells/2619109-modify-memory)
 
 *Level 5 Enchantment (Bard, Wizard)*
 
@@ -4960,7 +4943,7 @@ A [Remove Curse](/spells/2618943-remove-curse) or [Greater Restoration](/spells/
 
 ---
 
-### [Moonbeam](/spells/2619134-moonbeam)
+## [Moonbeam](/spells/2619134-moonbeam)
 
 *Level 2 Evocation (Druid)*
 
@@ -4980,7 +4963,7 @@ When the Cylinder appears, each creature in it makes a Constitution saving throw
 
 ---
 
-### [Mordenkainen’s Faithful Hound](/spells/2619110-mordenkainens-faithful-hound)
+## [Mordenkainen’s Faithful Hound](/spells/2619110-mordenkainens-faithful-hound)
 
 *Level 4 Conjuration (Wizard)*
 
@@ -5002,7 +4985,7 @@ On your later turns, you can take a [Magic](/sources/dnd/free-rules/rules-glossa
 
 ---
 
-### [Mordenkainen’s Magnificent Mansion](/spells/2619112-mordenkainens-magnificent-mansion)
+## [Mordenkainen’s Magnificent Mansion](/spells/2619112-mordenkainens-magnificent-mansion)
 
 *Level 7 Conjuration (Bard, Wizard)*
 
@@ -5026,7 +5009,7 @@ When the spell ends, any creatures or objects left inside the extradimensional s
 
 ---
 
-### [Mordenkainen’s Private Sanctum](/spells/2619114-mordenkainens-private-sanctum)
+## [Mordenkainen’s Private Sanctum](/spells/2619114-mordenkainens-private-sanctum)
 
 *Level 4 Abjuration (Wizard)*
 
@@ -5055,7 +5038,7 @@ Casting this spell on the same spot every day for 365 days makes the spell last 
 
 ---
 
-### [Mordenkainen’s Sword](/spells/2619118-mordenkainens-sword)
+## [Mordenkainen’s Sword](/spells/2619118-mordenkainens-sword)
 
 *Level 7 Evocation (Bard, Wizard)*
 
@@ -5075,7 +5058,7 @@ On your later turns, you can take a Bonus Action to move the sword up to 30 feet
 
 ---
 
-### [Move Earth](/spells/2619120-move-earth)
+## [Move Earth](/spells/2619120-move-earth)
 
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
@@ -5096,10 +5079,8 @@ This spell can’t manipulate natural stone or stone construction. Rocks and str
 Similarly, this spell doesn’t directly affect plant growth. The moved earth carries any plants along with it.
 
 
-Spells (N)
-----------
 
-### [Nondetection](/spells/2619122-nondetection)
+## [Nondetection](/spells/2619122-nondetection)
 
 *Level 3 Abjuration (Bard, Ranger, Wizard)*
 
@@ -5115,7 +5096,7 @@ For the duration, you hide a target that you touch from Divination spells. The t
 
 ---
 
-### [Nystul’s Magic Aura](/spells/2619124-nystuls-magic-aura)
+## [Nystul’s Magic Aura](/spells/2619124-nystuls-magic-aura)
 
 *Level 2 Illusion (Wizard)*
 
@@ -5134,10 +5115,8 @@ With a touch, you place an illusion on a willing creature or an object that isn�
 ***False Aura (Object).*** You change the way the target appears to spells and magical effects that detect magical auras, such as [Detect Magic](/spells/2619097-detect-magic). You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object’s aura so that it appears to belong to a school of magic you choose.
 
 
-Spells (O)
-----------
 
-### [Otiluke’s Freezing Sphere](/spells/2619126-otilukes-freezing-sphere)
+## [Otiluke’s Freezing Sphere](/spells/2619126-otilukes-freezing-sphere)
 
 *Level 6 Evocation (Sorcerer, Wizard)*
 
@@ -5159,7 +5138,7 @@ You can refrain from firing the globe after completing the spell’s casting. If
 
 ---
 
-### [Otiluke’s Resilient Sphere](/spells/2619128-otilukes-resilient-sphere)
+## [Otiluke’s Resilient Sphere](/spells/2619128-otilukes-resilient-sphere)
 
 *Level 4 Abjuration (Wizard)*
 
@@ -5181,7 +5160,7 @@ A [Disintegrate](/spells/2619094-disintegrate) spell targeting the globe destroy
 
 ---
 
-### [Otto’s Irresistible Dance](/spells/2619130-ottos-irresistible-dance)
+## [Otto’s Irresistible Dance](/spells/2619130-ottos-irresistible-dance)
 
 *Level 6 Enchantment (Bard, Wizard)*
 
@@ -5198,10 +5177,8 @@ One creature that you can see within range must make a Wisdom saving throw. On a
 On a failed save, the target has the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for the duration. While Charmed, the target dances comically, must use all its movement to dance in place, and has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on Dexterity saving throws and attack rolls, and other creatures have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
 
-Spells (P)
-----------
 
-### [Passwall](/spells/2618852-passwall)
+## [Passwall](/spells/2618852-passwall)
 
 *Level 5 Transmutation (Wizard)*
 
@@ -5219,7 +5196,7 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 ---
 
-### [Pass without Trace](/spells/2618849-pass-without-trace)
+## [Pass without Trace](/spells/2618849-pass-without-trace)
 
 *Level 2 Abjuration (Druid, Ranger)*
 
@@ -5235,7 +5212,7 @@ You radiate a concealing aura in a 30-foot [Emanation](/sources/dnd/free-rules/r
 
 ---
 
-### [Phantasmal Force](/spells/2618854-phantasmal-force)
+## [Phantasmal Force](/spells/2618854-phantasmal-force)
 
 *Level 2 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -5257,7 +5234,7 @@ An affected target can even take damage from the illusion if the phantasm repres
 
 ---
 
-### [Phantasmal Killer](/spells/2618857-phantasmal-killer)
+## [Phantasmal Killer](/spells/2618857-phantasmal-killer)
 
 *Level 4 Illusion (Bard, Wizard)*
 
@@ -5277,7 +5254,7 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 ---
 
-### [Phantom Steed](/spells/2618859-phantom-steed)
+## [Phantom Steed](/spells/2618859-phantom-steed)
 
 *Level 3 Illusion (Wizard)*
 
@@ -5295,7 +5272,7 @@ For the duration, you or a creature you choose can ride the steed. The steed use
 
 ---
 
-### [Planar Ally](/spells/2618861-planar-ally)
+## [Planar Ally](/spells/2618861-planar-ally)
 
 *Level 6 Conjuration (Cleric)*
 
@@ -5319,7 +5296,7 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 ---
 
-### [Planar Binding](/spells/2618864-planar-binding)
+## [Planar Binding](/spells/2618864-planar-binding)
 
 *Level 5 Abjuration (Bard, Cleric, Druid, Warlock, Wizard)*
 
@@ -5339,7 +5316,7 @@ A bound creature must follow your commands to the best of its ability. You might
 
 ---
 
-### [Plane Shift](/spells/2618867-plane-shift)
+## [Plane Shift](/spells/2618867-plane-shift)
 
 *Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -5357,7 +5334,7 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 
 ---
 
-### [Plant Growth](/spells/2618869-plant-growth)
+## [Plant Growth](/spells/2618869-plant-growth)
 
 *Level 3 Transmutation (Bard, Druid, Ranger)*
 
@@ -5377,7 +5354,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 ---
 
-### [Poison Spray](/spells/2618875-poison-spray)
+## [Poison Spray](/spells/2618875-poison-spray)
 
 *Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)*
 
@@ -5395,7 +5372,7 @@ You spray toxic mist at a creature within range. Make a ranged spell attack agai
 
 ---
 
-### [Polymorph](/spells/2618876-polymorph)
+## [Polymorph](/spells/2618876-polymorph)
 
 *Level 4 Transmutation (Bard, Druid, Sorcerer, Wizard)*
 
@@ -5417,7 +5394,7 @@ The target’s gear melds into the new form. The creature can’t use or otherwi
 
 ---
 
-### [Power Word Fortify](/spells/2618837-power-word-fortify)
+## [Power Word Fortify](/spells/2618837-power-word-fortify)
 
 *Level 7 Enchantment (Bard, Cleric)*
 
@@ -5433,7 +5410,7 @@ You fortify up to six creatures you can see within range. The spell bestows 120 
 
 ---
 
-### [Power Word Heal](/spells/2618880-power-word-heal)
+## [Power Word Heal](/spells/2618880-power-word-heal)
 
 *Level 9 Enchantment (Bard, Cleric)*
 
@@ -5449,7 +5426,7 @@ A wave of healing energy washes over one creature you can see within range. The 
 
 ---
 
-### [Power Word Kill](/spells/2618886-power-word-kill)
+## [Power Word Kill](/spells/2618886-power-word-kill)
 
 *Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -5465,7 +5442,7 @@ You compel one creature you can see within range to die. If the target has 100 H
 
 ---
 
-### [Power Word Stun](/spells/2618889-power-word-stun)
+## [Power Word Stun](/spells/2618889-power-word-stun)
 
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -5483,7 +5460,7 @@ The Stunned target makes a Constitution saving throw at the end of each of its t
 
 ---
 
-### [Prayer of Healing](/spells/2618892-prayer-of-healing)
+## [Prayer of Healing](/spells/2618892-prayer-of-healing)
 
 *Level 2 Abjuration (Cleric, Paladin)*
 
@@ -5501,7 +5478,7 @@ Up to five creatures of your choice who remain within range for the spell’s en
 
 ---
 
-### [Prestidigitation](/spells/2618893-prestidigitation)
+## [Prestidigitation](/spells/2618893-prestidigitation)
 
 *Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -5524,7 +5501,7 @@ You create a magical effect within range. Choose the effect from the options bel
 
 ---
 
-### [Prismatic Spray](/spells/2618895-prismatic-spray)
+## [Prismatic Spray](/spells/2618895-prismatic-spray)
 
 *Level 7 Evocation (Bard, Sorcerer, Wizard)*
 
@@ -5539,7 +5516,7 @@ You create a magical effect within range. Choose the effect from the options bel
 Eight rays of light flash from you in a 60-foot [Cone](/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect). Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.
 
 
-#### Prismatic Rays
+### Prismatic Rays
 
 
 | 1d8 | Ray |
@@ -5555,7 +5532,7 @@ Eight rays of light flash from you in a 60-foot [Cone](/sources/dnd/free-rules/r
 
 ---
 
-### [Prismatic Wall](/spells/2618898-prismatic-wall)
+## [Prismatic Wall](/spells/2618898-prismatic-wall)
 
 *Level 9 Abjuration (Bard, Wizard)*
 
@@ -5576,7 +5553,7 @@ The wall consists of seven layers, each with a different color. When a creature 
 The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. [Antimagic Field](/spells/2618860-antimagic-field) has no effect on the wall, and [Dispel Magic](/spells/2619103-dispel-magic) can affect only the violet layer.
 
 
-##### Prismatic Layers
+#### Prismatic Layers
 
 
 | Order | Effects |
@@ -5591,7 +5568,7 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 
 ---
 
-### [Produce Flame](/spells/2618901-produce-flame)
+## [Produce Flame](/spells/2618901-produce-flame)
 
 *Conjuration Cantrip (Druid)*
 
@@ -5611,7 +5588,7 @@ Until the spell ends, you can take a [Magic](/sources/dnd/free-rules/rules-gloss
 
 ---
 
-### [Programmed Illusion](/spells/2618902-programmed-illusion)
+## [Programmed Illusion](/spells/2618902-programmed-illusion)
 
 *Level 6 Illusion (Bard, Wizard)*
 
@@ -5633,7 +5610,7 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 ---
 
-### [Project Image](/spells/2618903-project-image)
+## [Project Image](/spells/2618903-project-image)
 
 *Level 7 Illusion (Bard, Wizard)*
 
@@ -5653,7 +5630,7 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 ---
 
-### [Protection from Energy](/spells/2618908-protection-from-energy)
+## [Protection from Energy](/spells/2618908-protection-from-energy)
 
 *Level 3 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
@@ -5669,7 +5646,7 @@ For the duration, the willing creature you touch has Resistance to one damage ty
 
 ---
 
-### [Protection from Evil and Good](/spells/2618912-protection-from-evil-and-good)
+## [Protection from Evil and Good](/spells/2618912-protection-from-evil-and-good)
 
 *Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
 
@@ -5685,7 +5662,7 @@ Until the spell ends, one willing creature you touch is protected against creatu
 
 ---
 
-### [Protection from Poison](/spells/2618915-protection-from-poison)
+## [Protection from Poison](/spells/2618915-protection-from-poison)
 
 *Level 2 Abjuration (Cleric, Druid, Paladin, Ranger)*
 
@@ -5701,7 +5678,7 @@ You touch a creature and end the [Poisoned](/sources/dnd/free-rules/rules-glossa
 
 ---
 
-### [Purify Food and Drink](/spells/2618917-purify-food-and-drink)
+## [Purify Food and Drink](/spells/2618917-purify-food-and-drink)
 
 *Level 1 Transmutation (Cleric, Druid, Paladin)*
 
@@ -5716,10 +5693,8 @@ You touch a creature and end the [Poisoned](/sources/dnd/free-rules/rules-glossa
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius [Sphere](/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect) centered on a point within range.
 
 
-Spells (R)
-----------
 
-### [Raise Dead](/spells/2618922-raise-dead)
+## [Raise Dead](/spells/2618922-raise-dead)
 
 *Level 5 Necromancy (Bard, Cleric, Paladin)*
 
@@ -5741,7 +5716,7 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to [D20 
 
 ---
 
-### [Rary’s Telepathic Bond](/spells/2618925-rarys-telepathic-bond)
+## [Rary’s Telepathic Bond](/spells/2618925-rarys-telepathic-bond)
 
 *Level 5 Divination (Bard, Wizard)*
 
@@ -5759,7 +5734,7 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 ---
 
-### [Ray of Enfeeblement](/spells/2618926-ray-of-enfeeblement)
+## [Ray of Enfeeblement](/spells/2618926-ray-of-enfeeblement)
 
 *Level 2 Necromancy (Warlock, Wizard)*
 
@@ -5777,7 +5752,7 @@ On a failed save, the target has Disadvantage on Strength-based [D20 Tests](/sou
 
 ---
 
-### [Ray of Frost](/spells/2618930-ray-of-frost)
+## [Ray of Frost](/spells/2618930-ray-of-frost)
 
 *Evocation Cantrip (Sorcerer, Wizard)*
 
@@ -5795,7 +5770,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 ---
 
-### [Ray of Sickness](/spells/2618935-ray-of-sickness)
+## [Ray of Sickness](/spells/2618935-ray-of-sickness)
 
 *Level 1 Necromancy (Sorcerer, Wizard)*
 
@@ -5813,7 +5788,7 @@ You shoot a greenish ray at a creature within range. Make a ranged spell attack 
 
 ---
 
-### [Regenerate](/spells/2618937-regenerate)
+## [Regenerate](/spells/2618937-regenerate)
 
 *Level 7 Transmutation (Bard, Cleric, Druid)*
 
@@ -5829,7 +5804,7 @@ A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target r
 
 ---
 
-### [Reincarnate](/spells/2618941-reincarnate)
+## [Reincarnate](/spells/2618941-reincarnate)
 
 *Level 5 Necromancy (Druid)*
 
@@ -5860,7 +5835,7 @@ The reincarnated creature makes any choices that a species’ description offers
 
 ---
 
-### [Remove Curse](/spells/2618943-remove-curse)
+## [Remove Curse](/spells/2618943-remove-curse)
 
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
@@ -5876,7 +5851,7 @@ At your touch, all [curses](/sources/dnd/free-rules/rules-glossary#Curses) affec
 
 ---
 
-### [Resistance](/spells/2618947-resistance)
+## [Resistance](/spells/2618947-resistance)
 
 *Abjuration Cantrip (Cleric, Druid)*
 
@@ -5892,7 +5867,7 @@ You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, 
 
 ---
 
-### [Resurrection](/spells/2618953-resurrection)
+## [Resurrection](/spells/2618953-resurrection)
 
 *Level 7 Necromancy (Bard, Cleric)*
 
@@ -5914,7 +5889,7 @@ Casting this spell to revive a creature that has been dead for 365 days or longe
 
 ---
 
-### [Reverse Gravity](/spells/2618954-reverse-gravity)
+## [Reverse Gravity](/spells/2618954-reverse-gravity)
 
 *Level 7 Transmutation (Druid, Sorcerer, Wizard)*
 
@@ -5932,7 +5907,7 @@ If a ceiling or an anchored object is encountered in this upward fall, creatures
 
 ---
 
-### [Revivify](/spells/2618956-revivify)
+## [Revivify](/spells/2618956-revivify)
 
 *Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)*
 
@@ -5948,7 +5923,7 @@ You touch a creature that has died within the last minute. That creature revives
 
 ---
 
-### [Rope Trick](/spells/2618962-rope-trick)
+## [Rope Trick](/spells/2618962-rope-trick)
 
 *Level 2 Transmutation (Wizard)*
 
@@ -5966,10 +5941,8 @@ The space can hold up to eight Medium or smaller creatures. Attacks, spells, and
 through the portal. Anything inside the space drops out when the spell ends.
 
 
-Spells (S)
-----------
 
-### [Sacred Flame](/spells/2618967-sacred-flame)
+## [Sacred Flame](/spells/2618967-sacred-flame)
 
 *Evocation Cantrip (Cleric)*
 
@@ -5987,7 +5960,7 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 ---
 
-### [Sanctuary](/spells/2619003-sanctuary)
+## [Sanctuary](/spells/2619003-sanctuary)
 
 *Level 1 Abjuration (Cleric)*
 
@@ -6005,7 +5978,7 @@ The spell ends if the warded creature makes an attack roll, casts a spell, or de
 
 ---
 
-### [Scorching Ray](/spells/2619005-scorching-ray)
+## [Scorching Ray](/spells/2619005-scorching-ray)
 
 *Level 2 Evocation (Sorcerer, Wizard)*
 
@@ -6023,7 +5996,7 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 
 ---
 
-### [Scrying](/spells/2619007-scrying)
+## [Scrying](/spells/2619007-scrying)
 
 *Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
 
@@ -6057,7 +6030,7 @@ Instead of targeting a creature, you can target a location you have seen. When y
 
 ---
 
-### [Searing Smite](/spells/2619009-searing-smite)
+## [Searing Smite](/spells/2619009-searing-smite)
 
 *Level 1 Evocation (Paladin)*
 
@@ -6075,7 +6048,7 @@ As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the
 
 ---
 
-### [See Invisibility](/spells/2619011-see-invisibility)
+## [See Invisibility](/spells/2619011-see-invisibility)
 
 *Level 2 Divination (Bard, Sorcerer, Wizard)*
 
@@ -6091,7 +6064,7 @@ For the duration, you see creatures and objects that have the [Invisible](/sourc
 
 ---
 
-### [Seeming](/spells/2619014-seeming)
+## [Seeming](/spells/2619014-seeming)
 
 *Level 5 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -6113,7 +6086,7 @@ A creature that takes the [Study](/sources/dnd/free-rules/rules-glossary#StudyAc
 
 ---
 
-### [Sending](/spells/2619015-sending)
+## [Sending](/spells/2619015-sending)
 
 *Level 3 Divination (Bard, Cleric, Wizard)*
 
@@ -6133,7 +6106,7 @@ Upon receiving your message, a creature can block your ability to reach it again
 
 ---
 
-### [Sequester](/spells/2618980-sequester)
+## [Sequester](/spells/2618980-sequester)
 
 *Level 7 Transmutation (Wizard)*
 
@@ -6153,7 +6126,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 ---
 
-### [Shapechange](/spells/2618982-shapechange)
+## [Shapechange](/spells/2618982-shapechange)
 
 *Level 9 Transmutation (Druid, Wizard)*
 
@@ -6175,7 +6148,7 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 
 ---
 
-### [Shatter](/spells/2619017-shatter)
+## [Shatter](/spells/2619017-shatter)
 
 *Level 2 Evocation (Bard, Sorcerer, Wizard)*
 
@@ -6195,7 +6168,7 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 ---
 
-### [Shield](/spells/2619019-shield)
+## [Shield](/spells/2619019-shield)
 
 *Level 1 Abjuration (Sorcerer, Wizard)*
 
@@ -6211,7 +6184,7 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 
 ---
 
-### [Shield of Faith](/spells/2619020-shield-of-faith)
+## [Shield of Faith](/spells/2619020-shield-of-faith)
 
 *Level 1 Abjuration (Cleric, Paladin)*
 
@@ -6227,7 +6200,7 @@ A shimmering field surrounds a creature of your choice within range, granting it
 
 ---
 
-### [Shillelagh](/spells/2618984-shillelagh)
+## [Shillelagh](/spells/2618984-shillelagh)
 
 *Transmutation Cantrip (Druid)*
 
@@ -6247,7 +6220,7 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 ---
 
-### [Shining Smite](/spells/2618838-shining-smite)
+## [Shining Smite](/spells/2618838-shining-smite)
 
 *Level 2 Transmutation (Paladin)*
 
@@ -6265,7 +6238,7 @@ The target hit by the strike takes an extra 2d6 Radiant damage from the attack. 
 
 ---
 
-### [Shocking Grasp](/spells/2618986-shocking-grasp)
+## [Shocking Grasp](/spells/2618986-shocking-grasp)
 
 *Evocation Cantrip (Sorcerer, Wizard)*
 
@@ -6283,7 +6256,7 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 
 ---
 
-### [Silence](/spells/2619061-silence)
+## [Silence](/spells/2619061-silence)
 
 *Level 2 Illusion (Bard, Cleric, Ranger)*
 
@@ -6300,7 +6273,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 ---
 
 
-### [Silent Image](/spells/2619062-silent-image)
+## [Silent Image](/spells/2619062-silent-image)
 
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -6320,7 +6293,7 @@ Physical interaction with the image reveals it to be an illusion, since things c
 
 ---
 
-### [Simulacrum](/spells/2618995-simulacrum)
+## [Simulacrum](/spells/2618995-simulacrum)
 
 *Level 7 Illusion (Wizard)*
 
@@ -6342,7 +6315,7 @@ The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts t
 
 ---
 
-### [Sleep](/spells/2619064-sleep)
+## [Sleep](/spells/2619064-sleep)
 
 *Level 1 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -6360,7 +6333,7 @@ Creatures that don’t sleep, such as elves, or that have Immunity to the [Exhau
 
 ---
 
-### [Sleet Storm](/spells/2618998-sleet-storm)
+## [Sleet Storm](/spells/2618998-sleet-storm)
 
 *Level 3 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -6378,7 +6351,7 @@ Ground in the Cylinder is [Difficult Terrain](/sources/dnd/free-rules/rules-glos
 
 ---
 
-### [Slow](/spells/2619066-slow)
+## [Slow](/spells/2619066-slow)
 
 *Level 3 Transmutation (Bard, Sorcerer, Wizard)*
 
@@ -6398,7 +6371,7 @@ An affected target repeats the save at the end of each of its turns, ending the 
 
 ---
 
-### [Sorcerous Burst](/spells/2618839-sorcerous-burst)
+## [Sorcerous Burst](/spells/2618839-sorcerous-burst)
 
 *Evocation Cantrip (Sorcerer)*
 
@@ -6418,7 +6391,7 @@ If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to 
 
 ---
 
-### [Spare the Dying](/spells/2619067-spare-the-dying)
+## [Spare the Dying](/spells/2619067-spare-the-dying)
 
 *Necromancy Cantrip (Cleric, Druid)*
 
@@ -6436,7 +6409,7 @@ Choose a creature within range that has 0 Hit Points and isn’t [dead](/sources
 
 ---
 
-### [Speak with Animals](/spells/2619059-speak-with-animals)
+## [Speak with Animals](/spells/2619059-speak-with-animals)
 
 *Level 1 Divination (Bard, Druid, Ranger, Warlock)*
 
@@ -6454,7 +6427,7 @@ Most Beasts have little to say about topics that don’t pertain to survival or 
 
 ---
 
-### [Speak with Dead](/spells/2619068-speak-with-dead)
+## [Speak with Dead](/spells/2619068-speak-with-dead)
 
 *Level 3 Necromancy (Bard, Cleric, Wizard)*
 
@@ -6472,7 +6445,7 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 ---
 
-### [Speak with Plants](/spells/2619069-speak-with-plants)
+## [Speak with Plants](/spells/2619069-speak-with-plants)
 
 *Level 3 Transmutation (Bard, Druid, Ranger)*
 
@@ -6494,7 +6467,7 @@ If a Plant creature is in the area, you can communicate with it as if you shared
 
 ---
 
-### [Spider Climb](/spells/2619071-spider-climb)
+## [Spider Climb](/spells/2619071-spider-climb)
 
 *Level 2 Transmutation (Sorcerer, Warlock, Wizard)*
 
@@ -6512,7 +6485,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ---
 
-### [Spike Growth](/spells/2619075-spike-growth)
+## [Spike Growth](/spells/2619075-spike-growth)
 
 *Level 2 Transmutation (Druid, Ranger)*
 
@@ -6530,7 +6503,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ---
 
-### [Spirit Guardians](/spells/2619078-spirit-guardians)
+## [Spirit Guardians](/spells/2619078-spirit-guardians)
 
 *Level 3 Conjuration (Cleric)*
 
@@ -6550,7 +6523,7 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 
 ---
 
-### [Spiritual Weapon](/spells/2619081-spiritual-weapon)
+## [Spiritual Weapon](/spells/2619081-spiritual-weapon)
 
 *Level 2 Evocation (Cleric)*
 
@@ -6570,7 +6543,7 @@ As a Bonus Action on your later turns, you can move the force up to 20 feet and 
 
 ---
 
-### [Staggering Smite](/spells/2619084-staggering-smite)
+## [Staggering Smite](/spells/2619084-staggering-smite)
 
 *Level 4 Enchantment (Paladin)*
 
@@ -6588,7 +6561,7 @@ The target takes an extra 4d6 Psychic damage from the attack, and the target mus
 
 ---
 
-### [Starry Wisp](/spells/2618840-starry-wisp)
+## [Starry Wisp](/spells/2618840-starry-wisp)
 
 *Evocation Cantrip (Bard, Druid)*
 
@@ -6606,7 +6579,7 @@ You launch a mote of light at one creature or object within range. Make a ranged
 
 ---
 
-### [Steel Wind Strike](/spells/2619087-steel-wind-strike)
+## [Steel Wind Strike](/spells/2619087-steel-wind-strike)
 
 *Level 5 Conjuration (Ranger, Wizard)*
 
@@ -6624,7 +6597,7 @@ You then teleport to an unoccupied space you can see within 5 feet of one of the
 
 ---
 
-### [Stinking Cloud](/spells/2619091-stinking-cloud)
+## [Stinking Cloud](/spells/2619091-stinking-cloud)
 
 *Level 3 Conjuration (Bard, Sorcerer, Wizard)*
 
@@ -6642,7 +6615,7 @@ Each creature that starts its turn in the Sphere must succeed on a Constitution 
 
 ---
 
-### [Stone Shape](/spells/2619092-stone-shape)
+## [Stone Shape](/spells/2619092-stone-shape)
 
 *Level 4 Transmutation (Cleric, Druid, Wizard)*
 
@@ -6658,7 +6631,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 ---
 
-### [Stoneskin](/spells/2619095-stoneskin)
+## [Stoneskin](/spells/2619095-stoneskin)
 
 *Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -6674,7 +6647,7 @@ Until the spell ends, one willing creature you touch has Resistance to Bludgeoni
 
 ---
 
-### [Storm of Vengeance](/spells/2619098-storm-of-vengeance)
+## [Storm of Vengeance](/spells/2619098-storm-of-vengeance)
 
 *Level 9 Conjuration (Druid)*
 
@@ -6700,7 +6673,7 @@ At the start of each of your later turns, the storm produces different effects, 
 
 ---
 
-### [Suggestion](/spells/2619101-suggestion)
+## [Suggestion](/spells/2619101-suggestion)
 
 *Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -6718,7 +6691,7 @@ The target must succeed on a Wisdom saving throw or have the [Charmed](/sources/
 
 ---
 
-### [Summon Aberration](/spells/2619105-summon-aberration)
+## [Summon Aberration](/spells/2619105-summon-aberration)
 
 *Level 4 Conjuration (Warlock, Wizard)*
 
@@ -6736,53 +6709,57 @@ The creature is an ally to you and your allies. In combat, it shares your Initia
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Aberrant Spirit
-> 
-> *Medium Aberration, Neutral*
-> 
-> **AC** 11 + the spell’s level
-> 
-> **HP** 40 + 10 for each spell level above 4
-> 
-> **Speed** 30 ft.; Fly 30 ft. (hover; Beholderkin only)
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 16 | +3 | +3 |
-> | DEX | 10 | +0 | +0 |
-> | CON | 15 | +2 | +2 |
-> | INT | 16 | +3 | +3 |
-> | WIS | 10 | +0 | +0 |
-> | CHA | 6 | −2 | −2 |
-> 
-> **Immunities** Psychic
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
-> 
-> **Languages** Deep Speech, understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Regeneration (Slaad Only).*** The spirit regains 5 Hit Points at the start of its turn if it has at least 1 Hit Point.
-> 
-> ***Whispering Aura (Mind Flayer Only).*** At the start of each of the spirit’s turns, the spirit emits psionic energy if it doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. *Failure:* 2d6 Psychic damage.
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
-> 
-> ***Claw (Slaad Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d10 + 3 + the spell’s level Slashing damage, and the target can’t regain Hit Points until the start of the spirit’s next turn.
-> 
-> ***Eye Ray (Beholderkin Only).*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 150 ft. *Hit:* 1d8 + 3 + the spell’s level Psychic damage.
-> 
-> ***Psychic Slam (Mind Flayer Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:*1d8 + 3 + the spell’s level Psychic damage.
+!!! info "Aberrant Spirit"
+
+    *Medium Aberration, Neutral*
+
+    **AC** 11 + the spell’s level
+
+    **HP** 40 + 10 for each spell level above 4
+
+    **Speed** 30 ft.; Fly 30 ft. (hover; Beholderkin only)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 16 | +3 | +3 |
+    | DEX | 10 | +0 | +0 |
+    | CON | 15 | +2 | +2 |
+    | INT | 16 | +3 | +3 |
+    | WIS | 10 | +0 | +0 |
+    | CHA | 6 | −2 | −2 |
+
+    **Immunities** Psychic
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+
+    **Languages** Deep Speech, understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Regeneration (Slaad Only).*** The spirit regains 5 Hit Points at the start of its turn if it has at least 1 Hit Point.
+
+    ***Whispering Aura (Mind Flayer Only).*** At the start of each of the spirit’s turns, the spirit emits psionic energy if it doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. *Failure:* 2d6 Psychic damage.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
+
+    ***Claw (Slaad Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d10 + 3 + the spell’s level Slashing damage, and the target can’t regain Hit Points until the start of the spirit’s next turn.
+
+    ***Eye Ray (Beholderkin Only).*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 150 ft. *Hit:* 1d8 + 3 + the spell’s level Psychic damage.
+
+    ***Psychic Slam (Mind Flayer Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:*1d8 + 3 + the spell’s level Psychic damage.
 
 
 ---
 
-### [Summon Beast](/spells/2619106-summon-beast)
+## [Summon Beast](/spells/2619106-summon-beast)
 
 *Level 2 Conjuration (Druid, Ranger)*
 
@@ -6800,49 +6777,53 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Bestial Spirit
-> 
-> *Small Beast, Neutral*
-> 
-> **AC** 11 + the spell’s level
-> 
-> **HP** 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2
-> 
-> **Speed** 30 ft.; Climb 30 ft. (Land only); Fly 60 ft. (Air only); Swim 30 ft. (Water only)
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 18 | +4 | +4 |
-> | DEX | 11 | +0 | +0 |
-> | CON | 16 | +3 | +3 |
-> | INT | 4 | –3 | –3 |
-> | WIS | 14 | +2 | +2 |
-> | CHA | 5 | −3 | −3 |
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
-> 
-> **Languages** understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Flyby (Air Only).*** The spirit doesn’t provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) when it flies out of an enemy’s reach.
-> 
-> ***Pack Tactics (Land and Water Only).*** The spirit has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the spirit’s allies is within 5 feet of the creature and the ally doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
-> 
-> ***Water Breathing (Water Only).*** The spirit can breathe only underwater.
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of Rend attacks equal to half this spell’s level (round down).
-> 
-> ***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spell’s level Piercing damage.
+!!! info "Bestial Spirit"
+
+    *Small Beast, Neutral*
+
+    **AC** 11 + the spell’s level
+
+    **HP** 20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2
+
+    **Speed** 30 ft.; Climb 30 ft. (Land only); Fly 60 ft. (Air only); Swim 30 ft. (Water only)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 18 | +4 | +4 |
+    | DEX | 11 | +0 | +0 |
+    | CON | 16 | +3 | +3 |
+    | INT | 4 | –3 | –3 |
+    | WIS | 14 | +2 | +2 |
+    | CHA | 5 | −3 | −3 |
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
+
+    **Languages** understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Flyby (Air Only).*** The spirit doesn’t provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) when it flies out of an enemy’s reach.
+
+    ***Pack Tactics (Land and Water Only).*** The spirit has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the spirit’s allies is within 5 feet of the creature and the ally doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+
+    ***Water Breathing (Water Only).*** The spirit can breathe only underwater.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of Rend attacks equal to half this spell’s level (round down).
+
+    ***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spell’s level Piercing damage.
 
 
 ---
 
-### [Summon Celestial](/spells/2619108-summon-celestial)
+## [Summon Celestial](/spells/2619108-summon-celestial)
 
 *Level 5 Conjuration (Cleric, Paladin)*
 
@@ -6860,49 +6841,51 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Celestial Spirit
-> 
-> *Large Celestial, Neutral*
-> 
-> **AC** 11 + the spell’s level + 2 (Defender only)
-> 
-> **HP** 40 + 10 for each spell level above 5
-> 
-> **Speed** 30 ft., Fly 40 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 16 | +3 | +3 |
-> | DEX | 14 | +2 | +2 |
-> | CON | 16 | +3 | +3 |
-> | INT | 10 | +0 | +0 |
-> | WIS | 14 | +2 | +2 |
-> | CHA | 16 | +3 | +3 |
-> 
-> **Resistances** Radiant
-> 
-> **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition)
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
-> 
-> **Languages** Celestial, understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
-> 
-> ***Radiant Bow (Avenger Only).*** *Ranged Attack Roll*: Bonus equals your spell attack modifier, range 600 ft. *Hit:* 2d6 + 2 + the spell’s level Radiant damage.
-> 
-> ***Radiant Mace (Defender Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d10 + 3 + the spell’s level Radiant damage, and the spirit can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints).
-> 
-> ***Healing Touch (1/Day).*** The spirit touches another creature. The target regains Hit Points equal to 2d8 + the spell’s level.
+!!! info "Celestial Spirit"
+
+    *Large Celestial, Neutral*
+
+    **AC** 11 + the spell’s level + 2 (Defender only)
+
+    **HP** 40 + 10 for each spell level above 5
+
+    **Speed** 30 ft., Fly 40 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 16 | +3 | +3 |
+    | DEX | 14 | +2 | +2 |
+    | CON | 16 | +3 | +3 |
+    | INT | 10 | +0 | +0 |
+    | WIS | 14 | +2 | +2 |
+    | CHA | 16 | +3 | +3 |
+
+    **Resistances** Radiant
+
+    **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition)
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
+
+    **Languages** Celestial, understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
+
+    ***Radiant Bow (Avenger Only).*** *Ranged Attack Roll*: Bonus equals your spell attack modifier, range 600 ft. *Hit:* 2d6 + 2 + the spell’s level Radiant damage.
+
+    ***Radiant Mace (Defender Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d10 + 3 + the spell’s level Radiant damage, and the spirit can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints).
+
+    ***Healing Touch (1/Day).*** The spirit touches another creature. The target regains Hit Points equal to 2d8 + the spell’s level.
 
 
 ---
 
-### [Summon Construct](/spells/2619111-summon-construct)
+## [Summon Construct](/spells/2619111-summon-construct)
 
 *Level 4 Conjuration (Wizard)*
 
@@ -6920,55 +6903,61 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Construct Spirit
-> 
-> *Medium Construct, Neutral*
-> 
-> **AC** 13 + the spell’s level
-> 
-> **HP** 40 + 15 for each spell level above 4
-> 
-> **Speed** 30 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 18 | +4 | +4 |
-> | DEX | 10 | +0 | +0 |
-> | CON | 18 | +4 | +4 |
-> | INT | 14 | +2 | +2 |
-> | WIS | 11 | +0 | +0 |
-> | CHA | 5 | −3 | −3 |
-> 
-> **Resistances** Poison
-> 
-> **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
-> 
-> **Languages** Understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Heated Body (Metal Only).*** A creature that hits the spirit with a melee attack or that starts its turn in a grapple with the spirit takes 1d10 Fire damage.
-> 
-> ***Stony Lethargy (Stone Only).*** When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. *Wisdom Saving Throw:* DC equals your spell save DC, the target. *Failure:* Until the start of its next turn, the target can’t make [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack), and its Speed is halved.
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of Slam attacks equal to half this spell’s level (round down).
-> 
-> ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spell’s level Bludgeoning damage.
-> 
-> ##### Reactions
-> 
-> ***Berserk Lashing (Clay Only).*** *Trigger:* The spirit takes damage from a creature. *Response:* The spirit makes a Slam attack against that creature if possible, or the spirit moves up to half its Speed toward that creature without provoking [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack).
+!!! info "Construct Spirit"
+
+    *Medium Construct, Neutral*
+
+    **AC** 13 + the spell’s level
+
+    **HP** 40 + 15 for each spell level above 4
+
+    **Speed** 30 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 18 | +4 | +4 |
+    | DEX | 10 | +0 | +0 |
+    | CON | 18 | +4 | +4 |
+    | INT | 14 | +2 | +2 |
+    | WIS | 11 | +0 | +0 |
+    | CHA | 5 | −3 | −3 |
+
+    **Resistances** Poison
+
+    **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+
+    **Languages** Understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Heated Body (Metal Only).*** A creature that hits the spirit with a melee attack or that starts its turn in a grapple with the spirit takes 1d10 Fire damage.
+
+    ***Stony Lethargy (Stone Only).*** When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. *Wisdom Saving Throw:* DC equals your spell save DC, the target. *Failure:* Until the start of its next turn, the target can’t make [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack), and its Speed is halved.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of Slam attacks equal to half this spell’s level (round down).
+
+    ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 4 + the spell’s level Bludgeoning damage.
+
+    <p style="font-size: 125%;">
+    **Reactions**
+    </p>
+
+    ***Berserk Lashing (Clay Only).*** *Trigger:* The spirit takes damage from a creature. *Response:* The spirit makes a Slam attack against that creature if possible, or the spirit moves up to half its Speed toward that creature without provoking [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack).
 
 
 ---
 
-### [Summon Dragon](/spells/2618843-summon-dragon)
+## [Summon Dragon](/spells/2618843-summon-dragon)
 
 *Level 5 Conjuration (Wizard)*
 
@@ -6986,52 +6975,56 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Draconic Spirit
-> 
-> *Large Dragon, Neutral*
-> 
-> **AC** 14 + the spell’s level
-> 
-> **HP** 50 + 10 for each spell level above 5
-> 
-> **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 19 | +4 | +4 |
-> | DEX | 14 | +2 | +2 |
-> | CON | 17 | +3 | +3 |
-> | INT | 10 | +0 | +0 |
-> | WIS | 14 | +2 | +2 |
-> | CHA | 14 | +2 | +2 |
-> 
-> **Resistances** Acid, Cold, Fire, Lightning, Poison
-> 
-> **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
-> 
-> **Senses** [Blindsight](/sources/dnd/free-rules/rules-glossary#Blindsight) 30 ft., [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
-> 
-> **Languages** Draconic, understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Shared Resistances.*** When you summon the spirit, choose one of its Resistances. You have Resistance to the chosen damage type until the spell ends.
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of Rend attacks equal to half the spell’s level (round down), and it uses Breath Weapon.
-> 
-> ***Rend.*** *Melee Attack:* Bonus equals your spell attack modifier, reach 10 feet. *Hit:*1d6 + 4 + the spell’s level Piercing damage.
-> 
-> ***Breath Weapon.*** *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 30-foot [Cone](/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect). *Failure:* 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:* Half damage.
+!!! info "Draconic Spirit"
+
+    *Large Dragon, Neutral*
+
+    **AC** 14 + the spell’s level
+
+    **HP** 50 + 10 for each spell level above 5
+
+    **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 19 | +4 | +4 |
+    | DEX | 14 | +2 | +2 |
+    | CON | 17 | +3 | +3 |
+    | INT | 10 | +0 | +0 |
+    | WIS | 14 | +2 | +2 |
+    | CHA | 14 | +2 | +2 |
+
+    **Resistances** Acid, Cold, Fire, Lightning, Poison
+
+    **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+
+    **Senses** [Blindsight](/sources/dnd/free-rules/rules-glossary#Blindsight) 30 ft., [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 12
+
+    **Languages** Draconic, understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Shared Resistances.*** When you summon the spirit, choose one of its Resistances. You have Resistance to the chosen damage type until the spell ends.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of Rend attacks equal to half the spell’s level (round down), and it uses Breath Weapon.
+
+    ***Rend.*** *Melee Attack:* Bonus equals your spell attack modifier, reach 10 feet. *Hit:*1d6 + 4 + the spell’s level Piercing damage.
+
+    ***Breath Weapon.*** *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 30-foot [Cone](/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect). *Failure:* 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:* Half damage.
 
 
 
 ---
 
-### [Summon Elemental](/spells/2619113-summon-elemental)
+## [Summon Elemental](/spells/2619113-summon-elemental)
 
 *Level 4 Conjuration (Druid, Ranger, Wizard)*
 
@@ -7049,49 +7042,53 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Elemental Spirit
-> 
-> *Medium Elemental, Neutral*
-> 
-> **AC** 11 + the spell’s level
-> 
-> **HP** 50 + 10 for each spell level above 4
-> 
-> **Speed** 40 ft.; Burrow 40 ft. (Earth only); Fly 40 ft. (hover; Air only); Swim 40 ft. (Water only)
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 18 | +4 | +4 |
-> | DEX | 15 | +2 | +2 |
-> | CON | 17 | +3 | +3 |
-> | INT | 4 | –3 | –3 |
-> | WIS | 10 | +0 | +0 |
-> | CHA | 16 | +3 | +3 |
-> 
-> **Resistances** Acid (Water only), Lightning and Thunder (Air only), Piercing and Slashing (Earth only)
-> 
-> **Immunities** Fire (Fire only), Poison; [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Petrified](/sources/dnd/free-rules/rules-glossary#PetrifiedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
-> 
-> **Languages** Primordial, understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Amorphous Form (Air, Fire, and Water Only).*** The spirit can move through a space as narrow as 1 inch wide without it counting as [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain).
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of Slam attacks equal to half this spell’s level (round down).
-> 
-> ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d10 + 4 + the spell’s level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.
+!!! info "Elemental Spirit"
+
+    *Medium Elemental, Neutral*
+
+    **AC** 11 + the spell’s level
+
+    **HP** 50 + 10 for each spell level above 4
+
+    **Speed** 40 ft.; Burrow 40 ft. (Earth only); Fly 40 ft. (hover; Air only); Swim 40 ft. (Water only)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 18 | +4 | +4 |
+    | DEX | 15 | +2 | +2 |
+    | CON | 17 | +3 | +3 |
+    | INT | 4 | –3 | –3 |
+    | WIS | 10 | +0 | +0 |
+    | CHA | 16 | +3 | +3 |
+
+    **Resistances** Acid (Water only), Lightning and Thunder (Air only), Piercing and Slashing (Earth only)
+
+    **Immunities** Fire (Fire only), Poison; [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Petrified](/sources/dnd/free-rules/rules-glossary#PetrifiedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+
+    **Languages** Primordial, understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Amorphous Form (Air, Fire, and Water Only).*** The spirit can move through a space as narrow as 1 inch wide without it counting as [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain).
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of Slam attacks equal to half this spell’s level (round down).
+
+    ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d10 + 4 + the spell’s level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.
 
 
 ---
 
-### [Summon Fey](/spells/2619115-summon-fey)
+## [Summon Fey](/spells/2619115-summon-fey)
 
 *Level 3 Conjuration (Druid, Ranger, Warlock, Wizard)*
 
@@ -7109,50 +7106,54 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Fey Spirit
-> 
-> *Small Fey, Neutral*
-> 
-> **AC** 12 + the spell’s level
-> 
-> **HP** 30 + 10 for each spell level above 3
-> 
-> **Speed** 30 ft., Fly 30 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 13 | +1 | +1 |
-> | DEX | 16 | +3 | +3 |
-> | CON | 14 | +2 | +2 |
-> | INT | 14 | +2 | +2 |
-> | WIS | 11 | +0 | +0 |
-> | CHA | 16 | +3 | +3 |
-> 
-> **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition)
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
-> 
-> **Languages** Sylvan, understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of Fey Blade attacks equal to half this spell’s level (round down).
-> 
-> ***Fey Blade.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 2d6 + 3 + the spell’s level Force damage.
-> 
-> ##### Bonus Actions
-> 
-> ***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs, based on the spirit’s chosen mood:
-> 
-> - **Fuming.** The spirit has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the next attack roll it makes before the end of this turn.
-> - **Mirthful.** *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) by you and the spirit for 1 minute or until the target takes any damage.
-> - **Tricksy.** The spirit fills a 10-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) within 5 feet of it with magical [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness), which lasts until the end of its next turn.
+!!! info "Fey Spirit"
+
+    *Small Fey, Neutral*
+
+    **AC** 12 + the spell’s level
+
+    **HP** 30 + 10 for each spell level above 3
+
+    **Speed** 30 ft., Fly 30 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 13 | +1 | +1 |
+    | DEX | 16 | +3 | +3 |
+    | CON | 14 | +2 | +2 |
+    | INT | 14 | +2 | +2 |
+    | WIS | 11 | +0 | +0 |
+    | CHA | 16 | +3 | +3 |
+
+    **Immunities** [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition)
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+
+    **Languages** Sylvan, understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of Fey Blade attacks equal to half this spell’s level (round down).
+
+    ***Fey Blade.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 2d6 + 3 + the spell’s level Force damage.
+
+    <p style="font-size: 125%;">
+    **Bonus Actions**
+    </p>
+
+    ***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs, based on the spirit’s chosen mood:
+
+    - **Fuming.** The spirit has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the next attack roll it makes before the end of this turn.
+    - **Mirthful.** *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) by you and the spirit for 1 minute or until the target takes any damage.
+    - **Tricksy.** The spirit fills a 10-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) within 5 feet of it with magical [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness), which lasts until the end of its next turn.
 
 ---
 
-### [Summon Fiend](/spells/2619117-summon-fiend)
+## [Summon Fiend](/spells/2619117-summon-fiend)
 
 *Level 6 Conjuration (Warlock, Wizard)*
 
@@ -7170,58 +7171,62 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Fiendish Spirit
-> 
-> *Large Fiend, Neutral*
-> 
-> **AC** 12 + the spell’s level
-> 
-> **HP** 50 (Demon only) or 40 (Devil only) or 60 (Yugoloth only) + 15 for each spell level above 6
-> 
-> **Speed** 40 ft.; Climb 40 ft. (Demon only); Fly 60 ft. (Devil only)
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 13 | +1 | +1 |
-> | DEX | 16 | +3 | +3 |
-> | CON | 15 | +2 | +2 |
-> | INT | 10 | +0 | +0 |
-> | WIS | 10 | +0 | +0 |
-> | CHA | 16 | +3 | +3 |
-> 
-> **Resistances** Fire
-> 
-> **Immunities** Poison; [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
-> 
-> **Languages** Abyssal, Infernal, Telepathy 60 ft.
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Death Throes (Demon Only).*** When the spirit drops to 0 Hit Points or the spell ends, the spirit explodes. *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 10-foot [Emanation](/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect) originating from the spirit. *Failure:* 2d10 plus this spell’s level Fire damage. *Success:* Half damage.
-> 
-> ***Devil’s Sight (Devil Only).*** Magical [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness) doesn’t impede the spirit’s [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision).
-> 
-> ***Magic Resistance.*** The spirit has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on saving throws against spells and other magical eff ects.
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
-> 
-> ***Bite (Demon Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d12 + 3 + the spell’s level Necrotic damage.
-> 
-> ***Claws (Yugoloth Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 3 + the spell’s level Slashing damage. Immediately after the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied space it can see.
-> 
-> ***Fiery Strike (Devil Only).*** *Melee or Ranged Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. or range 150 ft. *Hit:* 2d6 + 3 + the spell’s level Fire damage.
+!!! info "Fiendish Spirit"
+
+    *Large Fiend, Neutral*
+
+    **AC** 12 + the spell’s level
+
+    **HP** 50 (Demon only) or 40 (Devil only) or 60 (Yugoloth only) + 15 for each spell level above 6
+
+    **Speed** 40 ft.; Climb 40 ft. (Demon only); Fly 60 ft. (Devil only)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 13 | +1 | +1 |
+    | DEX | 16 | +3 | +3 |
+    | CON | 15 | +2 | +2 |
+    | INT | 10 | +0 | +0 |
+    | WIS | 10 | +0 | +0 |
+    | CHA | 16 | +3 | +3 |
+
+    **Resistances** Fire
+
+    **Immunities** Poison; [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+
+    **Languages** Abyssal, Infernal, Telepathy 60 ft.
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Death Throes (Demon Only).*** When the spirit drops to 0 Hit Points or the spell ends, the spirit explodes. *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 10-foot [Emanation](/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect) originating from the spirit. *Failure:* 2d10 plus this spell’s level Fire damage. *Success:* Half damage.
+
+    ***Devil’s Sight (Devil Only).*** Magical [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness) doesn’t impede the spirit’s [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision).
+
+    ***Magic Resistance.*** The spirit has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on saving throws against spells and other magical eff ects.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
+
+    ***Bite (Demon Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d12 + 3 + the spell’s level Necrotic damage.
+
+    ***Claws (Yugoloth Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 3 + the spell’s level Slashing damage. Immediately after the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied space it can see.
+
+    ***Fiery Strike (Devil Only).*** *Melee or Ranged Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. or range 150 ft. *Hit:* 2d6 + 3 + the spell’s level Fire damage.
 
 
 ---
 
 
-### [Summon Undead](/spells/2619119-summon-undead)
+## [Summon Undead](/spells/2619119-summon-undead)
 
 *Level 3 Necromancy (Warlock, Wizard)*
 
@@ -7239,53 +7244,57 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-> #### Undead Spirit
-> 
-> *Medium Undead, Neutral*
-> 
-> **AC** 11 + the spell’s level
-> 
-> **HP** 30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each spell level above 3
-> 
-> **Speed** 30 ft.; Fly 40 ft. (hover; Ghostly only)
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 12 | +1 | +1 |
-> | DEX | 16 | +3 | +3 |
-> | CON | 15 | +2 | +2 |
-> | INT | 4 | −3 | −3 |
-> | WIS | 10 | +0 | +0 |
-> | CHA | 9 | −1 | −1 |
-> 
-> **Immunities** Necrotic, Poison; [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
-> 
-> **Senses** Darkvision 60 ft., Passive Perception 10
-> 
-> **Languages** Understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ##### Traits
-> 
-> ***Festering Aura (Putrid Only).*** *Constitution Saving Throw:* DC equals your spell save DC, any creature (other than you) that starts its turn within a 5-foot [Emanation](/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect) originating from the spirit. *Failure:* The creature has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition until the start of its next turn.
-> 
-> ***Incorporeal Passage (Ghostly Only).*** The spirit can move through other creatures and objects as if they were [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain). If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 Force damage for every 5 feet traveled.
-> 
-> ##### Actions
-> 
-> ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
-> 
-> ***Deathly Touch (Ghostly Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 3 + the spell’s level Necrotic damage, and the target has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the end of its next turn.
-> 
-> ***Grave Bolt (Skeletal Only).*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 150 ft. *Hit:* 2d4 + 3 + the spell’s level Necrotic damage.
-> 
-> ***Rotting Claw (Putrid Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 3 + the spell’s level Slashing damage. If the target has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition, it has the [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition) condition until the end of its next turn.
+!!! info "Undead Spirit"
+
+    *Medium Undead, Neutral*
+
+    **AC** 11 + the spell’s level
+
+    **HP** 30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each spell level above 3
+
+    **Speed** 30 ft.; Fly 40 ft. (hover; Ghostly only)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 12 | +1 | +1 |
+    | DEX | 16 | +3 | +3 |
+    | CON | 15 | +2 | +2 |
+    | INT | 4 | −3 | −3 |
+    | WIS | 10 | +0 | +0 |
+    | CHA | 9 | −1 | −1 |
+
+    **Immunities** Necrotic, Poison; [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+
+    **Senses** Darkvision 60 ft., Passive Perception 10
+
+    **Languages** Understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Festering Aura (Putrid Only).*** *Constitution Saving Throw:* DC equals your spell save DC, any creature (other than you) that starts its turn within a 5-foot [Emanation](/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect) originating from the spirit. *Failure:* The creature has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition until the start of its next turn.
+
+    ***Incorporeal Passage (Ghostly Only).*** The spirit can move through other creatures and objects as if they were [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain). If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 Force damage for every 5 feet traveled.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (round down).
+
+    ***Deathly Touch (Ghostly Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 3 + the spell’s level Necrotic damage, and the target has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the end of its next turn.
+
+    ***Grave Bolt (Skeletal Only).*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 150 ft. *Hit:* 2d4 + 3 + the spell’s level Necrotic damage.
+
+    ***Rotting Claw (Putrid Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 3 + the spell’s level Slashing damage. If the target has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition, it has the [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition) condition until the end of its next turn.
 
 
 ---
 
-### [Sunbeam](/spells/2619121-sunbeam)
+## [Sunbeam](/spells/2619121-sunbeam)
 
 *Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)*
 
@@ -7305,7 +7314,7 @@ For the duration, a mote of brilliant radiance shines above you. It sheds [Brigh
 
 ---
 
-### [Sunburst](/spells/2619123-sunburst)
+## [Sunburst](/spells/2619123-sunburst)
 
 *Level 8 Evocation (Cleric, Druid, Sorcerer, Wizard)*
 
@@ -7325,7 +7334,7 @@ This spell dispels [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness) i
 
 ---
 
-### [Swift Quiver](/spells/2619125-swift-quiver)
+## [Swift Quiver](/spells/2619125-swift-quiver)
 
 *Level 5 Transmutation (Ranger)*
 
@@ -7341,7 +7350,7 @@ When you cast the spell and as a Bonus Action until it ends, you can make two at
 
 ---
 
-### [Symbol](/spells/2619127-symbol)
+## [Symbol](/spells/2619127-symbol)
 
 *Level 7 Abjuration (Bard, Cleric, Druid, Wizard)*
 
@@ -7379,7 +7388,7 @@ Once triggered, the glyph glows, filling a 60-foot-radius [Sphere](/sources/dnd/
 
 ---
 
-### [Synaptic Static](/spells/2619129-synaptic-static)
+## [Synaptic Static](/spells/2619129-synaptic-static)
 
 *Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -7396,10 +7405,8 @@ You cause psychic energy to erupt at a point within range. Each creature in a 20
 On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts 1d6 from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 
-Spells (T)
-----------
 
-### [Tasha’s Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron)
+## [Tasha’s Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron)
 
 *Level 6 Conjuration (Warlock, Wizard)*
 
@@ -7419,7 +7426,7 @@ Potions obtained from the cauldron that aren’t consumed disappear when you cas
 
 ---
 
-### [Tasha’s Hideous Laughter](/spells/2619132-tashas-hideous-laughter)
+## [Tasha’s Hideous Laughter](/spells/2619132-tashas-hideous-laughter)
 
 *Level 1 Enchantment (Bard, Warlock, Wizard)*
 
@@ -7439,7 +7446,7 @@ At the end of each of its turns and each time it takes damage, it makes another 
 
 ---
 
-### [Telekinesis](/spells/2619157-telekinesis)
+## [Telekinesis](/spells/2619157-telekinesis)
 
 *Level 5 Transmutation (Sorcerer, Wizard)*
 
@@ -7463,7 +7470,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ---
 
-### [Telepathy](/spells/2619159-telepathy)
+## [Telepathy](/spells/2619159-telepathy)
 
 *Level 8 Divination (Wizard)*
 
@@ -7481,7 +7488,7 @@ Until the spell ends, you and the target can instantly share words, images, soun
 
 ---
 
-### [Teleport](/spells/2619163-teleport)
+## [Teleport](/spells/2619163-teleport)
 
 *Level 7 Conjuration (Bard, Sorcerer, Wizard)*
 
@@ -7498,7 +7505,7 @@ This spell instantly transports you and up to eight willing creatures that you c
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
 
 
-#### Teleportation Outcome
+### Teleportation Outcome
 
 
 | Familiarity | Mishap | Similar Area | Off Target | On Target |
@@ -7529,7 +7536,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 ---
 
-### [Teleportation Circle](/spells/2619167-teleportation-circle)
+## [Teleportation Circle](/spells/2619167-teleportation-circle)
 
 *Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -7551,7 +7558,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ---
 
-### [Tenser’s Floating Disk](/spells/2619169-tensers-floating-disk)
+## [Tenser’s Floating Disk](/spells/2619169-tensers-floating-disk)
 
 *Level 1 Conjuration (Wizard)*
 
@@ -7571,7 +7578,7 @@ If you move more than 100 feet from the disk (typically because it can’t move 
 
 ---
 
-### [Thaumaturgy](/spells/2619174-thaumaturgy)
+## [Thaumaturgy](/spells/2619174-thaumaturgy)
 
 *Transmutation Cantrip (Cleric)*
 
@@ -7599,7 +7606,7 @@ You manifest a minor wonder within range. You create one of the effects below wi
 
 ---
 
-### [Thorn Whip](/spells/2619176-thorn-whip)
+## [Thorn Whip](/spells/2619176-thorn-whip)
 
 *Transmutation Cantrip (Druid)*
 
@@ -7617,7 +7624,7 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 
 ---
 
-### [Thunderclap](/spells/2619179-thunderclap)
+## [Thunderclap](/spells/2619179-thunderclap)
 
 *Evocation Cantrip (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -7635,7 +7642,7 @@ Each creature in a 5-foot [Emanation](/sources/dnd/free-rules/rules-glossary#Ema
 
 ---
 
-### [Thunderous Smite](/spells/2619182-thunderous-smite)
+## [Thunderous Smite](/spells/2619182-thunderous-smite)
 
 *Level 1 Evocation (Paladin)*
 
@@ -7653,7 +7660,7 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 ---
 
-### [Thunderwave](/spells/2619184-thunderwave)
+## [Thunderwave](/spells/2619184-thunderwave)
 
 *Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
 
@@ -7673,7 +7680,7 @@ In addition, unsecured objects that are entirely within the Cube are pushed 10 f
 
 ---
 
-### [Time Stop](/spells/2619185-time-stop)
+## [Time Stop](/spells/2619185-time-stop)
 
 *Level 9 Transmutation (Sorcerer, Wizard)*
 
@@ -7691,7 +7698,7 @@ This spell ends if one of the actions you use during this period, or any effects
 
 ---
 
-### [Toll the Dead](/spells/2619188-toll-the-dead)
+## [Toll the Dead](/spells/2619188-toll-the-dead)
 
 *Necromancy Cantrip (Cleric, Warlock, Wizard)*
 
@@ -7709,7 +7716,7 @@ You point at one creature you can see within range, and the single chime of a do
 
 ---
 
-### [Tongues](/spells/2619190-tongues)
+## [Tongues](/spells/2619190-tongues)
 
 *Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
@@ -7725,7 +7732,7 @@ This spell grants the creature you touch the ability to understand any spoken or
 
 ---
 
-### [Transport via Plants](/spells/2619196-transport-via-plants)
+## [Transport via Plants](/spells/2619196-transport-via-plants)
 
 *Level 6 Conjuration (Druid)*
 
@@ -7741,7 +7748,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 ---
 
-### [Tree Stride](/spells/2619197-tree-stride)
+## [Tree Stride](/spells/2619197-tree-stride)
 
 *Level 5 Conjuration (Druid, Ranger)*
 
@@ -7759,7 +7766,7 @@ You can use this transportation ability only once on each of your turns. You mus
 
 ---
 
-### [True Polymorph](/spells/2619198-true-polymorph)
+## [True Polymorph](/spells/2619198-true-polymorph)
 
 *Level 9 Transmutation (Bard, Warlock, Wizard)*
 
@@ -7791,7 +7798,7 @@ If the spell lasts more than an hour, you no longer control the creature. It mig
 
 ---
 
-### [True Resurrection](/spells/2619199-true-resurrection)
+## [True Resurrection](/spells/2619199-true-resurrection)
 
 *Level 9 Necromancy (Cleric, Druid)*
 
@@ -7811,7 +7818,7 @@ The spell can provide a new body if the original no longer exists, in which case
 
 ---
 
-### [True Seeing](/spells/2619201-true-seeing)
+## [True Seeing](/spells/2619201-true-seeing)
 
 *Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
@@ -7827,7 +7834,7 @@ For the duration, the willing creature you touch has [Truesight](/sources/dnd/fr
 
 ---
 
-### [True Strike](/spells/2619204-true-strike)
+## [True Strike](/spells/2619204-true-strike)
 
 *Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -7845,7 +7852,7 @@ Guided by a flash of magical insight, you make one attack with the weapon used i
 
 ---
 
-### [Tsunami](/spells/2619206-tsunami)
+## [Tsunami](/spells/2619206-tsunami)
 
 *Level 8 Conjuration (Druid)*
 
@@ -7866,10 +7873,8 @@ At the start of each of your turns after the wall appears, the wall, along with 
 A creature caught in the wall can move by swimming. Because of the wave’s force, though, the creature must succeed on a Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check against your spell save DC to move at all. If it fails the check, it can’t move. A creature that moves out of the wall falls to the ground.
 
 
-Spells (U)
-----------
 
-### [Unseen Servant](/spells/2619209-unseen-servant)
+## [Unseen Servant](/spells/2619209-unseen-servant)
 
 *Level 1 Conjuration (Bard, Warlock, Wizard)*
 
@@ -7888,10 +7893,8 @@ Once on each of your turns as a Bonus Action, you can mentally command the serva
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
 
-Spells (V)
-----------
 
-### [Vampiric Touch](/spells/2619214-vampiric-touch)
+## [Vampiric Touch](/spells/2619214-vampiric-touch)
 
 *Level 3 Necromancy (Sorcerer, Warlock, Wizard)*
 
@@ -7911,7 +7914,7 @@ Until the spell ends, you can make the attack again on each of your turns as a [
 
 ---
 
-### [Vicious Mockery](/spells/2619216-vicious-mockery)
+## [Vicious Mockery](/spells/2619216-vicious-mockery)
 
 *Enchantment Cantrip (Bard)*
 
@@ -7929,7 +7932,7 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 ---
 
-### [Vitriolic Sphere](/spells/2619219-vitriolic-sphere)
+## [Vitriolic Sphere](/spells/2619219-vitriolic-sphere)
 
 *Level 4 Evocation (Sorcerer, Wizard)*
 
@@ -7946,10 +7949,8 @@ You point at a location within range, and a glowing, 1-foot-diameter ball of aci
 ***Using a Higher-Level Spell Slot.*** The initial damage increases by 2d4 for each spell slot level above 4.
 
 
-Spells (W)
-----------
 
-### [Wall of Fire](/spells/2619107-wall-of-fire)
+## [Wall of Fire](/spells/2619107-wall-of-fire)
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -7971,7 +7972,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 Fire d
 
 ---
 
-### [Wall of Force](/spells/2619194-wall-of-force)
+## [Wall of Force](/spells/2619194-wall-of-force)
 
 *Level 5 Evocation (Wizard)*
 
@@ -7989,7 +7990,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 ---
 
-### [Wall of Ice](/spells/2619195-wall-of-ice)
+## [Wall of Ice](/spells/2619195-wall-of-ice)
 
 *Level 6 Evocation (Wizard)*
 
@@ -8013,7 +8014,7 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 
 ---
 
-### [Wall of Stone](/spells/2619200-wall-of-stone)
+## [Wall of Stone](/spells/2619200-wall-of-stone)
 
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -8039,7 +8040,7 @@ If you maintain your [Concentration](/sources/dnd/free-rules/rules-glossary#Conc
 
 ---
 
-### [Wall of Thorns](/spells/2619202-wall-of-thorns)
+## [Wall of Thorns](/spells/2619202-wall-of-thorns)
 
 *Level 6 Conjuration (Druid)*
 
@@ -8061,7 +8062,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 ---
 
-### [Warding Bond](/spells/2619203-warding-bond)
+## [Warding Bond](/spells/2619203-warding-bond)
 
 *Level 2 Abjuration (Cleric, Paladin)*
 
@@ -8080,7 +8081,7 @@ The spell ends if you drop to 0 Hit Points or if you and the target become separ
 ---
 
 
-### [Water Breathing](/spells/2619205-water-breathing)
+## [Water Breathing](/spells/2619205-water-breathing)
 
 *Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -8096,7 +8097,7 @@ This spell grants up to ten willing creatures of your choice within range the ab
 
 ---
 
-### [Water Walk](/spells/2619207-water-walk)
+## [Water Walk](/spells/2619207-water-walk)
 
 *Level 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)*
 
@@ -8114,7 +8115,7 @@ An affected target must take a Bonus Action to pass from the liquid’s surface 
 
 ---
 
-### [Web](/spells/2619208-web)
+## [Web](/spells/2619208-web)
 
 *Level 2 Conjuration (Sorcerer, Wizard)*
 
@@ -8138,7 +8139,7 @@ The webs are flammable. Any 5-foot [Cube](/sources/dnd/free-rules/rules-glossary
 
 ---
 
-### [Weird](/spells/2619210-weird)
+## [Weird](/spells/2619210-weird)
 
 *Level 9 Illusion (Warlock, Wizard)*
 
@@ -8156,7 +8157,7 @@ A Frightened target makes a Wisdom saving throw at the end of each of its turns.
 
 ---
 
-### [Wind Walk](/spells/2619211-wind-walk)
+## [Wind Walk](/spells/2619211-wind-walk)
 
 *Level 6 Transmutation (Druid)*
 
@@ -8174,7 +8175,7 @@ If a target is in cloud form and flying when the effect ends, the target descend
 
 ---
 
-### [Wind Wall](/spells/2619212-wind-wall)
+## [Wind Wall](/spells/2619212-wind-wall)
 
 *Level 3 Evocation (Druid, Ranger)*
 
@@ -8194,7 +8195,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 ---
 
-### [Wish](/spells/2619213-wish)
+## [Wish](/spells/2619213-wish)
 
 *Level 9 Conjuration (Sorcerer, Wizard)*
 
@@ -8224,7 +8225,7 @@ The stress of casting *Wish* to produce any effect other than duplicating anothe
 
 ---
 
-### [Witch Bolt](/spells/2619215-witch-bolt)
+## [Witch Bolt](/spells/2619215-witch-bolt)
 
 *Level 1 Evocation (Sorcerer, Warlock, Wizard)*
 
@@ -8246,7 +8247,7 @@ The spell ends if the target is ever outside the spell’s range or if it has [T
 
 ---
 
-### [Word of Radiance](/spells/2619217-word-of-radiance)
+## [Word of Radiance](/spells/2619217-word-of-radiance)
 
 *Evocation Cantrip (Cleric)*
 
@@ -8264,7 +8265,7 @@ Burning radiance erupts from you in a 5-foot [Emanation](/sources/dnd/free-rules
 
 ---
 
-### [Word of Recall](/spells/2619218-word-of-recall)
+## [Word of Recall](/spells/2619218-word-of-recall)
 
 *Level 6 Conjuration (Cleric)*
 
@@ -8282,7 +8283,7 @@ You must designate a location, such as a temple, as a sanctuary by casting this 
 
 ---
 
-### [Wrathful Smite](/spells/2619220-wrathful-smite)
+## [Wrathful Smite](/spells/2619220-wrathful-smite)
 
 *Level 1 Necromancy (Paladin)*
 
@@ -8299,10 +8300,8 @@ The target takes an extra 1d6 Necrotic damage from the attack, and it must succe
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
 
-Spells (Y)
-----------
 
-### [Yolande’s Regal Presence](/spells/2618842-yolandes-regal-presence)
+## [Yolande’s Regal Presence](/spells/2618842-yolandes-regal-presence)
 
 *Level 5 Enchantment (Bard, Wizard)*
 
@@ -8319,10 +8318,7 @@ save, the target takes 4d6 Psychic damage and has the [Prone](/sources/dnd/free-
 takes half as much damage only. A creature makes this save only once per turn.
 
 
-Spells (Z)
-----------
-
-### [Zone of Truth](/spells/2619221-zone-of-truth)
+## [Zone of Truth](/spells/2619221-zone-of-truth)
 
 *Level 2 Enchantment (Bard, Cleric, Paladin)*
 

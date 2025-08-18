@@ -32,9 +32,8 @@ Most spellcasting monsters don’t change their lists of prepared spells, but th
 
 Certain features might give you a spell that you always have prepared. If you also have a list of prepared spells that you can change, a spell that you always have prepared doesn’t count against the number of spells on that list.
 
-> ### Casting in Armor
-> 
-> You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
+!!! note "Casting in Armor"
+    You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
 
 Casting Spells
 --------------
@@ -132,9 +131,8 @@ A spell’s components are physical requirements the spellcaster must meet to ca
 
 A Verbal component is the chanting of esoteric words that sound like nonsense to the uninitiated. The words must be uttered in a normal speaking voice. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a creature who is gagged or in an area of magical silence can’t cast a spell with a Verbal component.
 
-> ### Creating Verbal Components
-> 
-> If you’d like to say a spell’s Verbal component, you may make up the words. However you make them, the goal is to create something that’s easy to say and that doesn’t mean anything in the real world. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second *l* from [Fireball](/spells/2618887-fireball) and rearrange the remaining letters to create *Ber Fila* or *Fel Bira*.
+!!! note "Creating Verbal Components"
+    If you’d like to say a spell’s Verbal component, you may make up the words. However you make them, the goal is to create something that’s easy to say and that doesn’t mean anything in the real world. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second *l* from [Fireball](/spells/2618887-fireball) and rearrange the remaining letters to create *Ber Fila* or *Fel Bira*.
 
 #### Somatic (S)
 
@@ -170,6 +168,8 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ***Areas of Effect.*** Some spells, such as [Thunderwave](/spells/2619184-thunderwave), cover an area called an [area of effect](/sources/dnd/free-rules/rules-glossary#AreaofEffect), which is defined in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#AreaofEffect). The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [Cone](/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect), [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect), [Cylinder](/sources/dnd/free-rules/rules-glossary#CylinderAreaofEffect), [Emanation](/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect), [Line](/sources/dnd/free-rules/rules-glossary#LineAreaofEffect), or [Sphere](/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect).
 
+![The different shapes of an area of effect](areas-of-effect.png)
+
 ***Awareness of Being Targeted.*** Unless a spell has a perceptible effect, a creature doesn’t know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell’s description says otherwise.
 
 ***Invalid Targets.*** If you cast a spell on someone or something that can’t be affected by it, nothing happens to that target, but if you used a spell slot to cast the spell, the slot is still expended.
@@ -180,18 +180,19 @@ If the spell normally has no effect on a target that succeeds on a saving throw,
 
 Many spells specify that a target makes a saving throw to avoid some or all of a spell’s effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. Here’s how to calculate the DC for your spells:
 
-- **Spell save DC** = 8 + your spellcasting ability modifier + your Proficiency Bonus
+!!! info ""
+    **Spell save DC** = 8 + your spellcasting ability modifier + your Proficiency Bonus
 
 #### Attack Rolls
 
 Some spells require the caster to make an attack roll to determine whether the spell hits a target. Here’s how to calculate the attack modifier for your spells:
 
-- **Spell attack modifier** = your spellcasting ability modifier + your Proficiency Bonus
+!!! info ""
+    **Spell attack modifier** = your spellcasting ability modifier + your Proficiency Bonus
 
 #### Combining Spell Effects
 
 The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don’t combine. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast [Bless](/spells/2618933-bless) on the same target, that target gains the spell’s benefit only once; the target doesn’t receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second *Bless* ends.
 
-> ### Identifying an Ongoing Spell
-> 
-> You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the [Study](/sources/dnd/free-rules/rules-glossary#StudyAction) action and succeed on a DC 15 Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+!!! note "Identifying an Ongoing Spell"
+    You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the [Study](/sources/dnd/free-rules/rules-glossary#StudyAction) action and succeed on a DC 15 Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check.

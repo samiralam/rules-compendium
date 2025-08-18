@@ -1,31 +1,28 @@
-# Ranger
+# Ranger: A Wandering Warrior Imbued with Primal Magic
 
-*A Wandering Warrior Imbued with Primal Magic*
+!!! info "Core Ranger Traits"
 
-## Core Ranger Traits
-
-
-| Primary Ability | Dexterity and Wisdom |
-| --- | --- |
-| Hit Point Die | D10 per Ranger level |
-| Saving Throw Proficiencies | Strength and Dexterity |
-| Skill Proficiencies | *Choose 3:* [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), [Stealth](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple and Martial weapons |
-| Armor Training | Light and Medium armor and Shields |
-| Starting Equipment | *Choose A or B:* (A) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Druidic Focus](/equipment/532-druidic-focus) ([sprig of mistletoe](/equipment/531-sprig-of-mistletoe)), [Explorer’s Pack](/equipment/522-explorers-pack), and 7 GP; or (B) 150 GP |
+    | Primary Ability | Dexterity and Wisdom |
+    | --- | --- |
+    | Hit Point Die | D10 per Ranger level |
+    | Saving Throw Proficiencies | Strength and Dexterity |
+    | Skill Proficiencies | *Choose 3:* [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), [Stealth](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple and Martial weapons |
+    | Armor Training | Light and Medium armor and Shields |
+    | Starting Equipment | *Choose A or B:* (A) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Druidic Focus](/equipment/532-druidic-focus) ([sprig of mistletoe](/equipment/531-sprig-of-mistletoe)), [Explorer’s Pack](/equipment/522-explorers-pack), and 7 GP; or (B) 150 GP |
 
 Far from bustling cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch in the wilderness. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
 
 Thanks to their connection with nature, Rangers can also cast spells that harness primal powers of the wilderness. A Ranger’s talents and magic are honed with deadly focus to protect the world from the ravages of monsters and tyrants.
 
-### Becoming a Ranger...
+## Becoming a Ranger...
 
-#### As a Level 1 Character
+### As a Level 1 Character
 
 * Gain all the traits in the [Core Ranger Traits table](#CoreRangerTraits).
 * Gain the Ranger’s level 1 features, which are listed in the [Ranger Features table](#RangerFeatures).
 
-#### As a Multiclass Character
+### As a Multiclass Character
 
 * Gain the following traits from the [Core Ranger Traits table](#CoreRangerTraits): Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger’s skill list, and training with Light and Medium armor and Shields.
 * Gain the Ranger’s level 1 features, which are listed in the [Ranger Features table](#RangerFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
@@ -34,8 +31,7 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 
 As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
 
-
-## Ranger Features
+#### Ranger Features
 
 | Level | Proficiency Bonus | Class Features | Favored Enemy | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -282,108 +278,120 @@ Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRes
 
 
 
-> ## Beast of the Land
-> 
-> *Medium Beast, Neutral*
-> 
-> **AC** 13 plus your Wisdom modifier
-> 
-> **HP** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)
-> 
-> **Speed** 40 ft., Climb 40 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 14 | +2 | +2 |
-> | DEX | 14 | +2 | +2 |
-> | CON | 15 | +2 | +2 |
-> | INT | 8 | −1 | −1 |
-> | WIS | 14 | +2 | +2 |
-> | CHA | 11 | +0 | +0 |
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive [Perception](/sources/dnd/free-rules/playing-the-game#Skills) 12
-> 
-> **Languages** Understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ### Traits
-> 
-> ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
-> 
-> ### Actions
-> 
-> ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition if it is a Large or smaller creature.
+!!! info "Beast of the Land"
 
-> ## Beast of the Sea
-> 
-> *Medium Beast, Neutral*
-> 
-> **AC** 13 plus your Wisdom modifier
-> 
-> **HP** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)
-> 
-> **Speed** 5 ft., Swim 60 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 6 | −2 | −2 |
-> | DEX | 16 | +3 | +3 |
-> | CON | 13 | +1 | +1 |
-> | INT | 8 | −1 | −1 |
-> | WIS | 14 | +2 | +2 |
-> | CHA | 11 | +0 | +0 |
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 90 ft., Passive [Perception](/sources/dnd/free-rules/playing-the-game#Skills) 12
-> 
-> **Languages** Understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ### Traits
-> 
-> ***Amphibious.*** The beast can breathe air and water.
-> 
-> ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
-> 
-> ### Actions
-> 
-> ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition (escape DC equals your spell save DC).
+    *Medium Beast, Neutral*
 
-> ## Beast of the Sky
-> 
-> *Small Beast, Neutral*
-> 
-> **AC** 13 plus your Wisdom modifier
-> 
-> **HP** 4 plus four times your Ranger level (the beast has a number of Hit Dice [d6s] equal to your Ranger level)
-> 
-> **Speed** 10 ft., Fly 60 ft.
-> 
-> |  |  | Mod | Save |
-> | --- | --- | --- | --- |
-> | STR | 14 | +2 | +2 |
-> | DEX | 14 | +2 | +2 |
-> | CON | 15 | +2 | +2 |
-> | INT | 8 | −1 | −1 |
-> | WIS | 14 | +2 | +2 |
-> | CHA | 11 | +0 | +0 |
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive [Perception](/sources/dnd/free-rules/playing-the-game#Skills) 12
-> 
-> **Languages** Understands the languages you know
-> 
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
-> 
-> ### Traits
-> 
-> ***Flyby.*** The beast doesn’t provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) when it flies out of an enemy’s reach.
-> 
-> ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
-> 
-> ### Actions
-> 
-> ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d4 + 3 plus your Wisdom modifier Slashing damage.
+    **AC** 13 plus your Wisdom modifier
+
+    **HP** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)
+
+    **Speed** 40 ft., Climb 40 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 14 | +2 | +2 |
+    | DEX | 14 | +2 | +2 |
+    | CON | 15 | +2 | +2 |
+    | INT | 8 | −1 | −1 |
+    | WIS | 14 | +2 | +2 |
+    | CHA | 11 | +0 | +0 |
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive [Perception](/sources/dnd/free-rules/playing-the-game#Skills) 12
+
+    **Languages** Understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition if it is a Large or smaller creature.
+
+!!! info "Beast of the Sea"
+
+    *Medium Beast, Neutral*
+
+    **AC** 13 plus your Wisdom modifier
+
+    **HP** 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)
+
+    **Speed** 5 ft., Swim 60 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 6 | −2 | −2 |
+    | DEX | 16 | +3 | +3 |
+    | CON | 13 | +1 | +1 |
+    | INT | 8 | −1 | −1 |
+    | WIS | 14 | +2 | +2 |
+    | CHA | 11 | +0 | +0 |
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 90 ft., Passive [Perception](/sources/dnd/free-rules/playing-the-game#Skills) 12
+
+    **Languages** Understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Amphibious.*** The beast can breathe air and water.
+
+    ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition (escape DC equals your spell save DC).
+
+!!! info "Beast of the Sky"
+
+    *Small Beast, Neutral*
+
+    **AC** 13 plus your Wisdom modifier
+
+    **HP** 4 plus four times your Ranger level (the beast has a number of Hit Dice [d6s] equal to your Ranger level)
+
+    **Speed** 10 ft., Fly 60 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 14 | +2 | +2 |
+    | DEX | 14 | +2 | +2 |
+    | CON | 15 | +2 | +2 |
+    | INT | 8 | −1 | −1 |
+    | WIS | 14 | +2 | +2 |
+    | CHA | 11 | +0 | +0 |
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive [Perception](/sources/dnd/free-rules/playing-the-game#Skills) 12
+
+    **Languages** Understands the languages you know
+
+    **CR** None (XP 0; PB equals your Proficiency Bonus)
+
+    <p style="font-size: 125%;">
+    **Traits**
+    </p>
+
+    ***Flyby.*** The beast doesn’t provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) when it flies out of an enemy’s reach.
+
+    ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+
+    <p style="font-size: 125%;">
+    **Actions**
+    </p>
+
+    ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d4 + 3 plus your Wisdom modifier Slashing damage.
 
 #### Level 7: Exceptional Training
 

@@ -1,31 +1,28 @@
-# Fighter
+# Fighter: A Master of All Arms and Armor
 
-*A Master of All Arms and Armor*
+!!! info "Core Fighter Traits"
 
-## Core Fighter Traits
-
-
-| Primary Ability | Strength or Dexterity |
-| --- | --- |
-| Hit Point Die | D10 per Fighter level |
-| Saving Throw Proficiencies | Strength and Constitution |
-| Skill Proficiencies | *Choose 2:* [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills), [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple and Martial weapons |
-| Armor Training | Light, Medium, and Heavy armor and Shields |
-| Starting Equipment | *Choose A, B, or C:* (A) [Chain Mail](/equipment/16-chain-mail), [Greatsword](/equipment/22-greatsword), [Flail](/equipment/20-flail), 8 [Javelins](/equipment/8-javelin), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 4 GP; (B) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 11 GP; or (C) 155 GP |
+    | Primary Ability | Strength or Dexterity |
+    | --- | --- |
+    | Hit Point Die | D10 per Fighter level |
+    | Saving Throw Proficiencies | Strength and Constitution |
+    | Skill Proficiencies | *Choose 2:* [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills), [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple and Martial weapons |
+    | Armor Training | Light, Medium, and Heavy armor and Shields |
+    | Starting Equipment | *Choose A, B, or C:* (A) [Chain Mail](/equipment/16-chain-mail), [Greatsword](/equipment/22-greatsword), [Flail](/equipment/20-flail), 8 [Javelins](/equipment/8-javelin), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 4 GP; (B) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 11 GP; or (C) 155 GP |
 
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.
 
 Fighters master various weapon techniques, and a well-equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad ability and extensive specialization makes Fighters superior combatants.
 
-### Becoming a Fighter...
+## Becoming a Fighter...
 
-#### As a Level 1 Fighter
+### As a Level 1 Fighter
 
 * Gain all the traits in the [Core Fighter Traits table](#CoreFighterTraits).
 * Gain the Fighter’s level 1 features, which are listed in the [Fighter Features table](#FighterFeatures).
 
-#### As a Multiclass Fighter
+### As a Multiclass Fighter
 
 * Gain the following traits from the [Core Fighter Traits table](#CoreFighterTraits): Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 * Gain the Fighter’s level 1 features, which are listed in the [Fighter Features table](#FighterFeatures).
@@ -34,9 +31,7 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 
 As a Fighter, you gain the following class features when you reach the specified Fighter levels. These features are listed on the Fighter Features table.
 
-
-## Fighter Features
-
+#### Fighter Features
 
 | Level | Proficiency Bonus | Class Features | Second Wind | Weapon Mastery |
 | --- | --- | --- | --- | --- |

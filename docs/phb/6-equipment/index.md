@@ -21,9 +21,8 @@ A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 | Gold Piece (GP) | 1 |
 | Platinum Piece (PP) | 10 |
 
-> ### Selling Equipment
-> 
-> Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The *Dungeon Master’s Guide* has prices for magic items.
+!!! note "Selling Equipment"
+    Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The *[Dungeon Master’s Guide](/sources/dnd/dmg-2024)* has prices for [magic items](/sources/dnd/dmg-2024/magic-items).
 
 Weapons
 -------
@@ -109,9 +108,8 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 
 You have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on attack rolls with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 13 or if it’s a Ranged weapon and your Dexterity score isn’t at least 13.
 
-> ### Improvised Weapons
-> 
-> If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[Improvised Weapons](/sources/dnd/free-rules/rules-glossary#ImprovisedWeapons)" in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#ImprovisedWeapons). Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
+!!! note "Improvised Weapons"
+    If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[Improvised Weapons](/sources/dnd/free-rules/rules-glossary#ImprovisedWeapons)" in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#ImprovisedWeapons). Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
 
 #### Light
 
@@ -230,13 +228,12 @@ You gain the Armor Class benefit of a Shield only if you have training with it.
 
 A creature can wear only one suit of armor at a time and wield only one Shield at a time.
 
-> ### Variant: Equipment Sizes
-> 
-> In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, an orc adventurer won’t fit in a halfling’s Leather Armor, and a cloud giant’s robe would be far too large for a gnome.
-> 
-> The DM can impose more realism. For example, a suit of Plate Armor made for one human might not fit another one without significant alterations, and a guard’s uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
-> 
-> Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit a smith, a tailor, a leatherworker, or a similar expert to make the item wearable. The cost for such work is 1d4 × 10 percent of the market price of the item.
+!!! note "Variant: Equipment Sizes"
+    In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, an orc adventurer won’t fit in a halfling’s Leather Armor, and a cloud giant’s robe would be far too large for a gnome.
+
+    The DM can impose more realism. For example, a suit of Plate Armor made for one human might not fit another one without significant alterations, and a guard’s uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
+
+    Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit a smith, a tailor, a leatherworker, or a similar expert to make the item wearable. The cost for such work is 1d4 × 10 percent of the market price of the item.
 
 Tools
 -----

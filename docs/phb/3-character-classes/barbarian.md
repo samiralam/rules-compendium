@@ -1,17 +1,15 @@
-# Barbarian
+# Barbarian: A Fierce Warrior of Primal Rage
 
-*A Fierce Warrior of Primal Rage*
+!!! info "Core Barbarian Traits"
 
-## Core Barbarian Traits
-
-| Primary Ability | Strength |
-| --- | --- |
-| Hit Point Die | D12 per Barbarian level |
-| Saving Throw Proficiencies | Strength and Constitution |
-| Skill Proficiencies | *Choose 2:* [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple and Martial weapons |
-| Armor Training | Light and Medium armor and Shields |
-| Starting Equipment | *Choose A or B:* (A) [Greataxe](/equipment/21-greataxe), 4 [Handaxes](/equipment/7-handaxe), [Explorer’s Pack](/equipment/522-explorers-pack), and 15 GP; or (B) 75 GP |
+    | Primary Ability | Strength |
+    | --- | --- |
+    | Hit Point Die | D12 per Barbarian level |
+    | Saving Throw Proficiencies | Strength and Constitution |
+    | Skill Proficiencies | *Choose 2:* [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple and Martial weapons |
+    | Armor Training | Light and Medium armor and Shields |
+    | Starting Equipment | *Choose A or B:* (A) [Greataxe](/equipment/21-greataxe), 4 [Handaxes](/equipment/7-handaxe), [Explorer’s Pack](/equipment/522-explorers-pack), and 15 GP; or (B) 75 GP |
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm’s fury, and a sea’s turmoil.
 
@@ -19,14 +17,14 @@ Some Barbarians personify their Rage as a fierce spirit or revered forebear. Oth
 
 Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don’t have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
 
-### Becoming a Barbarian...
+## Becoming a Barbarian...
 
-#### As a Level 1 Character
+### As a Level 1 Character
 
 * Gain all the traits in the [Core Barbarian Traits table](#CoreBarbarianTraits).
 * Gain the Barbarian’s level 1 features, which are listed in the [Barbarian Features table](#BarbarianFeatures).
 
-#### As a Multiclass Character
+### As a Multiclass Character
 
 * Gain the following traits from the [Core Barbarian Traits table](#CoreBarbarianTraits): Hit Point Die, proficiency with Martial weapons, and training with Shields.
 * Gain the Barbarian’s level 1 features, which are listed in the [Barbarian Features table](#BarbarianFeatures).
@@ -35,9 +33,7 @@ Barbarians often serve as protectors and leaders in their communities. They char
 
 As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. These features are listed in the Barbarian Features table.
 
-
-## Barbarian Features
-
+#### Barbarian Features
 
 | Level | Proficiency Bonus | Class Features | Rages | Rage Damage | Weapon Mastery |
 | --- | --- | --- | --- | --- | --- |

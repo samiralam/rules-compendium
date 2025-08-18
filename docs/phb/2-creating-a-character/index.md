@@ -11,9 +11,9 @@ Before you dive into character creation, there are a few things to do to get rea
 
 Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don’t know where to begin, look at the character illustrations in this book for inspiration.
 
-> ### Session Zero
->
-> Some Dungeon Masters start a campaign with a "session zero," an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
+!!! note "Session Zero"
+
+    Some Dungeon Masters start a campaign with a "session zero," an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
 
 ### Choose a Character Sheet
 
@@ -53,17 +53,17 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 | [Warlock](/sources/dnd/phb-2024/character-classes-continued#Warlock) | Occult lore | Charisma | High |
 | [Wizard](/sources/dnd/phb-2024/character-classes-continued#Wizard) | Spellbooks | Intelligence | Average |
 
-> ### A Balanced Party
-> 
-> The classic D&D party comprises a Cleric, Fighter, Rogue, and Wizard. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You’re welcome to use that party setup or modify it using these guidelines:
-> 
-> **Cleric:** Replace with Bard or Druid
-> 
-> **Fighter:** Replace with Barbarian, Monk, Paladin, or Ranger
-> 
-> **Rogue:** Replace with Bard or Ranger
-> 
-> **Wizard:** Replace with Bard, Sorcerer, or Warlock
+!!! note "A Balanced Party"
+
+    The classic D&D party comprises a Cleric, Fighter, Rogue, and Wizard. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You’re welcome to use that party setup or modify it using these guidelines:
+
+    **Cleric:** Replace with Bard or Druid
+
+    **Fighter:** Replace with Barbarian, Monk, Paladin, or Ranger
+
+    **Rogue:** Replace with Bard or Ranger
+
+    **Wizard:** Replace with Bard, Sorcerer, or Warlock
 
 #### Write Your Level
 
@@ -242,21 +242,19 @@ After assigning your ability scores, adjust them according to your background. Y
 
 Some players like to increase their class’s primary ability, while others prefer to increase a low score.
 
-> ### Backgrounds and Species from Older Books
-> 
-> Backgrounds in older D&D books don’t include ability score adjustments. If you’re using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
-> 
-> Similarly, species in older books include ability score increases. If you’re using a species from an older book, ignore those increases and use only the ones given by your background.
-> 
-> Also, if the background you choose doesn’t provide a feat, you gain an [Origin feat](/sources/dnd/phb-2024/feats#OriginFeats) of your choice.
+!!! note "Backgrounds and Species from Older Books"
+
+    Backgrounds in older D&D books don’t include ability score adjustments. If you’re using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
+
+    Similarly, species in older books include ability score increases. If you’re using a species from an older book, ignore those increases and use only the ones given by your background.
+
+    Also, if the background you choose doesn’t provide a feat, you gain an [Origin feat](/sources/dnd/phb-2024/feats#OriginFeats) of your choice.
 
 #### Determine Ability Modifiers
 
 Finally, determine your ability modifiers using the Ability Scores and Modifiers table. Write the modifier next to each of your scores.
 
-
 ##### Ability Scores and Modifiers
-
 
 | Score | Modifier |
 | --- | --- |
@@ -371,9 +369,9 @@ The summaries of the alignments below describe the typical behavior of a creatur
 
 ***Chaotic Evil (CE).*** Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
-> ### Unaligned Creatures
->
-> Most creatures that lack the capacity for rational thought don’t have alignments; they are unaligned. [Sharks](/monsters/4775838-reef-shark) are savage predators, for example, but they aren’t evil; they are unaligned.
+!!! note "Unaligned Creatures"
+
+    Most creatures that lack the capacity for rational thought don’t have alignments; they are unaligned. [Sharks](/monsters/4775838-reef-shark) are savage predators, for example, but they aren’t evil; they are unaligned.
 
 #### Alignment and Personality
 
@@ -431,7 +429,8 @@ Note these numbers on your character sheet.
 
 ***Passive Perception.*** Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you’re not actively looking for something. Use this formula to determine your Passive Perception score:
 
-- **Passive Perception** = 10 + Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check modifier
+!!! info ""
+    **Passive Perception** = 10 + Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check modifier
 
 Include all modifiers that apply to your Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) checks. For example, if your character has a Wisdom of 15 and proficiency in the [Perception](/sources/dnd/free-rules/playing-the-game#Skills) skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
@@ -458,15 +457,19 @@ The character sheet includes room to note your current Hit Points when you take 
 
 ***Attacks.*** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon’s property says otherwise:
 
-- **Melee attack bonus** = Strength modifier + Proficiency Bonus
-- **Ranged attack bonus** = Dexterity modifier + Proficiency Bonus
+!!! info ""
+    **Melee attack bonus** = Strength modifier + Proficiency Bonus
+
+    **Ranged attack bonus** = Dexterity modifier + Proficiency Bonus
 
 Look up the damage and properties of your weapons in [chapter 6](/sources/dnd/phb-2024/equipment#Weapons). You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
 ***Spellcasting.*** Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
 
-- **Spell save DC** = 8 + spellcasting ability modifier + Proficiency Bonus
-- **Spell attack bonus** = spellcasting ability modifier + Proficiency Bonus
+!!! info ""
+    **Spell save DC** = 8 + spellcasting ability modifier + Proficiency Bonus
+    
+    **Spell attack bonus** = spellcasting ability modifier + Proficiency Bonus
 
 Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
 
@@ -561,9 +564,9 @@ In tier 3, characters have reached a level of power that makes them special amon
 
 At tier 4, characters achieve the pinnacle of their class features, becoming heroic archetypes. The fate of the world or even the order of the multiverse might hang in the balance during their adventures.
 
-> ### Bonus Feats at Level 20
-> 
-> A DM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. [Epic Boon](/sources/dnd/phb-2024/feats#EpicBoonFeats) feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
+!!! note "Bonus Feats at Level 20"
+
+    A DM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. [Epic Boon](/sources/dnd/phb-2024/feats#EpicBoonFeats) feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
 
 Starting at Higher Levels
 -------------------------

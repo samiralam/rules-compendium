@@ -1,17 +1,15 @@
-# Sorcerer
+# Sorcerer: A Dazzling Mage Filled with Innate Magic
 
-*A Dazzling Mage Filled with Innate Magic*
+!!! info "Core Sorcerer Traits"
 
-## Core Sorcerer Traits
-
-| Primary Ability | Charisma |
-| --- | --- |
-| Hit Point Die | D6 per Sorcerer level |
-| Saving Throw Proficiencies | Constitution and Charisma |
-| Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [Deception](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple weapons |
-| Armor Training | None |
-| Starting Equipment | *Choose A or B:*(A) [Spear](/equipment/14-spear), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([crystal](/equipment/523-crystal)), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 28 GP; or (B) 50 GP |
+    | Primary Ability | Charisma |
+    | --- | --- |
+    | Hit Point Die | D6 per Sorcerer level |
+    | Saving Throw Proficiencies | Constitution and Charisma |
+    | Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [Deception](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple weapons |
+    | Armor Training | None |
+    | Starting Equipment | *Choose A or B:*(A) [Spear](/equipment/14-spear), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([crystal](/equipment/523-crystal)), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 28 GP; or (B) 50 GP |
 
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can’t name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby’s birth or the strike of lightning from a clear sky might spark a Sorcerer’s gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.
 
@@ -19,14 +17,14 @@ Sorcerers don’t learn magic; the raw, roiling power of magic is part of them. 
 
 Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn’t like to stay quiet. A Sorcerer’s magic wants to be wielded.
 
-### Becoming a Sorcerer...
+## Becoming a Sorcerer...
 
-#### As a Level 1 Character
+### As a Level 1 Character
 
 * Gain all the traits in the [Core Sorcerer Traits table](#CoreSorcererTraits).
 * Gain the Sorcerer’s level 1 features, which are listed in the [Sorcerer Features table](#SorcererFeatures).
 
-#### As a Multiclass Character
+### As a Multiclass Character
 
 * Gain the Hit Point Die from the [Core Sorcerer Traits table](#CoreSorcererTraits).
 * Gain the Sorcerer’s level 1 features, which are listed in the [Sorcerer Features table](#SorcererFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
@@ -35,8 +33,7 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 
 As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
 
-
-## Sorcerer Features
+#### Sorcerer Features
 
 | Level | Proficiency Bonus | Class Features | Sorcery Points | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

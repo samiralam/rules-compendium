@@ -56,23 +56,26 @@ Background Descriptions
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [Acolyte](#Acolyte)
-- [Artisan](#Artisan)
-- [Charlatan](#Charlatan)
-- [Criminal](#Criminal)
-- [Entertainer](#Entertainer)
-- [Farmer](#Farmer)
-- [Guard](#Guard)
-- [Guide](#Guide)
-- [Hermit](#Hermit)
-- [Merchant](#Merchant)
-- [Noble](#Noble)
-- [Sage](#Sage)
-- [Sailor](#Sailor)
-- [Scribe](#Scribe)
-- [Soldier](#Soldier)
-- [Wayfarer](#Wayfarer)
+<div class="grid cards" markdown>
 
+- **[Acolyte](#Acolyte)**
+- **[Artisan](#Artisan)**
+- **[Charlatan](#Charlatan)**
+- **[Criminal](#Criminal)**
+- **[Entertainer](#Entertainer)**
+- **[Farmer](#Farmer)**
+- **[Guard](#Guard)**
+- **[Guide](#Guide)**
+- **[Hermit](#Hermit)**
+- **[Merchant](#Merchant)**
+- **[Noble](#Noble)**
+- **[Sage](#Sage)**
+- **[Sailor](#Sailor)**
+- **[Scribe](#Scribe)**
+- **[Soldier](#Soldier)**
+- **[Wayfarer](#Wayfarer)**
+
+</div>
 
 ---
 

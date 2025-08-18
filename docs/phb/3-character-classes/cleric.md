@@ -1,18 +1,15 @@
-# Cleric
+# Cleric: A Miraculous Priest of Divine Power
 
-*A Miraculous Priest of Divine Power*
+!!! info "Core Cleric Traits"
 
-## Core Cleric Traits
-
-
-| Primary Ability | Wisdom |
-| --- | --- |
-| Hit Point Die | D8 per Cleric level |
-| Saving Throw Proficiencies | Wisdom and Charisma |
-| Skill Proficiencies | *Choose 2:* [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple weapons |
-| Armor Training | Light and Medium armor and Shields |
-| Starting Equipment | *Choose A or B:* (A) [Chain Shirt](/equipment/12-chain-shirt), [Shield](/equipment/8-shield), [Mace](/equipment/11-mace), [Holy Symbol](/equipment/514-holy-symbol), [Priest’s Pack](/equipment/405-priests-pack), and 7 GP; or (B) 110 GP |
+    | Primary Ability | Wisdom |
+    | --- | --- |
+    | Hit Point Die | D8 per Cleric level |
+    | Saving Throw Proficiencies | Wisdom and Charisma |
+    | Skill Proficiencies | *Choose 2:* [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple weapons |
+    | Armor Training | Light and Medium armor and Shields |
+    | Starting Equipment | *Choose A or B:* (A) [Chain Shirt](/equipment/12-chain-shirt), [Shield](/equipment/8-shield), [Mace](/equipment/11-mace), [Holy Symbol](/equipment/514-holy-symbol), [Priest’s Pack](/equipment/405-priests-pack), and 7 GP; or (B) 110 GP |
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
@@ -20,14 +17,14 @@ Because their power is a divine gift, Clerics typically associate themselves wit
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
 
-### Becoming a Cleric...
+## Becoming a Cleric...
 
-#### As a Level 1 Cleric
+### As a Level 1 Cleric
 
 * Gain all the traits in the [Core Cleric Traits table](#CoreClericTraits).
 * Gain the Cleric’s level 1 features, which are listed in the [Cleric Features table](#ClericFeatures).
 
-#### As a Multiclass Cleric
+### As a Multiclass Cleric
 
 * Gain the following traits from the [Core Cleric Traits table](#CoreClericTraits): Hit Point Die and training with Light and Medium armor and Shields.
 * Gain the Cleric’s level 1 features, which are listed in the [Cleric Features table](#ClericFeatures). See the multiclassing rules in [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
@@ -37,7 +34,7 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
 
 
-## Cleric Features
+#### Cleric Features
 
 | Level | Proficiency Bonus | Class Features | Channel Divinity | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

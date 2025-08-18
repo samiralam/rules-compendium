@@ -1,18 +1,15 @@
-# Paladin
+# Paladin: A Devout Warrior of Sacred Oaths
 
-*A Devout Warrior of Sacred Oaths*
+!!! info "Core Paladin Traits"
 
-## Core Paladin Traits
-
-
-| Primary Ability | Strength and Charisma |
-| --- | --- |
-| Hit Point Die | D10 per Paladin level |
-| Saving Throw Proficiencies | Wisdom and Charisma |
-| Skill Proficiencies | *Choose 2:* [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple and Martial weapons |
-| Armor Training | Light, Medium, and Heavy armor and Shields |
-| Starting Equipment | *Choose A or B:* (A) [Chain Mail](/equipment/16-chain-mail), [Shield](/equipment/8-shield), [Longsword](/equipment/4-longsword), 6 [Javelins](/equipment/8-javelin), [Holy Symbol](/equipment/514-holy-symbol), [Priest’s Pack](/equipment/405-priests-pack), and 9 GP; or (B) 150 GP |
+    | Primary Ability | Strength and Charisma |
+    | --- | --- |
+    | Hit Point Die | D10 per Paladin level |
+    | Saving Throw Proficiencies | Wisdom and Charisma |
+    | Skill Proficiencies | *Choose 2:* [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple and Martial weapons |
+    | Armor Training | Light, Medium, and Heavy armor and Shields |
+    | Starting Equipment | *Choose A or B:* (A) [Chain Mail](/equipment/16-chain-mail), [Shield](/equipment/8-shield), [Longsword](/equipment/4-longsword), 6 [Javelins](/equipment/8-javelin), [Holy Symbol](/equipment/514-holy-symbol), [Priest’s Pack](/equipment/405-priests-pack), and 9 GP; or (B) 150 GP |
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god’s altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin’s oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
 
@@ -20,14 +17,14 @@ Paladins train to learn the skills of combat, mastering a variety of weapons and
 
 Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world’s armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic.
 
-### Becoming a Paladin...
+## Becoming a Paladin...
 
-#### As a Level 1 Character
+### As a Level 1 Character
 
 * [Gain all the traits in the](#Illusionist) [Core Paladin Traits table](#CorePaladinTraits).
 * Gain the Paladin’s level 1 features, which are listed in the [Paladin Features table](#PaladinFeatures).
 
-#### As a Multiclass Character
+### As a Multiclass Character
 
 * Gain the following traits from the [Core Paladin Traits table](#CorePaladinTraits): Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 * Gain the Paladin’s level 1 features, which are listed in the [Paladin Features table](#PaladinFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
@@ -36,8 +33,7 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 
 As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table.
 
-
-## Paladin Features
+#### Paladin Features
 
 | Level | Proficiency Bonus | Class Features | Channel Divinity | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -118,13 +114,13 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 You gain a Paladin subclass of your choice. The [Oath of Devotion](#OathofDevotion), [Oath of Glory](#OathofGlory), [Oath of the Ancients](#OathoftheAncients), and [Oath of Vengeance](#OathofVengeance) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
 
-> ## Breaking Your Oath
-> 
-> A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
-> 
-> A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
-> 
-> If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
+!!! note "Breaking Your Oath"
+
+    A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
+
+    A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
+
+    If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
 ### Level 4: Ability Score Improvement
 

@@ -1,6 +1,7 @@
 # Introduction: Welcome to Adventure
 
-!!! quote
+!!! quote ""
+
     This story began 50 years ago, and you’re part of it. In the 1970s, Gary Gygax and Dave Arneson created a game of make-believe that fused rules with storytelling. There’d never been anything like it: a game in which each player made their own fantasy character and teamed up with their friends to go on quests. One person served as the narrator and referee—the Dungeon Master—and did everything they could to challenge and delight the other players. That game was, of course, the first version of Dungeons & Dragons, and you’re now reading its latest version.
 
     Over the decades, millions of people have played D&D, and scores of writers, game designers, and artists have made their mark on it through its various editions. When our team released the current edition in 2014, we were humbled by how many of you loved it. This revised version of it is a salute to all of you—those of you who’ve been playing D&D for years, those of you who’ve contributed to the game through your feedback, and those of you who are about to experience the joy of playing it for the first time.
@@ -25,6 +26,7 @@ Here’s what you need to play D&D with one or more friends (a typical group has
 **Players.** Each player creates an adventurer who teams up with the other players’ adventurers. Working together, the group might explore a dark dungeon, a ruined city, a haunted castle, a lost temple, a lava-filled mountain, or another location described by the DM. The adventurers also solve puzzles, talk with other characters, battle fantastic monsters, and discover magic items and other treasure—all while supporting each other’s fun.
 
 !!! note "Learn by Watching"
+
     A great way to learn the basics of D&D is to watch people play it. The Internet offers videos of D&D play that show off the tremendous range of possibilities the game offers. As you watch, pay attention to the ways that some players help make the game fun for everyone in their group. The only audience you need to entertain when you’re playing D&D is yourself and your group.
 
 You also need these resources, either in physical form or on DnDBeyond.com:

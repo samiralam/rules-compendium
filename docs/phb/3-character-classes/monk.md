@@ -1,19 +1,16 @@
-# Monk
+# Monk: A Martial Artist of Supernatural Focus
 
-*A Martial Artist of Supernatural Focus*
+!!! info "Core Monk Traits"
 
-## Core Monk Traits
-
-
-| Primary Ability | Dexterity and Wisdom |
-| --- | --- |
-| Hit Point Die | D8 per Monk level |
-| Saving Throw Proficiencies | Strength and Dexterity |
-| Skill Proficiencies | *Choose 2:* [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Religion](/sources/dnd/free-rules/playing-the-game#Skills), or [Stealth](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple weapons and Martial weapons that have the [Light](/sources/dnd/free-rules/equipment#Light) property |
-| Tool Proficiencies | Choose one type of Artisan’s Tools or Musical Instrument (see [chapter 6](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)) |
-| Armor Training | None |
-| Starting Equipment | *Choose A or B:* (A) [Spear](/equipment/14-spear), 5 [Daggers](/equipment/3-dagger), **[Artisan’s Tools](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)** or **[Musical Instrument](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)** chosen for the tool proficiency above, [Explorer’s Pack](/equipment/522-explorers-pack), and 11 GP; or (B) 50 GP |
+    | Primary Ability | Dexterity and Wisdom |
+    | --- | --- |
+    | Hit Point Die | D8 per Monk level |
+    | Saving Throw Proficiencies | Strength and Dexterity |
+    | Skill Proficiencies | *Choose 2:* [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Religion](/sources/dnd/free-rules/playing-the-game#Skills), or [Stealth](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple weapons and Martial weapons that have the [Light](/sources/dnd/free-rules/equipment#Light) property |
+    | Tool Proficiencies | Choose one type of Artisan’s Tools or Musical Instrument (see [chapter 6](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)) |
+    | Armor Training | None |
+    | Starting Equipment | *Choose A or B:* (A) [Spear](/equipment/14-spear), 5 [Daggers](/equipment/3-dagger), **[Artisan’s Tools](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)** or **[Musical Instrument](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)** chosen for the tool proficiency above, [Explorer’s Pack](/equipment/522-explorers-pack), and 11 GP; or (B) 50 GP |
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.
 
@@ -23,14 +20,14 @@ Many Monks find that a structured life of ascetic withdrawal helps them cultivat
 
 Monks generally view adventures as tests of their physical and mental development. They are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering treasure; they strive to turn themselves into living weapons.
 
-### Becoming a Monk...
+## Becoming a Monk...
 
-#### As a Level 1 Monk
+### As a Level 1 Monk
 
 * Gain all the traits in the [Core Monk Traits table](#CoreMonkTraits).
 * Gain the Monk’s level 1 features, which are listed in the [Monk Features table](#MonkFeatures).
 
-#### As a Multiclass Monk
+### As a Multiclass Monk
 
 * Gain the Hit Point Die trait from the [Core Monk Traits table](#CoreMonkTraits).
 * Gain the Monk’s level 1 features, which are listed in the [Monk Features table](#MonkFeatures).
@@ -40,8 +37,7 @@ Monks generally view adventures as tests of their physical and mental developmen
 As a Monk, you gain the following class features when you reach the specified Monk levels. These features are listed in the Monk Features table.
 
 
-## Monk Features
-
+#### Monk Features
 
 | Level | Proficiency Bonus | Class Features | Martial Arts | Focus Points | Unarmored Movement |
 | --- | --- | --- | --- | --- | --- |

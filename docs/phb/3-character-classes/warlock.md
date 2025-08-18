@@ -1,17 +1,15 @@
-# Warlock
+# Warlock: An Occultist Empowered by Otherworldly Pacts
 
-*An Occultist Empowered by Otherworldly Pacts*
+!!! info "Core Warlock Traits"
 
-## Core Warlock Traits
-
-| Primary Ability | Charisma |
-| --- | --- |
-| Hit Point Die | D8 per Warlock level |
-| Saving Throw Proficiencies | Wisdom and Charisma |
-| Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [Deception](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple weapons |
-| Armor Training | Light armor |
-| Starting Equipment | *Choose A or B:* (A) [Leather Armor](/equipment/10-leather), [Sickle](/equipment/13-sickle), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([orb](/equipment/526-orb)), [Book](/equipment/439-book) (occult lore), [Scholar’s Pack](/equipment/418-scholars-pack), and 15 GP; or (B) 100 GP |
+    | Primary Ability | Charisma |
+    | --- | --- |
+    | Hit Point Die | D8 per Warlock level |
+    | Saving Throw Proficiencies | Wisdom and Charisma |
+    | Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [Deception](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple weapons |
+    | Armor Training | Light armor |
+    | Starting Equipment | *Choose A or B:* (A) [Leather Armor](/equipment/10-leather), [Sickle](/equipment/13-sickle), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([orb](/equipment/526-orb)), [Book](/equipment/439-book) (occult lore), [Scholar’s Pack](/equipment/418-scholars-pack), and 15 GP; or (B) 100 GP |
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 
@@ -19,14 +17,14 @@ Warlocks view their patrons as resources, as means to the end of achieving magic
 
 Once a pact is made, a Warlock’s thirst for knowledge and power can’t be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
 
-### Becoming a Warlock...
+## Becoming a Warlock...
 
-#### As a Level 1 Character
+### As a Level 1 Character
 
 * Gain all the traits in the [Core Warlock Traits table](#CoreWarlockTraits).
 * Gain the Warlock’s level 1 features, which are listed in the [Warlock Features table](#WarlockFeatures).
 
-#### As a Multiclass Character
+### As a Multiclass Character
 
 * Gain the following traits from the [Core Warlock Traits table](#CoreWarlockTraits): Hit Point Die and training with Light armor.
 * Gain the Warlock’s level 1 features, which are listed in the [Warlock Features table](#WarlockFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
@@ -35,9 +33,7 @@ Once a pact is made, a Warlock’s thirst for knowledge and power can’t be sla
 
 As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.
 
-
-## Warlock Features
-
+#### Warlock Features
 
 | Level | Proficiency Bonus | Class Features | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |

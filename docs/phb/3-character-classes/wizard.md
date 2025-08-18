@@ -1,17 +1,15 @@
-# Wizard
+# Wizard: A Scholarly Magic-User of Arcane Power
 
-*A Scholarly Magic-User of Arcane Power*
+!!! info "Core Wizard Traits"
 
-## Core Wizard Traits
-
-| Primary Ability | Intelligence |
-| --- | --- |
-| Hit Point Die | D6 per Wizard level |
-| Saving Throw Proficiencies | Intelligence and Wisdom |
-| Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies | Simple weapons |
-| Armor Training | None |
-| Starting Equipment | *Choose A or B:* (A) 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([Quarterstaff](/equipment/12-quarterstaff)), [Robe](/equipment/412-robe), [Spellbook](/equipment/86-spellbook), [Scholar’s Pack](/equipment/418-scholars-pack), and 5 GP; or (B) 55 GP |
+    | Primary Ability | Intelligence |
+    | --- | --- |
+    | Hit Point Die | D6 per Wizard level |
+    | Saving Throw Proficiencies | Intelligence and Wisdom |
+    | Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
+    | Weapon Proficiencies | Simple weapons |
+    | Armor Training | None |
+    | Starting Equipment | *Choose A or B:* (A) 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([Quarterstaff](/equipment/12-quarterstaff)), [Robe](/equipment/412-robe), [Spellbook](/equipment/86-spellbook), [Scholar’s Pack](/equipment/418-scholars-pack), and 5 GP; or (B) 55 GP |
 
 Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 
@@ -21,14 +19,14 @@ The closest a Wizard is likely to come to an ordinary life is working as a sage 
 
 But the lure of knowledge calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age.
 
-### Becoming a Wizard...
+## Becoming a Wizard...
 
-#### As a Level 1 Character
+### As a Level 1 Character
 
 * Gain all the traits in the [Core Wizard Traits table](#CoreWizardTraits).
 * Gain the Wizard’s level 1 features, which are listed in the [Wizard Features table](#WizardFeatures).
 
-#### As a Multiclass Character
+### As a Multiclass Character
 
 * Gain the Hit Point Die from the [Core Wizard Traits table](#CoreWizardTraits).
 * Gain the Wizard’s level 1 features, which are listed in the [Wizard Features table](#WizardFeatures). See the multiclassing rules in chapter 2 to determine your available spell slots.
@@ -37,8 +35,7 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 
 As a Wizard, you gain the following class features when you reach the specified Wizard levels. These features are listed in the Wizard Features table.
 
-
-## Wizard Features
+#### Wizard Features
 
 | Level | Proficiency Bonus | Class Features | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -91,15 +88,15 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
 ***Spellcasting Focus.*** You can use an [Arcane Focus](/equipment/544-arcane-focus) or your [spellbook](/equipment/86-spellbook) as a Spellcasting Focus for your Wizard spells.
 
-> ## Expanding and Replacing a Spellbook
-> 
-> The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [Spell Scroll](/magic-items/9229085-spell-scroll), for example, and then copy it into your spellbook.
-> 
-> ***Copying a Spell into the Book.*** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it’s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
-> 
-> ***Copying the Book.*** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
-> 
-> If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+!!! note "Expanding and Replacing a Spellbook"
+
+    The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [Spell Scroll](/magic-items/9229085-spell-scroll), for example, and then copy it into your spellbook.
+
+    ***Copying a Spell into the Book.*** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it’s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
+
+    ***Copying the Book.*** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
+
+    If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
 
 ### Level 1: Ritual Adept
 

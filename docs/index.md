@@ -1,11 +1,12 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 # Welcome
 
-Welcome to the Rules Compendium, a searchable index of D&D 5.5e rules built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). This site is organized by sourcebook.
+Welcome to the Rules Compendium, a searchable index of D&D 5.5e rules built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). This is intended to be used as a supplement to the paper sourcebooks.
 
 ## Content
 
@@ -31,7 +32,7 @@ Welcome to the Rules Compendium, a searchable index of D&D 5.5e rules built with
 
     ---
 
-    Stat blocks and lore for hundreds of D&D monsters.
+    Stat blocks and lore for the monsters of the realm.
 
     > :material-clock-fast: Coming soon
 

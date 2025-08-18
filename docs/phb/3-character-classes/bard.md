@@ -1,18 +1,16 @@
-# Bard
+# Bard: An Inspiring Performer of Music, Dance, and Magic
 
-*An Inspiring Performer of Music, Dance, and Magic*
+!!! info "Core Bard Traits"
 
-## Core Bard Traits
-
-| Primary Ability | Charisma |
-| --- | --- |
-| Hit Point Die | D8 per Bard level |
-| Saving Throw Proficiencies | Dexterity and Charisma |
-| Skill Proficiencies | Choose any 3 skills (see [chapter 1](https://www.dndbeyond.com/sources/dnd/phb-2024/playing-the-game#SkillList)) |
-| Weapon Proficiencies | Simple weapons |
-| Tool Proficiencies | Choose 3 Musical Instruments (see [chapter 6](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)) |
-| Armor Training | Light armor |
-| Starting Equipment | Choose A or B: (A) [Leather Armor](/equipment/10-leather), 2 [Daggers](/equipment/3-dagger), **[Musical Instrument](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)** of your choice, [Entertainer’s Pack](/equipment/524-entertainers-pack), and 19 GP; or (B) 90 GP |
+    | Primary Ability | Charisma |
+    | --- | --- |
+    | Hit Point Die | D8 per Bard level |
+    | Saving Throw Proficiencies | Dexterity and Charisma |
+    | Skill Proficiencies | Choose any 3 skills (see [chapter 1](https://www.dndbeyond.com/sources/dnd/phb-2024/playing-the-game#SkillList)) |
+    | Weapon Proficiencies | Simple weapons |
+    | Tool Proficiencies | Choose 3 Musical Instruments (see [chapter 6](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)) |
+    | Armor Training | Light armor |
+    | Starting Equipment | Choose A or B: (A) [Leather Armor](/equipment/10-leather), 2 [Daggers](/equipment/3-dagger), **[Musical Instrument](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)** of your choice, [Entertainer’s Pack](/equipment/524-entertainers-pack), and 19 GP; or (B) 90 GP |
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 
@@ -20,14 +18,14 @@ Anything can inspire a new song or tale, so Bards are fascinated by almost every
 
 A Bard’s life is spent traveling, gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards’ depth of knowledge and mastery of magic sets them apart.
 
-### Becoming a Bard...
+## Becoming a Bard...
 
-#### As a Level 1 Bard
+### As a Level 1 Bard
 
 * Gain all the traits in the [Core Bard Traits table](#CoreBardTraits).
 * Gain the Bard’s level 1 features, which are listed in the [Bard Features table](#BardFeatures).
 
-#### As a Multiclass Bard
+### As a Multiclass Bard
 
 * Gain the following traits from the [Core Bard Traits table](#CoreBardTraits): Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
 * Gain the Bard’s level 1 features, which are listed in the [Bard Features table](#BardFeatures). See the multiclassing rules in [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
@@ -36,8 +34,7 @@ A Bard’s life is spent traveling, gathering lore, telling stories, and living 
 
 As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
 
-
-## Bard Features
+#### Bard Features
 
 | Level | Proficiency Bonus | Class Features | Bardic Die | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -110,9 +107,9 @@ You can add half your Proficiency Bonus (round down) to any ability check you ma
 
 For example, if you make a Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check and lack [Athletics](/sources/dnd/free-rules/playing-the-game#Skills) proficiency, you can add half your Proficiency Bonus to the check.
 
-> ## A Bard’s Repertoire
-> 
-> Does your Bard beat a drum while chanting the deeds of ancient heroes? Strum a lute while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?
+!!! note "A Bard’s Repertoire"
+
+    Does your Bard beat a drum while chanting the deeds of ancient heroes? Strum a lute while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?
 
 When you play a Bard, consider the style of artistic performance you favor, the moods you might invoke, and the themes that inspire your own creations. Are your poems inspired by moments of natural beauty, or are they brooding reflections on loss? Do you prefer lofty hymns or rowdy tavern songs? Are you drawn to laments for the fallen or celebrations of joy? Do you dance merry jigs or perform elaborate interpretive choreography? Do you focus on one style of performance or strive to master them all?
 
