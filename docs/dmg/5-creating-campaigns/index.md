@@ -15,7 +15,7 @@ Follow these steps to create a campaign:
 
 **Step 4: Bring It to an End.** Think about how the campaign might end and what level you expect the characters to be when the campaign wraps up.
 
-You might have noticed that these steps are similar to the “[Step-by-Step Adventures](/sources/dnd/dmg-2024/creating-adventures#StepbyStepAdventures)” list at the start of [chapter 4](/sources/dnd/dmg-2024/creating-adventures). In many ways, a campaign is just an adventure writ large. In an ongoing campaign, one adventure flows naturally into the next.
+You might have noticed that these steps are similar to the "[Step-by-Step Adventures](/sources/dnd/dmg-2024/creating-adventures#StepbyStepAdventures)" list at the start of [chapter 4](/sources/dnd/dmg-2024/creating-adventures). In many ways, a campaign is just an adventure writ large. In an ongoing campaign, one adventure flows naturally into the next.
 
 Later sections of this chapter offer inspiration and advice for each of these four steps. The chapter concludes with a campaign example.
 
@@ -28,11 +28,11 @@ If your campaign lasts for months or years, sustaining that high level of excite
 
 ### Keeping a Journal
 
-A campaign journal documents the progression of your campaign, from the first game session to the last. Your journal can take whatever form works best for you. It might be a physical notebook; a binder of loose notes, maps, and tracking sheets; a wiki; or a collection of files on your computer. Journal entries are best organized by date or game session. (Some DMs prefer the term “episode” to “game session,” but the terms are interchangeable.)
+A campaign journal documents the progression of your campaign, from the first game session to the last. Your journal can take whatever form works best for you. It might be a physical notebook; a binder of loose notes, maps, and tracking sheets; a wiki; or a collection of files on your computer. Journal entries are best organized by date or game session. (Some DMs prefer the term "episode" to "game session," but the terms are interchangeable.)
 
 ### Using Your Journal
 
-Use your journal to plan out your next game session (see “[Preparing a Session](/sources/dnd/dmg-2024/the-basics#PreparingaSession)” in [chapter 1](/sources/dnd/dmg-2024/the-basics)). Then, when the game session is over, use the journal to capture anything else of importance that might have bearing on future sessions, such as the name of an NPC you created on the fly or a critical piece of information the characters learned.
+Use your journal to plan out your next game session (see "[Preparing a Session](/sources/dnd/dmg-2024/the-basics#PreparingaSession)" in [chapter 1](/sources/dnd/dmg-2024/the-basics)). Then, when the game session is over, use the journal to capture anything else of importance that might have bearing on future sessions, such as the name of an NPC you created on the fly or a critical piece of information the characters learned.
 
 During a game session, you can use your campaign journal to quickly recall a piece of information you’ve forgotten (such as the name of a character’s mule) or to jot down things you want to remember later (such as the name of a tavern). In this way, the journal becomes a living chronicle of the campaign in flight.
 
@@ -57,7 +57,7 @@ Everything outlined about the story of an adventure in [chapter 4](/sources/dnd/
 
 The characters are the focus of every D&D adventure, and their players are your partners in developing their characters’ epic journeys.
 
-By working with your players to understand what excites them most, you can craft stories they want to see their characters star in. You can also more effectively draw players into adventure plots (see “[Draw In the Players](/sources/dnd/dmg-2024/creating-adventures#DrawInthePlayers)” in [chapter 4](/sources/dnd/dmg-2024/creating-adventures)) if you understand what motivates both them and their characters.
+By working with your players to understand what excites them most, you can craft stories they want to see their characters star in. You can also more effectively draw players into adventure plots (see "[Draw In the Players](/sources/dnd/dmg-2024/creating-adventures#DrawInthePlayers)" in [chapter 4](/sources/dnd/dmg-2024/creating-adventures)) if you understand what motivates both them and their characters.
 
 #### Player Input
 
@@ -69,7 +69,7 @@ It’s not up to you to create every aspect of a D&D campaign. Players contribut
 
 #### Character Arcs
 
-Like most protagonists in film and literature, D&D adventurers face challenges and change through the experience of overcoming them. By incorporating each character’s motivations into your adventures and setting higher stakes through play, you’ll help characters grow in exciting ways. You can use the [DM’s Character Tracker](#DMsCharacterTracker) sheet to keep track of key information about each character. See “[Getting Players Invested](/sources/dnd/dmg-2024/creating-campaigns#GettingPlayersInvested)” in this chapter for more ideas.
+Like most protagonists in film and literature, D&D adventurers face challenges and change through the experience of overcoming them. By incorporating each character’s motivations into your adventures and setting higher stakes through play, you’ll help characters grow in exciting ways. You can use the [DM’s Character Tracker](#DMsCharacterTracker) sheet to keep track of key information about each character. See "[Getting Players Invested](/sources/dnd/dmg-2024/creating-campaigns#GettingPlayersInvested)" in this chapter for more ideas.
 
 ***Character Motivations.*** For each character, think about what motivates them to adventure. Motivations generally fall into the following categories:
 
@@ -109,7 +109,7 @@ Use the answers to these questions to develop new character goals and to inspire
 
 One way to ensure your campaign’s longevity is to come up with three compelling conflicts you can create adventures around. Introduce these conflicts early in the campaign. As the campaign unfolds, focus adventures on different conflicts to keep the players’ excitement high.
 
-Use the Campaign Conflicts tracking sheet to record your campaign’s conflicts (with room to add details or notes). A conflict can be as big or as small as you like, and it’s nice to have at least one conflict that can be resolved quickly. Each conflict should involve the adventurers against some antagonistic force, though you can also create conflicts between two powerful forces without necessarily knowing which force (if either) the adventurers will align themselves with. The “Flavors of Fantasy” section below provides examples of conflicts that reinforce particular themes.
+Use the Campaign Conflicts tracking sheet to record your campaign’s conflicts (with room to add details or notes). A conflict can be as big or as small as you like, and it’s nice to have at least one conflict that can be resolved quickly. Each conflict should involve the adventurers against some antagonistic force, though you can also create conflicts between two powerful forces without necessarily knowing which force (if either) the adventurers will align themselves with. The "Flavors of Fantasy" section below provides examples of conflicts that reinforce particular themes.
 
 If a conflict reaches a satisfying end before the end of the campaign, create a new conflict to replace it. You can also replace conflicts that don’t resonate with your players as well as conflicts you’re having trouble building adventures around.
 
@@ -119,7 +119,7 @@ In the same way you think about character arcs over the course of a campaign, th
 
 One helpful way to structure a conflict arc is to use the [tiers of play](/sources/dnd/dmg-2024/creating-adventures#AdventureSituationsbyLevel) described in [chapter 4](/sources/dnd/dmg-2024/creating-adventures). Levels 5, 11, and 17 represent milestones in character power and capabilities, and they can also be story milestones in the arc of your campaign. The shift from one tier to another is an ideal time to wrap up a campaign conflict and introduce a new one that has a broader reach and represents a greater threat. The threshold of a new tier can also be an opportunity for characters to realize the scale of a conflict they’ve been dealing with—to realize, for example, that the bandits they fought throughout their first four levels are merely puppets of an enemy nation they must confront in the second tier.
 
-The “[Greyhawk](/sources/dnd/dmg-2024/greyhawk)” section in this chapter has examples of conflict arcs.
+The "[Greyhawk](/sources/dnd/dmg-2024/greyhawk)" section in this chapter has examples of conflict arcs.
 
 ### Flavors of Fantasy
 
@@ -178,7 +178,7 @@ A mythic fantasy campaign draws on the themes and stories of ancient myth and le
 
 If you want to put a horror spin on your campaign, the *Monster Manual* is full of creatures that suit a storyline of supernatural horror. An essential element of such a campaign is an atmosphere of dread, created through careful pacing and evocative description. Your players contribute too; they must be willing to embrace the mood.
 
-Whether you want to run a full-fledged horror campaign or a single creepy adventure, discuss your plans with the players ahead of time. Horror can be intense and personal, and not everyone is comfortable with such a game. (The advice on discussing limits under “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” in [chapter 1](/sources/dnd/dmg-2024/the-basics) is particularly important for a horror game.)
+Whether you want to run a full-fledged horror campaign or a single creepy adventure, discuss your plans with the players ahead of time. Horror can be intense and personal, and not everyone is comfortable with such a game. (The advice on discussing limits under "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics) is particularly important for a horror game.)
 
 ***Supernatural Horror Conflicts.*** A supernatural horror campaign often features Undead or demonic foes whose evil transcends the merely mortal. Consider conflicts like these to drive the campaign:
 
@@ -238,7 +238,7 @@ A campaign focused on warfare centers on heroes whose actions turn the tide of b
 
 #### Crossing the Streams
 
-Deep in D&D’s roots are elements of science fiction and science fantasy as well as a wide-ranging collection of fantasy inspiration, and your campaign might draw on those sources as well. You can send your characters hurtling through a magic mirror to Lewis Carroll’s Wonderland, put them aboard a ship traveling between the stars, or set your campaign in a far-future world where laser weapons (see “[Firearms and Explosives](/sources/dnd/dmg-2024/dms-toolbox#FirearmsandExplosives)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) and [Wands of Magic Missile](/magic-items/9237129-wand-of-magic-missiles) exist side by side.
+Deep in D&D’s roots are elements of science fiction and science fantasy as well as a wide-ranging collection of fantasy inspiration, and your campaign might draw on those sources as well. You can send your characters hurtling through a magic mirror to Lewis Carroll’s Wonderland, put them aboard a ship traveling between the stars, or set your campaign in a far-future world where laser weapons (see "[Firearms and Explosives](/sources/dnd/dmg-2024/dms-toolbox#FirearmsandExplosives)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) and [Wands of Magic Missile](/magic-items/9237129-wand-of-magic-missiles) exist side by side.
 
 ***Crossing the Streams Conflicts.*** Conflicts like these create opportunities for crossing the streams:
 
@@ -311,7 +311,7 @@ With your campaign journal in hand and the basic premise of your campaign (chara
 
 ### Session Zero
 
-At the start of a campaign, you and your players can run a special session—called session zero because it comes before the first session of play—to establish expectations, share ideas, and discuss house rules, with the goal of ensuring the game is a fun experience for everyone involved. The “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” section in [chapter 1](/sources/dnd/dmg-2024/the-basics) covers some of the most important groundwork you need to establish at the start of a new campaign.
+At the start of a campaign, you and your players can run a special session—called session zero because it comes before the first session of play—to establish expectations, share ideas, and discuss house rules, with the goal of ensuring the game is a fun experience for everyone involved. The "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" section in [chapter 1](/sources/dnd/dmg-2024/the-basics) covers some of the most important groundwork you need to establish at the start of a new campaign.
 
 Often session zero includes building characters together. As the DM, you can help players during character creation by advising them on which options best suit the campaign.
 
@@ -350,7 +350,7 @@ If the players are having trouble coming up with a story for how their character
 
 Session zero is a great time to share basic information about the campaign with your players. Such information typically includes the following:
 
-**Starting Location Details.** Your players need basic information about the place where the characters are starting, such as the name of the settlement, important locations in and around it, and prominent NPCs they’d know about (see “Starting Location”).
+**Starting Location Details.** Your players need basic information about the place where the characters are starting, such as the name of the settlement, important locations in and around it, and prominent NPCs they’d know about (see "Starting Location").
 
 **Key Events.** Describe any current or past events that help frame the campaign. For example, the campaign might start on the heels of a great war or on the day of a festival. Describing key events helps set the mood and prepare players for upcoming adventures.
 
@@ -377,7 +377,7 @@ Plan Adventures
 
 A D&D campaign is like a garden. Each new adventure plants new seeds in the garden, which requires regular tending lest it run wild. Over time, your campaign will grow and flourish in ways you expected and in ways that will surprise you. You might need to weed out elements that aren’t resonating with your players while planting new elements to tantalize them.
 
-Most D&D campaigns grow organically, rather than having all their elements set in stone from the get-go. From time to time, the characters’ decisions will require you to improvise and create new campaign elements on the fly. For example, a new location might need to be developed to address the needs of the unfolding story, or certain NPCs might need fleshing out at a moment’s notice. Other parts of this book, such as the “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” and “[Settlements](/sources/dnd/dmg-2024/dms-toolbox#Settlements)” sections in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox), can help you expand your campaign quickly.
+Most D&D campaigns grow organically, rather than having all their elements set in stone from the get-go. From time to time, the characters’ decisions will require you to improvise and create new campaign elements on the fly. For example, a new location might need to be developed to address the needs of the unfolding story, or certain NPCs might need fleshing out at a moment’s notice. Other parts of this book, such as the "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" and "[Settlements](/sources/dnd/dmg-2024/dms-toolbox#Settlements)" sections in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox), can help you expand your campaign quickly.
 
 ### Episodes and Serials
 
@@ -436,7 +436,7 @@ As your campaign continues, introduce new people and locations, and bring back f
 
 It’s often easier to describe people and places that are hostile or frightening than it is to detail a feature you want characters to love. How can you know what rustic scene will make a character associate a place with home or what personality quirk will remind a character of their favorite mentor? You can ask a character’s player directly, but instead consider handing over your narrative reins and letting a player describe the perfect detail.
 
-For example, say you have a peaceful village you plan to feature across several adventures. You hope the characters will connect with the place and treat it as home. As the characters enter the community, they smell something amazing. At this point, you could describe something you think smells good or something you think a character would like. Or you can ask a player, “The smell of something amazing drifts from around the corner. What is it?” Whatever the player’s answer—cinnamon rolls from a nearby baker, firework charges being prepared for a celebration, or anything else—becomes part of the village, and the player has added an important detail to the location.
+For example, say you have a peaceful village you plan to feature across several adventures. You hope the characters will connect with the place and treat it as home. As the characters enter the community, they smell something amazing. At this point, you could describe something you think smells good or something you think a character would like. Or you can ask a player, "The smell of something amazing drifts from around the corner. What is it?" Whatever the player’s answer—cinnamon rolls from a nearby baker, firework charges being prepared for a celebration, or anything else—becomes part of the village, and the player has added an important detail to the location.
 
 You can use player input whenever you want to pinpoint something meaningful to the characters and their players. Consider asking players questions like these whenever you want to describe something in an impactful way:
 
@@ -485,7 +485,7 @@ Consider these ideas for a break episode.
 
 Most conflicts in a D&D campaign take weeks or months of in-world time to resolve. A typical campaign concludes within a year of in-world time unless you allow the characters to enjoy lengthy periods of quiet time between adventures.
 
-If you don’t want to track the passage of days, weeks, and months, you might instead track the passage of time using seasons and seasonal festivals. The answer to the question “When does this adventure take place?” can be as simple as “in the winter” or “during the fall harvest festival.”
+If you don’t want to track the passage of days, weeks, and months, you might instead track the passage of time using seasons and seasonal festivals. The answer to the question "When does this adventure take place?" can be as simple as "in the winter" or "during the fall harvest festival."
 
 #### Timed Events
 

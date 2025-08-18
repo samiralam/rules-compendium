@@ -170,7 +170,7 @@ Though it isn’t as far-reaching as the Styx, the Oceanus is still a commonly u
 
 #### River Styx
 
-The River Styx bubbles with grease, foul flotsam, and the putrid remains of battles along its banks. The [ill effects of the Styx](/sources/dnd/dmg-2024/dms-toolbox#RiverStyx) are described under “[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox).
+The River Styx bubbles with grease, foul flotsam, and the putrid remains of battles along its banks. The [ill effects of the Styx](/sources/dnd/dmg-2024/dms-toolbox#RiverStyx) are described under "[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox).
 
 The Styx churns through the top layers of Acheron, the Nine Hells, Gehenna, Hades, Carceri, the Abyss, and Pandemonium. Tributaries of the Styx snake through lower layers of these planes. For example, a tendril of the Styx winds through every layer of the Nine Hells, allowing passage from one layer of that plane to the next.
 
@@ -203,7 +203,7 @@ Natives of the Upper Planes also have roles to play in the Blood War. While most
 
 ### Planar Adventure Situations
 
-You can use the Planar Adventure Situations table instead of the tables in the “[Adventure Situations by Level](/sources/dnd/dmg-2024/creating-adventures#AdventureSituationsbyLevel)” section in [chapter 4](/sources/dnd/dmg-2024/creating-adventures) to inspire adventures that draw characters into the planes of existence. These adventure ideas are most appropriate for characters of level 11+.
+You can use the Planar Adventure Situations table instead of the tables in the "[Adventure Situations by Level](/sources/dnd/dmg-2024/creating-adventures#AdventureSituationsbyLevel)" section in [chapter 4](/sources/dnd/dmg-2024/creating-adventures) to inspire adventures that draw characters into the planes of existence. These adventure ideas are most appropriate for characters of level 11+.
 
 
 #### Planar Adventure Situations
@@ -231,7 +231,7 @@ Each plane in the multiverse is described below. The planes are presented in alp
 
 The Abyss embodies all that is perverse, gruesome, and chaotic. Its virtually endless layers spiral downward into ever more appalling forms.
 
-Each layer of the Abyss boasts a horrific environment that is harsh and inhospitable to mortals. Each layer also reflects the entropic nature of the Abyss. Much of the plane seems to be in a decaying, crumbling, or corroded state, and its corruption affects visitors (see “[Curses and Magical Contagions](/sources/dnd/dmg-2024/dms-toolbox#CursesandMagicalContagions)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
+Each layer of the Abyss boasts a horrific environment that is harsh and inhospitable to mortals. Each layer also reflects the entropic nature of the Abyss. Much of the plane seems to be in a decaying, crumbling, or corroded state, and its corruption affects visitors (see "[Curses and Magical Contagions](/sources/dnd/dmg-2024/dms-toolbox#CursesandMagicalContagions)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
 
 #### Layers of the Abyss
 
@@ -314,7 +314,7 @@ Acheron is made of immense iron blocks whose metallic surfaces ring beneath the 
 
 Acheron has four layers, with the largest blocks gravitating to the top layer. Some scholars have theorized that the crashing blocks of the upper layers are eventually broken down into smaller chunks of matter that sink to the lower layers. The truth is actually the opposite: the tiny shards of Ocanthus, the lowest layer, break off from an icy mire in its deepest recesses and are gradually assembled and organized, perhaps under the influence of nearby Mechanus, into the perfect cubes of Avalas.
 
-The nature of Acheron instills [bloodlust](/sources/dnd/dmg-2024/dms-toolbox#AcheronianBloodlust) in those who visit the plane (see “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
+The nature of Acheron instills [bloodlust](/sources/dnd/dmg-2024/dms-toolbox#AcheronianBloodlust) in those who visit the plane (see "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
 
 
 #### Layers of Acheron
@@ -369,7 +369,7 @@ Night and day are determined by an orb that floats in the sky above both of Arca
 
 The weather in Arcadia is governed by four allied demigods called the Storm Kings: the Cloud King, the Wind Queen, the Lightning King, and the Rain Queen. Each one lives in a castle surrounded by the type of weather that ruler controls.
 
-Arcadia is suffused with a vigorous life energy that bestows [great vitality](/sources/dnd/dmg-2024/dms-toolbox#ArcadianVitality) on visitors (see “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
+Arcadia is suffused with a vigorous life energy that bestows [great vitality](/sources/dnd/dmg-2024/dms-toolbox#ArcadianVitality) on visitors (see "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
 
 
 #### Layers of Arcadia
@@ -396,7 +396,7 @@ Creatures on the Astral Plane don’t age or suffer from hunger or thirst. For t
 
 A traveler in the Astral Plane can move by simply thinking about moving, but distance has little meaning. In combat, though, a creature has a Fly Speed (in feet) equal to 5 times its Intelligence score and can hover.
 
-Just as movement is accomplished by the power of thought, all that is required to find one’s destination is to think about it. As long as the destination is somewhere in the Astral Plane (or in Wildspace, as described below)—such as “the nearest githyanki outpost,” “the nearest color pool leading to the Abyss,” or “the Wildspace system of Realmspace”—thinking about a place makes the creature aware of the most direct route to that location. The creature doesn’t know how long the journey will take or how perilous it will be, just which direction to go in.
+Just as movement is accomplished by the power of thought, all that is required to find one’s destination is to think about it. As long as the destination is somewhere in the Astral Plane (or in Wildspace, as described below)—such as "the nearest githyanki outpost," "the nearest color pool leading to the Abyss," or "the Wildspace system of Realmspace"—thinking about a place makes the creature aware of the most direct route to that location. The creature doesn’t know how long the journey will take or how perilous it will be, just which direction to go in.
 
 The DM decides how long it takes to get to a desired destination. A trek to a specific location—a particular Wildspace system or Astral outpost, for example—might take 4d6 days. For a more general location, such as a color pool leading to a specified plane, the journey might take 1d4 × 10 hours.
 
@@ -406,7 +406,7 @@ The Astral Plane is where the petrified remains of dead gods end up—gods who w
 
 #### Color Pools
 
-Gateways leading from the Astral Plane to other planes appear as two-dimensional pools of rippling colors, 1d6 × 10 feet in diameter. (“Color,” as with everything in the Astral Plane, is a matter of metaphor; since these portals are perceived by the Astral self and not by physical eyes, their colors are understood rather than seen.) Traveling to another plane requires locating a color pool that leads to the desired plane. These gateways can be identified by color, as shown on the Astral Color Pools table.
+Gateways leading from the Astral Plane to other planes appear as two-dimensional pools of rippling colors, 1d6 × 10 feet in diameter. ("Color," as with everything in the Astral Plane, is a matter of metaphor; since these portals are perceived by the Astral self and not by physical eyes, their colors are understood rather than seen.) Traveling to another plane requires locating a color pool that leads to the desired plane. These gateways can be identified by color, as shown on the Astral Color Pools table.
 
 
 ##### Astral Color Pools
@@ -440,7 +440,7 @@ Bobbing in the Astral Plane like corks in an ocean are vast, airless expanses ca
 
 As an Astral traveler approaches a Wildspace system, the silver fog of the Astral Plane gradually thins until it falls away in Wildspace. Then the sun of the Wildspace system comes into view—often millions of miles away—along with colorful gas clouds, planets, moons, and other cosmic bodies.
 
-A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [Teleport](/spells/2619163-teleport) to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See “[Material Plane](#MaterialPlane)” in this chapter.) [Spelljammer: Adventures in Space](/sources/dnd/sais) contains extensive information about Wildspace and Astral travel.
+A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [Teleport](/spells/2619163-teleport) to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See "[Material Plane](#MaterialPlane)" in this chapter.) [Spelljammer: Adventures in Space](/sources/dnd/sais) contains extensive information about Wildspace and Astral travel.
 
 #### Psychic Wind
 
@@ -504,7 +504,7 @@ Adventures in the Beastlands might explore the ways that good philosophies, whil
 
 ### Bytopia
 
-The surfaces of Bytopia’s two layers face each other like the covers of a closed book. Looking up from Dothion, the “top” layer of the plane, a traveler can see Shurrock, its other layer, about a mile overhead. Both layers are idealized worlds that reflect the plane’s philosophy of personal achievement alongside social interdependence.
+The surfaces of Bytopia’s two layers face each other like the covers of a closed book. Looking up from Dothion, the "top" layer of the plane, a traveler can see Shurrock, its other layer, about a mile overhead. Both layers are idealized worlds that reflect the plane’s philosophy of personal achievement alongside social interdependence.
 
 
 #### Layers of Bytopia
@@ -519,7 +519,7 @@ The surfaces of Bytopia’s two layers face each other like the covers of a clos
 
 Bytopia is the heaven of productive work, the satisfaction of a job well done. The goodness flowing through the plane creates feelings of goodwill and happiness in creatures dwelling there. While Dothion rewards those who seek a quiet life, Shurrock is the paradise of those who continually challenge and better themselves.
 
-The two layers of Bytopia are often referred to as the “Twin Paradises,” and it’s said that every action carried out on one layer has repercussions on the other—an equal and opposite reaction, though a more metaphorical than physical one. An adventure in Bytopia might challenge characters to recognize the impact their actions have on the world by witnessing the mirrored reactions to their deeds on the opposite layer.
+The two layers of Bytopia are often referred to as the "Twin Paradises," and it’s said that every action carried out on one layer has repercussions on the other—an equal and opposite reaction, though a more metaphorical than physical one. An adventure in Bytopia might challenge characters to recognize the impact their actions have on the world by witnessing the mirrored reactions to their deeds on the opposite layer.
 
 ### Carceri
 
@@ -618,7 +618,7 @@ A blazing sun hangs at the zenith of a golden sky above the Plane of Fire, waxin
 
 The weather on the plane is marked by fierce winds and thick ash. Although the air is breathable, creatures not native to the plane must cover their mouths and eyes to avoid stinging cinders. The efreet use magic to keep the cinder storms away from the City of Brass, but elsewhere in the plane, the wind always blows, sometimes rising to hurricane force during the worst storms.
 
-[The heat](/sources/dnd/dmg-2024/dms-toolbox#ExtremeHeat) on the Plane of Fire is comparable to a hot desert on the Material Plane and poses a similar threat to travelers (see “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). Sources of water are rare, so travelers must carry their own supplies or produce water by magic.
+[The heat](/sources/dnd/dmg-2024/dms-toolbox#ExtremeHeat) on the Plane of Fire is comparable to a hot desert on the Material Plane and poses a similar threat to travelers (see "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). Sources of water are rare, so travelers must carry their own supplies or produce water by magic.
 
 Important features of the Plane of Fire include the following:
 
@@ -692,7 +692,7 @@ Elemental Evil emphasizes the erosive power of water, as well as the destruction
 
 Elysium is home to creatures of unfettered kindness and a refuge for planar travelers seeking a safe haven. The plane’s bucolic landscapes glimmer with life and beauty.
 
-The River Oceanus originates in the lowest layer of Elysium, Thalasia, and flows through the plane’s layers before cascading onward to the Beastlands. Though illustrations of the plane’s layers seem to show the river flowing “up” from each layer to the one “above” it, the experience of passing from one layer to another on the river is no more dramatic than weathering rapids on any ordinary river. Along its course, the great river splits into myriad smaller flows, recombines, and splits again.
+The River Oceanus originates in the lowest layer of Elysium, Thalasia, and flows through the plane’s layers before cascading onward to the Beastlands. Though illustrations of the plane’s layers seem to show the river flowing "up" from each layer to the one "above" it, the experience of passing from one layer to another on the river is no more dramatic than weathering rapids on any ordinary river. Along its course, the great river splits into myriad smaller flows, recombines, and splits again.
 
 
 #### Layers of Elysium
@@ -715,7 +715,7 @@ Characters might also venture to Elysium to seek out some ancient spirit on the 
 
 ### Ethereal Plane
 
-The Ethereal Plane is a misty, fogbound dimension. Its “shores,” called the Border Ethereal, overlap the Material Plane, the Feywild, the Shadowfell, and the Inner Planes, and every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is usually limited to 60 feet. The plane’s depths comprise a region of swirling mist and fog called the Deep Ethereal, where visibility is usually limited to 30 feet.
+The Ethereal Plane is a misty, fogbound dimension. Its "shores," called the Border Ethereal, overlap the Material Plane, the Feywild, the Shadowfell, and the Inner Planes, and every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is usually limited to 60 feet. The plane’s depths comprise a region of swirling mist and fog called the Deep Ethereal, where visibility is usually limited to 30 feet.
 
 Characters can use the [Etherealness](/spells/2619193-etherealness) spell to enter the Border Ethereal. The [Plane Shift](/spells/2618867-plane-shift) spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
 
@@ -790,7 +790,7 @@ The Far Realm has no well-known portals, or at least none that are still viable.
 
 The Far Realm is the home of entities so far beyond comprehension that mortals can’t fathom their motivations. To see these beings is to become lost in their magnitude and the evidence that mortals have never, will never, and could never matter to the cosmos at large.
 
-Adventures involving travel to the Far Realm or its influence seeping into the Material Plane might touch on fundamental questions of what it means to be a person, what mental and bodily autonomy mean and their value, and whether mortals have any control over their fate or any importance in the grand scheme of things. (It’s an especially good idea to review your players’ limits that might pertain to such issues before planning an adventure exploring these themes, as discussed in the “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” section in [chapter 1](/sources/dnd/dmg-2024/the-basics).)
+Adventures involving travel to the Far Realm or its influence seeping into the Material Plane might touch on fundamental questions of what it means to be a person, what mental and bodily autonomy mean and their value, and whether mortals have any control over their fate or any importance in the grand scheme of things. (It’s an especially good idea to review your players’ limits that might pertain to such issues before planning an adventure exploring these themes, as discussed in the "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" section in [chapter 1](/sources/dnd/dmg-2024/the-basics).)
 
 ### Feywild
 
@@ -874,7 +874,7 @@ Gehenna is the birthplace of yugoloths, greedy and selfish Fiends that dwell her
 
 #### Gehenna Adventures
 
-Gehenna is the plane of suspicion and greed, with no space for mercy or compassion. Adventures on this plane might be an opportunity to explore themes of betrayal, examining how characters behave when tensions run high and they can trust no one—perhaps not even each other. (See “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#GehennanCruelty)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for one way this atmosphere can manifest.) Characters might encounter people in need who turn out to be yugoloths in disguise, pitting the characters’ growing suspicion against their empathy and compassion.
+Gehenna is the plane of suspicion and greed, with no space for mercy or compassion. Adventures on this plane might be an opportunity to explore themes of betrayal, examining how characters behave when tensions run high and they can trust no one—perhaps not even each other. (See "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#GehennanCruelty)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for one way this atmosphere can manifest.) Characters might encounter people in need who turn out to be yugoloths in disguise, pitting the characters’ growing suspicion against their empathy and compassion.
 
 Characters might make their way to the Teardrop Palace on Khalas to purchase something they can’t find elsewhere, probably at a terrifying cost. This bustling market, crowded with Fiends and occasional mortal visitors, offers all manner of forbidden and sinister goods for sale. Its name comes from its shape: the point is on the palace’s uphill side so it diverts the ever-present lava flow to either side of the structure.
 
@@ -936,7 +936,7 @@ Adventurers might also come to Limbo to explore the secrets of the Spawning Ston
 
 Worlds of the Material Plane are infinitely diverse, but it was not always so. Some legends speak of a primordial state, a single reality called the [First World](/sources/dnd/dmg-2024/lore-glossary#FirstWorldThe), where many of the peoples and monsters that inhabit the worlds on the Material Plane originated. After the First World was shattered by a great cataclysm, the many worlds were formed like reflections or (in some cases) distortions of that original reality.
 
-Some myths describe a great tree that grew on the First World at the dawn of time. Planted and tended by the god Corellon, this tree was a seedling of Yggdrasil, the World Tree that connects all the Outer Planes (see “[Traveling the Outer Planes](#TravelingtheOuterPlanes)” earlier in this chapter). When the First World was destroyed, seeds from this great tree scattered into the void of the Material Plane. Legends say that these seeds sprouted and formed worlds of their own—all the myriad worlds that now constitute the Material Plane.
+Some myths describe a great tree that grew on the First World at the dawn of time. Planted and tended by the god Corellon, this tree was a seedling of Yggdrasil, the World Tree that connects all the Outer Planes (see "[Traveling the Outer Planes](#TravelingtheOuterPlanes)" earlier in this chapter). When the First World was destroyed, seeds from this great tree scattered into the void of the Material Plane. Legends say that these seeds sprouted and formed worlds of their own—all the myriad worlds that now constitute the Material Plane.
 
 The most widely known worlds are the ones that have been published as official campaign settings for the D&D game over the years, many of which are shown on the [D&D Settings table](/sources/dnd/dmg-2024/creating-campaigns#DDSettings) in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns). If your campaign takes place in one of these settings, your version of it can diverge wildly from what’s in print.
 
@@ -950,7 +950,7 @@ Aided by magic, travelers can fall into a deep slumber and dream themselves into
 
 ##### The Great Journey
 
-Characters can undertake an epic voyage fraught with peril and obstacles to be overcome. One route leads through Wildspace and across the Astral Plane aboard a vessel powered by magic. (The “[Astral Plane](#AstralPlane)” section in this chapter describes Wildspace.) It is also possible to travel through the Shadowfell or the Feywild, though such routes are less charted and no less perilous.
+Characters can undertake an epic voyage fraught with peril and obstacles to be overcome. One route leads through Wildspace and across the Astral Plane aboard a vessel powered by magic. (The "[Astral Plane](#AstralPlane)" section in this chapter describes Wildspace.) It is also possible to travel through the Shadowfell or the Feywild, though such routes are less charted and no less perilous.
 
 ##### The Leap to Another Realm
 
@@ -974,7 +974,7 @@ Mechanus has no distinct layers. Each turning cog has its own force of gravity p
 
 #### Mechanus Adventures
 
-Mechanus embodies absolute order, and it influences those who spend time here. Individual consciousness is subordinated to the search for perfect order, and “I” is ultimately subsumed into “we.”
+Mechanus embodies absolute order, and it influences those who spend time here. Individual consciousness is subordinated to the search for perfect order, and "I" is ultimately subsumed into "we."
 
 An adventure on Mechanus might lead characters to examine their individual egos in the light of the adventuring party. It might challenge a character to set aside personal goals for the benefit of the group (or the greater cause of cosmic law), or alternatively it might encourage characters to assert their own individual identities, distinct from the party and possessing their own goals and needs.
 
@@ -982,7 +982,7 @@ An adventure on Mechanus might lead characters to examine their individual egos 
 
 The Seven Heavens of Mount Celestia rise like a mountain from a shining Silver Sea to utterly incomprehensible heights, with seven plateaus marking its seven heavenly layers. The plane is the model of justice and order, of celestial grace and endless mercy, where angels and champions of good guard against incursions of evil. It is one of the few places on the planes where travelers can let down their guard. Its inhabitants strive constantly to be as righteous as possible. Countless creatures aim to reach the highest and most sublime peak of the mountain, but only the purest souls can. That peak fills even the most jaded of travelers with awe.
 
-The pervasive goodness of Mount Celestia [bestows blessings](/sources/dnd/dmg-2024/dms-toolbox#BlessedBeneficence) on creatures on the plane (see “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
+The pervasive goodness of Mount Celestia [bestows blessings](/sources/dnd/dmg-2024/dms-toolbox#BlessedBeneficence) on creatures on the plane (see "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
 
 #### Layers of Mount Celestia
 
@@ -1199,7 +1199,7 @@ Despite these conflicts, the Outlands remains a plane of balance. Toward the cen
 
 ### Pandemonium
 
-Pandemonium is a plane of overwhelming chaos, a great mass of rock riddled with tunnels carved by howling winds. It is cold, noisy, and dark, with no natural light. Wind quickly extinguishes nonmagical open flames such as torches and campfires. It also makes conversation possible only by yelling, and even then only to a maximum distance of 10 feet. See “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for more information about the [winds of Pandemonium](/sources/dnd/dmg-2024/dms-toolbox#WindsofPandemonium).
+Pandemonium is a plane of overwhelming chaos, a great mass of rock riddled with tunnels carved by howling winds. It is cold, noisy, and dark, with no natural light. Wind quickly extinguishes nonmagical open flames such as torches and campfires. It also makes conversation possible only by yelling, and even then only to a maximum distance of 10 feet. See "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for more information about the [winds of Pandemonium](/sources/dnd/dmg-2024/dms-toolbox#WindsofPandemonium).
 
 Most of the plane’s inhabitants are creatures that were banished to the plane with no hope of escape. The incessant winds force them to take shelter in places where the howls of the winds sound like distant cries of torment.
 
@@ -1210,7 +1210,7 @@ Most of the plane’s inhabitants are creatures that were banished to the plane 
 | Layer | Description |
 | --- | --- |
 | Pandesmos | Howling winds, dark streams bound for the River Styx, and blowing snow pour through vast, desolate caverns. |
-| Cocytus | Winds blowing through narrower tunnels create a stronger force and louder wails, making this the so-called “Layer of Lamentation.” |
+| Cocytus | Winds blowing through narrower tunnels create a stronger force and louder wails, making this the so-called "Layer of Lamentation." |
 | Phlegethon | Tunnel walls absorb light while water creates intricate rock formations. |
 | Agathion | Sealed-off tunnels are largely inaccessible from elsewhere, making them ideal as vaults for ancient secrets. |
 

@@ -75,7 +75,7 @@ This pattern holds during every game session (each time you sit down to play D&D
 An Ongoing Game
 ---------------
 
-Sometimes a session of D&D is a complete game in itself (often called a “one-shot”), where you play a short adventure that lasts for just one session. More often, though, D&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.
+Sometimes a session of D&D is a complete game in itself (often called a "one-shot"), where you play a short adventure that lasts for just one session. More often, though, D&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.
 
 A campaign is like a TV series, while an adventure is like a season of the series. And a game session is like a single episode—it might be self-contained, but it usually links to the larger plot if there is one.
 
@@ -108,7 +108,7 @@ Dice add randomness to the game. They help determine whether characters and mons
 
 The dice used in D&D are referred to by the letter *d* followed by the die’s number of sides: d4, d6, d8, d10, d12, and d20. For instance, a d6 is a six-sided die (the cube that many games use). The illustration on this page shows what each die looks like.
 
-When you need to roll dice, the rules tell you how many dice to roll of a certain type, along with any numbers to add or subtract. For example, “3d8 + 5” means you roll three eight-sided dice, add them together, and add 5 to the total.
+When you need to roll dice, the rules tell you how many dice to roll of a certain type, along with any numbers to add or subtract. For example, "3d8 + 5" means you roll three eight-sided dice, add them together, and add 5 to the total.
 
 #### Percentile Dice
 
@@ -118,7 +118,7 @@ Some ten-sided dice are numbered in tens (00, 10, 20, and so on), making it easi
 
 #### D3
 
-The same *d* notation appears in the expression “1d3,” even though it’s rare to find dice with only three sides. To simulate rolling 1d3, roll 1d6 and divide the number rolled by 2 (round up).
+The same *d* notation appears in the expression "1d3," even though it’s rare to find dice with only three sides. To simulate rolling 1d3, roll 1d6 and divide the number rolled by 2 (round up).
 
 ### What Are Dice For?
 
@@ -126,7 +126,7 @@ Here are the most common uses of dice in D&D.
 
 #### D20 Test
 
-The 20-sided die (d20) is the most important die you’ll use in the game. It’s central to the core mechanic—called D20 Tests—the game uses to determine whether creatures succeed or fail at the things they attempt during the game (see “[D20 Tests](#D20Tests)” later in this chapter). You roll a d20 whenever your character tries to do something that the DM decides has a chance of both success and failure. The higher your roll, the more likely it is that you succeed.
+The 20-sided die (d20) is the most important die you’ll use in the game. It’s central to the core mechanic—called D20 Tests—the game uses to determine whether creatures succeed or fail at the things they attempt during the game (see "[D20 Tests](#D20Tests)" later in this chapter). You roll a d20 whenever your character tries to do something that the DM decides has a chance of both success and failure. The higher your roll, the more likely it is that you succeed.
 
 #### Damage
 
@@ -180,7 +180,7 @@ Each ability has a score from 1 to 20, although some monsters have a score as hi
 
 ### Ability Modifiers
 
-Each ability has a modifier that you apply whenever you make a [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test) with that ability (explained in “[D20 Tests](#D20Tests)”). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
+Each ability has a modifier that you apply whenever you make a [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test) with that ability (explained in "[D20 Tests](#D20Tests)"). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
 
 
 #### Ability Modifiers
@@ -212,7 +212,7 @@ When the outcome of an action is uncertain, the game uses a d20 roll to determin
 1. **Roll 1d20.** You always want to roll high. If the roll has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) or [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) (described [later in this chapter](#AdvantageDisadvantage)), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.
 2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
     * **The Relevant Ability Modifier.** This chapter and the [rules glossary](/sources/dnd/phb-2024/rules-glossary) explain which ability modifiers to use for various D20 Tests.
-    * **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See “[Proficiency](#Proficiency)” later in this chapter.
+    * **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See "[Proficiency](#Proficiency)" later in this chapter.
     * **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
 
 4. **Compare the Total to a Target Number.** If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](/sources/dnd/free-rules/rules-glossary#DifficultyClass) (DC). The target number for an attack roll is called an [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) (AC), which appears on a character sheet or in a stat block (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary)).
@@ -240,7 +240,7 @@ An ability check is named for the ability modifier it uses: a Strength check, an
 
 #### Proficiency Bonus
 
-Add your Proficiency Bonus to an ability check when the DM determines that a skill or tool proficiency is relevant to the check and you have that proficiency. For example, if a rule refers to a Strength ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills) or [Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check, you can add your Proficiency Bonus to the check if you have proficiency in the [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills) or [Athletics](/sources/dnd/free-rules/playing-the-game#Skills) skill. See “[Proficiency](#Proficiency)” later in this chapter for more information about skill and tool proficiencies.
+Add your Proficiency Bonus to an ability check when the DM determines that a skill or tool proficiency is relevant to the check and you have that proficiency. For example, if a rule refers to a Strength ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills) or [Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check, you can add your Proficiency Bonus to the check if you have proficiency in the [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills) or [Athletics](/sources/dnd/free-rules/playing-the-game#Skills) skill. See "[Proficiency](#Proficiency)" later in this chapter for more information about skill and tool proficiencies.
 
 #### Difficulty Class
 
@@ -284,7 +284,7 @@ Saving throws are named for the ability modifiers they use: a Constitution savin
 
 #### Proficiency Bonus
 
-You add your Proficiency Bonus to your saving throw if you have proficiency in that kind of save. See “[Proficiency](#Proficiency)” later in this chapter.
+You add your Proficiency Bonus to your saving throw if you have proficiency in that kind of save. See "[Proficiency](#Proficiency)" later in this chapter.
 
 #### Difficulty Class
 
@@ -292,7 +292,7 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 ### Attack Rolls
 
-An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or exceeds the target’s Armor Class. Attack rolls usually occur in battle, described in “[Combat](#Combat)” later in this chapter, but the DM might also ask for an attack roll in other situations, such as an archery competition.
+An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or exceeds the target’s Armor Class. Attack rolls usually occur in battle, described in "[Combat](#Combat)" later in this chapter, but the DM might also ask for an attack roll in other situations, such as an archery competition.
 
 #### Ability Modifier
 
@@ -311,7 +311,7 @@ Some features let you use different ability modifiers from those listed. For exa
 
 #### Proficiency Bonus
 
-You add your Proficiency Bonus to your attack roll when you attack using a weapon you have proficiency with, as well as when you attack with a spell. See “[Proficiency](#Proficiency)” later in this chapter for more information about weapon proficiencies.
+You add your Proficiency Bonus to your attack roll when you attack using a weapon you have proficiency with, as well as when you attack with a spell. See "[Proficiency](#Proficiency)" later in this chapter for more information about weapon proficiencies.
 
 #### Armor Class
 
@@ -327,9 +327,9 @@ A creature’s AC can then be modified by armor, magic items, spells, and more.
 
 #### Rolling 20 or 1
 
-If you roll a 20 on the d20 (called a “natural 20”) for an attack roll, the attack hits regardless of any modifiers or the target’s AC. This is called a Critical Hit (see “[Combat](#Combat)” later in this chapter).
+If you roll a 20 on the d20 (called a "natural 20") for an attack roll, the attack hits regardless of any modifiers or the target’s AC. This is called a Critical Hit (see "[Combat](#Combat)" later in this chapter).
 
-If you roll a 1 on the d20 (a “natural 1”) for an attack roll, the attack misses regardless of any modifiers or the target’s AC.
+If you roll a 1 on the d20 (a "natural 1") for an attack roll, the attack misses regardless of any modifiers or the target’s AC.
 
 ### Advantage/Disadvantage
 
@@ -476,7 +476,7 @@ Player characters and monsters can also do things not covered by these actions. 
 
 ### One Thing at a Time
 
-The game uses actions to govern how much you can do at one time. You can take only one action at a time. This principle is most important in combat, as explained in “[Combat](#Combat)” later in this chapter.
+The game uses actions to govern how much you can do at one time. You can take only one action at a time. This principle is most important in combat, as explained in "[Combat](#Combat)" later in this chapter.
 
 Actions can come up in other situations, too: in a social interaction, you can try to [Influence](/sources/dnd/free-rules/rules-glossary#InfluenceAction) a creature or use the [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action to read the creature’s body language, but you can’t do both at the same time. And when you’re exploring a dungeon, you can’t simultaneously use the [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action to look for traps and use the [Help](/sources/dnd/free-rules/rules-glossary#HelpAction) action to aid another character who’s trying to open a stuck door (with the [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action).
 
@@ -498,7 +498,7 @@ In terms of timing, a Reaction takes place immediately after its trigger unless 
 
 > ### What Would Your Character Do?
 > 
-> Ask yourself as you play, “What would my character do?” Playing a role involves some amount of getting into another person’s head and understanding what motivates them and how those motivations translate into action. In D&D, those actions unfold against the backdrop of a fantastic world full of situations we can only imagine. How does your character react to those situations?
+> Ask yourself as you play, "What would my character do?" Playing a role involves some amount of getting into another person’s head and understanding what motivates them and how those motivations translate into action. In D&D, those actions unfold against the backdrop of a fantastic world full of situations we can only imagine. How does your character react to those situations?
 > 
 > This advice comes with one important caveat: avoid character choices that ruin the fun of the other players and the DM. Choose actions that delight you and your friends.
 
@@ -515,7 +515,7 @@ Social interactions progress in two ways: through roleplaying and ability checks
 
 Roleplaying is, literally, the act of playing out a role. In this case, it’s you as a player determining how your character thinks, acts, and talks. Roleplaying is part of every aspect of the game, and it comes to the fore during social interactions.
 
-As you roleplay, consider whether you prefer an active approach or a descriptive approach, each of which is described in “[Social Interaction Example.](#SocialInteractionExample)”
+As you roleplay, consider whether you prefer an active approach or a descriptive approach, each of which is described in "[Social Interaction Example.](#SocialInteractionExample)"
 
 The DM uses an NPC’s personality and your character’s actions and attitudes to determine how an NPC reacts. A cowardly bandit might buckle under threats of imprisonment. A stubborn merchant refuses to help if the characters badger her. A vain dragon laps up flattery.
 
@@ -535,29 +535,29 @@ In this scene, players engage in a social interaction encounter. You and your gr
 
 *Four adventurers—Shreeve, Mirabella, Auro, and Gareth—have traveled to the Blood on the Vine tavern in the grim village of Barovia.*
 
-**Jared (as DM):** This tavern might have been finely appointed once, but it has grown shoddy with the passage of years. A blazing fire in the hearth barely gives any warmth to the room. You see a man behind the counter, methodically cleaning glasses. Three older women huddle together at one table. And a handsome young man sits by himself at a corner table, sipping a glass of wine. He looks up as you enter, but the other people ignore you. “Welcome to Barovia,” he says. He holds a coin toward the bartender: “A pitcher for the visitors.” The glint of silver catches the server’s attention.
+**Jared (as DM):** This tavern might have been finely appointed once, but it has grown shoddy with the passage of years. A blazing fire in the hearth barely gives any warmth to the room. You see a man behind the counter, methodically cleaning glasses. Three older women huddle together at one table. And a handsome young man sits by himself at a corner table, sipping a glass of wine. He looks up as you enter, but the other people ignore you. "Welcome to Barovia," he says. He holds a coin toward the bartender: "A pitcher for the visitors." The glint of silver catches the server’s attention.
 
-**Maeve (as Mirabella):** “Thank you, friend. May we know to whom we’re indebted?”
+**Maeve (as Mirabella):** "Thank you, friend. May we know to whom we’re indebted?"
 
-**Jared:** “I am Ismark Kolyanovich, though around here, I am often called Ismark the Lesser.”
+**Jared:** "I am Ismark Kolyanovich, though around here, I am often called Ismark the Lesser."
 
-**Russell (as Shreeve):** “That’s unfortunate.”
+**Russell (as Shreeve):** "That’s unfortunate."
 
-**Jared:** “Indeed. I hope one day to live up to my father’s example and rid myself of that title. And so, my new friends, who are you?”
+**Jared:** "Indeed. I hope one day to live up to my father’s example and rid myself of that title. And so, my new friends, who are you?"
 
-**Amy (as Auro):** “I’m Auro.”
+**Amy (as Auro):** "I’m Auro."
 
-**Russell:** “Shreeve.”
+**Russell:** "Shreeve."
 
-**Phillip (as Gareth):** “My name is Gareth.”
+**Phillip (as Gareth):** "My name is Gareth."
 
-**Maeve (as Mirabella):** “I’m called Mirabella. You said your name was Kolyanovich. Are you related to Kolyan Indirovich, the burgomaster of this town?”
+**Maeve (as Mirabella):** "I’m called Mirabella. You said your name was Kolyanovich. Are you related to Kolyan Indirovich, the burgomaster of this town?"
 
-**Jared:** He looks a little surprised. He says, “Kolyan Indirovich is my esteemed father, yes.”
+**Jared:** He looks a little surprised. He says, "Kolyan Indirovich is my esteemed father, yes."
 
 > **Active Roleplaying.** Notice throughout the example how Russell and Amy actively roleplay their characters’ behavior. In this active approach, they speak with their characters’ voices, like an actor taking on a role. The players might even echo their characters’ body language. They still need to describe things that can’t reasonably be acted out.
 
-**Maeve:** “Then he’s the one who summoned us!” I show him the letter that drew us here.
+**Maeve:** "Then he’s the one who summoned us!" I show him the letter that drew us here.
 
 
 **Phillip:** I watch his reaction as he reads it.
@@ -570,33 +570,33 @@ In this scene, players engage in a social interaction encounter. You and your gr
 >
 > Don’t worry about getting things exactly right. Focus on what your character would do, and describe what you see in your mind.
 
-**Jared:** He reaches for the letter but pulls back before touching it. “That seal—it’s not my father’s.” Gareth, make a Wisdom (Insight) check.
+**Jared:** He reaches for the letter but pulls back before touching it. "That seal—it’s not my father’s." Gareth, make a Wisdom (Insight) check.
 
 **Phillip:** Gareth got 18.
 
-> **Ability Checks.** Phillip’s character, Gareth, makes a Wisdom ([Insight](/sources/dnd/free-rules/playing-the-game#Skills)) check to determine whether he reads Ismark’s unspoken cues. Wisdom is the ability that measures perceptiveness and intuition. Insight reflects a character’s skill at reading other people’s moods and intentions. The DM set the DC at 15, which Gareth beats. With a successful Wisdom ([Insight](/sources/dnd/free-rules/playing-the-game#Skills)) check, Gareth gleans information that wasn’t obvious, so it wasn’t part of the DM’s earlier narration. For more information, see “[Ability Scores](#TheSixAbilities)” and “[Proficiency](#Proficiency)” earlier in this chapter and the [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#SearchAction).
+> **Ability Checks.** Phillip’s character, Gareth, makes a Wisdom ([Insight](/sources/dnd/free-rules/playing-the-game#Skills)) check to determine whether he reads Ismark’s unspoken cues. Wisdom is the ability that measures perceptiveness and intuition. Insight reflects a character’s skill at reading other people’s moods and intentions. The DM set the DC at 15, which Gareth beats. With a successful Wisdom ([Insight](/sources/dnd/free-rules/playing-the-game#Skills)) check, Gareth gleans information that wasn’t obvious, so it wasn’t part of the DM’s earlier narration. For more information, see "[Ability Scores](#TheSixAbilities)" and "[Proficiency](#Proficiency)" earlier in this chapter and the [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#SearchAction).
 
 **Jared:** You notice that Ismark is trying to conceal his terror. He’s afraid to even touch the letter’s seal.
 
 **Phillip:** I ask him what’s frightening him.
 
-**Russell:** “Yeah, whose seal is it?”
+**Russell:** "Yeah, whose seal is it?"
 
-**Jared:** “The Devil Strahd.”
+**Jared:** "The Devil Strahd."
 
-**Amy:** “Sounds like a pleasant fellow.”
+**Amy:** "Sounds like a pleasant fellow."
 
-**Jared:** “No! He is the vampire lord of Castle Ravenloft and a plague to my sister. You must help her!”
+**Jared:** "No! He is the vampire lord of Castle Ravenloft and a plague to my sister. You must help her!"
 
-**Amy:** “So Strahd wrote this letter, pretending to be the burgomaster, imploring us to come to Barovia and rescue Ireena Kolyana from a deadly affliction... which is him? Why would he do that?”
+**Amy:** "So Strahd wrote this letter, pretending to be the burgomaster, imploring us to come to Barovia and rescue Ireena Kolyana from a deadly affliction... which is him? Why would he do that?"
 
-**Russell:** “Why would he want us to come here?”
+**Russell:** "Why would he want us to come here?"
 
-**Maeve:** “Clearly, he doesn’t think we’re a threat.”
+**Maeve:** "Clearly, he doesn’t think we’re a threat."
 
-**Amy:** “Well, he hasn’t met us yet!”
+**Amy:** "Well, he hasn’t met us yet!"
 
-**Jared:** “He’s toying with you. He delights in the destruction of all things good, like my dear sister.”
+**Jared:** "He’s toying with you. He delights in the destruction of all things good, like my dear sister."
 
 **Phillip:** Gareth draws closer and compassionately asks Ismark whether his sister has been bitten by the vampire.
 
@@ -606,27 +606,27 @@ In this scene, players engage in a social interaction encounter. You and your gr
 
 > **Influencing NPCs.** Gareth takes the [Influence](/sources/dnd/free-rules/rules-glossary#InfluenceAction) action (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary#InfluenceAction)), which characters can take to influence an NPC. It’s easier to influence an NPC who’s already disposed to help you, as Ismark is here. Ismark’s [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude) attitude gives Phillip Advantage on the roll. In this case, [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) made the difference between success and failure.
 
-**Jared:** Ismark leans toward you, Gareth, with a suspicious glance at the other people in the tavern, like he’s worried they’re eavesdropping. He whispers, “The Devil Strahd desires to make Ireena his latest plaything. Twice he has visited her in the night, using his devilry to secure an invitation into the house—for he can’t enter where he isn’t invited. Twice he has bitten her, yet she clings to life. But I fear she won’t survive another visit!”
+**Jared:** Ismark leans toward you, Gareth, with a suspicious glance at the other people in the tavern, like he’s worried they’re eavesdropping. He whispers, "The Devil Strahd desires to make Ireena his latest plaything. Twice he has visited her in the night, using his devilry to secure an invitation into the house—for he can’t enter where he isn’t invited. Twice he has bitten her, yet she clings to life. But I fear she won’t survive another visit!"
 
-**Russell:** “All right, Ismark. You bought us drinks and told us about the Devil Strahd and your sister. How can we help?”
+**Russell:** "All right, Ismark. You bought us drinks and told us about the Devil Strahd and your sister. How can we help?"
 
-**Jared:** “You are too kind! First, I need your help transporting Ireena to the town of Vallaki.”
+**Jared:** "You are too kind! First, I need your help transporting Ireena to the town of Vallaki."
 
-**Maeve:** “Where’s Vallaki?”
+**Maeve:** "Where’s Vallaki?"
 
-**Jared:** “It lies to the northwest, in the heart of the valley. As the raven flies, it is less than ten miles, but the road winds among the hills and woods, and the journey takes at least five hours at speed.”
+**Jared:** "It lies to the northwest, in the heart of the valley. As the raven flies, it is less than ten miles, but the road winds among the hills and woods, and the journey takes at least five hours at speed."
 
-**Russell:** “And why there?”
+**Russell:** "And why there?"
 
-**Jared:** “The town lies beyond the view of Castle Ravenloft, so I hope it’s beyond Strahd’s spies. And I have heard that Vallaki is well defended, with a wooden palisade and iron gates.”
+**Jared:** "The town lies beyond the view of Castle Ravenloft, so I hope it’s beyond Strahd’s spies. And I have heard that Vallaki is well defended, with a wooden palisade and iron gates."
 
-**Russell:** “As if such defenses would stop a vampire.”
+**Russell:** "As if such defenses would stop a vampire."
 
-**Jared:** “Indeed. But if moving her there can keep him away from her for even a few days, we have time for the second part of our task.”
+**Jared:** "Indeed. But if moving her there can keep him away from her for even a few days, we have time for the second part of our task."
 
-**Russell:** “A part where you help us?”
+**Russell:** "A part where you help us?"
 
-**Jared:** “Yes, when I help you face the vampire!”
+**Jared:** "Yes, when I help you face the vampire!"
 
 
 Exploration
@@ -638,7 +638,7 @@ Exploration involves delving into places that are dangerous and full of mystery.
 
 As adventurers explore, their equipment can help them in many ways. For example, they can reach out-of-the-way places with a Ladder, perceive things they wouldn’t otherwise notice with a Torch or another light source, bypass locked doors and containers with [Thieves’ Tools](/equipment/495-thieves-tools), and create obstacles for pursuers with [Caltrops](/equipment/497-caltrops).
 
-See [chapter 6](/sources/dnd/phb-2024/equipment) for rules on many items that are useful on adventures. The items in that chapter’s “[Tools](/sources/dnd/phb-2024/equipment#Tools)” and “[Adventuring Gear](/sources/dnd/phb-2024/equipment#AdventuringGear)” sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a [Quarterstaff](/equipment/12-quarterstaff), for example, to push a sinister-looking button that you’re reluctant to touch.
+See [chapter 6](/sources/dnd/phb-2024/equipment) for rules on many items that are useful on adventures. The items in that chapter’s "[Tools](/sources/dnd/phb-2024/equipment#Tools)" and "[Adventuring Gear](/sources/dnd/phb-2024/equipment#AdventuringGear)" sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a [Quarterstaff](/equipment/12-quarterstaff), for example, to push a sinister-looking button that you’re reluctant to touch.
 
 ### Vision and Light
 
@@ -683,7 +683,7 @@ For the purpose of the rules, an object is a discrete, inanimate item like a win
 
 #### Time-Limited Object Interactions
 
-When time is short, such as in combat, interactions with objects are limited: one free interaction per turn. That interaction must occur during a creature’s movement or action. Any additional interactions require the [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, as explained in “[Combat](#Combat)” later in this chapter.
+When time is short, such as in combat, interactions with objects are limited: one free interaction per turn. That interaction must occur during a creature’s movement or action. Any additional interactions require the [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, as explained in "[Combat](#Combat)" later in this chapter.
 
 #### Finding Hidden Objects
 
@@ -713,7 +713,7 @@ Monsters are the main perils characters face, but other dangers await. The rules
 
 During an adventure, the characters might travel long distances on trips that could take hours or days. The DM can summarize this travel without calculating exact distances or travel times, or the DM might have you use the travel pace rules below.
 
-If you need to know how fast you can move when every second matters, see the movement rules in “[Combat](#Combat)” later in this chapter.
+If you need to know how fast you can move when every second matters, see the movement rules in "[Combat](#Combat)" later in this chapter.
 
 > ### Marching Order
 > 
@@ -773,7 +773,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 **Jared:** Two things leap out at Gareth about the painting. First, the woman’s clothes look old-fashioned. Second, the paint is flaking in places, and the whole thing is covered by a thin layer of soot. You’d say this painting is a few centuries old.
 
-**Phillip:** So maybe an ancestor of Ireena’s? Unless she’s already a vampire and this “bitten by Strahd” thing is a ruse.
+**Phillip:** So maybe an ancestor of Ireena’s? Unless she’s already a vampire and this "bitten by Strahd" thing is a ruse.
 
 **Jared:** Who knows? Now, Mirabella’s looking at the books?
 
@@ -794,7 +794,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 **Jared:** As soon as you lift the poker, you hear a grinding sound, and the back of the fireplace slides to the side, revealing a room behind it!
 
-**Amy:** “Uh, folks? I found something!” Can I see anything in the room beyond?
+**Amy:** "Uh, folks? I found something!" Can I see anything in the room beyond?
 
 > **Finding Hidden Objects.** Adventure environments are full of secrets: traps, concealed doors, loose floorboards, and hidden treasures. Characters often use Wisdom checks to find things—see the [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#SearchAction)—but sometimes they stumble on them accidentally, as Auro did here.
 
@@ -814,7 +814,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 **Jared:** Great! That puts out the fire. Without the light from the hearth, you’re back to the magic glow of Shreeve’s sword, which casts your shadows into the room beyond. But you can see, through clouds of lingering smoke, a closed chest on the floor, surrounded by piles of coins. There are two torch sconces on the far wall—one holding an unlit torch with an intricate metal base, the other empty. A skeleton in broken plate armor is lying against that wall, with one hand at its throat and the other holding the matching torch from the empty sconce.
 
-> **Vision and Light.** The DM determines what the adventurers can perceive, which means being aware of light sources—like the leaping flames in the fireplace and Shreeve’s glowing sword—as well as obscuring factors like smoke and fog. See “[Vision and Light](#VisionandLight)” earlier in this chapter for more information.
+> **Vision and Light.** The DM determines what the adventurers can perceive, which means being aware of light sources—like the leaping flames in the fireplace and Shreeve’s glowing sword—as well as obscuring factors like smoke and fog. See "[Vision and Light](#VisionandLight)" earlier in this chapter for more information.
 
 **Amy:** I check out the chest!
 
@@ -842,7 +842,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 **Jared:** As you draw this gas into your lungs, you feel a chill grip you, and your bodies stiffen. You both have the Paralyzed condition!
 
-> **Saving Throws.** A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip’s and Amy’s characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures’ capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition) condition. See “[Conditions](#Conditions)” later in this chapter for more information.
+> **Saving Throws.** A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip’s and Amy’s characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures’ capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition) condition. See "[Conditions](#Conditions)" later in this chapter for more information.
 
 Combat
 ------
@@ -875,7 +875,7 @@ Initiative determines the order of turns during combat. When combat starts, ever
 
 On your turn, you can move a distance up to your [Speed](/sources/dnd/free-rules/rules-glossary#Speed) and take one action. You decide whether to move first or take your action first.
 
-The main actions you can take are listed in “[Actions](#Actions)” earlier in this chapter. A character’s features and a monster’s stat block also provide action options. “[Movement and Position](#MovementandPosition)” later in this chapter gives the rules for movement.
+The main actions you can take are listed in "[Actions](#Actions)" earlier in this chapter. A character’s features and a monster’s stat block also provide action options. "[Movement and Position](#MovementandPosition)" later in this chapter gives the rules for movement.
 
 ***Communicating.*** You can communicate however you are able—through brief utterances and gestures—as you take your turn. Doing so uses neither your action nor your move.
 
@@ -1054,7 +1054,7 @@ A ranged attack roll with a weapon underwater automatically misses a target beyo
 
 #### Fire Resistance
 
-Anything underwater has Resistance to Fire damage (explained in “Damage and Healing”).
+Anything underwater has Resistance to Fire damage (explained in "Damage and Healing").
 
 Damage and Healing
 ------------------
@@ -1153,7 +1153,7 @@ If you reach 0 Hit Points and don’t die instantly, you have the [Unconscious](
 
 Whenever you start your turn with 0 Hit Points, you must make a Death Saving Throw to determine whether you creep closer to death or hang on to life. Unlike other saving throws, this one isn’t tied to an ability score. You’re in the hands of fate now.
 
-***Three Successes/Failures.*** Roll 1d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [Stable](/sources/dnd/free-rules/rules-glossary#Stable) (see “Stabilizing a Character” below). On your third failure, you die.
+***Three Successes/Failures.*** Roll 1d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [Stable](/sources/dnd/free-rules/rules-glossary#Stable) (see "Stabilizing a Character" below). On your third failure, you die.
 
 The successes and failures don’t need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any Hit Points or become Stable.
 
@@ -1274,7 +1274,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 **Maeve:** Hits. No, wait! I cast *Shield*, so that misses.
 
-> **Spells and Reactions.** Mirabella casts the [Shield](/spells/2619019-shield) spell. It’s a special property of this spell that it can be cast even when it’s not the caster’s turn, using her Reaction (see “[Actions](#Reactions)” earlier in this chapter).
+> **Spells and Reactions.** Mirabella casts the [Shield](/spells/2619019-shield) spell. It’s a special property of this spell that it can be cast even when it’s not the caster’s turn, using her Reaction (see "[Actions](#Reactions)" earlier in this chapter).
 
 **Jared:** The skeleton’s blade bounces off your shield of magical force. Then two of them attack Gareth. One misses with a 5, but the other one lands a solid blow with a 21, dealing 7 piercing damage.
 
@@ -1348,4 +1348,4 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 **Phillip:** They each take 18 Radiant damage and—
 
-**Jared:** Never mind the “and.” Pelor does indeed smite these skeletons! They’re silhouetted for a moment in a burst of brilliant light, then they vanish, leaving only their broken swords behind.
+**Jared:** Never mind the "and." Pelor does indeed smite these skeletons! They’re silhouetted for a moment in a burst of brilliant light, then they vanish, leaving only their broken swords behind.

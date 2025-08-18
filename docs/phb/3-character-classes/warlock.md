@@ -64,7 +64,7 @@ As a Warlock, you gain the following class features when you reach the specified
 
 ### Level 1: Eldritch Invocations
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as [Pact of the Tome](#PactoftheTome). Invocations are described in the “[Eldritch Invocation Options](#EldritchInvocationOptions)” section later in this class’s description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as [Pact of the Tome](#PactoftheTome). Invocations are described in the "[Eldritch Invocation Options](#EldritchInvocationOptions)" section later in this class’s description.
 
 ***Prerequisites.*** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 

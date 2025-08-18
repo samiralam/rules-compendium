@@ -40,7 +40,7 @@ You might find it helpful to think about an adventure not as a narrative that ar
 > 
 > Players need to feel like they’re in control of their characters, the choices they make matter, and what they do has some effect on the outcome of the adventure and on the game world. Keep that in mind as you’re planning adventures. If your adventure relies on certain events, plan for multiple ways they might come about, or be prepared for clever players to prevent those events from happening as you expect. Otherwise, your players might end up feeling railroaded.
 > 
-> On the flip side, players sometimes willfully disregard the adventure hooks you put in front of them and go entirely off the rails. See “[Respect for the DM](/sources/dnd/dmg-2024/the-basics#RespectfortheDM)” in [chapter 1](/sources/dnd/dmg-2024/the-basics) and “[Draw In the Players](#DrawInthePlayers)” later in this chapter for advice about dealing with this situation.
+> On the flip side, players sometimes willfully disregard the adventure hooks you put in front of them and go entirely off the rails. See "[Respect for the DM](/sources/dnd/dmg-2024/the-basics#RespectfortheDM)" in [chapter 1](/sources/dnd/dmg-2024/the-basics) and "[Draw In the Players](#DrawInthePlayers)" later in this chapter for advice about dealing with this situation.
 > 
 > One way to give players impactful choices is to keep multiple adventure possibilities available to them at the same time. If the characters have two or three things they can investigate or pursue, they have a meaningful choice. And if whatever threads they don’t investigate turn into bigger problems, you’ve clearly demonstrated that their decisions matter.
 
@@ -48,13 +48,13 @@ You might find it helpful to think about an adventure not as a narrative that ar
 
 One way to start brainstorming an adventure is to imagine a situation that might pique the characters’ interest. For some D&D players, a rumor of a dungeon filled with treasure is enough of a premise to launch an adventure. A brewing war between two small nations, the death of a leader and the accession of a new one, a migration of dangerous monsters, the appearance of a comet, and the opening of a portal to another plane of existence are other situations that could lead to adventure.
 
-A simple premise might also boil down to “a magic item that the characters want is hidden away in a dungeon.” Browsing the magic items in [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z) can inspire you to create a simple adventure seed.
+A simple premise might also boil down to "a magic item that the characters want is hidden away in a dungeon." Browsing the magic items in [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z) can inspire you to create a simple adventure seed.
 
 ### Adventure Conflict
 
 A premise can be a good starting point, but before you can turn it into an adventure, it needs a conflict worthy of the heroes’ attention. The conflict might be driven by a single villain or monster, a villain with lackeys, an assortment of monsters, or an evil organization. But it need not involve the forces of evil; it could be a rivalry or disagreement between two families, organizations, or nations; a looming natural (or magical) disaster; or even conflict within the adventuring party about how to pursue the characters’ goals.
 
-Given a premise of a dungeon filled with treasure, what conflict awaits the characters when they enter the dungeon? That might be as simple as “hostile monsters want to eat the characters” or “two rival factions of monsters inhabit the dungeon.” It might also involve a rival or a villain hoping to plunder the dungeon first, a rumbling volcano threatening to erupt and bury the dungeon, or two rival families claiming ownership of the treasure left behind in the dungeon by their ancestors.
+Given a premise of a dungeon filled with treasure, what conflict awaits the characters when they enter the dungeon? That might be as simple as "hostile monsters want to eat the characters" or "two rival factions of monsters inhabit the dungeon." It might also involve a rival or a villain hoping to plunder the dungeon first, a rumbling volcano threatening to erupt and bury the dungeon, or two rival families claiming ownership of the treasure left behind in the dungeon by their ancestors.
 
 If you’re stuck, browse through the *Monster Manual* until you find a monster that inspires you.
 
@@ -170,11 +170,11 @@ At this tier, adventures have far-reaching consequences, possibly determining th
 
 ### Adventure Setting
 
-Many D&D adventures revolve dungeons—interior spaces such as great halls and tombs, subterranean monster lairs, mazes riddled with traps, natural caverns extending for miles beneath the surface, and ruined castles. The “[Dungeons](/sources/dnd/dmg-2024/dms-toolbox#Dungeons)” section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) can help you craft a dungeon environment for an adventure.
+Many D&D adventures revolve dungeons—interior spaces such as great halls and tombs, subterranean monster lairs, mazes riddled with traps, natural caverns extending for miles beneath the surface, and ruined castles. The "[Dungeons](/sources/dnd/dmg-2024/dms-toolbox#Dungeons)" section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) can help you craft a dungeon environment for an adventure.
 
 Of course, not every adventure takes place in a dungeon. A wilderness trek across the desert or a harrowing journey into the jungle can be an exciting adventure in its own right. Outdoors, dragons wheel across the sky in search of prey, fierce warriors pour forth from grim fortresses to wage war against their neighbors, ogres and trolls plunder farmsteads for food, and monstrous spiders drop from web-shrouded trees.
 
-Adventures can also take place in cities, towns, and villages, which are often no less dangerous than dungeons or the wilds. The “[Settlements](/sources/dnd/dmg-2024/dms-toolbox#Settlements)” section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) can help you create a settlement where an adventure can take place.
+Adventures can also take place in cities, towns, and villages, which are often no less dangerous than dungeons or the wilds. The "[Settlements](/sources/dnd/dmg-2024/dms-toolbox#Settlements)" section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) can help you create a settlement where an adventure can take place.
 
 > ### Writing for Yourself
 > 
@@ -204,12 +204,12 @@ Each creature’s entry in the *Monster Manual* indicates the terrain types wher
 
 ***Factions.*** Particularly in larger areas, groups of creatures might compete for resources. When these groups consist of sapient creatures, opportunities abound for the adventurers who enter those areas. Characters might ally with one group or play groups against each other to reduce the threat of the more powerful monsters. For example, in a dungeon inhabited by mind flayers and the grimlocks they rule, the adventurers might try to incite the grimlocks to revolt against the mind flayers.
 
-Bring the NPC leaders of groups to life as described in the “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox), fleshing out their personalities and goals. Then use those elements to decide how those leaders respond to adventurers.
+Bring the NPC leaders of groups to life as described in the "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox), fleshing out their personalities and goals. Then use those elements to decide how those leaders respond to adventurers.
 
 Draw In the Players
 -------------------
 
-If an adventure situation directly affects the characters or the people and places they care about, that is often enough motivation for the characters to get involved. (However, see “[Respect for the Players](/sources/dnd/dmg-2024/the-basics#RespectforthePlayers)” in [chapter 1](/sources/dnd/dmg-2024/the-basics) for advice about harming the people and places characters love.)
+If an adventure situation directly affects the characters or the people and places they care about, that is often enough motivation for the characters to get involved. (However, see "[Respect for the Players](/sources/dnd/dmg-2024/the-basics#RespectforthePlayers)" in [chapter 1](/sources/dnd/dmg-2024/the-basics) for advice about harming the people and places characters love.)
 
 If the adventure situation doesn’t have an obvious impact on the characters or the people or things they care about, you can use other techniques to draw in the players. These are best tailored to the motivations of your players and their characters. For example, some adventuring groups are noble heroes who respond without hesitation to the pleas of innocent villagers crying for help; other groups are hardened mercenaries who respond only to offers of payment. Some groups are devoted to gods, rulers, or other patrons who might send them on quests, either directly or through intermediaries.
 
@@ -231,7 +231,7 @@ Many adventures begin with a patron asking the characters to undertake a quest o
 
 Take the time to flesh out an NPC who serves as a patron. Once in a while, it can be interesting for the characters’ patron to betray them. Pulling that trick more than once in a campaign, though, is likely to make the players unwilling to trust any future patrons and possibly suspicious about any adventure hooks you put in front of them.
 
-The Patron Hooks table offers some suggestions for ways a patron can lead characters to an adventure situation. The “[Campaign Start](/sources/dnd/dmg-2024/creating-campaigns#CampaignStart)” section in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns) offers some more suggestions for patrons.
+The Patron Hooks table offers some suggestions for ways a patron can lead characters to an adventure situation. The "[Campaign Start](/sources/dnd/dmg-2024/creating-campaigns#CampaignStart)" section in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns) offers some more suggestions for patrons.
 
 
 #### Patron Hooks
@@ -333,7 +333,7 @@ Make sure your players have clear objectives they can pursue at every stage of t
 
 ### Something for Everyone
 
-As described in the “[Know Your Players](/sources/dnd/dmg-2024/running-the-game#KnowYourPlayers)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game), players have different tastes in the activities they enjoy in the game. An adventure needs to account for the different players and characters in your group to draw them into the story.
+As described in the "[Know Your Players](/sources/dnd/dmg-2024/running-the-game#KnowYourPlayers)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game), players have different tastes in the activities they enjoy in the game. An adventure needs to account for the different players and characters in your group to draw them into the story.
 
 An adventure that includes a balance of exploration, social interaction, and combat is likely to appeal to a wide breadth of players. But an adventure you create for your home campaign doesn’t have to appeal to every possible player interest—only to the players at your table.
 
@@ -345,13 +345,13 @@ Make sure there are multiple ways the characters can progress through the advent
 
 ### Social Interaction Encounters
 
-The “[Running Social Interaction](/sources/dnd/dmg-2024/running-the-game#RunningSocialInteraction)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers advice for handling social interaction encounters and can help you craft these encounters. The “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) is also essential for creating these encounters.
+The "[Running Social Interaction](/sources/dnd/dmg-2024/running-the-game#RunningSocialInteraction)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers advice for handling social interaction encounters and can help you craft these encounters. The "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) is also essential for creating these encounters.
 
 ### Exploration Encounters
 
 An encounter centered on exploration might involve the characters trying to disarm a trap, find a secret door, or discover something about the adventure location. An exploration encounter could also involve the characters spending a day crossing a rolling plain or traversing vast caverns.
 
-The “[Running Exploration](/sources/dnd/dmg-2024/running-the-game#RunningExploration)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) can help you craft these encounters as well as run them. Various sections in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) can also help you detail obstacles and dangers in an exploration encounter: see “[Chases](/sources/dnd/dmg-2024/dms-toolbox#Chases),” “[Curses and Magical Contagions](/sources/dnd/dmg-2024/dms-toolbox#CursesandMagicalContagions),” “[Doors](/sources/dnd/dmg-2024/dms-toolbox#Doors),” “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects),” “[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards),” “[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison),” and “[Traps](/sources/dnd/dmg-2024/dms-toolbox#Traps)” in particular.
+The "[Running Exploration](/sources/dnd/dmg-2024/running-the-game#RunningExploration)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) can help you craft these encounters as well as run them. Various sections in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) can also help you detail obstacles and dangers in an exploration encounter: see "[Chases](/sources/dnd/dmg-2024/dms-toolbox#Chases)," "[Curses and Magical Contagions](/sources/dnd/dmg-2024/dms-toolbox#CursesandMagicalContagions)," "[Doors](/sources/dnd/dmg-2024/dms-toolbox#Doors)," "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)," "[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)," "[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison)," and "[Traps](/sources/dnd/dmg-2024/dms-toolbox#Traps)" in particular.
 
 ### Combat Encounters
 
@@ -361,7 +361,7 @@ The following features can make a combat encounter more interesting or challengi
 
 **Defensive Positions.** Enemies in hard-to-reach locations or defensive positions force characters who normally attack at range to move around.
 
-**Hazards.** The “[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)” section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) describes dangerous features, such as patches of green slime, that characters or their enemies can use to their advantage.
+**Hazards.** The "[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)" section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) describes dangerous features, such as patches of green slime, that characters or their enemies can use to their advantage.
 
 **Mixed Monster Groups.** When different types of monsters work together, they can combine their abilities—just like characters with different classes and origins. A diverse force is more powerful.
 
@@ -464,7 +464,7 @@ A published adventure typically notes or implies whether a creature’s initial 
 
 #### Monster Personality
 
-If an encounter involves a significant individual, use the guidance in the “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) to flesh out the details of that individual’s personality and aims. For a group of nameless monsters, you can decide on a personality based on the monsters’ entries in the *Monster Manual*, or you can use the Monster Personality table to inform how you portray the monsters and their actions. It’s simplest to assign the same personality traits to an entire group of monsters in an encounter. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
+If an encounter involves a significant individual, use the guidance in the "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) to flesh out the details of that individual’s personality and aims. For a group of nameless monsters, you can decide on a personality based on the monsters’ entries in the *Monster Manual*, or you can use the Monster Personality table to inform how you portray the monsters and their actions. It’s simplest to assign the same personality traits to an entire group of monsters in an encounter. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
 
 ##### Monster Personality
@@ -530,7 +530,7 @@ Prepared defenders commonly use one or more of the following tactics:
 
 **Sentries and Alarms.** Some creatures might move from their keyed locations to locations that allow them to monitor entrances to the lair. If possible, these creatures might equip themselves with an alarm such as a horn or improvised gong (an empty kettle, perhaps). At the first sight of intruders, they raise the alarm, alerting nearby allies so those comrades can employ the reactive tactics described above.
 
-**Traps.** The defenders might place additional traps, such as falling nets, throughout the lair (see “[Traps](/sources/dnd/dmg-2024/dms-toolbox#Traps)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
+**Traps.** The defenders might place additional traps, such as falling nets, throughout the lair (see "[Traps](/sources/dnd/dmg-2024/dms-toolbox#Traps)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
 
 If the denizens of an adventure location employ any of these tactics, update your map as appropriate.
 
@@ -600,14 +600,14 @@ Although the climax must hinge on the successes and failures of the characters u
 
 In most stories, there’s a period after the climax, in which loose plot threads are tied up and everything is explained. An adventure might also include this kind of denouement: time to discover what treasure is in the dragon’s hoard, an award ceremony where the queen gives medals to the victorious heroes, or even a time to mourn adventuring companions who didn’t survive the battle.
 
-The denouement can also be an opportunity for the players to identify loose threads that haven’t been tied up—threads that can lead them into the next adventure. The “[Episodes and Serials](/sources/dnd/dmg-2024/creating-campaigns#EpisodesandSerials)” section in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns) offers suggestions for weaving these connecting threads.
+The denouement can also be an opportunity for the players to identify loose threads that haven’t been tied up—threads that can lead them into the next adventure. The "[Episodes and Serials](/sources/dnd/dmg-2024/creating-campaigns#EpisodesandSerials)" section in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns) offers suggestions for weaving these connecting threads.
 
 Adventure Rewards
 -----------------
 
 For some characters, the prospect of material reward is their primary reason for going on adventures. For others it’s a welcome added benefit to pursuing their other goals.
 
-[Chapter 7](/sources/dnd/dmg-2024/treasure) describes different kinds of treasure, but see also “[Marks of Prestige](/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for other rewards you might use.
+[Chapter 7](/sources/dnd/dmg-2024/treasure) describes different kinds of treasure, but see also "[Marks of Prestige](/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for other rewards you might use.
 
 The following sections describe how treasure is typically dispersed in an adventure.
 
@@ -632,7 +632,7 @@ You can use the Random Individual Treasure table to determine how much treasure 
 
 Adventurers sometimes discover large caches of treasure, the accumulated wealth of a large group of creatures or the belongings of a single powerful creature that hoards valuables. The Random Treasure Hoard table can help you create such a cache. When determining the contents of a hoard belonging to one monster, use the row for that monster’s Challenge Rating (CR). When the hoard belongs to a large group of monsters, use the CR of the monster that leads the group. Each row includes average results for monetary treasure, which you can use instead of rolling. To create a hoard for a monster that is particularly fond of amassing treasure (such as a dragon), you can roll twice on the table or roll once and double the total.
 
-As a rough benchmark, aim to roll on the Random Treasure Hoard table about once per game session. Use the guidelines in [chapter 7](/sources/dnd/dmg-2024/treasure) to determine which magic items are in the hoard (see “[Awarding Magic Items](/sources/dnd/dmg-2024/treasure#AwardingMagicItems)” and “[Random Magic Items](/sources/dnd/dmg-2024/treasure#RandomMagicItemRarity)”).
+As a rough benchmark, aim to roll on the Random Treasure Hoard table about once per game session. Use the guidelines in [chapter 7](/sources/dnd/dmg-2024/treasure) to determine which magic items are in the hoard (see "[Awarding Magic Items](/sources/dnd/dmg-2024/treasure#AwardingMagicItems)" and "[Random Magic Items](/sources/dnd/dmg-2024/treasure#RandomMagicItemRarity)").
 
 
 #### Random Treasure Hoard
@@ -654,11 +654,11 @@ Sometimes, characters are paid for completing a quest. To determine a suitable q
 
 The *Monster Manual* gives treasure preferences for monsters in that book. These preferences are categorized as follows:
 
-**Any.** The monster has a treasure hoard, the contents of which you can determine by rolling on the Random Treasure Hoard table. Monetary treasure can take the form of [coins](/sources/dnd/dmg-2024/treasure#Coins), [trade bars](/sources/dnd/dmg-2024/treasure#TradeBars), [trade goods](/sources/dnd/dmg-2024/treasure#TradeGoods), [gems](/sources/dnd/dmg-2024/treasure#Gemstones), or [art objects](/sources/dnd/dmg-2024/treasure#ArtObjects) (all described in [chapter 7](/sources/dnd/dmg-2024/treasure)). Magic items can belong to any treasure theme or category (see “[Treasure Themes](/sources/dnd/dmg-2024/treasure#TreasureThemes)” and “[Magic Item Categories](/sources/dnd/dmg-2024/treasure#MagicItemCategories)” in [chapter 7](/sources/dnd/dmg-2024/treasure)).
+**Any.** The monster has a treasure hoard, the contents of which you can determine by rolling on the Random Treasure Hoard table. Monetary treasure can take the form of [coins](/sources/dnd/dmg-2024/treasure#Coins), [trade bars](/sources/dnd/dmg-2024/treasure#TradeBars), [trade goods](/sources/dnd/dmg-2024/treasure#TradeGoods), [gems](/sources/dnd/dmg-2024/treasure#Gemstones), or [art objects](/sources/dnd/dmg-2024/treasure#ArtObjects) (all described in [chapter 7](/sources/dnd/dmg-2024/treasure)). Magic items can belong to any treasure theme or category (see "[Treasure Themes](/sources/dnd/dmg-2024/treasure#TreasureThemes)" and "[Magic Item Categories](/sources/dnd/dmg-2024/treasure#MagicItemCategories)" in [chapter 7](/sources/dnd/dmg-2024/treasure)).
 
 **Individual.** The monster doesn’t have a treasure hoard; however, it might have monetary treasure, which you can determine by rolling on the [Random Individual Treasure](#RandomIndividualTreasure) table. This treasure can take the form of coins, trade bars, trade goods, gems, or art objects (all described in [chapter 7](/sources/dnd/dmg-2024/treasure)).
 
-**Treasure Theme (Arcana, Armaments, Implements, or Relics).** The monster has a treasure hoard skewed toward a particular theme (see “[Treasure Themes](/sources/dnd/dmg-2024/treasure#TreasureThemes)” in [chapter 7](/sources/dnd/dmg-2024/treasure)). You can determine the size of the hoard by rolling on the [Random Treasure Hoard](#RandomTreasureHoard) table. If the hoard contains magic items, use the [guidelines and tables](/sources/dnd/dmg-2024/treasure#RandomMagicItemRarity) in [chapter 7](/sources/dnd/dmg-2024/treasure) to determine each one.
+**Treasure Theme (Arcana, Armaments, Implements, or Relics).** The monster has a treasure hoard skewed toward a particular theme (see "[Treasure Themes](/sources/dnd/dmg-2024/treasure#TreasureThemes)" in [chapter 7](/sources/dnd/dmg-2024/treasure)). You can determine the size of the hoard by rolling on the [Random Treasure Hoard](#RandomTreasureHoard) table. If the hoard contains magic items, use the [guidelines and tables](/sources/dnd/dmg-2024/treasure#RandomMagicItemRarity) in [chapter 7](/sources/dnd/dmg-2024/treasure) to determine each one.
 
 Adventure Examples
 ------------------
@@ -671,9 +671,9 @@ Each adventure in this section includes the following information:
 
 **Character Level.** Each adventure specifies the level of characters it’s aimed at. The difficulty of encounters in each adventure is tailored for four characters of that level. You can use adventures for characters of higher or lower level or for larger or smaller groups. However, the encounters might be easier or harder than you expect unless you adjust them.
 
-**Situation.** Each adventure lays out what’s going on—the situation that the adventurers are called on to deal with. See “[Lay Out the Premise](#LayOutthePremise)” earlier in this chapter.
+**Situation.** Each adventure lays out what’s going on—the situation that the adventurers are called on to deal with. See "[Lay Out the Premise](#LayOutthePremise)" earlier in this chapter.
 
-**Hook.** Each adventure offers one way to draw characters in to the adventure. See “[Draw In the Players](#DrawInthePlayers)” earlier in this chapter.
+**Hook.** Each adventure offers one way to draw characters in to the adventure. See "[Draw In the Players](#DrawInthePlayers)" earlier in this chapter.
 
 **Encounters.** The rest of each adventure description is a series of encounters. The text describes the location where the encounter occurs, often pointing to the maps in [Appendix B](/sources/dnd/dmg-2024/maps), and any triggering event that might provoke the encounter. Monster names in **bold** point you to the stat blocks in the *Monster Manual*. Some encounters also specify treasure the characters might find.
 
@@ -681,7 +681,7 @@ Use your imagination to bring the locations and encounters to life, and build on
 
 > ### A Starting Campaign
 > 
-> You can use the adventures in this section to get a new campaign off the ground. These adventures are linked to locations near the [Free City of Greyhawk](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk), as described in [chapter 5](/sources/dnd/dmg-2024/greyhawk). You can run the first three adventures in sequence, having the characters gain a level after each adventure. They might return to their home base in the city between adventures, or they could travel to Greyhawk after they complete “[The Winged God](#TheWingedGod).” Use the encounters and interactions the characters have in these early levels, and the situations that interest your players, to plan later adventures.
+> You can use the adventures in this section to get a new campaign off the ground. These adventures are linked to locations near the [Free City of Greyhawk](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk), as described in [chapter 5](/sources/dnd/dmg-2024/greyhawk). You can run the first three adventures in sequence, having the characters gain a level after each adventure. They might return to their home base in the city between adventures, or they could travel to Greyhawk after they complete "[The Winged God](#TheWingedGod)." Use the encounters and interactions the characters have in these early levels, and the situations that interest your players, to plan later adventures.
 
 ### The Fouled Stream
 
@@ -717,7 +717,7 @@ The adventure consists of these encounters.
 
 **Situation.** After miners dug into an Underdark tunnel, a [Hook Horror](/monsters/17162-hook-horror) found its way into the mine and became trapped. It has eaten a few miners, and the others are too terrified of the echoing clicks in the mine to hunt down the predator.
 
-**Hook.** The mayor of the village of Blackstone, Kristryd Splitanvil (a Lawful Good, dwarf **Tough**), hires the adventurers—perhaps because of how adeptly they handled the situation in “[The Fouled Stream](#TheFouledStream)”—to deal with the monster in the mines. She offers a precious topaz worth 500 GP to adventurers who kill the creature or drive it away.
+**Hook.** The mayor of the village of Blackstone, Kristryd Splitanvil (a Lawful Good, dwarf **Tough**), hires the adventurers—perhaps because of how adeptly they handled the situation in "[The Fouled Stream](#TheFouledStream)"—to deal with the monster in the mines. She offers a precious topaz worth 500 GP to adventurers who kill the creature or drive it away.
 
 #### Encounters
 
@@ -730,7 +730,7 @@ The adventure consists of these encounters.
 | 1 | Four [Violet Fungi](/monsters/17046-violet-fungus) and one [Rust Monster](/monsters/17001-rust-monster) |
 | 2 | One [Giant Spider](/monsters/4775821-giant-spider) and two [Swarms of Insects](/monsters/17029-swarm-of-insects) (spiders) |
 | 3 | One [Darkmantle](/monsters/16837-darkmantle) and three [Piercers](/monsters/17191-piercer) |
-| 4 | A patch of [yellow mold](/sources/dnd/dmg-2024/dms-toolbox#YellowMold) (see “[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) on a miner’s remains |
+| 4 | A patch of [yellow mold](/sources/dnd/dmg-2024/dms-toolbox#YellowMold) (see "[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) on a miner’s remains |
 | 5 | One [Gelatinous Cube](/monsters/16869-gelatinous-cube) |
 | 6 | Sounds of Terror (see below) |
 
@@ -750,11 +750,11 @@ The adventure consists of these encounters.
 
 The adventure consists of these encounters.
 
-***Kobold Bandits.*** Along the road, the wagon is surrounded by eight **Kobold Warriors** (Neutral) who demand that the merchant surrender his goods. In combat, the kobolds shout things like “For the Winged God!” and “Fight to reclaim our home!” If four of them fall in battle, the remaining kobolds try to flee. Any captured kobold explains the situation.
+***Kobold Bandits.*** Along the road, the wagon is surrounded by eight **Kobold Warriors** (Neutral) who demand that the merchant surrender his goods. In combat, the kobolds shout things like "For the Winged God!" and "Fight to reclaim our home!" If four of them fall in battle, the remaining kobolds try to flee. Any captured kobold explains the situation.
 
 ***Kobold Supplicants.*** If the characters continue on their way without pursuing the kobolds, twelve **Kobold Warriors** (including any survivors of the first encounter) and six [Winged Kobolds](/monsters/17210-winged-kobold) (all Neutral) approach the wagon. These kobolds humbly ask the adventurers to help them. They promise to return the goods they stole from Nondy if the adventurers drive off the dragon.
 
-***Kobold Camp.*** If the adventurers follow fleeing kobolds, they can find the kobolds’ camp on a nearby outcropping. The kobolds there don’t fight, though, instead begging the adventurers to help them (as in “Kobold Supplicants” above).
+***Kobold Camp.*** If the adventurers follow fleeing kobolds, they can find the kobolds’ camp on a nearby outcropping. The kobolds there don’t fight, though, instead begging the adventurers to help them (as in "Kobold Supplicants" above).
 
 ***Dragon’s Lair.*** Use the [Volcanic Caves map](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/map-12.14-volcanic-caves.jpg) in [Appendix B](/sources/dnd/dmg-2024/maps#MapsVolcanicCaves) for the dragon’s lair, but close off passages to keep the lair small. Near the entrance, the characters encounter a gang of four [Magma Mephits](/monsters/16948-magma-mephit) and three [Smoke Mephits](/monsters/17174-smoke-mephit), drawn to the lair by the magic of the dragon.
 
@@ -775,11 +775,11 @@ If the characters defeat or drive off the dragon, each of them earns a bonus 400
 
 **Situation.** A long-forgotten ruin is rumored to hold a fiendish Artifact called the *Horns of the Beast*. A villain hopes to claim the Artifact and put it to terrible use.
 
-**Hook.** An unassuming human merchant named Melchis (secretly a Chaotic Evil **Fiend Cultist** devoted to [Iuz](/sources/dnd/dmg-2024/lore-glossary#Iuz)) hires the characters to escort him on an expedition to find an ancient temple lost in the jungle. He offers to pay them a total of 2,000 GP in trade bars—half when they reach the temple and half when they safely return to civilization—and promises to support them with what he claims to be “limited magical ability.”
+**Hook.** An unassuming human merchant named Melchis (secretly a Chaotic Evil **Fiend Cultist** devoted to [Iuz](/sources/dnd/dmg-2024/lore-glossary#Iuz)) hires the characters to escort him on an expedition to find an ancient temple lost in the jungle. He offers to pay them a total of 2,000 GP in trade bars—half when they reach the temple and half when they safely return to civilization—and promises to support them with what he claims to be "limited magical ability."
 
 #### Encounters
 
-You can use the poster map of the world of Greyhawk for this adventure; the temple is located near the southern edge of the map, in the Amedio Jungle. The journey unfolds in three stages (see “[Travel](/sources/dnd/dmg-2024/running-the-game#Travel)” in [chapter 2](/sources/dnd/dmg-2024/running-the-game)), culminating in the discovery of the ruins and the artifact.
+You can use the poster map of the world of Greyhawk for this adventure; the temple is located near the southern edge of the map, in the Amedio Jungle. The journey unfolds in three stages (see "[Travel](/sources/dnd/dmg-2024/running-the-game#Travel)" in [chapter 2](/sources/dnd/dmg-2024/running-the-game)), culminating in the discovery of the ruins and the artifact.
 
 ***Stage 1.*** Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to determine how long the sea voyage takes, depending on where the adventurers begin the trip and figuring that the ship covers about 1½ hexes per day. Near the end of the trip, as the ship crosses Jeklea Bay, it’s attacked by a group of [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude) sahuagin, including two **Sahuagin Priests**, six **Sahuagin Warriors**, and a [Water Elemental](/monsters/17051-water-elemental). (Assume the ship’s crew stays out of the way of these terrifying monsters and lets the characters and Melchis deal with this threat.) Stage 1 ends when Melchis and the characters row a launch ashore.
 
@@ -795,11 +795,11 @@ You can use the poster map of the world of Greyhawk for this adventure; the temp
 | 19 | A band of humans, including a **Veteran Warrior** and eight **Infantry Warriors**, watch the party. They are [Indifferent](/sources/dnd/free-rules/rules-glossary#IndifferentAttitude); they live in the jungle and aren’t used to seeing other people. |
 | 20 | Four **Minotaurs of Baphomet** prowl the jungle looking for Humanoids they can capture and bring back to the temple. |
 
-***Stage 3.*** Once the characters reach the edge of the lake, Melchis leads them southwest along the shore until they find the ruin. This stage covers 90 miles through coastal terrain. The second day of the journey, [heavy rain](/sources/dnd/dmg-2024/dms-toolbox#HeavyPrecipitation) obscures vision and creates [quicksand pits](/sources/dnd/dmg-2024/dms-toolbox#QuicksandPit) (see “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” and “[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). The front rank of the party might fall into a quicksand pit while two [Giant Crocodiles](/monsters/16880-giant-crocodile) attack at the same time. The rest of the journey passes without incident.
+***Stage 3.*** Once the characters reach the edge of the lake, Melchis leads them southwest along the shore until they find the ruin. This stage covers 90 miles through coastal terrain. The second day of the journey, [heavy rain](/sources/dnd/dmg-2024/dms-toolbox#HeavyPrecipitation) obscures vision and creates [quicksand pits](/sources/dnd/dmg-2024/dms-toolbox#QuicksandPit) (see "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" and "[Hazards](/sources/dnd/dmg-2024/dms-toolbox#Hazards)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). The front rank of the party might fall into a quicksand pit while two [Giant Crocodiles](/monsters/16880-giant-crocodile) attack at the same time. The rest of the journey passes without incident.
 
 ***The Ruins.*** For the ruins, use the western half of the ground floor of the [Dungeon Hideout map](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/map-12.05-dungeon-hideout.jpg) in [Appendix B](/sources/dnd/dmg-2024/maps#MapDungeonHideout), and ignore the stairs leading to the lower levels. Dwelling in the ruins are six **Minotaurs of Baphomet** who are Hostile to all intruders. They are spread out around the ruins but come quickly when they hear combat.
 
-***The Artifact.*** The *Horns of the Beast*—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [Hezrou](/monsters/16922-hezrou) and tries to kill the characters. A character who dons the Artifact is cursed with [Demonic Possession](/sources/dnd/dmg-2024/dms-toolbox#DemonicPossession) (see “[Curses and Magical Contagions](/sources/dnd/dmg-2024/dms-toolbox#CursesandMagicalContagions)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). The Artifact can’t be removed from the character’s head until a [Remove Curse](/spells/2618943-remove-curse) spell is cast on the character. If the characters defeat Melchis and search him, they find a [Bag of Holding](/magic-items/9228356-bag-of-holding) containing twelve 5-pound gold trade bars (worth 250 GP each) and a [Spell Scroll](/magic-items/9229085-spell-scroll) of [Teleportation Circle](/spells/2619167-teleportation-circle). The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
+***The Artifact.*** The *Horns of the Beast*—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [Hezrou](/monsters/16922-hezrou) and tries to kill the characters. A character who dons the Artifact is cursed with [Demonic Possession](/sources/dnd/dmg-2024/dms-toolbox#DemonicPossession) (see "[Curses and Magical Contagions](/sources/dnd/dmg-2024/dms-toolbox#CursesandMagicalContagions)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). The Artifact can’t be removed from the character’s head until a [Remove Curse](/spells/2618943-remove-curse) spell is cast on the character. If the characters defeat Melchis and search him, they find a [Bag of Holding](/magic-items/9228356-bag-of-holding) containing twelve 5-pound gold trade bars (worth 250 GP each) and a [Spell Scroll](/magic-items/9229085-spell-scroll) of [Teleportation Circle](/spells/2619167-teleportation-circle). The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
 
 ***Destroying the Artifact.*** The *Horns of the Beast* can be destroyed only by dropping it in the [River Oceanus](/sources/dnd/dmg-2024/cosmology#RiverOceanus), which flows through the Upper Planes (see [chapter 6](/sources/dnd/dmg-2024/cosmology)). A character can learn this by casting [Identify](/spells/2619180-identify) on the Artifact.
 
@@ -813,7 +813,7 @@ You can use the poster map of the world of Greyhawk for this adventure; the temp
 
 #### Encounters
 
-The adventure plays out over three dances. During each one, the characters can decide whether they dance, mingle, watch the dancers, or engage in some other activity. (The [Manor map](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/map-12.08-manor.jpg) in [Appendix B](/sources/dnd/dmg-2024/maps#MapManor) can serve as a floor plan for the baron’s palace.) Each character has the opportunity to earn renown for the party (see “[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)” in [chapter 3](/sources/dnd/dmg-2024)) by making a positive impression on whomever they’re interacting with—a potential Renown Score increase of 1 per character per dance. These guests pay particular attention to the characters:
+The adventure plays out over three dances. During each one, the characters can decide whether they dance, mingle, watch the dancers, or engage in some other activity. (The [Manor map](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/map-12.08-manor.jpg) in [Appendix B](/sources/dnd/dmg-2024/maps#MapManor) can serve as a floor plan for the baron’s palace.) Each character has the opportunity to earn renown for the party (see "[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)" in [chapter 3](/sources/dnd/dmg-2024)) by making a positive impression on whomever they’re interacting with—a potential Renown Score increase of 1 per character per dance. These guests pay particular attention to the characters:
 
 * Cannifer is a **Satyr Revelmaster** who is used to being the center of attention at every ball he attends and is thus [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude) to the adventurers.
 * Darisis a [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude), fun-loving [Dryad](/monsters/16849-dryad) who wants to be seen dancing with all the adventurers.
@@ -823,4 +823,4 @@ The adventure plays out over three dances. During each one, the characters can d
 
 ***Rude Interruption.*** After the second dance, the ball is interrupted by a Neutral Evil [Hobgoblin Warlord](/monsters/17161-hobgoblin-warlord) named Varka, who is accompanied by a [Hobgoblin Captain](/monsters/17160-hobgoblin-captain) and five **Hobgoblin Warriors**. The hobgoblins are offended by the adventurers’ presence and attack them. If the characters defeat the hobgoblins, their Renown Score increases by 2.
 
-***Conclusion.*** After three dances, the Baron of the Boreal Ball appears. If the party’s Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see “[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) allows a character who has it to cast the level 3 version of the [Ice Knife](/spells/2619171-ice-knife) spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.
+***Conclusion.*** After three dances, the Baron of the Boreal Ball appears. If the party’s Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see "[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) allows a character who has it to cast the level 3 version of the [Ice Knife](/spells/2619171-ice-knife) spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.

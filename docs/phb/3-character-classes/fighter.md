@@ -147,7 +147,7 @@ Battle Masters are students of the art of battle, learning martial techniques pa
 
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Superiority Dice.
 
-***Maneuvers.*** You learn three maneuvers of your choice from the [“Maneuver Options”](#ManeuverOptions) section later in this subclass’s description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+***Maneuvers.*** You learn three maneuvers of your choice from the ["Maneuver Options"](#ManeuverOptions) section later in this subclass’s description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 

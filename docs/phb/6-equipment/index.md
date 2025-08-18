@@ -36,9 +36,9 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 
 **Damage.** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
 
-**Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the “[Properties](#Properties)” section.
+**Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the "[Properties](#Properties)" section.
 
-**Mastery.** Each weapon has a mastery property, which is defined in the “[Mastery Properties](#MasteryProperties)” section later in this chapter. To use that property, you must have a feature that lets you use it.
+**Mastery.** Each weapon has a mastery property, which is defined in the "[Mastery Properties](#MasteryProperties)" section later in this chapter. To use that property, you must have a feature that lets you use it.
 
 
 ### Weapons
@@ -111,7 +111,7 @@ You have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on 
 
 > ### Improvised Weapons
 > 
-> If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see “[Improvised Weapons](/sources/dnd/free-rules/rules-glossary#ImprovisedWeapons)” in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#ImprovisedWeapons). Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
+> If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[Improvised Weapons](/sources/dnd/free-rules/rules-glossary#ImprovisedWeapons)" in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#ImprovisedWeapons). Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
 
 #### Light
 
@@ -188,7 +188,7 @@ The Armor table lists the game’s main armor. The table includes the cost and w
 
 **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
-**Stealth.** If the table shows “Disadvantage” in the Stealth column for an armor type, the wearer has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on Dexterity ([Stealth](/sources/dnd/free-rules/playing-the-game#Skills)) checks.
+**Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on Dexterity ([Stealth](/sources/dnd/free-rules/playing-the-game#Skills)) checks.
 
 
 ### Armor
@@ -247,7 +247,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 
 **Utilize.** This entry lists things you can do with the tool when you take the [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action. You can do one of those things each time you take the action. This entry also provides the DC for the action.
 
-**Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see “[Crafting Equipment](#CraftingEquipment)” later in the chapter.
+**Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see "[Crafting Equipment](#CraftingEquipment)" later in the chapter.
 
 **Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.
 
@@ -1011,7 +1011,7 @@ You can use a Portable Ram to break down doors. When doing so, you gain a +4 bon
 
 #### Rations [(5 SP)](/equipment/411-rations)
 
-Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See “[Malnutrition](/sources/dnd/free-rules/rules-glossary#MalnutritionHazard)” in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#MalnutritionHazard) for the risks of not eating.
+Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "[Malnutrition](/sources/dnd/free-rules/rules-glossary#MalnutritionHazard)" in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#MalnutritionHazard) for the risks of not eating.
 
 ---
 
@@ -1168,7 +1168,7 @@ A ship sailing against a strong wind moves at half speed. In a dead calm (no win
 
 #### Crew
 
-A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see “[Services](#Services)” later in this chapter) to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship, as shown in the table.
+A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see "[Services](#Services)" later in this chapter) to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship, as shown in the table.
 
 #### Passengers
 
@@ -1328,7 +1328,7 @@ The [Identify](/spells/2619180-identify) spell is the fastest way to reveal an i
 
 Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it’s a [Ring of Feather Falling](/magic-items/4721-ring-of-feather-falling).
 
-Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [Ring of Swimming](/magic-items/4732-ring-of-swimming), the DM might say, “Your movement feels strangely fluid.” Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
+Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [Ring of Swimming](/magic-items/4732-ring-of-swimming), the DM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
 
 ### Attunement
 
@@ -1371,7 +1371,7 @@ To craft a nonmagical item, you need tools, raw materials, and time, each of whi
 
 #### Tools
 
-This chapter’s “[Tools](#Tools)” section lists which tools are required to make certain items. The DM assigns required tools for items not listed there.
+This chapter’s "[Tools](#Tools)" section lists which tools are required to make certain items. The DM assigns required tools for items not listed there.
 
 You must use the required tool to make an item and have proficiency with that tool. Anyone who helps you must also have proficiency with it.
 

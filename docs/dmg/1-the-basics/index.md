@@ -68,13 +68,13 @@ Let players know beforehand what books (other than the [Player’s Handbook](/so
 
 One player has the special role of Dungeon Master.
 
-Some people love being the DM all the time, while others can end up feeling trapped as the “forever DM” for their gaming group. The “[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) discusses possibilities for sharing the role of Dungeon Master among multiple players in a group.
+Some people love being the DM all the time, while others can end up feeling trapped as the "forever DM" for their gaming group. The "[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) discusses possibilities for sharing the role of Dungeon Master among multiple players in a group.
 
 ### Players
 
 Players who aren’t the Dungeon Master take on the roles of the heroes, also known as the characters or the adventurers.
 
-D&D plays best with four to six players in addition to the DM, but it’s possible to run a game with fewer or more adventurers. See the “[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for advice on doing so.
+D&D plays best with four to six players in addition to the DM, but it’s possible to run a game with fewer or more adventurers. See the "[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for advice on doing so.
 
 #### Finding Players
 
@@ -100,9 +100,9 @@ You can also play D&D anywhere you might come together in an online space, from 
 > 
 > Sometimes the hardest thing about running a game is finding a time when everyone can play. Some groups play for a few hours every week, while others set aside a whole day once a month. Create a schedule that works best for your group.
 > 
-> For new groups, it often helps to schedule a single-session game (often called a “one-shot”) as a way for people to try it out. If everyone has a great time at that one session, it can be easier to get them to make a long-term commitment.
+> For new groups, it often helps to schedule a single-session game (often called a "one-shot") as a way for people to try it out. If everyone has a great time at that one session, it can be easier to get them to make a long-term commitment.
 > 
-> Scheduling conflicts are sometimes inescapable. The “[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers some advice on what to do when a player has to miss a session.
+> Scheduling conflicts are sometimes inescapable. The "[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers some advice on what to do when a player has to miss a session.
 
 ### Dice
 
@@ -128,7 +128,7 @@ Various resources can enrich your game and make it more fun. Many of these resou
 
 #### DM Screen
 
-A DM screen shields your books, notes, and die rolls from your players. (See the “[Ensuring Fun for All](#EnsuringFunforAll)” section later in this chapter for more about when and why you might want to hide die rolls.) Most DM screens have art on the outward-facing panels and handy rules information on the inside-facing panels. Others might be made of fancy wood or sculpted to help set the mood for your game.
+A DM screen shields your books, notes, and die rolls from your players. (See the "[Ensuring Fun for All](#EnsuringFunforAll)" section later in this chapter for more about when and why you might want to hide die rolls.) Most DM screens have art on the outward-facing panels and handy rules information on the inside-facing panels. Others might be made of fancy wood or sculpted to help set the mood for your game.
 
 You don’t need a physical screen to hide things if you’re playing online, but it can be helpful to have ready access to important information like condition definitions, common actions, and other key rules. Some DMs set up a physical DM screen near their computer screen. A virtual tabletop might have reference information like this built in.
 
@@ -155,7 +155,7 @@ The more you prepare before your game, the more smoothly the game will go—to a
 
 ### The One-Hour Guideline
 
-A D&D game session usually starts with some out-of-game chatter as everyone settles down to play. Once the session gets underway, most groups can accomplish at least three things during one hour of play, where each “thing” might be any of the following:
+A D&D game session usually starts with some out-of-game chatter as everyone settles down to play. Once the session gets underway, most groups can accomplish at least three things during one hour of play, where each "thing" might be any of the following:
 
 * Explore a location such as a chamber in a castle or a cave
 * Converse with an intelligent creature
@@ -176,7 +176,7 @@ If you spend one hour each week preparing for your game, follow these steps:
 
 **Step 1.** Focus on the story of the adventure. Read or reread the adventure’s introduction and background information. Create a bulleted list of key plot points to make sure a coherent story unfolds.
 
-**Step 2.** Identify the encounters you want to run, then figure out how likely it is each encounter will get played, categorizing each one as “definite,” “possible,” or “unlikely.”
+**Step 2.** Identify the encounters you want to run, then figure out how likely it is each encounter will get played, categorizing each one as "definite," "possible," or "unlikely."
 
 **Step 3.** Gather any maps you’ll need for the definite and possible encounters, then focus the remainder of your prep time on the definite encounters, as outlined below.
 
@@ -186,7 +186,7 @@ For social interaction encounters, make notes about the nonplayer characters (NP
 
 For exploration encounters, record any clues or other information the characters should learn, and review any special rules that might come into play in the encounter.
 
-**Step 4.** Consider how each definite encounter relates to the players’ motivations (see the “[Know Your Players](/sources/dnd/dmg-2024/running-the-game#KnowYourPlayers)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game)). Think about elements you can add to interest them. For example, a combat encounter could open with a tense negotiation designed to appeal to players who enjoy social interaction.
+**Step 4.** Consider how each definite encounter relates to the players’ motivations (see the "[Know Your Players](/sources/dnd/dmg-2024/running-the-game#KnowYourPlayers)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game)). Think about elements you can add to interest them. For example, a combat encounter could open with a tense negotiation designed to appeal to players who enjoy social interaction.
 
 **Step 5.** Skim the encounters you flagged as possible.
 
@@ -194,15 +194,15 @@ For exploration encounters, record any clues or other information the characters
 
 With another hour to prepare, add these steps:
 
-**Step 6.** Carefully review each “possible” encounter.
+**Step 6.** Carefully review each "possible" encounter.
 
-**Step 7.** Devote any time you have left to creating improvisational aids (see the “[Improvising Answers](/sources/dnd/dmg-2024/running-the-game#ImprovisingAnswers)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game)).
+**Step 7.** Devote any time you have left to creating improvisational aids (see the "[Improvising Answers](/sources/dnd/dmg-2024/running-the-game#ImprovisingAnswers)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game)).
 
 #### Three-Hour Preparation
 
 If you have three hours to prepare, add these steps:
 
-**Step 8.** Skim each “unlikely” encounter.
+**Step 8.** Skim each "unlikely" encounter.
 
 **Step 9.** Create a new encounter designed to appeal specifically to one player, or alter an existing encounter to relate to the goals and motivations of that player’s character. Over the course of several sessions, do this for all your players and their characters.
 
@@ -231,13 +231,13 @@ As the DM, you decide how much to tell the players and when. All the information
 
 Whether you’re running a published adventure or one of your own creation, your initial description of a room or situation should focus on what the characters can perceive. You don’t have to reveal every detail at once. Most players begin to lose focus after about three sentences of descriptive text. As characters search rooms, open drawers and chests, and examine things more closely, give players more details about what their characters find.
 
-The “[Narration](/sources/dnd/dmg-2024/running-the-game#Narration)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers more extensive advice and examples of narration.
+The "[Narration](/sources/dnd/dmg-2024/running-the-game#Narration)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers more extensive advice and examples of narration.
 
 #### Step 2: Let the Players Talk
 
 Once you’re done describing the situation, ask the players what their characters want to do. Note what the players say, and identify how to resolve their actions. Ask them for more information if you need it.
 
-Sometimes the players might give you a group answer: “We go through the door.” Other times, individual players might want to do specific things—one might search a chest while another examines a bookshelf. Outside combat, the characters don’t need to take turns, but you need to give each player a chance to tell you what their character is doing so you can decide how to resolve everyone’s actions. In combat, everyone takes turns in Initiative order.
+Sometimes the players might give you a group answer: "We go through the door." Other times, individual players might want to do specific things—one might search a chest while another examines a bookshelf. Outside combat, the characters don’t need to take turns, but you need to give each player a chance to tell you what their character is doing so you can decide how to resolve everyone’s actions. In combat, everyone takes turns in Initiative order.
 
 #### Step 3: Describe What Happens
 
@@ -245,25 +245,25 @@ After the players describe their characters’ actions, it’s the DM’s job to
 
 **No Rules Required.** Sometimes, resolving a situation is easy. If an adventurer wants to cross an empty room and open a door, you can just say that the door opens and describe what lies beyond (perhaps referencing your map or notes).
 
-**Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character’s ability to complete a task. In those cases, you typically call for a [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test), usually an ability check. For example, a successful Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check might be needed to pick the lock, while a successful Charisma ([Persuasion](/sources/dnd/free-rules/playing-the-game#Skills)) check and some coins might be needed to bribe the guard. The “[Resolving Outcomes](/sources/dnd/dmg-2024/running-the-game#ResolvingOutcomes)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) gives more guidance on how to use D20 Tests and other tools to determine the results of characters’ actions.
+**Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character’s ability to complete a task. In those cases, you typically call for a [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test), usually an ability check. For example, a successful Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check might be needed to pick the lock, while a successful Charisma ([Persuasion](/sources/dnd/free-rules/playing-the-game#Skills)) check and some coins might be needed to bribe the guard. The "[Resolving Outcomes](/sources/dnd/dmg-2024/running-the-game#ResolvingOutcomes)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) gives more guidance on how to use D20 Tests and other tools to determine the results of characters’ actions.
 
-**Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude), [Indifferent](/sources/dnd/free-rules/rules-glossary#IndifferentAttitude), or [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude). Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the “[Running Social Interaction](/sources/dnd/dmg-2024/running-the-game#RunningSocialInteraction)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice.)
+**Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude), [Indifferent](/sources/dnd/free-rules/rules-glossary#IndifferentAttitude), or [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude). Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the "[Running Social Interaction](/sources/dnd/dmg-2024/running-the-game#RunningSocialInteraction)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice.)
 
 **One Action at a Time.** The [rules about actions](/sources/dnd/phb-2024/playing-the-game#Actions) in the [Player’s Handbook](/sources/dnd/phb-2024) limit how many things a character can do at once. Keeping those rules in mind can help you adjudicate situations.
 
-**Combat.** In combat, many situations involve attack rolls or saving throws. The rules of combat can help you determine the effectiveness of a character’s actions. The “[Running Combat](/sources/dnd/dmg-2024/running-the-game#RunningCombat)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers advice on combat.
+**Combat.** In combat, many situations involve attack rolls or saving throws. The rules of combat can help you determine the effectiveness of a character’s actions. The "[Running Combat](/sources/dnd/dmg-2024/running-the-game#RunningCombat)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers advice on combat.
 
 **Spellcasting.** If a character casts a spell, you can usually let the player tell you what the spell does and how to resolve it. If questions arise, read the text of the spell yourself—how a spell is supposed to work is usually pretty clear. The general [rules of spellcasting](/sources/dnd/phb-2024/spells) in the [Player’s Handbook](/sources/dnd/phb-2024) are also essential for resolving a spell’s effects.
 
 **Exceptions Supersede General Rules.** General rules govern each part of the game, but the game also includes class features, spells, magic items, monster abilities, and other elements that can contradict a general rule. When an exception and a general rule disagree, the exception wins. For example, it’s a general rule that melee weapon attacks use the attacking character’s Strength modifier. But if a feature says that a character can make melee weapon attacks using Charisma, that exception supersedes the general rule.
 
-When narrating results, try to give a flavorful description while clearly communicating what’s happening in the language of the game. See the “[Narration in Combat](/sources/dnd/dmg-2024/running-the-game#NarrationinCombat)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice and examples.
+When narrating results, try to give a flavorful description while clearly communicating what’s happening in the language of the game. See the "[Narration in Combat](/sources/dnd/dmg-2024/running-the-game#NarrationinCombat)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice and examples.
 
 Describing results often leads to another decision point, which returns the flow of the game to step 1.
 
 ### Passing Time
 
-The game has a rhythm and flow that includes periods of action and excitement interspersed with lulls. Think of how movies show time passing between scenes. When an encounter ends, you can move on to the next one. You can often gloss over hours of travel with a quick narrative summary (see the “[Travel](/sources/dnd/dmg-2024/running-the-game#Travel)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice). Similarly, if a rest period passes uneventfully, tell the players that and move on. Don’t make the players spend time discussing which character cooks what for dinner unless they enjoy such descriptions. It’s OK to gloss over mundane details and return to the action as quickly as possible.
+The game has a rhythm and flow that includes periods of action and excitement interspersed with lulls. Think of how movies show time passing between scenes. When an encounter ends, you can move on to the next one. You can often gloss over hours of travel with a quick narrative summary (see the "[Travel](/sources/dnd/dmg-2024/running-the-game#Travel)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice). Similarly, if a rest period passes uneventfully, tell the players that and move on. Don’t make the players spend time discussing which character cooks what for dinner unless they enjoy such descriptions. It’s OK to gloss over mundane details and return to the action as quickly as possible.
 
 Expect players to discuss the events of the game, spend time planning, and engage in long conversations in character. You don’t need to be involved in those discussions unless they have questions for you. Learn to recognize the times when you can take a break as the DM, and then resume the action as soon as everyone’s ready.
 
@@ -282,7 +282,7 @@ Allow a few minutes at the end of play for everyone to discuss the events of the
 Example of Play
 ---------------
 
-These pages present a short example of play, similar to the ones in the [Player’s Handbook](/sources/dnd/phb-2024), to illustrate how everything outlined in the “How to Run a Session” section works in practice. In this example, the Dungeon Master is running an adventure (“[The Fouled Stream](/sources/dnd/dmg-2024/creating-adventures#TheFouledStream)”) from [chapter 4](/sources/dnd/dmg-2024/creating-adventures). The four players are Amy (playing Auro, a Halfling Rogue), Maeve (playing Mirabella, an Elf Wizard), Phillip (playing Gareth, a Human Cleric), and Russell (playing Shreeve, a Goliath Fighter).
+These pages present a short example of play, similar to the ones in the [Player’s Handbook](/sources/dnd/phb-2024), to illustrate how everything outlined in the "How to Run a Session" section works in practice. In this example, the Dungeon Master is running an adventure ("[The Fouled Stream](/sources/dnd/dmg-2024/creating-adventures#TheFouledStream)") from [chapter 4](/sources/dnd/dmg-2024/creating-adventures). The four players are Amy (playing Auro, a Halfling Rogue), Maeve (playing Mirabella, an Elf Wizard), Phillip (playing Gareth, a Human Cleric), and Russell (playing Shreeve, a Goliath Fighter).
 
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
 
@@ -340,7 +340,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 **Phillip:** 19 for Gareth.
 
-> The DM rolls [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) just once for all six monsters and writes down that they’ll go on Initiative count 17. The DM then goes around the table to get each player’s Initiative roll. See the “[Running Combat](/sources/dnd/dmg-2024/running-the-game#RunningCombat)” section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for advice about rolling and tracking Initiative.
+> The DM rolls [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) just once for all six monsters and writes down that they’ll go on Initiative count 17. The DM then goes around the table to get each player’s Initiative roll. See the "[Running Combat](/sources/dnd/dmg-2024/running-the-game#RunningCombat)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for advice about rolling and tracking Initiative.
 
 **Jared:** Mirabella, you’re first. What do you do?
 
@@ -376,7 +376,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 **Phillip:** It takes 7 Necrotic damage!
 
-**Jared:** Whatever moisture was in this “bundle of kindling” seems to dry up, and the thing keels over dead. Anything else, Gareth?
+**Jared:** Whatever moisture was in this "bundle of kindling" seems to dry up, and the thing keels over dead. Anything else, Gareth?
 
 **Phillip:** He glares menacingly at the other shrubs.
 
@@ -414,7 +414,7 @@ The preceding example of play shows how one Dungeon Master might run an encounte
 > 
 > D&D is a game, and everyone should have fun playing it. Everyone shares equal responsibility in moving the game along, and everyone contributes to the fun when they treat each other with respect and consideration: talking through disagreements among players or their characters, and remembering that arguments or mean-spirited squabbles can get in the way of the fun.
 > 
-> People have many different ideas about what makes D&D fun. The “right way” to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.
+> People have many different ideas about what makes D&D fun. The "right way" to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.
 
 ### Play Style
 
@@ -494,7 +494,7 @@ It’s up to everyone to uphold the principles of respect. Difficult conversatio
 
 #### Setting Expectations
 
-Before you assemble a group around a game table, pitch the adventures you’re thinking about running to your prospective players. Note the in-world conflicts that might arise, the setting’s overall tone, and the themes you’d like to explore. (The “[Every DM Is Unique](#EveryDMIsUnique)” section earlier in this chapter can help you describe your game to others.)
+Before you assemble a group around a game table, pitch the adventures you’re thinking about running to your prospective players. Note the in-world conflicts that might arise, the setting’s overall tone, and the themes you’d like to explore. (The "[Every DM Is Unique](#EveryDMIsUnique)" section earlier in this chapter can help you describe your game to others.)
 
 Telling players what to expect prepares them as they imagine what sorts of characters they could create and launches conversations about content to be embraced and avoided. You don’t need to reveal the major plot points or twists in your story, but share the themes you’re interested in exploring, the kinds of stories you’re inspired by, and which [flavors of fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy) (outlined in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns)) interest you. Being transparent with your players allows them to decide if this is a game they want to play, which is best to know before play begins.
 
@@ -506,9 +506,9 @@ Being clear about your expectations and making sure you understand your players�
 > 
 > Before distributing the sheet to players, fill in the two topmost boxes:
 > 
-> **Game Theme and Flavor.** In this box, broadly describe the direction you envision for your game. See the “Setting Expectations” section for the kinds of information to include here.
+> **Game Theme and Flavor.** In this box, broadly describe the direction you envision for your game. See the "Setting Expectations" section for the kinds of information to include here.
 > 
-> **Potentially Sensitive Elements.** If you know that some elements of the game might run up against some players’ limits, list those elements in this box. See the “Hard and Soft Limits” section for examples.
+> **Potentially Sensitive Elements.** If you know that some elements of the game might run up against some players’ limits, list those elements in this box. See the "Hard and Soft Limits" section for examples.
 > 
 > Once the above information is added, give a copy of the sheet to each player. Players can fill out their sheets anonymously, but ask each of them to add the following information:
 > 
@@ -529,7 +529,7 @@ DMs and players can have phobias or triggers that others might not be aware of. 
 
 Common in-game limits apply to topics such as intraparty romance, sex, exploitation, racism, enslavement, and violence toward children and animals. Limits can also apply to certain creatures, such as spiders, snakes, rats, and demons. It’s also important to discuss limits around what harm might befall characters, including mind-control magic, helplessness, and death.
 
-That said, D&D is a game that has in-world conflicts and mayhem. Certain core elements of the game are difficult to ignore. For example, taking damage isn’t a limit you can work around easily. Similarly, character death is something that happens from time to time, though the game has ways to counteract or avoid it (see “[Death](/sources/dnd/dmg-2024/dms-toolbox#Death)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for suggestions).
+That said, D&D is a game that has in-world conflicts and mayhem. Certain core elements of the game are difficult to ignore. For example, taking damage isn’t a limit you can work around easily. Similarly, character death is something that happens from time to time, though the game has ways to counteract or avoid it (see "[Death](/sources/dnd/dmg-2024/dms-toolbox#Death)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for suggestions).
 
 ***Communicating Limits.*** Make sure everyone is comfortable with how the discussion of limits takes place. Players might not want to discuss limits aloud, especially if they’re new to roleplaying games or haven’t spent a lot of time with other members of the group. One way to alleviate such discomfort is to provide a way for players to share limits anonymously. Everyone can jot down their limits on an anonymous survey, such as the [Game Expectations](#GameExpectationsSheet) tracking sheet in this chapter.
 
@@ -539,7 +539,7 @@ The start of a campaign is a great time to have this discussion, but further dis
 
 ***Shifting Limits.*** Encourage players to bring any additional limits to you, privately or in the moment, so you can add them to the list. Trust that players know their needs best, and update the game accordingly.
 
-***Limits in Play.*** Since D&D is improvisational, the game can go in unexpected directions. It’s helpful to have an agreed-on signal that players can use to communicate that a limit has been violated, allowing you to adjust quickly. That signal might be a gesture (such as crossing the arms in an X or raising a palm in a “stop” gesture), a code word or phrase, touching or lifting a designated object, or anything else your group agrees on. Players should also feel safe to say “stop” and pause the game until the issue is resolved. The person who invokes the signals can comment on what they want adjusted but doesn’t have to explain why the content is objectionable. The signal shouldn’t trigger a debate or discussion: thank the player for being honest about their needs, set the scene right, and move on.
+***Limits in Play.*** Since D&D is improvisational, the game can go in unexpected directions. It’s helpful to have an agreed-on signal that players can use to communicate that a limit has been violated, allowing you to adjust quickly. That signal might be a gesture (such as crossing the arms in an X or raising a palm in a "stop" gesture), a code word or phrase, touching or lifting a designated object, or anything else your group agrees on. Players should also feel safe to say "stop" and pause the game until the issue is resolved. The person who invokes the signals can comment on what they want adjusted but doesn’t have to explain why the content is objectionable. The signal shouldn’t trigger a debate or discussion: thank the player for being honest about their needs, set the scene right, and move on.
 
 Make it clear to players that if a person isn’t comfortable using the signal, they can step away from the game or call for a break to talk to you privately. Players may also give a friend permission to use the signal on their behalf. As the DM, lead by example. Take your players’ needs seriously, and use every tool at your disposal to adjust how your shared story plays out.
 
@@ -547,7 +547,7 @@ Make it clear to players that if a person isn’t comfortable using the signal, 
 
 When there’s conflict between characters in an adventuring party, it’s usually a sign that one of three things is going on:
 
-**Disruptive Player.** A player is exhibiting antisocial behavior in the game. How to deal with it is covered in the “[Antisocial Behavior](#AntisocialBehavior)” section.
+**Disruptive Player.** A player is exhibiting antisocial behavior in the game. How to deal with it is covered in the "[Antisocial Behavior](#AntisocialBehavior)" section.
 
 **Player Conflict.** Conflicts between characters sometimes surface conflicts between players. These conflicts are best handled away from the gaming table. Encourage the players to resolve their conflict outside the game. If that conflict keeps arising at the game table, you might need to ask them to step away from the campaign for a while or leave the game entirely.
 
@@ -561,7 +561,7 @@ Your players need to know from the start that you’ll run a game that is fun, f
 
 > ### Do You Really Do That?
 > 
-> Can players retract what they just said their characters did? Some DMs take a hard-line position: “If you said it, your character did it.” Such a strict position tends to make players much more careful about what they say, which can dampen the atmosphere and discourage humor.
+> Can players retract what they just said their characters did? Some DMs take a hard-line position: "If you said it, your character did it." Such a strict position tends to make players much more careful about what they say, which can dampen the atmosphere and discourage humor.
 > 
 > Other DMs let players change their minds freely. This creates a more relaxed mood at the table, which might slow the pace of the game.
 > 
@@ -617,7 +617,7 @@ When a die falls on the floor, do you count it or reroll it? When it lands cocke
 
 #### The Social Contract of Adventures
 
-You must provide reasonably appealing reasons for characters to undertake the adventures you prepare. (See “[Draw In the Players](/sources/dnd/dmg-2024/creating-adventures#DrawInthePlayers)” in [chapter 4](/sources/dnd/dmg-2024/creating-adventures) for advice on this topic.) In exchange, the players should go along with those hooks. It’s OK for your players to give you some pushback on why their characters should want to do what you’re asking them to do, but it’s not OK for them to invalidate the hard work you’ve done preparing the adventure by willfully going in a different direction.
+You must provide reasonably appealing reasons for characters to undertake the adventures you prepare. (See "[Draw In the Players](/sources/dnd/dmg-2024/creating-adventures#DrawInthePlayers)" in [chapter 4](/sources/dnd/dmg-2024/creating-adventures) for advice on this topic.) In exchange, the players should go along with those hooks. It’s OK for your players to give you some pushback on why their characters should want to do what you’re asking them to do, but it’s not OK for them to invalidate the hard work you’ve done preparing the adventure by willfully going in a different direction.
 
 If you feel like you’re keeping up your end of the bargain but your players aren’t, have a conversation with them away from the gaming table. Try to understand what hooks would motivate their characters, and make sure the players understand the work you put into preparing adventures for them.
 
@@ -631,7 +631,7 @@ If a player wants to pause play to find a specific rule or reference, you can in
 
 #### Character Knowledge
 
-Encourage players to play their characters within the limits of what the characters know and understand. It can be helpful to maintain the distinction between player and character knowledge by simply asking players, “What do your *characters* think?”
+Encourage players to play their characters within the limits of what the characters know and understand. It can be helpful to maintain the distinction between player and character knowledge by simply asking players, "What do your *characters* think?"
 
 Anachronistic thinking is another potential pitfall. You might need to remind players that their characters don’t know how to make things that don’t exist in the game world, such as modern firearms or antibiotics, and they don’t have the players’ understanding of modern science (which might not apply in the game universe anyway).
 
@@ -641,13 +641,13 @@ Similarly, sometimes a player is familiar with the published adventure you’re 
 
 People often play D&D because it lets them, through their characters, do things they can’t do in real life—fight monsters, cast spells, and so on. However, for some players, this means wreaking havoc in towns or betraying their allies. What they want in the game has nothing to do with heroic adventure, but with using the game rules to act out antisocial fantasies.
 
-If this behavior comes up in your game, it might be time to reopen the conversation about the kind of game you want to play. If it’s just one player causing the trouble, it’s perfectly appropriate to issue an ultimatum: an out-of-control player who wants to continue playing with the group must stop being disruptive and play as part of a team. Don’t let players get away with being jerks to the other players using the excuse, “that’s what my character would do.”
+If this behavior comes up in your game, it might be time to reopen the conversation about the kind of game you want to play. If it’s just one player causing the trouble, it’s perfectly appropriate to issue an ultimatum: an out-of-control player who wants to continue playing with the group must stop being disruptive and play as part of a team. Don’t let players get away with being jerks to the other players using the excuse, "that’s what my character would do."
 
 ***Evil Characters.*** Players who want to play evil characters might be looking to carry out antisocial behavior in the game. If a player asks for permission to play an evil character or comes to the table with one already made, talk to that player about what they have in mind and make sure their plans square with the group’s expectations for your game. Sometimes a player wants to explore playing an evil character for perfectly good (and nondisruptive) reasons, and sometimes a whole group decides it might be fun to play evil characters together. These are valid options, as long as everyone’s on the same page about how the campaign will go.
 
 #### Players Exploiting the Rules
 
-Some players enjoy poring over the D&D rules and looking for optimal combinations. This kind of optimizing is part of the game (see “[Know Your Players](/sources/dnd/dmg-2024/running-the-game#KnowYourPlayers)” in [chapter 2](/sources/dnd/dmg-2024/running-the-game)), but it can cross a line into being exploitative, interfering with everyone else’s fun.
+Some players enjoy poring over the D&D rules and looking for optimal combinations. This kind of optimizing is part of the game (see "[Know Your Players](/sources/dnd/dmg-2024/running-the-game#KnowYourPlayers)" in [chapter 2](/sources/dnd/dmg-2024/running-the-game)), but it can cross a line into being exploitative, interfering with everyone else’s fun.
 
 Setting clear expectations is essential when dealing with this kind of rules exploitation. Bear these principles in mind:
 
@@ -663,7 +663,7 @@ Outlining these principles can help hold players’ exploits at bay. If a player
 
 > ### Knowing the Rules
 > 
-> You don’t have to be an expert on the rules to be a good DM. Of course it’s helpful to be familiar with the rules, especially the ones in the [Player’s Handbook](/sources/dnd/phb-2024), but facilitating fun is more important than implementing the rules perfectly. If you’re not sure how to apply the rules in a situation, you can always ask the opinion of the players as a group. It might take a few minutes, but it’s usually possible to reach an answer that feels fair to everyone, and that’s more important than a “correct” answer.
+> You don’t have to be an expert on the rules to be a good DM. Of course it’s helpful to be familiar with the rules, especially the ones in the [Player’s Handbook](/sources/dnd/phb-2024), but facilitating fun is more important than implementing the rules perfectly. If you’re not sure how to apply the rules in a situation, you can always ask the opinion of the players as a group. It might take a few minutes, but it’s usually possible to reach an answer that feels fair to everyone, and that’s more important than a "correct" answer.
 > 
 > You don’t need to know every spell in the [Player’s Handbook](/sources/dnd/phb-2024) or the features of every class. Set the expectation that players are responsible for telling you what their abilities and spells do.
 

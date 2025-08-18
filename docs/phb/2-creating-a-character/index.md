@@ -13,11 +13,11 @@ Start by talking with your Dungeon Master about the type of D&D game they plan t
 
 > ### Session Zero
 >
-> Some Dungeon Masters start a campaign with a “session zero,” an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
+> Some Dungeon Masters start a campaign with a "session zero," an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
 
 ### Choose a Character Sheet
 
-You’ll record the main details of your character on a character sheet. Throughout this chapter, we use the term “character sheet” to mean whatever you use to track your character’s details, whether it’s a printed character sheet, a digital character sheet like the one on [D&D Beyond](/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
+You’ll record the main details of your character on a character sheet. Throughout this chapter, we use the term "character sheet" to mean whatever you use to track your character’s details, whether it’s a printed character sheet, a digital character sheet like the one on [D&D Beyond](/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
 
 Create Your Character
 ---------------------
@@ -71,7 +71,7 @@ Write your character’s level on your character sheet. Typically, a character s
 
 ***Write Your XP.*** Also record your Experience Points. A level 1 character has 0 XP.
 
-***Starting at a Higher Level.*** Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the “[Starting at Higher Levels](#StartingatHigherLevels)” section later in the chapter for more information.
+***Starting at a Higher Level.*** Your DM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the "[Starting at Higher Levels](#StartingatHigherLevels)" section later in the chapter for more information.
 
 #### Note Armor Training
 
@@ -523,7 +523,7 @@ The Character Advancement table lists the XP you need to advance to a level and 
 
 When you gain a level, follow these steps:
 
-1. **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the “[Multiclassing](#Multiclassing)” section later in this chapter.
+1. **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the "[Multiclassing](#Multiclassing)" section later in this chapter.
 2. **Adjust Hit Points and Hit Point Dice.** Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.
 
 
@@ -572,7 +572,7 @@ Your DM might start your group’s characters at a level higher than 1. It is pa
 
 ### Creating Your Character
 
-Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided in the “[Level Advancement](#LevelAdvancement)” section. You begin with the minimum amount of XP required to reach your starting level. For example, if the DM starts you at level 10, you have 64,000 XP.
+Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided in the "[Level Advancement](#LevelAdvancement)" section. You begin with the minimum amount of XP required to reach your starting level. For example, if the DM starts you at level 10, you have 64,000 XP.
 
 ### Starting Equipment
 
@@ -780,18 +780,18 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 83 | A bit of folded cloth that, when unfolded, turns into a stylish cap |
 | 84 | A receipt of deposit at a bank in a far-off city |
 | 85 | A diary with seven missing pages |
-| 86 | An empty silver snuffbox bearing the inscription “dreams” on its lid |
+| 86 | An empty silver snuffbox bearing the inscription "dreams" on its lid |
 | 87 | An iron holy symbol devoted to an unknown god |
 | 88 | A book about a legendary hero’s rise and fall, with the last chapter missing |
 | 89 | A vial of dragon blood |
 | 90 | An ancient arrow of elven design |
 | 91 | A needle that never bends |
 | 92 | An ornate brooch of dwarven design |
-| 93 | An empty wine bottle bearing a pretty label that says, “The Wizard of Wines Winery, Red Dragon Crush, 331422-W” |
+| 93 | An empty wine bottle bearing a pretty label that says, "The Wizard of Wines Winery, Red Dragon Crush, 331422-W" |
 | 94 | A mosaic tile with a multicolored, glazed surface |
 | 95 | A petrified mouse |
 | 96 | A black pirate flag adorned with a dragon’s skull and crossbones |
 | 97 | A tiny mechanical crab or spider that moves about when it’s not being observed |
-| 98 | A glass jar containing lard with a label that reads, “Griffon Grease” |
+| 98 | A glass jar containing lard with a label that reads, "Griffon Grease" |
 | 99 | A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body |
 | 00 | A metal urn containing the ashes of a hero |

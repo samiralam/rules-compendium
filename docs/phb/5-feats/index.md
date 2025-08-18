@@ -23,7 +23,7 @@ The description of a feat contains the following parts, which are presented afte
 
 ***Benefit.*** The benefits of a feat are detailed after any prerequisites are listed. If you have a feat, you gain its benefits.
 
-***Repeatable.*** A feat can be taken only once unless its description states otherwise in a “Repeatable” subsection.
+***Repeatable.*** A feat can be taken only once unless its description states otherwise in a "Repeatable" subsection.
 
 
 ### Feat List

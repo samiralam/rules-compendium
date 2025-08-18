@@ -231,7 +231,7 @@ The axe has the [Thrown](/sources/dnd/free-rules/equipment#Thrown) property with
 
 ***Conjure Earth Elemental.*** While holding the axe, you can take a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action to summon an [Earth Elemental](/monsters/16853-earth-elemental). It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your Initiative count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a Bonus Action. You can’t use this property again until the next dawn.
 
-***Random Properties.*** The axe has the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties.*** The axe has the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 2 minor beneficial properties
 * 1 major beneficial property
@@ -432,7 +432,7 @@ While berserk, you regard the creature nearest to you that you can see or hear a
 
 Hidden in the dungeon of White Plume Mountain, *Blackrazor* shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take 1d10 Necrotic damage, and the target regains 1d10 Hit Points. If this Necrotic damage reduces you to 0 Hit Points, *Blackrazor* devours your soul (see “Devour Soul” below).
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take 1d10 Necrotic damage, and the target regains 1d10 Hit Points. If this Necrotic damage reduces you to 0 Hit Points, *Blackrazor* devours your soul (see "Devour Soul" below).
 
 While you hold this weapon, you have Immunity to the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) and [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) conditions, and you have [Blindsight](/sources/dnd/free-rules/rules-glossary#Blindsight) with a range of 30 feet.
 
@@ -478,7 +478,7 @@ Benefits granted by the *Book of Exalted Deeds* last only as long as you strive 
 
 ***Halo.*** After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [Bright Light](/sources/dnd/free-rules/rules-glossary#BrightLight) in a 10-foot radius and [Dim Light](/sources/dnd/free-rules/rules-glossary#DimLight) for an additional 10 feet. You can dismiss or manifest the halo as a Bonus Action. While present, the halo gives you Advantage on Charisma ([Persuasion](/sources/dnd/free-rules/playing-the-game#Skills)) checks. In addition, Fiends and Undead within the halo’s Bright Light make attack rolls against you with Disadvantage.
 
-***Random Properties.*** The *Book of Exalted Deeds* has the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties.*** The *Book of Exalted Deeds* has the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 2 minor beneficial properties
 * 2 major beneficial properties
@@ -508,7 +508,7 @@ The *Book of Vile Darkness* remains with you only as long as you strive to work 
 
 ***Tireless Form.*** While the book is on your person, you have Immunity to the [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) condition.
 
-***Random Properties.*** The *Book of Vile Darkness* has the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties.*** The *Book of Vile Darkness* has the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 3 minor beneficial properties
 * 1 major beneficial property
@@ -1218,7 +1218,7 @@ When the tome is discovered, it has 1d4 Fiends occupying its pages—typically a
 
 ***Fiendish Scourging.*** While carrying the book, when you make a damage roll for a spell you cast against a Fiend, you use the maximum possible result instead of rolling.
 
-***Random Properties.*** The Artifact has the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties.*** The Artifact has the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 2 minor beneficial properties
 * 1 minor detrimental property
@@ -1505,7 +1505,7 @@ A treacherous lieutenant named [Kas](/sources/dnd/dmg-2024/lore-glossary#KastheB
 The *Eye of Vecna* and the *Hand of Vecna* are separate Artifacts that might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a shriveled left extremity.
 
 
-***Random Properties of the Eye and Hand.*** The [Eye of Vecna](/magic-items/9228609-eye-of-vecna) and the [Hand of Vecna](/magic-items/9228716-hand-of-vecna) each have the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties of the Eye and Hand.*** The [Eye of Vecna](/magic-items/9228609-eye-of-vecna) and the [Hand of Vecna](/magic-items/9228716-hand-of-vecna) each have the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 1 minor beneficial property
 * 1 major beneficial property
@@ -1818,7 +1818,7 @@ While wearing this hat, you can cast the [Disguise Self](/spells/2619102-disguis
 
 This pointed hat has the following properties.
 
-***Spellcasting Focus.*** While holding the hat, you can use it as a Spellcasting Focus for your Wizard spells. Any spell you cast using the hat gains a special Somatic component: you must reach into the hat and “pull” the spell out of it.
+***Spellcasting Focus.*** While holding the hat, you can use it as a Spellcasting Focus for your Wizard spells. Any spell you cast using the hat gains a special Somatic component: you must reach into the hat and "pull" the spell out of it.
 
 ***Unknown Spell.*** While holding the hat, you can try to cast a level 1+ spell you don’t know. The spell must be on the Wizard spell list, it must be of a level you can cast, and it can’t have Material components costing more than 1,000 GP. Once you decide on the spell, you must expend a spell slot of the spell’s level. Then, to determine whether you cast the spell, make an Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check (DC 10 plus the spell’s level). On a successful check, you cast the spell using its normal casting time, and you can’t use this property again until you finish a Short or Long Rest. On a failed check, you fail to cast the spell and a random effect occurs instead, determined by rolling on the following table.
 
@@ -1830,7 +1830,7 @@ Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 | 51–55 | You have the [Stunned](/sources/dnd/free-rules/rules-glossary#StunnedCondition) condition until the end of your next turn, believing something awesome just happened. |
 | 56–60 | A harmless swarm of butterflies fills a 10-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) within 30 feet of yourself. The swarm disperses after 1 minute. |
 | 61–65 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a [vial of Acid](/equipment/500-acid); on a **2**, a [flask of Alchemist’s Fire](/equipment/504-alchemists-fire); on a **3**, a [Crowbar](/equipment/535-crowbar); on a **4**, a lit [Torch](/equipment/437-torch). |
-| 66–70 | You suffer a bout of “magic sickness” and have the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition for 1 hour. |
+| 66–70 | You suffer a bout of "magic sickness" and have the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition for 1 hour. |
 | 71–75 | You have the [Petrified](/sources/dnd/free-rules/rules-glossary#PetrifiedCondition) condition until the end of your next turn. |
 | 76–80 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a [Dagger](/equipment/3-dagger); on a **2**, a [Rope](/equipment/415-rope) with a [Grappling Hook](/equipment/517-grappling-hook) tied to one end; on a **3**, a bag of [Caltrops](/equipment/497-caltrops); on a **4**, a gem worth 50 GP. |
 | 81–85 | A creature appears in an unoccupied space as close to you as possible. The creature isn’t under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a **1**, a [Camel](/monsters/4775807-camel); on a **2**, a [Constrictor Snake](/monsters/4775809-constrictor-snake); on a **3**, an [Elephant](/monsters/4775814-elephant); on a **4**, a [Mule](/monsters/4775829-mule). |
@@ -2433,7 +2433,7 @@ Magic Items (O)
 
 *Weapon (Longbow or Shortbow), Very Rare (Requires Attunement)*
 
-When you nock an arrow on this bow, it whispers in Elvish, “Swift defeat to my enemies.” When you use this weapon to make a ranged attack, you can utter or sign the following command words: “Swift death to you who have wronged me.” The target of your attack becomes your sworn enemy until it dies or until dawn 7 days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
+When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can utter or sign the following command words: "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn 7 days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
 
 When you make a ranged attack roll with this weapon against your sworn enemy, you have Advantage on the roll. In addition, your target gains no benefit from [Half Cover](/sources/dnd/free-rules/rules-glossary#Cover) or [Three-Quarters Cover](/sources/dnd/free-rules/rules-glossary#Cover), and you suffer no Disadvantage due to long range. If the attack hits, your sworn enemy takes an extra 3d6 Piercing damage.
 
@@ -2490,7 +2490,7 @@ While attuned to an orb, you can take a [Magic](/sources/dnd/free-rules/rules-gl
 
 While you are Charmed by the orb, you can’t voluntarily end your Attunement to it, and the orb casts [Suggestion](/spells/2619101-suggestion) on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of Tiamat, or something else the DM decides.
 
-***Random Properties.*** An *Orb of Dragonkind* has the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties.*** An *Orb of Dragonkind* has the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 2 minor beneficial properties
 * 1 minor detrimental property
@@ -2657,7 +2657,7 @@ This potion’s liquid is a clear concoction with bits of salt and soot swirling
 
 *Potion, Rare*
 
-When you drink this potion, you gain the “reduce” effect of the [Enlarge/Reduce](/spells/2619170-enlarge-reduce) spell for 1d4 hours (no [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) required).
+When you drink this potion, you gain the "reduce" effect of the [Enlarge/Reduce](/spells/2619170-enlarge-reduce) spell for 1d4 hours (no [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) required).
 
 The red in the potion’s liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
 
@@ -2711,7 +2711,7 @@ This potion’s container looks empty but feels as though it holds liquid. When 
 
 *Potion, Uncommon*
 
-When you drink this potion, you gain the “enlarge” effect of the [Enlarge/Reduce](/spells/2619170-enlarge-reduce) spell for 10 minutes (no [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) required).
+When you drink this potion, you gain the "enlarge" effect of the [Enlarge/Reduce](/spells/2619170-enlarge-reduce) spell for 10 minutes (no [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) required).
 
 The red in the potion’s liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
 
@@ -3142,7 +3142,7 @@ Whenever you use the ring again before taking a Long Rest, you must succeed on a
 
 *Wondrous Item, Common*
 
-This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a *Rival Coin* might show [Iggwilv](/sources/dnd/dmg-2024/lore-glossary#Iggwilv) on one side and [Mordenkainen](/sources/dnd/dmg-2024/lore-glossary#Mordenkainen) on the other, or [Venger](/sources/dnd/dmg-2024/lore-glossary#Venger) on one side and [Tiamat](/sources/dnd/dmg-2024/lore-glossary#Tiamat) on the other. One of these figures is on the “heads” side of the coin, the other on the “tails” side.
+This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a *Rival Coin* might show [Iggwilv](/sources/dnd/dmg-2024/lore-glossary#Iggwilv) on one side and [Mordenkainen](/sources/dnd/dmg-2024/lore-glossary#Mordenkainen) on the other, or [Venger](/sources/dnd/dmg-2024/lore-glossary#Venger) on one side and [Tiamat](/sources/dnd/dmg-2024/lore-glossary#Tiamat) on the other. One of these figures is on the "heads" side of the coin, the other on the "tails" side.
 
 The coin has 1 charge and regains its expended charge daily at dawn. You can take a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action to toss the coin, expending its charge. Roll any die to determine whether the coin comes up heads (on an even number) or tails (on an odd number). The roll also determines the effect:
 
@@ -3555,7 +3555,7 @@ While in control of the sphere, you can take a Bonus Action to cause it to move 
 *Wondrous Item, Very Rare*
 
 
-This ornate wooden board has the letters of the Common alphabet printed on one side, alongside the words “Yes” and “No” and symbols representing “Weal” and “Woe.” The board comes with a heart-shaped, wooden planchette. This planchette must be resting on the lettered side of the board for the board’s magic to function.
+This ornate wooden board has the letters of the Common alphabet printed on one side, alongside the words "Yes" and "No" and symbols representing "Weal" and "Woe." The board comes with a heart-shaped, wooden planchette. This planchette must be resting on the lettered side of the board for the board’s magic to function.
 
 This board has 3 charges and regains 1 expended charge daily at dawn. While touching the planchette, you can take 1 minute to cast one of the spells on the table below. The table indicates how many charges you must expend to cast the spell. As you cast the spell, you call on the spirits of the dead to guide the planchette across the board’s surface, answering your questions by pointing to the letters or words on the board.
 
@@ -3845,7 +3845,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this sword. In ad
 
 ***Magic Weapon.*** You gain a +3 bonus to attack rolls and damage rolls made with the sword, which scores a Critical Hit on a roll of 19 or 20 on the d20 and deals an extra 2d10 Slashing damage to Undead.
 
-***Random Properties.*** The sword has the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties.*** The sword has the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 1 minor beneficial property
 * 1 major beneficial property
@@ -3952,7 +3952,7 @@ This item symbolizes unrepentant evil. A creature that isn’t a Fiend or an Und
 
 *Wondrous Item, Common (Requires Attunement)*
 
-While this doll is within 5 feet of you, you can spend a Short Rest telling it to say up to six phrases, none of which can be more than six words long, and set a condition under which the doll speaks each phrase. You can also replace old phrases with new ones. Whatever the condition, it must occur within 5 feet of the doll to make it speak. For example, whenever someone picks up the doll, it might say, “I want a piece of candy.” The doll’s phrases are lost when your Attunement to the doll ends.
+While this doll is within 5 feet of you, you can spend a Short Rest telling it to say up to six phrases, none of which can be more than six words long, and set a condition under which the doll speaks each phrase. You can also replace old phrases with new ones. Whatever the condition, it must occur within 5 feet of the doll to make it speak. For example, whenever someone picks up the doll, it might say, "I want a piece of candy." The doll’s phrases are lost when your Attunement to the doll ends.
 
 ### [Tankard of Sobriety](/magic-items/27142-tankard-of-sobriety)
 
@@ -4101,7 +4101,7 @@ This wand has 7 charges.
 
 | Spell | Charge Cost |
 | --- | --- |
-| [Command](/spells/2618985-command) (“flee” or “grovel” only) | 1 |
+| [Command](/spells/2618985-command) ("flee" or "grovel" only) | 1 |
 | [Fear](/spells/2618872-fear) (60-foot [Cone](/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect)) | 3 |
 
 ***Regaining Charges.*** The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll 1d20. On a 1, the wand crumbles into ashes and is destroyed.
@@ -4150,7 +4150,7 @@ Any creature besides Orcus that tries to attune to the wand makes a DC 17 Consti
 
 ***Magic Weapon.*** You can wield the wand as a magic Mace that grants a +3 bonus to attack rolls and damage rolls made with it. The wand deals an extra 2d12 Necrotic damage on a hit.
 
-***Random Properties.*** The *Wand of Orcus* has the following random properties (see “[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)” in this chapter):
+***Random Properties.*** The *Wand of Orcus* has the following random properties (see "[Artifacts](/sources/dnd/dmg-2024/treasure#Artifacts)" in this chapter):
 
 * 2 minor beneficial properties
 * 1 major beneficial property

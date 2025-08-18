@@ -49,7 +49,7 @@ Every spell has a level from 0 to 9, which is indicated in a spell’s descripti
 
 Spellcasting is taxing, so a spellcaster can cast only a limited number of level 1+ spells before resting. Spell slots are the main way a spellcaster’s magical potential is represented. Each spellcasting class gives its members a limited number of spell slots of certain spell levels. For example, a level 3 Wizard has four level 1 spell slots and two level 2 slots.
 
-When you cast a spell, you expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that’s at least level 2. So when a level 3 Wizard casts [Magic Missile](/spells/2619022-magic-missile), a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
+When you cast a spell, you expend a slot of that spell’s level or higher, effectively "filling" a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that’s at least level 2. So when a level 3 Wizard casts [Magic Missile](/spells/2619022-magic-missile), a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
 
 Finishing a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) restores any expended spell slots.
 
@@ -154,7 +154,7 @@ A spell’s duration is the length of time the spell persists after it is cast. 
 
 **Instantaneous.** An instantaneous duration means the spell’s magic appears only for a moment and then disappears.
 
-**Time Span.** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say “1 minute,” meaning the spell ends after 1 minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+**Time Span.** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say "1 minute," meaning the spell ends after 1 minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
 ### Effects
 

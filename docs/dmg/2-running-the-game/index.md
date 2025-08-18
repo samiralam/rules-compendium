@@ -103,7 +103,7 @@ You can also add party members, as described in the sections that follow.
 
 #### DM-Controlled Adventurer
 
-You can make an adventurer character of your own (sometimes called a “DM PC”—a “Dungeon Master player character”) to accompany the party. This is a rewarding way for you to roleplay with your friends while they’re exploring your world, but keep in mind that you’ll have to run this NPC in combat.
+You can make an adventurer character of your own (sometimes called a "DM PC"—a "Dungeon Master player character") to accompany the party. This is a rewarding way for you to roleplay with your friends while they’re exploring your world, but keep in mind that you’ll have to run this NPC in combat.
 
 Be sure to keep the players’ characters in the spotlight, and don’t take away the players’ agency by having your character make decisions for the group.
 
@@ -111,7 +111,7 @@ Be sure to keep the players’ characters in the spotlight, and don’t take awa
 
 You can add nonplayer characters (NPCs) to the adventuring party. Use the NPC stat blocks in the *Monster Manual* to represent these supporting characters. If you don’t want to run these NPCs yourself, invite one or more of your players to take on an NPC as a secondary character. These NPCs might be apprentices or employees of the adventurers, so it’s natural for the main characters to take the lead in exploration and social interactions while the NPCs fade into the background.
 
-See “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for more information.
+See "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for more information.
 
 #### Players with Multiple Characters
 
@@ -135,11 +135,11 @@ Consider having the players designate a party leader, who is then the only perso
 
 Players who have to wait a long time between their characters’ turns in combat are susceptible to distraction. Consider these tips to speed combat with a large group.
 
-***Be Generous with Information.*** If you tell the players what the Armor Class of their opponents is, you reduce the steps of interaction needed to resolve an attack. Instead of telling you a number and asking if it hits, a player can simply tell you that an attack hits and how much damage it deals, perhaps adding some narration for good measure (see “[Narration in Combat](#NarrationinCombat)” later in this chapter). In the same way, if you know each character’s AC, you don’t need to ask whether a monster’s attack hits.
+***Be Generous with Information.*** If you tell the players what the Armor Class of their opponents is, you reduce the steps of interaction needed to resolve an attack. Instead of telling you a number and asking if it hits, a player can simply tell you that an attack hits and how much damage it deals, perhaps adding some narration for good measure (see "[Narration in Combat](#NarrationinCombat)" later in this chapter). In the same way, if you know each character’s AC, you don’t need to ask whether a monster’s attack hits.
 
 ***Help Players Keep Up.*** If a player isn’t sure what to do on their turn in combat, help the player decide by offering a quick recap of the state of the battle. How many foes are still standing, and how hurt do they look? What’s the most immediate threat to that character?
 
-***Make Initiative Obvious.*** Display the Initiative order to your players so they each know when their character’s turn is coming up and can think ahead about what their character will do on their next turn. Using Initiative scores (see “[Running Combat](#RunningCombat)” in this chapter)—and perhaps seating the players in Initiative order—can be helpful with a large group.
+***Make Initiative Obvious.*** Display the Initiative order to your players so they each know when their character’s turn is coming up and can think ahead about what their character will do on their next turn. Using Initiative scores (see "[Running Combat](#RunningCombat)" in this chapter)—and perhaps seating the players in Initiative order—can be helpful with a large group.
 
 ***Roll Handfuls of Dice.*** Encourage players to roll the dice for their attack rolls and their damage at the same time. You can do the same.
 
@@ -159,7 +159,7 @@ Some groups like to work out a policy regarding how many missing players is too 
 
 ### Incorporating New Players
 
-When introducing a new player to the group, revisit the group’s expectations and limits (see “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” in [chapter 1](/sources/dnd/dmg-2024/the-basics)). Then have the new player create a character who is the same level as the other characters in the adventuring party.
+When introducing a new player to the group, revisit the group’s expectations and limits (see "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics)). Then have the new player create a character who is the same level as the other characters in the adventuring party.
 
 If the new player has never played D&D before and the rest of the group is higher than level 4, consider taking a short break from the campaign and having everyone play a new level 1 character for a session or two while the new player learns the ropes. (This can also be a good opportunity for another player to take a turn as DM.)
 
@@ -227,15 +227,15 @@ Describe changes in the environment to direct your players’ attention. For exa
 
 ### Draw Players’ Attention
 
-Good narration invites the players to examine details of the environment that lead to encounters or important information. Anything you describe with extra, subtle details draws the players’ attention. Give them just enough to invite further exploration, but don’t create the equivalent of a flashing neon sign reading “This way to adventure!”
+Good narration invites the players to examine details of the environment that lead to encounters or important information. Anything you describe with extra, subtle details draws the players’ attention. Give them just enough to invite further exploration, but don’t create the equivalent of a flashing neon sign reading "This way to adventure!"
 
 When using narration to guide your players, keep the following in mind:
 
 **Distinguish Options.** When presenting options to players, add details to distinguish the options. Should the characters take the left path or the right path? Perhaps the left path smells of rot and decay, while the faint sound of lapping water comes from the right. These details give players more information to make an informed decision without explicitly telling them where to go.
 
-**Don’t Limit Options.** In general, let the players use the information they’re given to decide what they want to do. Don’t put unnecessary limitations on the characters’ actions. That said, it can be helpful (especially with new players) to offer suggestions: “You can go through the door, search the chest, or look down the shaft.” Just make sure to finish by saying, “or anything else you can think of!”
+**Don’t Limit Options.** In general, let the players use the information they’re given to decide what they want to do. Don’t put unnecessary limitations on the characters’ actions. That said, it can be helpful (especially with new players) to offer suggestions: "You can go through the door, search the chest, or look down the shaft." Just make sure to finish by saying, "or anything else you can think of!"
 
-**Don’t Assume Character Actions.** Don’t assume actions on the characters’ part. For example, don’t say “You step into the room and look up” unless the player has already told you that’s what their character is doing.
+**Don’t Assume Character Actions.** Don’t assume actions on the characters’ part. For example, don’t say "You step into the room and look up" unless the player has already told you that’s what their character is doing.
 
 ### Secrets and Discovery
 
@@ -243,7 +243,7 @@ In the course of an adventure, the players and their characters will uncover inf
 
 Don’t hide important secrets or discoveries in places where the characters aren’t likely to uncover them. Make sure they can’t miss an important secret or discovery simply by failing an ability check, not talking to the right person, or not looking in the right place.
 
-See also “[Perception](#Perception)” in this chapter for more advice on hidden secrets in adventures.
+See also "[Perception](#Perception)" in this chapter for more advice on hidden secrets in adventures.
 
 #### Giving Information to One Player
 
@@ -291,7 +291,7 @@ An ability check is a test to see whether a character succeeds at a task the cha
 
 #### Proficiency
 
-When the rules or a published adventure calls for an ability check, a skill or tool proficiency is often called out: for example, “a character who succeeds on a DC 15 Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check can puzzle out the magic involved.” Sometimes the rules allow for any one of two or more proficiencies to apply to a check. When deciding what check a character should make, be generous in determining if the character’s Proficiency Bonus comes into play. You might specifically ask for an Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check, or you can ask for an Intelligence check and let the player negotiate with you to see if one of the character’s skill or tool proficiencies applies.
+When the rules or a published adventure calls for an ability check, a skill or tool proficiency is often called out: for example, "a character who succeeds on a DC 15 Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check can puzzle out the magic involved." Sometimes the rules allow for any one of two or more proficiencies to apply to a check. When deciding what check a character should make, be generous in determining if the character’s Proficiency Bonus comes into play. You might specifically ask for an Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check, or you can ask for an Intelligence check and let the player negotiate with you to see if one of the character’s skill or tool proficiencies applies.
 
 #### Trying Again
 
@@ -315,7 +315,7 @@ Consider using group checks in situations such as the following:
 
 #### Passive Checks
 
-Ability checks normally represent a character’s active effort to accomplish something, but occasionally you need a passive measure of how good a character is at doing a thing. Passive Perception is the most common example. (See “[Perception](#Perception)” later in this chapter.) You can extend the concept of a passive ability check to other abilities and skills.
+Ability checks normally represent a character’s active effort to accomplish something, but occasionally you need a passive measure of how good a character is at doing a thing. Passive Perception is the most common example. (See "[Perception](#Perception)" later in this chapter.) You can extend the concept of a passive ability check to other abilities and skills.
 
 For example, if your game features a lot of social interaction, you can record each character’s Passive Insight score, calculated in much the same way as Passive Perception: 10 plus all modifiers that normally apply to a Wisdom ([Insight](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
@@ -323,7 +323,7 @@ For example, if your game features a lot of social interaction, you can record e
 
 In combat, an attack roll is used to determine whether an attack hits.
 
-You can also use attack rolls to resolve noncombat activities that are similar to attacks in combat, such as an archery contest or a game of darts. Assign an [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) to the target, decide whether the character is proficient with the weapon used, then have the player make an attack roll. (See also “[Degrees of Success](#DegreesofSuccess)” in this chapter.)
+You can also use attack rolls to resolve noncombat activities that are similar to attacks in combat, such as an archery contest or a game of darts. Assign an [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) to the target, decide whether the character is proficient with the weapon used, then have the player make an attack roll. (See also "[Degrees of Success](#DegreesofSuccess)" in this chapter.)
 
 ### Saving Throws
 
@@ -354,11 +354,11 @@ The task difficulties are explained below:
 
 **Very Easy.** Most people can accomplish a DC 5 task with little chance of failure. Unless circumstances are unusual, let characters succeed at such a task without making a check.
 
-**Easy, Moderate, and Hard.** These are the most common difficulties, and you can run your game using only them. A character with a 10 in the associated ability and no proficiency will succeed at an easy task around 50 percent of the time. For a moderate task, a character needs either a higher score or proficiency to have a similar chance of success, whereas a hard task typically requires both to have a similar chance. If you can’t decide between two levels of difficulty, choose a DC somewhere in the middle, such as 17 or 18 for a task that is a little easier than “hard.”
+**Easy, Moderate, and Hard.** These are the most common difficulties, and you can run your game using only them. A character with a 10 in the associated ability and no proficiency will succeed at an easy task around 50 percent of the time. For a moderate task, a character needs either a higher score or proficiency to have a similar chance of success, whereas a hard task typically requires both to have a similar chance. If you can’t decide between two levels of difficulty, choose a DC somewhere in the middle, such as 17 or 18 for a task that is a little easier than "hard."
 
 **Very Hard and Nearly Impossible.** A DC 25 task is almost out of reach for low-level characters, but more reasonable after level 10 or so. Low-level characters have no chance to accomplish a DC 30 task, while a level 20 character with proficiency and a relevant ability score of 20 still needs a 19 or 20 on the die roll to succeed at a task of this difficulty.
 
-If you’re setting the DC for a saving throw, don’t go lower than 10 or higher than 20. If a creature is the source of the effect forcing a saving throw, use the standard formula for calculating a save DC (see “[Calculated DCs](#CalculatedDCs)” below).
+If you’re setting the DC for a saving throw, don’t go lower than 10 or higher than 20. If a creature is the source of the effect forcing a saving throw, use the standard formula for calculating a save DC (see "[Calculated DCs](#CalculatedDCs)" below).
 
 #### Calculated DCs
 
@@ -461,9 +461,9 @@ Deadly damage poses a significant threat to characters of the levels shown and c
 
 With a little preparation and a lot of flexibility, you can handle any curveball your players throw at you.
 
-One of the cornerstones of improvisational theater is called “Yes, and...” It’s based on the idea that an actor takes whatever the other actors give and builds on that. A similar principle applies as you run sessions for your players. As often as possible, weave what the players give you into your story.
+One of the cornerstones of improvisational theater is called "Yes, and..." It’s based on the idea that an actor takes whatever the other actors give and builds on that. A similar principle applies as you run sessions for your players. As often as possible, weave what the players give you into your story.
 
-An equally important principle is “No, but...” Sometimes characters can’t do what their players want, but you can keep the game moving forward by offering an alternative.
+An equally important principle is "No, but..." Sometimes characters can’t do what their players want, but you can keep the game moving forward by offering an alternative.
 
 For example, imagine the characters are searching for a lich’s lair. A player asks you if there’s a mages’ guild operating in a nearby city, hoping to find records that mention the lich. This wasn’t a possibility you anticipated, and you don’t have anything prepared for it. One option is to say yes and use the tools at your disposal to create a suitable mages’ guild. By doing this, you reward the player for thinking creatively. Also, the guild can become a great source for adventure hooks.
 
@@ -473,8 +473,8 @@ Another option is to say no, but a solitary mage in town might possess the desir
 
 When you need to make up something on the spot—say, a mages’ guild in a town where you hadn’t previously planned for one—you have abundant resources to draw on:
 
-* [Lists of NPC names](/sources/dnd/dmg-2024/dms-toolbox#Name) (see “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox))
-* [Random tables](/sources/dnd/dmg-2024/dms-toolbox#SettlementTablesandTracker) (such as the ones in the “[Settlements](/sources/dnd/dmg-2024/dms-toolbox#Settlements)” section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox))
+* [Lists of NPC names](/sources/dnd/dmg-2024/dms-toolbox#Name) (see "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox))
+* [Random tables](/sources/dnd/dmg-2024/dms-toolbox#SettlementTablesandTracker) (such as the ones in the "[Settlements](/sources/dnd/dmg-2024/dms-toolbox#Settlements)" section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox))
 * [Campaign Journal](/sources/dnd/dmg-2024/creating-campaigns#YourCampaignJournal) (described in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns))
 * Maps (see [appendix B](/sources/dnd/dmg-2024/maps))
 
@@ -505,11 +505,11 @@ You can further enhance your portrayal of a creature in the following ways.
 
 Although some players enjoy roleplaying more than others, social interactions help immerse all players in the game. Consider the following approaches to make an interaction-heavy game session appeal to players of any tastes.
 
-***Appeal to Player Preferences.*** Players who like acting (see “[Know Your Players](#KnowYourPlayers)” in this chapter) thrive in social interactions, so let those players take the spotlight and inspire the other players by their example. However, be sure to tailor aspects of social interactions to fit the other players’ tastes too.
+***Appeal to Player Preferences.*** Players who like acting (see "[Know Your Players](#KnowYourPlayers)" in this chapter) thrive in social interactions, so let those players take the spotlight and inspire the other players by their example. However, be sure to tailor aspects of social interactions to fit the other players’ tastes too.
 
 ***Involve Specific Characters.*** If you have players who don’t readily get involved in social interactions, you can create situations tailored for their characters. Perhaps the NPC in question is a family member or a contact of a particular adventurer and focuses attention on that character. Some NPCs might pay particular attention to characters with whom they feel kinship.
 
-If a couple of players are doing most of the talking in a social interaction, take a moment now and then to involve someone else. You might have an NPC address another character directly: “And what about your hulking friend? What will you pledge in exchange for my favor?” If a player is less comfortable with roleplaying, you can get them involved by asking them to describe their character’s actions during the conversation.
+If a couple of players are doing most of the talking in a social interaction, take a moment now and then to involve someone else. You might have an NPC address another character directly: "And what about your hulking friend? What will you pledge in exchange for my favor?" If a player is less comfortable with roleplaying, you can get them involved by asking them to describe their character’s actions during the conversation.
 
 ***Use Other Ability Scores.*** Consider the following additional possibilities to give characters whose Charisma is not their strong suit a chance to shine:
 
@@ -523,7 +523,7 @@ If a couple of players are doing most of the talking in a social interaction, ta
 
 ### Attitude
 
-Each creature controlled by the DM has one of the following attitudes toward the adventurers: [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude), [Indifferent](/sources/dnd/free-rules/rules-glossary#IndifferentAttitude), or [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude). The “[Monster Behavior](/sources/dnd/dmg-2024/creating-adventures#MonsterBehavior)” section in [chapter 4](/sources/dnd/dmg-2024/creating-adventures) offers guidance to help you determine a creature’s initial attitude.
+Each creature controlled by the DM has one of the following attitudes toward the adventurers: [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude), [Indifferent](/sources/dnd/free-rules/rules-glossary#IndifferentAttitude), or [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude). The "[Monster Behavior](/sources/dnd/dmg-2024/creating-adventures#MonsterBehavior)" section in [chapter 4](/sources/dnd/dmg-2024/creating-adventures) offers guidance to help you determine a creature’s initial attitude.
 
 Characters can shift a creature’s attitude by their words or actions. For example, buying drinks for an Indifferent group of miners might shift their attitude to Friendly. When a shift occurs, describe it to your players. For example, the miners might display their newfound friendliness by imparting some useful information, offering to repay the kind gesture at a future date, or challenging the characters to a friendly drinking contest.
 
@@ -546,15 +546,15 @@ Not everything in your world needs to be explored painstakingly. For instance, y
 
 A map can help you or your players visualize a location or region that the characters are exploring. D&D maps come in three varieties, with examples of all three found in [appendix B](/sources/dnd/dmg-2024/maps) and on the poster map:
 
-**Dungeon Maps.** D&D uses the word “dungeon” loosely to describe any adventure location that has interior spaces to explore (such as a castle, tower, mansion, or subterranean complex). A dungeon map shows passages, chambers, doors, and other important features of a location.
+**Dungeon Maps.** D&D uses the word "dungeon" loosely to describe any adventure location that has interior spaces to explore (such as a castle, tower, mansion, or subterranean complex). A dungeon map shows passages, chambers, doors, and other important features of a location.
 
 **Settlement Maps.** A map of a settlement often shows terrain (cliffs, trees, streams, and so forth) in addition to buildings, bridges, and other important features.
 
 **Wilderness Maps.** A wilderness map shows roads, rivers, terrain, and other features that might guide the characters on their travels or lead them astray. The area shown on a wilderness map might be as big as a continent or as small as a glade.
 
-Often a map is intended for the DM’s eyes only. You can copy portions of a DM’s map to share with your players as a visual aid while omitting details that should remain hidden from them. Virtual tabletops often use “fog of war” and similar effects to obscure areas and features on the map that you want to keep hidden from the players.
+Often a map is intended for the DM’s eyes only. You can copy portions of a DM’s map to share with your players as a visual aid while omitting details that should remain hidden from them. Virtual tabletops often use "fog of war" and similar effects to obscure areas and features on the map that you want to keep hidden from the players.
 
-Maps designed for use with miniatures (see “[Miniatures](#Miniatures)” in this chapter) tend to be player facing, revealing nothing that would spoil the adventure.
+Maps designed for use with miniatures (see "[Miniatures](#Miniatures)" in this chapter) tend to be player facing, revealing nothing that would spoil the adventure.
 
 ### Tracking Time
 
@@ -594,7 +594,7 @@ You can build tension in an exploration encounter by shifting focus right before
 
 #### Ability Checks in Exploration
 
-When a character tries to do something during exploration, you decide whether that action requires an ability check to determine success (as described in the earlier “[Resolving Outcomes](#ResolvingOutcomes)” section).
+When a character tries to do something during exploration, you decide whether that action requires an ability check to determine success (as described in the earlier "[Resolving Outcomes](#ResolvingOutcomes)" section).
 
 Certain situations might call for a balance between ability checks and roleplaying. For example, puzzles are an opportunity for players to do some problem-solving, but players can also lean on their characters’ talents and attributes to provide direction. A character who succeeds on an Intelligence ([Investigation](/sources/dnd/free-rules/playing-the-game#Skills)) check might notice a clue that gives the players a hint to the puzzle’s solution.
 
@@ -634,7 +634,7 @@ If the characters encounter another group of creatures and neither side is being
 
 ***Visibility Outdoors.*** When traveling outdoors, most characters can see about 2 miles in any direction on a clear day, except where obstructions block their view. That range increases to 40 miles if they are atop a mountain or a tall hill or are otherwise able to look down on the area from a height. [Lightly Obscured](/sources/dnd/free-rules/rules-glossary#LightlyObscured) conditions reduce visibility: rain reduces maximum visibility to 1 mile, and fog reduces it to between 100 and 300 feet.
 
-Outdoor terrain determines the distance at which characters encounter other creatures. The [Travel Terrain](#TravelTerrain) table (see “[Travel](#Travel)” below) gives suggested encounter distances for different types of terrain.
+Outdoor terrain determines the distance at which characters encounter other creatures. The [Travel Terrain](#TravelTerrain) table (see "[Travel](#Travel)" below) gives suggested encounter distances for different types of terrain.
 
 ***Visibility at Sea.*** From a ship’s crow’s nest, a lookout can see things up to 10 miles away, assuming clear skies and a relatively calm sea. Overcast skies reduce that distance by half. Lightly Obscured conditions reduce visibility just as they do on land.
 
@@ -652,7 +652,7 @@ Outdoor terrain determines the distance at which characters encounter other crea
 
 ### Travel
 
-The rules in the “[Exploration](/sources/dnd/phb-2024/playing-the-game#Exploration)” section in the [Player’s Handbook](/sources/dnd/phb-2024) cover the basics of travel on a scale ranging from minutes to days. The tools in this section can add excitement to a longer trek.
+The rules in the "[Exploration](/sources/dnd/phb-2024/playing-the-game#Exploration)" section in the [Player’s Handbook](/sources/dnd/phb-2024) cover the basics of travel on a scale ranging from minutes to days. The tools in this section can add excitement to a longer trek.
 
 #### Journey Stages
 
@@ -662,12 +662,12 @@ You decide how to break up the journey, though your decision can be shaped by th
 
 ***Planning the Stages.*** You can use the accompanying [Travel Planner](#TravelPlanner) sheet to plan the stages of a journey. (Use multiple copies of the Travel Planner for a journey with more than three stages.)
 
-For each stage, note where it starts and ends, the distance covered, and the predominant terrain. Choose or randomly determine the weather on that stage (see “[Weather](#Weather)” later in this chapter). Plan one or more challenges for each stage, such as an encounter, an obstacle, a search for something hidden, or a chance of getting lost, as described under “Journey Stage Challenges.”
+For each stage, note where it starts and ends, the distance covered, and the predominant terrain. Choose or randomly determine the weather on that stage (see "[Weather](#Weather)" later in this chapter). Plan one or more challenges for each stage, such as an encounter, an obstacle, a search for something hidden, or a chance of getting lost, as described under "Journey Stage Challenges."
 
 ***Running the Stages.*** For each stage of the journey, follow these steps in order:
 
-1. **Step 1: Set the Pace.** Have the players choose their group’s travel pace for the stage: Slow, Normal, or Fast (see “[Travel Pace](#TravelPace)”). Based on the length of the stage (in miles) and the group’s pace, determine how long this stage takes to complete.
-2. **Step 2: Narrate the Travel.** Describe what happens as the characters complete this stage of their journey. Introduce and resolve any challenges (see “[Journey Stage Challenges](#JourneyStageChallenges)”).
+1. **Step 1: Set the Pace.** Have the players choose their group’s travel pace for the stage: Slow, Normal, or Fast (see "[Travel Pace](#TravelPace)"). Based on the length of the stage (in miles) and the group’s pace, determine how long this stage takes to complete.
+2. **Step 2: Narrate the Travel.** Describe what happens as the characters complete this stage of their journey. Introduce and resolve any challenges (see "[Journey Stage Challenges](#JourneyStageChallenges)").
 3. **Step 3: Track Food and Water Consumption.** Each creature in the party expends the appropriate amount of food and water for the length of the stage. If the party lacks enough food or water, the characters risk [dehydration](/sources/dnd/free-rules/rules-glossary#DehydrationHazard) and [malnutrition](/sources/dnd/free-rules/rules-glossary#MalnutritionHazard).
 4. **Step 4: Track Progress.** Track the party’s progress at the end of the stage. You might mark their position on a map of the region and note the elapsed time on the Travel Planner.
 
@@ -675,7 +675,7 @@ Depending on how you planned the stages, the end of a stage might mean the chara
 
 > ### Journeys without Destinations
 > 
-> Sometimes, characters travel without a clear path to follow or a clear destination in mind. In such a case, use the grid of your map (squares or hexes) to define the stages of the journey, however many miles each square or hex might be. (This style of play is sometimes called “hex crawling.”)
+> Sometimes, characters travel without a clear path to follow or a clear destination in mind. In such a case, use the grid of your map (squares or hexes) to define the stages of the journey, however many miles each square or hex might be. (This style of play is sometimes called "hex crawling.")
 > 
 > In this kind of wilderness exploration, you can take one of two approaches to travel challenges:
 > 
@@ -683,13 +683,13 @@ Depending on how you planned the stages, the end of a stage might mean the chara
 > 
 > **Random Approach:** Use tables to randomly determine encounters or obstacles in each hex the characters enter.
 > 
-> Whichever approach you use, running a journey otherwise works the same as described in the rest of the “Travel” section.
+> Whichever approach you use, running a journey otherwise works the same as described in the rest of the "Travel" section.
 
 #### Weather
 
 During each stage of the characters’ journey, you can determine what the weather is like by rolling on the Weather table, adjusting for the terrain and season as appropriate. Roll 1d20 three times to determine the temperature, the wind, and the precipitation.
 
-Weather has no significant game effect most of the time, but see “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for the effects of extreme weather. Adding weather details to your descriptions of the characters’ journey can make it more memorable.
+Weather has no significant game effect most of the time, but see "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for the effects of extreme weather. Adding weather details to your descriptions of the characters’ journey can make it more memorable.
 
 
 ##### Weather
@@ -748,7 +748,7 @@ If the characters are flying or their special movement allows them to ignore [Di
 
 \*Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
 
-†Characters’ rate of travel while waterborne depends on the vehicle carrying them; see “Vehicles.”
+†Characters’ rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
 
 #### Narration during Travel
 
@@ -812,7 +812,7 @@ In addition to the chance of a delay (adding a few hours, a day, or a couple of 
 
 **Combat Encounter.** The characters encounter one or more Hostile creatures. For example, marching through a burning forest instead of circling around it might prompt an encounter with raging fire elementals.
 
-**Damage.** The characters take damage. For example, a character who tumbles over a waterfall might take Bludgeoning damage. See “[Improvising Damage](#ImprovisingDamage)” in this chapter for guidelines on determining how much damage is appropriate.
+**Damage.** The characters take damage. For example, a character who tumbles over a waterfall might take Bludgeoning damage. See "[Improvising Damage](#ImprovisingDamage)" in this chapter for guidelines on determining how much damage is appropriate.
 
 **Exhaustion.** The obstacle fatigues the characters, causing them to gain [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) levels. For example, marching through a blizzard instead of taking shelter might cause each character to gain 1d4 [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition) levels.
 
@@ -894,7 +894,7 @@ An open list makes everyone aware of the order of play. Players know when their 
 
 During a combat encounter, you or a player should track how much damage each monster takes. Most DMs track damage in secret so their players don’t know how many Hit Points a monster has remaining.
 
-It helps to have a system to track damage for groups of monsters. If you aren’t using miniatures or other visual aids, one way to track your monsters is to assign them unique features. For example, imagine that you’re running an encounter with three ogres. You might attach descriptions such as “the ogre with a big scar” and “the ogre with the helmet” to help you and your players track which monster is which. Once Initiative is rolled, jot down each ogre’s Hit Points and add notes (and even a name, if you like) to differentiate each one:
+It helps to have a system to track damage for groups of monsters. If you aren’t using miniatures or other visual aids, one way to track your monsters is to assign them unique features. For example, imagine that you’re running an encounter with three ogres. You might attach descriptions such as "the ogre with a big scar" and "the ogre with the helmet" to help you and your players track which monster is which. Once Initiative is rolled, jot down each ogre’s Hit Points and add notes (and even a name, if you like) to differentiate each one:
 
 **Krag (ogre w/ scar):** 68
 
@@ -1005,7 +1005,7 @@ If combat erupts between two groups that are hundreds of feet away from each oth
 
 ### Narration in Combat
 
-Although it’s important that the players understand what’s going on in terms of the rules, the game can get dull if everyone uses only “gamespeak”: “That’s an 18 to hit,” “You hit; now roll damage,” “11 points,” and “OK, now we’re to Initiative count 13.” Instead, use the rules and your knowledge of the scene to help your narration. If 18 is barely a hit, but the 11 points of damage is a bad wound for the enemy, say: “You swing wildly, and the knight brings his shield up just a second too late. Your blade catches him along the jaw, drawing a deep gash. He recoils, bleeding badly!”
+Although it’s important that the players understand what’s going on in terms of the rules, the game can get dull if everyone uses only "gamespeak": "That’s an 18 to hit," "You hit; now roll damage," "11 points," and "OK, now we’re to Initiative count 13." Instead, use the rules and your knowledge of the scene to help your narration. If 18 is barely a hit, but the 11 points of damage is a bad wound for the enemy, say: "You swing wildly, and the knight brings his shield up just a second too late. Your blade catches him along the jaw, drawing a deep gash. He recoils, bleeding badly!"
 
 As the characters fight monsters, you can reveal information to help the players make good choices, as described in the sections that follow.
 
@@ -1013,7 +1013,7 @@ As the characters fight monsters, you can reveal information to help the players
 > 
 > As discussed in the [Player’s Handbook](/sources/dnd/phb-2024), [Heroic Inspiration](/sources/dnd/free-rules/rules-glossary#HeroicInspiration) is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Heroic Inspiration.
 > 
-> You can also use Heroic Inspiration to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of Heroic Inspiration is aligned with the expectations you set out at the start of your game (see “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” in [chapter 1](/sources/dnd/dmg-2024/the-basics)).
+> You can also use Heroic Inspiration to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of Heroic Inspiration is aligned with the expectations you set out at the start of your game (see "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics)).
 
 #### Loss of Hit Points
 
@@ -1033,14 +1033,14 @@ When a monster takes an action in combat, the players need to have some idea wha
 
 | Action | Description |
 | --- | --- |
-| [Dash](/sources/dnd/free-rules/rules-glossary#DashAction) | “Dispensing with attacks, your foe hurries across the room.” |
-| [Disengage](/sources/dnd/free-rules/rules-glossary#DisengageAction) | “Careful not to drop its guard, your foe edges away from you.” |
-| [Dodge](/sources/dnd/free-rules/rules-glossary#DodgeAction) | “Your foe watches you closely and tries to parry your attacks.” |
-| [Help](/sources/dnd/free-rules/rules-glossary#HelpAction) | “While its ally attacks, your foe darts around, causing a distraction.” |
-| [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) | “Your foe gestures in a deliberate manner and utters an invocation.” |
-| [Ready](/sources/dnd/free-rules/rules-glossary#ReadyAction) | “Your foe seems to be waiting for something, ready to act.” |
+| [Dash](/sources/dnd/free-rules/rules-glossary#DashAction) | "Dispensing with attacks, your foe hurries across the room." |
+| [Disengage](/sources/dnd/free-rules/rules-glossary#DisengageAction) | "Careful not to drop its guard, your foe edges away from you." |
+| [Dodge](/sources/dnd/free-rules/rules-glossary#DodgeAction) | "Your foe watches you closely and tries to parry your attacks." |
+| [Help](/sources/dnd/free-rules/rules-glossary#HelpAction) | "While its ally attacks, your foe darts around, causing a distraction." |
+| [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) | "Your foe gestures in a deliberate manner and utters an invocation." |
+| [Ready](/sources/dnd/free-rules/rules-glossary#ReadyAction) | "Your foe seems to be waiting for something, ready to act." |
 
-You can combine those narrative descriptions with game rules: “Dispensing with attacks, your foe hurries across the room, taking the [Dash](/sources/dnd/free-rules/rules-glossary#DashAction) action.”
+You can combine those narrative descriptions with game rules: "Dispensing with attacks, your foe hurries across the room, taking the [Dash](/sources/dnd/free-rules/rules-glossary#DashAction) action."
 
 #### Monsters Casting Spells
 
@@ -1064,7 +1064,7 @@ If a combat has gone on long enough and the characters’ victory is almost cert
 
 #### End Hostilities
 
-Most monsters can see when a fight’s not going their way (or not going anywhere at all). A sapient monster might parley with the characters in an effort to get out of the situation alive. Suddenly a combat encounter turns into a social interaction as the monster and characters negotiate an end to their hostilities. A nonsapient monster might play dead to try to get the characters to stop attacking it, only to get up and run away as soon as it has the opportunity. See “[Fight or Flight](#FightorFlight)” later in this chapter for more suggestions.
+Most monsters can see when a fight’s not going their way (or not going anywhere at all). A sapient monster might parley with the characters in an effort to get out of the situation alive. Suddenly a combat encounter turns into a social interaction as the monster and characters negotiate an end to their hostilities. A nonsapient monster might play dead to try to get the characters to stop attacking it, only to get up and run away as soon as it has the opportunity. See "[Fight or Flight](#FightorFlight)" later in this chapter for more suggestions.
 
 #### Add a Combatant
 
@@ -1086,7 +1086,7 @@ Many of the same techniques that help keep combat moving can also be useful in s
 
 Few creatures fight to the death. Nearly all creatures have survival instincts that cause them to reevaluate their tactics in the face of their own destruction. Sapient creatures confronted by obviously more numerous or powerful opponents usually try to avoid battle. But brave, desperate, or devoted creatures might never retreat from a battle.
 
-If you can’t decide whether a creature is willing to fight, have it make a DC 10 Wisdom saving throw before [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) is rolled. You can set the DC higher or lower if you like. On a failed save, the creature either flees or tries to parley with the enemy (see “[Avoiding or Ending a Fight](#AvoidingorEndingaFight)” below). On a successful save, the creature is willing to fight. When dealing with a group of creatures, the leader makes this saving throw on behalf of the group.
+If you can’t decide whether a creature is willing to fight, have it make a DC 10 Wisdom saving throw before [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) is rolled. You can set the DC higher or lower if you like. On a failed save, the creature either flees or tries to parley with the enemy (see "[Avoiding or Ending a Fight](#AvoidingorEndingaFight)" below). On a successful save, the creature is willing to fight. When dealing with a group of creatures, the leader makes this saving throw on behalf of the group.
 
 When creatures that are already engaged in battle realize they’re likely to lose, they usually try to exit that battle. A monster is likely to flee if either of the following is true:
 
@@ -1099,7 +1099,7 @@ In those circumstances, you can decide the monster flees, or you can have it mak
 
 A creature that wishes to end or avoid a fight has two options:
 
-**Flight.** The creature can retreat or run away on its turn. Select a destination for the fleeing party, such as a known place of safety (perhaps a room with a door that can be closed and barred). If the opponents pursue, you can use the “[Chases](/sources/dnd/dmg-2024/dms-toolbox#Chases)” section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) to help adjudicate what happens.
+**Flight.** The creature can retreat or run away on its turn. Select a destination for the fleeing party, such as a known place of safety (perhaps a room with a door that can be closed and barred). If the opponents pursue, you can use the "[Chases](/sources/dnd/dmg-2024/dms-toolbox#Chases)" section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) to help adjudicate what happens.
 
 **Parley.** A parley is an attempt to settle a conflict nonviolently. The side that wishes to end or avoid combat offers to surrender or proposes some sort of exchange. If one side wants to parley in the middle of combat and the other side agrees, you can suspend the Initiative order for some interaction. If the two sides don’t come to an agreement, pick up the Initiative order where it left off.
 
@@ -1110,7 +1110,7 @@ Experience Points (XP) fuel level advancement for player characters and are most
 
 ### Awarding XP
 
-Each monster has an XP value based on its Challenge Rating. When adventurers overcome one or more monsters—typically by killing, routing, capturing, or cleverly avoiding them—they divide the total XP value of the monsters evenly among themselves. If the party received substantial assistance from one or more NPCs, count those NPCs as party members when dividing up the XP, since the NPCs made the challenge easier. (See also “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox).)
+Each monster has an XP value based on its Challenge Rating. When adventurers overcome one or more monsters—typically by killing, routing, capturing, or cleverly avoiding them—they divide the total XP value of the monsters evenly among themselves. If the party received substantial assistance from one or more NPCs, count those NPCs as party members when dividing up the XP, since the NPCs made the challenge easier. (See also "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox).)
 
 #### Noncombat Challenges
 

@@ -320,7 +320,7 @@ When a character mixes two potions together, roll on the Potion Miscibility tabl
 | 1d100 | Result |
 | --- | --- |
 | 01 | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [Sphere](/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect) centered on itself. Each creature in that area takes 4d10 Force damage. |
-| 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see “[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). |
+| 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see "[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). |
 | 09–15 | Both potions lose their effects. |
 | 16–25 | One potion loses its effect. |
 | 26–35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
@@ -480,7 +480,7 @@ A magic item may require the user to use their own spellcasting ability when cas
 
 Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the [Identify](/spells/2619180-identify) spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains.
 
-### “The Next Dawn”
+### "The Next Dawn"
 
 Magic items often have charges or properties that recharge at the next dawn or some other specified time. If such an item is on a world or plane of existence where the specified event doesn’t occur, the DM determines when the item recharges.
 
@@ -498,7 +498,7 @@ An Artifact can be destroyed only in some special way. Otherwise, it is impervio
 
 ### Crafting Magic Items
 
-The [Player’s Handbook](/sources/dnd/phb-2024) contains rules on [brewing *Potions of Healing*](/sources/dnd/phb-2024/equipment#BrewingPotionsofHealing) and [scribing *Spell Scrolls*](/sources/dnd/phb-2024/equipment#ScribingSpellScrolls). To create other magic items, follow the rules below. In these rules, “you” refers to the character crafting the magic item.
+The [Player’s Handbook](/sources/dnd/phb-2024) contains rules on [brewing *Potions of Healing*](/sources/dnd/phb-2024/equipment#BrewingPotionsofHealing) and [scribing *Spell Scrolls*](/sources/dnd/phb-2024/equipment#ScribingSpellScrolls). To create other magic items, follow the rules below. In these rules, "you" refers to the character crafting the magic item.
 
 #### Arcana Proficiency
 
@@ -561,7 +561,7 @@ You can add distinctiveness to a magic item by thinking about its backstory. Who
 
 Use the following tables to fill in details about a magic item’s history. Some table entries make more sense for certain items than for others. If you roll something that doesn’t make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own special feature.
 
-On the Magic Item’s Minor Property table and the Magic Item’s Quirk table, “you” refers to the item’s bearer.
+On the Magic Item’s Minor Property table and the Magic Item’s Quirk table, "you" refers to the item’s bearer.
 
 
 #### Magic Item’s Creator or Intended User
@@ -730,11 +730,11 @@ Some magic items have sentience and personality. Such an item might be possessed
 
 Most sentient items are weapons, but other kinds of items can manifest sentience. Single-use items such as potions and scrolls are never sentient.
 
-The DM controls sentient magic items and their activated properties. A bearer who maintains a good relationship with the item can access those properties. If the relationship is strained, a conflict can ensue (see “[Conflict](#Conflict)” below).
+The DM controls sentient magic items and their activated properties. A bearer who maintains a good relationship with the item can access those properties. If the relationship is strained, a conflict can ensue (see "[Conflict](#Conflict)" below).
 
 #### Sentient Magic Item Traits
 
-When you make a sentient magic item, you create the item’s persona much as you would create an NPC (as described in the “[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)” section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)), with these exceptions.
+When you make a sentient magic item, you create the item’s persona much as you would create an NPC (as described in the "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)), with these exceptions.
 
 ***Abilities.*** A sentient magic item has Intelligence, Wisdom, and Charisma scores. Choose the item’s abilities, or determine them randomly as follows: roll 4d6 for each one, dropping the lowest roll and totaling the rest.
 
@@ -744,7 +744,7 @@ When you make a sentient magic item, you create the item’s persona much as you
 
 ***Senses.*** A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the Sentient Item’s Senses table.
 
-***Special Purpose.*** You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder’s use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see “[Conflict](#Conflict)” below). You can pick a special purpose or roll on the Sentient Item’s Special Purpose table.
+***Special Purpose.*** You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder’s use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see "[Conflict](#Conflict)" below). You can pick a special purpose or roll on the Sentient Item’s Special Purpose table.
 
 
 ##### Sentient Item’s Alignment

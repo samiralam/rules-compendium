@@ -23,7 +23,7 @@ Good and evil characters can share common goals, though they’ll likely use dif
 
 Imagine two characters—one Lawful Good, the other Lawful Evil—who are both dedicated to stopping monsters from preying on the people of their city. The Lawful Evil character is willing to employ methods (such as bribing or threatening potential witnesses) that the Lawful Good character isn’t.
 
-When good- and evil-aligned adventurers coexist in the same party, they’re likely to have disagreements as the campaign unfolds. Many players enjoy roleplaying such conflicts, but see “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” in [chapter 1](/sources/dnd/dmg-2024/the-basics) if you run into trouble with evil characters played in a disruptive way.
+When good- and evil-aligned adventurers coexist in the same party, they’re likely to have disagreements as the campaign unfolds. Many players enjoy roleplaying such conflicts, but see "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics) if you run into trouble with evil characters played in a disruptive way.
 
 #### Planes and Alignment
 
@@ -147,7 +147,7 @@ Characters can create their own complications to shake off pursuers or slow thei
 | 2 | A stream or ravine blocks your path. Make a DC 10 Strength or Dexterity saving throw (your choice) to cross the impediment. On a failed save, the impediment counts as 10 feet of [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain) for you. |
 | 3 | Make a DC 10 Constitution saving throw. On a failed save, blowing sand, dirt, ash, snow, or pollen causes you to have the [Blinded](/sources/dnd/free-rules/rules-glossary#BlindedCondition) condition until the end of your turn. While you are Blinded in this way, your Speed is halved. |
 | 4 | A sudden drop catches you by surprise. Make a DC 10 Dexterity saving throw to navigate the impediment. On a failed save, you fall 10 feet. |
-| 5 | Your path takes you near a patch of [razorvine](#Razorvine) (see “[Hazards](#Hazards)” in this chapter). Make a DC 15 Dexterity saving throw or use 10 feet of movement (your choice) to avoid the razorvine. On a failed save, you take 1d10 Slashing damage. |
+| 5 | Your path takes you near a patch of [razorvine](#Razorvine) (see "[Hazards](#Hazards)" in this chapter). Make a DC 15 Dexterity saving throw or use 10 feet of movement (your choice) to avoid the razorvine. On a failed save, you take 1d10 Slashing damage. |
 | 6 | A creature native to the area notices you. (The DM chooses a creature appropriate for the terrain.) Make a DC 10 Wisdom or Charisma saving throw (your choice). On a failed save, the creature joins the chase, with you as its quarry. |
 | 7–12 | There is no complication. |
 
@@ -495,7 +495,7 @@ Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a D
 Death
 -----
 
-Adventures involve risk, with consequences that can be as catastrophic as the death of a single character or an entire group. Given the degree to which players get attached to their characters, character death can be an emotionally charged situation. It might even be a hard limit for some players (see “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” in [chapter 1](/sources/dnd/dmg-2024/the-basics)), so it’s worth having a conversation about how to handle character death at the start of a new game.
+Adventures involve risk, with consequences that can be as catastrophic as the death of a single character or an entire group. Given the degree to which players get attached to their characters, character death can be an emotionally charged situation. It might even be a hard limit for some players (see "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics)), so it’s worth having a conversation about how to handle character death at the start of a new game.
 
 ### Death Must Be Fair
 
@@ -505,7 +505,7 @@ The best way to avoid hard feelings connected to the death of a beloved characte
 
 **Don’t Make It Personal.** Don’t punish a character for a player’s behavior or some personal grudge. That’s probably the quickest way to undermine your players’ trust in you as DM and as a fair arbiter of the rules.
 
-**Provide Fair Warning.** Let characters face the consequences of their foolish actions, but make sure you give enough cues for the players to recognize self-destructive actions. You might want to ask a player, “Are you sure?” before committing a character to a potentially fatal course of action.
+**Provide Fair Warning.** Let characters face the consequences of their foolish actions, but make sure you give enough cues for the players to recognize self-destructive actions. You might want to ask a player, "Are you sure?" before committing a character to a potentially fatal course of action.
 
 **Fair Encounters.** Your players have to know that you’re fair in designing encounters. It’s fine to throw tough encounters at them and sometimes to let them face monsters they can’t beat. But it’s not fair if the players have no way to know they can’t win the fight or have no way to escape.
 
@@ -515,7 +515,7 @@ You can adjust the lethality of your campaign using the [encounter-building guid
 
 #### Defeated, Not Dead
 
-If you and your players agree to avoid character death in your game, you might consider an alternative: a character who would otherwise die is instead “defeated.” The following rules apply to a defeated character.
+If you and your players agree to avoid character death in your game, you might consider an alternative: a character who would otherwise die is instead "defeated." The following rules apply to a defeated character.
 
 ***Comatose.*** The character has 1 Hit Point and the [Unconscious](/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) condition. The character can regain Hit Points as normal, but the character remains Unconscious until they are targeted by a [Greater Restoration](/spells/2618961-greater-restoration) spell or experience a sudden awakening (see below).
 
@@ -541,7 +541,7 @@ It’s also possible for dead characters to be brought back to life. The most co
 
 ### What If Everyone Dies?
 
-Misadventure can wipe out an entire group. (You’ll sometimes hear players refer to this as a “total party kill” or “TPK.”) Such a catastrophe doesn’t have to end the whole game—rather, it presents an opportunity to take the game in a new direction. Consider these possibilities.
+Misadventure can wipe out an entire group. (You’ll sometimes hear players refer to this as a "total party kill" or "TPK.") Such a catastrophe doesn’t have to end the whole game—rather, it presents an opportunity to take the game in a new direction. Consider these possibilities.
 
 #### A Fresh Start
 
@@ -623,7 +623,7 @@ A secret door is crafted to blend into the wall that surrounds it. Sometimes fai
 
 With the [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action, a character can search for a secret door along a 10-foot-square section of wall and make a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check. On a successful check, the character finds any secret door hidden in that section of wall as well as the mechanism to open the door. The DC of the check depends on how well the secret door is hidden, as shown in the Secret Doors table.
 
-You can instead call for an Intelligence ([Investigation](/sources/dnd/free-rules/playing-the-game#Skills)) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See “[Perception](/sources/dnd/dmg-2024/running-the-game#Perception)” in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice.
+You can instead call for an Intelligence ([Investigation](/sources/dnd/free-rules/playing-the-game#Skills)) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See "[Perception](/sources/dnd/dmg-2024/running-the-game#Perception)" in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for more advice.
 
 
 #### Secret Doors
@@ -749,7 +749,7 @@ Crypt builders who are worried about undead rising from the grave lock and trap 
 
 Sapient, social denizens of the dungeon generally guard the entrances to their shared spaces. A guard post may just be a room with a table where bored sentries play a dice game, or it might be a pair of iron golems backed up by spellcasters hiding in balconies overhead.
 
-When you design a guard post, decide how many guards are on duty, note their [Passive Perception](/sources/dnd/free-rules/rules-glossary#PassivePerception) scores, and decide what they do when they notice intruders (see “[Monster Behavior](/sources/dnd/dmg-2024/creating-adventures#MonsterBehavior)” in [chapter 4](/sources/dnd/dmg-2024/creating-adventures)). Some will rush headlong into a fight, while others will negotiate, sound an alarm, or flee to get help.
+When you design a guard post, decide how many guards are on duty, note their [Passive Perception](/sources/dnd/free-rules/rules-glossary#PassivePerception) scores, and decide what they do when they notice intruders (see "[Monster Behavior](/sources/dnd/dmg-2024/creating-adventures#MonsterBehavior)" in [chapter 4](/sources/dnd/dmg-2024/creating-adventures)). Some will rush headlong into a fight, while others will negotiate, sound an alarm, or flee to get help.
 
 #### Living Quarters
 
@@ -765,7 +765,7 @@ Any sapient creature might have some place dedicated to worship. Depending on th
 
 #### Vaults
 
-A vault contains treasure and is usually sealed behind a locked or secret door. Many vaults are further protected by magic, monsters that can survive without food and water, and traps (see “[Traps](#Traps)” in this chapter).
+A vault contains treasure and is usually sealed behind a locked or secret door. Many vaults are further protected by magic, monsters that can survive without food and water, and traps (see "[Traps](#Traps)" in this chapter).
 
 #### Work Areas
 
@@ -783,7 +783,7 @@ The States of Ruin table can help you determine the general conditions of a dung
 | --- | --- |
 | 1 | **Perilous.** The area is dangerously worn and prone to collapse. Any impacts or damage to the structure, including from spells and other areas of effect, have a 50 percent chance of causing a collapse. |
 | 2 | **Crumbling.** Areas within the dungeon section are choked with rubble and have a 50 percent chance of being [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain). [Half Cover](/sources/dnd/free-rules/rules-glossary#Cover) and hiding places are plentiful. |
-| 3 | **Neglected.** One dungeon hazard—such as [brown mold](#BrownMold), [green slime](#GreenSlime), or [yellow mold](#YellowMold) (see “[Hazards](#Hazards)” in this chapter)—is abundant. |
+| 3 | **Neglected.** One dungeon hazard—such as [brown mold](#BrownMold), [green slime](#GreenSlime), or [yellow mold](#YellowMold) (see "[Hazards](#Hazards)" in this chapter)—is abundant. |
 | 4 | **Abandoned.** Most of the dungeon is deserted. Dexterity ([Stealth](/sources/dnd/free-rules/playing-the-game#Skills)) checks have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) because any sounds stand out as unusual. |
 | 5 | **Secure.** Ability checks made to break down doors, open locks, or carry out similar activities have Disadvantage. |
 | 6 | **Thriving.** The dungeon is heavily populated. Any loud noises draw the attention of nearby creatures. |
@@ -833,7 +833,7 @@ Everything within an area of heavy rain or heavy snowfall is [Lightly Obscured](
 
 ### High Altitude
 
-Traveling at altitudes of 10,000 feet or higher above sea level is taxing for most creatures because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel (see “[Travel Pace](/sources/dnd/dmg-2024/running-the-game#TravelPace)” in [chapter 2](/sources/dnd/dmg-2024/running-the-game)).
+Traveling at altitudes of 10,000 feet or higher above sea level is taxing for most creatures because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel (see "[Travel Pace](/sources/dnd/dmg-2024/running-the-game#TravelPace)" in [chapter 2](/sources/dnd/dmg-2024/running-the-game)).
 
 Creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Creatures can’t become acclimated to elevations above 20,000 feet unless they are native to such environments.
 
@@ -881,7 +881,7 @@ A strong wind in a desert can create a sandstorm that imposes Disadvantage on Wi
 
 ### Thin Ice
 
-Thin ice has a weight tolerance of 3d10 × 10 pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is frigid water (see “[Frigid Water](#FrigidWater)” above).
+Thin ice has a weight tolerance of 3d10 × 10 pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is frigid water (see "[Frigid Water](#FrigidWater)" above).
 
 ---
 
@@ -896,7 +896,7 @@ Fear and Mental Stress
 
 Due to the nature of their vocation, adventurers tend to be less susceptible to fear and mental stress than common folk. Whereas a farmer might flee in terror from a bear or an apparition, adventurers are made of sterner stuff. That said, certain creatures and game effects can terrify or fray the mind of even the most stalwart adventurer.
 
-If you plan to use any of these rules, discuss them with your players at the start of the campaign. See “[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)” in [chapter 1](/sources/dnd/dmg-2024/the-basics).
+If you plan to use any of these rules, discuss them with your players at the start of the campaign. See "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics).
 
 ### Fear Effects
 
@@ -1090,7 +1090,7 @@ In some campaigns, gods are fond of meddling in mortal affairs, and heroes somet
 
 With those principles in mind, you might have gods intervene in dire situations in one of these ways:
 
-**Blessings.** A god might bestow a Blessing (see “[Supernatural Gifts](#SupernaturalGifts)” in this chapter) to help a character in need.
+**Blessings.** A god might bestow a Blessing (see "[Supernatural Gifts](#SupernaturalGifts)" in this chapter) to help a character in need.
 
 **Emissaries.** A god might send a Celestial, a Fiend, or some other kind of emissary to aid a character with information, guidance, or combat.
 
@@ -1358,7 +1358,7 @@ Special rights last only as long as the legal document dictates, and such rights
 
 ### Titles
 
-A politically powerful figure has the ability to dispense titles. A title often comes with a parcel of land (see above). For example, a character might be awarded the title Earl of Stormriver or Countess of Dun Fjord, along with a parcel of land that includes a settlement or region of the same name. Archfey are fond of granting whimsical (and alliterative) titles, such as Chancellor of Chocolates or Grand Duke of Giggles, which might come with minor supernatural gifts (see “[Supernatural Gifts](#SupernaturalGifts)” in this chapter) rather than land.
+A politically powerful figure has the ability to dispense titles. A title often comes with a parcel of land (see above). For example, a character might be awarded the title Earl of Stormriver or Countess of Dun Fjord, along with a parcel of land that includes a settlement or region of the same name. Archfey are fond of granting whimsical (and alliterative) titles, such as Chancellor of Chocolates or Grand Duke of Giggles, which might come with minor supernatural gifts (see "[Supernatural Gifts](#SupernaturalGifts)" in this chapter) rather than land.
 
 A character can hold more than one title, and in a feudal society, those titles can be passed down to (or distributed among) one’s children. A character who holds a title is expected to act in a manner befitting that title. By decree, titles can be stripped away if the character fails to meet the obligations and responsibilities that come with the title.
 
@@ -1461,9 +1461,9 @@ Your judgment always outweighs these guidelines, and it’s fine to err on the s
 
 The following scenario shows examples of how you as the DM can apply the guidelines described in the rest of this section.
 
-Eight [Zombies](/monsters/4775851-zombie) surround and attack a Fighter. The zombies’ attack bonus is +3, and the Fighter’s AC is 18, so the roll needed is 15 (18 − 3). Finding 15 in the “Normal” column and reading across to the “Out of 8” column, the DM gets a result of 2/8—two of the zombies hit. Using the zombies’ average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.
+Eight [Zombies](/monsters/4775851-zombie) surround and attack a Fighter. The zombies’ attack bonus is +3, and the Fighter’s AC is 18, so the roll needed is 15 (18 − 3). Finding 15 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 2/8—two of the zombies hit. Using the zombies’ average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.
 
-After seeing the Fighter mauled by zombies, the Bard casts [Shatter](/spells/2619017-shatter), centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [Sphere](/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect), and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies’ Constitution saving throw bonus is +3, and the Bard’s spell saving throw DC is 16, so the roll needed is 13 (16 − 3). Finding 13 in the “Normal” column and reading across to the “Out of 8” column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
+After seeing the Fighter mauled by zombies, the Bard casts [Shatter](/spells/2619017-shatter), centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [Sphere](/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect), and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies’ Constitution saving throw bonus is +3, and the Bard’s spell saving throw DC is 16, so the roll needed is 13 (16 − 3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
 
 Seeing a larger crowd of zombies in the distance, the Wizard casts [Fireball](/spells/2618887-fireball). The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they’re densely packed together and adds 1d3, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies’ Dexterity saving throw modifier is −2, and the Wizard’s spell save DC is 16, so the roll needed is 18 (16 − [−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
 
@@ -1598,11 +1598,11 @@ You’ll need a name for any NPC who plays a prominent role in your campaign. Yo
 
 #### Stat Block
 
-Choose a stat block from the *Monster Manual* to represent the NPC’s game statistics. You don’t need to do this if you don’t expect the NPC to engage in combat or use any special abilities (such as casting spells). You can customize the stat block using the guidelines under “[Creating a Creature](#CreatingaCreature)” in this chapter to better reflect the NPC you have in mind.
+Choose a stat block from the *Monster Manual* to represent the NPC’s game statistics. You don’t need to do this if you don’t expect the NPC to engage in combat or use any special abilities (such as casting spells). You can customize the stat block using the guidelines under "[Creating a Creature](#CreatingaCreature)" in this chapter to better reflect the NPC you have in mind.
 
 #### Alignment
 
-Choose the NPC’s [alignment](/sources/dnd/free-rules/rules-glossary#Alignment), which can help you sketch the outlines of an NPC’s behavior and personality. See the [Player’s Handbook](/sources/dnd/phb-2024) and “[Alignment](#Alignment)” in this chapter for more information.
+Choose the NPC’s [alignment](/sources/dnd/free-rules/rules-glossary#Alignment), which can help you sketch the outlines of an NPC’s behavior and personality. See the [Player’s Handbook](/sources/dnd/phb-2024) and "[Alignment](#Alignment)" in this chapter for more information.
 
 #### Personality
 
@@ -2179,7 +2179,7 @@ A Siege Tower is a mobile wooden structure with a beam frame and slats in its wa
 
 An iron pot is suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled before it can be used again. Filling the cauldron requires three [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) actions. Then a crew member can take the Spill action.
 
-Cauldrons are typically filled with boiling oil but can be filled with other substances, such as acid or [green slime](#GreenSlime) (see “[Hazards](#Hazards)” in this chapter), with different effects.
+Cauldrons are typically filled with boiling oil but can be filled with other substances, such as acid or [green slime](#GreenSlime) (see "[Hazards](#Hazards)" in this chapter), with different effects.
 
 ---
 
@@ -2425,7 +2425,7 @@ The first creature that crosses the trip wire causes the Net to fall on it. The 
 
 When a creature moves onto this trap’s pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot [Cone](/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect) of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (2d10) Fire damage on a failed save or half as much damage on a successful one.
 
-***Detect and Disarm.*** A [Detect Magic](/spells/2619097-detect-magic) spell reveals an aura of Evocation magic around the statue. As a [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a [Study](/sources/dnd/free-rules/rules-glossary#StudyAction) action to examine it and make a DC 15 Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check, ascertaining that the glyph means “fire” on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
+***Detect and Disarm.*** A [Detect Magic](/spells/2619097-detect-magic) spell reveals an aura of Evocation magic around the statue. As a [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a [Study](/sources/dnd/free-rules/rules-glossary#StudyAction) action to examine it and make a DC 15 Intelligence ([Arcana](/sources/dnd/free-rules/playing-the-game#Skills)) check, ascertaining that the glyph means "fire" on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
 
 As a [Search](/sources/dnd/free-rules/rules-glossary#SearchAction) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check, detecting the pressure plate on a successful check. Wedging an [Iron Spike](/equipment/426-iron-spikes) or similar object under the pressure plate prevents the trap from triggering.
 

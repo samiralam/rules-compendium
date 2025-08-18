@@ -114,7 +114,7 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 **Duration:** 24 hours
 
-A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target’s Challenge Rating isn’t 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as “a person dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
+A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target’s Challenge Rating isn’t 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as "a person dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
 
 When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn’t reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.
 
@@ -1151,7 +1151,7 @@ You speak a one-word command to a creature you can see within range. The target 
 
 You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
 
-Divine beings aren’t necessarily omniscient, so you might receive “unclear” as an answer if a question pertains to information that lies beyond the deity’s knowledge. In a case where a one-word answer could be misleading or contrary to the deity’s interests, the DM might offer a short phrase as an answer instead.
+Divine beings aren’t necessarily omniscient, so you might receive "unclear" as an answer if a question pertains to information that lies beyond the deity’s knowledge. In a case where a one-word answer could be misleading or contrary to the deity’s interests, the DM might offer a short phrase as an answer instead.
 
 If you cast the spell more than once before finishing a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
@@ -1454,7 +1454,7 @@ In addition, you can take the [Disengage](/sources/dnd/free-rules/rules-glossary
 
 **Duration:** 1 minute
 
-You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as “yes,” “no,” “maybe,” “never,” “irrelevant,” or “unclear” (if the entity doesn’t know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
+You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn’t know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
 On a failed save, you take 6d6 Psychic damage and have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). A [Greater Restoration](/spells/2618961-greater-restoration) spell cast on you ends this effect.
 
@@ -2023,7 +2023,7 @@ As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action on your 
 
 **Duration:** Instantaneous
 
-You teleport to a location within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as “200 feet straight downward” or “300 feet upward to the northwest at a 45-degree angle.”
+You teleport to a location within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "300 feet upward to the northwest at a 45-degree angle."
 
 You can also teleport one willing creature. The creature must be within 5 feet of you when you teleport, and it teleports to a space within 5 feet of your destination space.
 
@@ -2219,7 +2219,7 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 
 One Beast you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for the duration. The target has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
-You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as “Attack that creature,” “Move over there,” or “Fetch that object.” The target does its best to obey on its turn. If it completes an order and doesn’t receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
+You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn’t receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
@@ -2241,7 +2241,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 One creature you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for the duration. The target has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
-You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as “Attack that creature,” “Move over there,” or “Fetch that object.” The target does its best to obey on its turn. If it completes an order and doesn’t receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
+You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn’t receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
@@ -2263,7 +2263,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 One Humanoid you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for the duration. The target has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
-You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as “Attack that creature,” “Move over there,” or “Fetch that object.” The target does its best to obey on its turn. If it completes an order and doesn’t receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
+You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn’t receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
 You can command the target to take a Reaction but must take your own Reaction to do so.
 
@@ -2829,7 +2829,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 **Duration:** [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration), up to 1 day
 
-You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as “a green dragon’s lair”).
+You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon’s lair").
 
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
 
@@ -4662,7 +4662,7 @@ Up to six creatures of your choice that you can see within range regain Hit Poin
 
 **Duration:** 24 hours
 
-You suggest a course of activity—described in no more than 25 words—to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, “Walk to the village down that road, and help the villagers there harvest crops until sunset.” Or you could say, “Now is not the time for violence. Drop your weapons, and dance! Stop in an hour.”
+You suggest a course of activity—described in no more than 25 words—to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
 
 Each target must succeed on a Wisdom saving throw or have the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for the duration or until you or your allies deal damage to the target. Each Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
 
@@ -6149,7 +6149,7 @@ With a touch, you magically sequester an object or a willing creature. For the d
 
 If the target is a creature, it enters a state of suspended animation; it has the [Unconscious](/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) condition, doesn’t age, and doesn’t need food, water, or air.
 
-You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include “after 1,000 years” or “when the tarrasque awakens.” This spell also ends if the target takes any damage.
+You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage.
 
 ---
 
@@ -6712,7 +6712,7 @@ At the start of each of your later turns, the storm produces different effects, 
 
 **Duration:** [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration), up to 8 hours
 
-You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, “Fetch the key to the cult’s treasure vault, and give the key to me.” Or you could say, “Stop fighting, leave this library peacefully, and don’t return.”
+You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, "Fetch the key to the cult’s treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don’t return."
 
 The target must succeed on a Wisdom saving throw or have the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
@@ -7512,12 +7512,12 @@ The destination you choose must be known to you, and it must be on the same plan
 
 ***Familiarity.*** Here are the meanings of the terms in the table’s Familiarity column:
 
-* “Permanent circle” means a permanent teleportation circle whose sigil sequence you know.
-* “Linked object” means you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library.
-* “Very familiar” is a place you have visited often, a place you have carefully studied, or a place you can see when you cast the spell.
-* “Seen casually” is a place you have seen more than once but with which you aren’t very familiar.
-* “Viewed once or described” is a place you have seen once, possibly using magic, or a place you know through someone else’s description, perhaps from a map.
-* “False destination” is a place that doesn’t exist. Perhaps you tried to scry an enemy’s sanctum but instead viewed an illusion, or you are attempting to teleport to a location that no longer exists.
+* "Permanent circle" means a permanent teleportation circle whose sigil sequence you know.
+* "Linked object" means you possess an object taken from the desired destination within the last six months, such as a book from a wizard’s library.
+* "Very familiar" is a place you have visited often, a place you have carefully studied, or a place you can see when you cast the spell.
+* "Seen casually" is a place you have seen more than once but with which you aren’t very familiar.
+* "Viewed once or described" is a place you have seen once, possibly using magic, or a place you know through someone else’s description, perhaps from a map.
+* "False destination" is a place that doesn’t exist. Perhaps you tried to scry an enemy’s sanctum but instead viewed an illusion, or you are attempting to teleport to a location that no longer exists.
 
 ***Mishap.*** The spell’s unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 Force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 

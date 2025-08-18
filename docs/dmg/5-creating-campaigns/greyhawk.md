@@ -15,7 +15,7 @@ A handful of important names are defined below:
 
 **Eastern Oerik**, the vast region explored in this chapter, is home to many powerful nations and some of the D&D game’s most famous dungeons and adventurers.
 
-**The Flanaess** (pronounced flah-*nay*-ess or *flay*-nayz) is another name for Eastern Oerik and means “land of the Flan.” The region’s first human settlers and their descendants are known as the Flan.
+**The Flanaess** (pronounced flah-*nay*-ess or *flay*-nayz) is another name for Eastern Oerik and means "land of the Flan." The region’s first human settlers and their descendants are known as the Flan.
 
 **Greyhawk** is an independent city in Eastern Oerik that attracts large numbers of adventurers. Greyhawk doubles as the name of the campaign setting.
 
@@ -28,7 +28,7 @@ Adventuring parties from the Free City of Greyhawk and other settlements trek ac
 
 ### Greyhawk Conflicts
 
-Although Greyhawk lends itself well to any D&D adventure you might want to run, the default setting features conflicts with three major villainous groups: chromatic dragons, Elemental Evil cults, and Iuz and his followers. You can replace one or more of these conflicts with ones of your devising or with ones from the “[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)” section earlier in this chapter.
+Although Greyhawk lends itself well to any D&D adventure you might want to run, the default setting features conflicts with three major villainous groups: chromatic dragons, Elemental Evil cults, and Iuz and his followers. You can replace one or more of these conflicts with ones of your devising or with ones from the "[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)" section earlier in this chapter.
 
 If you use these conflicts, look for opportunities in your adventures to introduce creatures in service to the three villainous groups. Give goals to these villains that bring their operatives into conflict with the player characters.
 
@@ -41,14 +41,14 @@ Evil chromatic dragons dwell in the wilds of Eastern Oerik. For years, adventure
 ***Goals of Chromatic Dragons.*** Fortify their lairs to safeguard their treasure hoards; strike out across Eastern Oerik, raiding poorly defended settlements and stealing cattle; demand tribute in the form of food or treasure; and destroy territorial rivals (draconic or otherwise).
 
 ***A Chromatic Dragon Arc.*** The conflict between adventurers and chromatic dragons might follow this broad outline:
-- **Levels 1–4.** Consider introducing this conflict as the adventurers reach level 3 or 4, with the adventurers confronting an aggressive chromatic dragon wyrmling. (You can use the adventure “[The Winged God](/sources/dnd/dmg-2024/creating-adventures#TheWingedGod)” from [chapter 4](/sources/dnd/dmg-2024/creating-adventures).)
+- **Levels 1–4.** Consider introducing this conflict as the adventurers reach level 3 or 4, with the adventurers confronting an aggressive chromatic dragon wyrmling. (You can use the adventure "[The Winged God](/sources/dnd/dmg-2024/creating-adventures#TheWingedGod)" from [chapter 4](/sources/dnd/dmg-2024/creating-adventures).)
 - **Levels 5–10.** The adventurers might face a handful of ambitious young chromatic dragons, without hinting at a more significant conflict.
 - **Levels 11–16.** It eventually becomes clear that the behavior of the adult dragons the characters face isn’t normal. The characters might get involved in one dragon’s schemes to undermine or overthrow another, or the characters might hear whispers of the dragons’ dream of liberating Tiamat.
-- **Levels 17–20.** The conflict reaches its worldshattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see “[Mysteries of Greyhawk](#MysteriesofGreyhawk)” in this chapter) or from the depths of the Nyr Dyv.
+- **Levels 17–20.** The conflict reaches its worldshattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see "[Mysteries of Greyhawk](#MysteriesofGreyhawk)" in this chapter) or from the depths of the Nyr Dyv.
 
 #### Elemental Evil
 
-“Elemental Evil” is the name given to a host of destructive, extraplanar entities—demon lords, evil elemental princes, and elder gods—who ravaged the world of Oerth long ago. Many of these entities are now trapped in dungeons, with cults and monsters seeking to free and serve them. Adventurers are the only ones equipped to keep these malign entities from escaping their subterranean prisons.
+"Elemental Evil" is the name given to a host of destructive, extraplanar entities—demon lords, evil elemental princes, and elder gods—who ravaged the world of Oerth long ago. Many of these entities are now trapped in dungeons, with cults and monsters seeking to free and serve them. Adventurers are the only ones equipped to keep these malign entities from escaping their subterranean prisons.
 
 ***Goals of Elemental Evil.*** Search for a demon lord, an elemental prince, or an elder god trapped in a dungeon; build a stronghold above or near the dungeon; drive other inhabitants out of the region; and use a special magic item or ritual to free whatever is trapped in the dungeon.
 
@@ -70,8 +70,8 @@ North of the Free City of Greyhawk, a demigod named Iuz has reclaimed the vast t
 
 ***An Iuz Arc.*** The conflict between adventurers and Iuz might follow this broad outline:
 
-- **Levels 1–4.** Early in their adventuring careers, the characters might face what appear to be ordinary toughs who are disrupting mining operations near the Free City of Greyhawk (see “[Beyond the City Walls](#BeyondtheCityWalls)” in this chapter), only to discover these toughs are agents of some greater villain. The identity of this villain remains a mystery—for now. If you use the adventure “[Miner Difficulties](/sources/dnd/dmg-2024/creating-adventures#MinerDifficulties)” from [chapter 4](/sources/dnd/dmg-2024/creating-adventures), NPCs speaking to the characters might assume the trouble in the mine is related to these toughs and their bullying.
-- **Levels 5–10.** You might use the adventure “[Horns of the Beast](/sources/dnd/dmg-2024/creating-adventures#HornsoftheBeast)” from [chapter 4](/sources/dnd/dmg-2024/creating-adventures) to introduce an agent of Iuz to the characters. After their return from that expedition, they start having unpleasant encounters with the City Watch in Greyhawk. Eventually, they discover that Captain-General Sental Nurev is being manipulated by the leaders of Stoink, a petty fief in the Bandit Kingdoms. When the characters undertake an expedition into that dangerous realm to confront Stoink’s leaders and free the captain-general’s captive brother, they discover that the villains were agents of Iuz.
+- **Levels 1–4.** Early in their adventuring careers, the characters might face what appear to be ordinary toughs who are disrupting mining operations near the Free City of Greyhawk (see "[Beyond the City Walls](#BeyondtheCityWalls)" in this chapter), only to discover these toughs are agents of some greater villain. The identity of this villain remains a mystery—for now. If you use the adventure "[Miner Difficulties](/sources/dnd/dmg-2024/creating-adventures#MinerDifficulties)" from [chapter 4](/sources/dnd/dmg-2024/creating-adventures), NPCs speaking to the characters might assume the trouble in the mine is related to these toughs and their bullying.
+- **Levels 5–10.** You might use the adventure "[Horns of the Beast](/sources/dnd/dmg-2024/creating-adventures#HornsoftheBeast)" from [chapter 4](/sources/dnd/dmg-2024/creating-adventures) to introduce an agent of Iuz to the characters. After their return from that expedition, they start having unpleasant encounters with the City Watch in Greyhawk. Eventually, they discover that Captain-General Sental Nurev is being manipulated by the leaders of Stoink, a petty fief in the Bandit Kingdoms. When the characters undertake an expedition into that dangerous realm to confront Stoink’s leaders and free the captain-general’s captive brother, they discover that the villains were agents of Iuz.
 - **Levels 11–16.** Iuz and the Horned Society launch an all-out invasion into the Shield Lands, overwhelming its defenses and moving toward Furyondy. The characters might have adventures to muster forces in surrounding lands and bring them to Furyondy’s defense or hinder Iuz’s advance.
 - **Levels 17–20.** Finally, the characters discover that Iuz’s assault is merely a cover to distract the southern realms from his true aim: retrieving the [Eye and Hand of Vecna](/magic-items/9228608-eye-and-hand-of-vecna) from an ancient keep on Lake Quag. The characters confront Iuz at the shores of the lake, perhaps facing a terrible choice: Will they wield the power of Vecna to stop Iuz, or will they risk Iuz wielding that awful might against them?
 
@@ -96,7 +96,7 @@ The standard year is 360 days long and consists of twelve twenty-eight-day month
 
 > ### Your World’s Calendar
 > 
-> What does your campaign’s calendar look like? The more your campaign calendar resembles the one that’s familiar to you and your players, the easier it will be to remember and use. Familiar names for months and days of the week lend your campaign a wonderful simplicity that many players will appreciate. A calendar that uses ten-day weeks or names such as “Moonday” and “Coldeven” is harder for players to internalize but reminds them they’re in a fantasy world. The Greyhawk calendar has twelve months and seven-day weeks like the Gregorian calendar, but gives unique names to months and days and introduces festivals that fall outside the calendar’s months, giving it a fantastical feel.
+> What does your campaign’s calendar look like? The more your campaign calendar resembles the one that’s familiar to you and your players, the easier it will be to remember and use. Familiar names for months and days of the week lend your campaign a wonderful simplicity that many players will appreciate. A calendar that uses ten-day weeks or names such as "Moonday" and "Coldeven" is harder for players to internalize but reminds them they’re in a fantasy world. The Greyhawk calendar has twelve months and seven-day weeks like the Gregorian calendar, but gives unique names to months and days and introduces festivals that fall outside the calendar’s months, giving it a fantastical feel.
 
 #### Factions and Organizations
 
@@ -124,7 +124,7 @@ The Scarlet Order is a monastic order of Suloise militarists whose spies and ass
 > 
 > Having different characters tied to different factions can create interesting situations at the gaming table, as long as those factions have similar goals and don’t work in opposition to one another all the time. Adventurers representing different factions might have competing interests or priorities while they pursue the same goals.
 > 
-> Adventurer organizations are also a great source of special rewards beyond Experience Points and treasure. Increased standing in an organization might come with concrete benefits such as access to an organization’s information, equipment, magic, and other resources. See “[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for rules you can use to track characters’ standing in an organization.
+> Adventurer organizations are also a great source of special rewards beyond Experience Points and treasure. Increased standing in an organization might come with concrete benefits such as access to an organization’s information, equipment, magic, and other resources. See "[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for rules you can use to track characters’ standing in an organization.
 
 #### Magic in Greyhawk
 
@@ -245,7 +245,7 @@ A bustling city like Greyhawk can serve the following important functions in a c
 
 #### Background Connections
 
-Use the backgrounds of the characters to connect them to people and places in the city. These connections help the players feel like Greyhawk is their characters’ home—or will quickly become their new home. A character who was born and raised in Greyhawk might have known one of the city’s prominent figures for many years, while someone who has just arrived in the city might have a mutual friend with that connection or might carry a letter of introduction recommending them to that person. (Each location detailed in the “[City Locations](#CityLocations)” section includes potential connections for two character backgrounds.)
+Use the backgrounds of the characters to connect them to people and places in the city. These connections help the players feel like Greyhawk is their characters’ home—or will quickly become their new home. A character who was born and raised in Greyhawk might have known one of the city’s prominent figures for many years, while someone who has just arrived in the city might have a mutual friend with that connection or might carry a letter of introduction recommending them to that person. (Each location detailed in the "[City Locations](#CityLocations)" section includes potential connections for two character backgrounds.)
 
 #### City Activities
 
@@ -253,7 +253,7 @@ Greyhawk is an ideal place for activities that support adventuring. There’s en
 
 #### Home Base
 
-As a home base for characters, Greyhawk can serve as a place to live, train, and recuperate between adventures. As described under “[Getting Players Invested](/sources/dnd/dmg-2024/creating-campaigns#GettingPlayersInvested)” in this chapter, Greyhawk offers a host of potential friends, rivals, villains, and resources. Use the people and locations mentioned in this chapter as a starting point for fleshing out characters’ connections to the city, and work with your players to develop those connections. Choose one neighborhood of the city (see “[City Neighborhoods](#CityNeighborhoods)” below) as a focus for the characters and their activities.
+As a home base for characters, Greyhawk can serve as a place to live, train, and recuperate between adventures. As described under "[Getting Players Invested](/sources/dnd/dmg-2024/creating-campaigns#GettingPlayersInvested)" in this chapter, Greyhawk offers a host of potential friends, rivals, villains, and resources. Use the people and locations mentioned in this chapter as a starting point for fleshing out characters’ connections to the city, and work with your players to develop those connections. Choose one neighborhood of the city (see "[City Neighborhoods](#CityNeighborhoods)" below) as a focus for the characters and their activities.
 
 #### Urban Adventures
 
@@ -271,7 +271,7 @@ The Free City of Greyhawk is ruled by a council called the Directing Oligarchy, 
 
 The City Watch is a standing garrison of some eight hundred [Guards](/monsters/16915-guard) and **Veteran Warriors**. Bolstering these defenders are [Mages](/monsters/4831023-mage) from the city’s Guild of Wizardry, as well as [Priests](/monsters/16985-priest) from local temples.
 
-The captain-general and constable of the City Watch are stationed at the Grand Citadel (see “[City Locations](#CityLocations)”).
+The captain-general and constable of the City Watch are stationed at the Grand Citadel (see "[City Locations](#CityLocations)").
 
 #### City Walls
 
@@ -303,7 +303,7 @@ The Free City of Greyhawk is home to many thieves, vandals, charlatans, and hool
 
 The city has temples and shrines dedicated to various gods. Religious practices that are certifiably evil aren’t tolerated, however. When an evil sect is discovered in the city, its wealth is confiscated, its leaders are put to death, and all other members are banished from the city for life.
 
-See the “[Gods of Greyhawk](#GodsofGreyhawk)” table for many deities worshiped by the inhabitants of the Free City.
+See the "[Gods of Greyhawk](#GodsofGreyhawk)" table for many deities worshiped by the inhabitants of the Free City.
 
 ### City Neighborhoods
 
@@ -337,7 +337,7 @@ The locations detailed here can serve as a good starting point for your campaign
 
 The Black Dragon Inn in Clerkburg has good food and affordable rooms. The inn’s stable can hold up to a dozen steeds.
 
-The inn’s proprietor is Miklos Dare, a human **Veteran Warrior** (Chaotic Good) who loves to recount his heroic exploits in the Battle of Emridy Meadows seven years ago, when warriors from across the Central Flanaess united to drive the forces of wickedness from the Temple of Elemental Evil (see “[Central Flanaess](#CentralFlanaess)” in this chapter). A red-bearded bear of a man with a prosthetic leg, Miklos is affable and proud. His friendly rivalry with Olaf and Sivan, the proprietors of the Silver Dragon Inn just up the street, is the talk of the city. Olaf and Sivan recently hired a mage to make Miklos’s black dragon sign drool acid, much to the chagrin of visitors entering and leaving the Black Dragon. Miklos is itching to pull a similar prank of his own.
+The inn’s proprietor is Miklos Dare, a human **Veteran Warrior** (Chaotic Good) who loves to recount his heroic exploits in the Battle of Emridy Meadows seven years ago, when warriors from across the Central Flanaess united to drive the forces of wickedness from the Temple of Elemental Evil (see "[Central Flanaess](#CentralFlanaess)" in this chapter). A red-bearded bear of a man with a prosthetic leg, Miklos is affable and proud. His friendly rivalry with Olaf and Sivan, the proprietors of the Silver Dragon Inn just up the street, is the talk of the city. Olaf and Sivan recently hired a mage to make Miklos’s black dragon sign drool acid, much to the chagrin of visitors entering and leaving the Black Dragon. Miklos is itching to pull a similar prank of his own.
 
 ***Character Backgrounds.*** An adventurer with the [Soldier](/backgrounds/406488-soldier) background might have a tie to Miklos, perhaps having fought alongside him at the Battle of Emridy Meadows. A character with the [Wayfarer](/backgrounds/406489-wayfarer) background might know Miklos as a generous man who gives away food and sometimes even lodging to people in need.
 
@@ -353,7 +353,7 @@ The inn’s proprietor is Miklos Dare, a human **Veteran Warrior** (Chaotic Good
 
 > A many-towered fortress looms above all quarters of the city from its position atop a low rise. Its outer walls, darkened by soot and smoke, could use a good scrubbing.
 
-The grand edifice at the northern end of the High Quarter, simply called “the Citadel” by the city’s inhabitants, contains barracks for the City Watch, the offices of the captain-general, the city’s treasury, and a large store of armaments for the emergency citizen militia. The Citadel also contains a prison where the city’s most hardened criminals are incarcerated.
+The grand edifice at the northern end of the High Quarter, simply called "the Citadel" by the city’s inhabitants, contains barracks for the City Watch, the offices of the captain-general, the city’s treasury, and a large store of armaments for the emergency citizen militia. The Citadel also contains a prison where the city’s most hardened criminals are incarcerated.
 
 The captain-general of the City Watch is Sental Nurev, a tall, human **Veteran Warrior** (Neutral Good) with thinning blond hair and a mustache. Sental is usually incorruptible, but he is under great stress. The rulers of Stoink, a fortified town in the Bandit Kingdoms, have captured Sental’s brother Sarek and are forcing the captain-general to provide information about Greyhawk’s defenses and local politicians. Sental gives this information to a human [Spy](/monsters/17021-spy) (Chaotic Evil) who stays at the Black Dragon Inn under the false name Skanda Drond. Sental is unaware that the bandit lords of Stoink are pawns of Iuz, whose dreams of conquest extend to the Free City of Greyhawk and far beyond.
 
@@ -411,7 +411,7 @@ The High Tower, located in the Garden Quarter, is a favorite haunt for some of t
 
 #### Silver Dragon Inn
 
-> This grandiose, multistory inn sports a wooden sign bearing the words “Silver Dragon Inn” in fancy silver script, the S shaped like a silver dragon. A more modest sign next to the front door reads, “No metal armor. Shields and weapons must be checked at the door.”
+> This grandiose, multistory inn sports a wooden sign bearing the words "Silver Dragon Inn" in fancy silver script, the S shaped like a silver dragon. A more modest sign next to the front door reads, "No metal armor. Shields and weapons must be checked at the door."
 
 The grand Silver Dragon Inn, located in the Foreign Quarter, is often the first place sought by new arrivals to the city. The prices are average, but the food servings are huge. The inn’s menu includes spicy bean dishes, seafood delicacies of the Wild Coast, and rice and vegetable entrées.
 
@@ -489,7 +489,7 @@ Morley is one of the city’s secret weapons, ready to repel invaders or break a
 
 **Blackfair Manor.** Typical of several manor houses and keeps scattered across the Plain of Greyhawk, Blackfair Manor was founded by a distinguished cavalry commander. Its stable is the most famous source of fast, durable warhorses across the breadth of the Flanaess, drawing shrewd shoppers from Greyhawk and beyond. The manor house is surrounded by farms, extensive pastureland, and a small village with a mill, taverns, a smithy, and a saddlery.
 
-**Blackstone.** See “Mining Towns” below.
+**Blackstone.** See "Mining Towns" below.
 
 **Blackwall Keep.** One of two new keeps built to keep an eye on the Mistmarsh, Blackwall Keep is a strong, stone tower with a horse corral surrounded by a wooden stockade. Soldiers from Greyhawk garrison the keep and venture out from it to patrol the northern edge of the swamp.
 
@@ -497,7 +497,7 @@ Morley is one of the city’s secret weapons, ready to repel invaders or break a
 
 **Castle Greyhawk.** Travelers who follow the Selintan River westward from the city come to a stone bridge. From there, they must travel several miles northeast to reach the ruins of Castle Greyhawk. Built by the archmage Zagig Yragerne and abandoned with his demise, the ruins (and the many-leveled dungeon below) are a powerful draw to adventurers who seek wealth, glory, and magical might. All manner of marvels are said to fill the ruins, including numerous portals to other planes.
 
-**Diamond Lake.** See “Mining Towns” below.
+**Diamond Lake.** See "Mining Towns" below.
 
 **Elmshire.** This sleepy town with a sizable halfling population lies on the shore of the Nyr Dyv. Fishing boats crowd the wharves. The townsfolk welcome peaceful visitors—particularly adventurers who can help fend off monsters, bandits, and cults of Elemental Evil lurking in Cairn Hills.
 
@@ -517,13 +517,13 @@ Morley is one of the city’s secret weapons, ready to repel invaders or break a
 
 **Peculiar Manor.** Like other manors in the Plain of Greyhawk, Peculiar Manor was established by a now-forgotten hero of an ancient war. However, a few years ago it was purchased by retired adventurers from Ekbir, Sanjarah and Chetna Mohsin. The Mohsins brew an extraordinary ale they call Old Peculiar, which lends its name to the manor.
 
-**Steaming Springs.** See “Mining Towns” above.
+**Steaming Springs.** See "Mining Towns" above.
 
 **Stone Bridge.** A small garrison in the fort of Stone Bridge keeps careful watch over river traffic approaching Greyhawk.
 
 **Stonefort.** A garrison of soldiers from Greyhawk watches over the southern Nyr Dyv from the high battlements of Stonefort. The fort also guards a gravel quarry.
 
-**Tokhel Castle**. This blasted ruin stands on a rocky promontory above the Nyr Dyv. A [dead magic zone](/sources/dnd/dmg-2024/dms-toolbox#DeadMagicZone) (see “[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) encompasses most of the ruin, and monsters guard whatever secrets the ancient castle and its dungeons might hold.
+**Tokhel Castle**. This blasted ruin stands on a rocky promontory above the Nyr Dyv. A [dead magic zone](/sources/dnd/dmg-2024/dms-toolbox#DeadMagicZone) (see "[Environmental Effects](/sources/dnd/dmg-2024/dms-toolbox#EnvironmentalEffects)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) encompasses most of the ruin, and monsters guard whatever secrets the ancient castle and its dungeons might hold.
 
 **Two Ford.** The small village of Two Ford relies on river trade to supply its inns, smithies, and merchants. Ore from the mining towns is also traded here, as it is easier to transport it by river than overland.
 
@@ -614,7 +614,7 @@ Typical dress in the Central Flanaess includes a tunic of varying length, someti
 
 #### Central Flanaess Adventures
 
-The dual threats of Iuz and Elemental Evil present abundant opportunities for adventure in the Central Flanaess (see “[Greyhawk Conflicts](#GreyhawkConflicts)” in this chapter). This region is particularly appropriate for campaigns flavored with epic fantasy, supernatural horror, or war (see “[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)” in this chapter). This region is also home to many of the most famous dungeons and ruins of Greyhawk, including those described in the sections that follow.
+The dual threats of Iuz and Elemental Evil present abundant opportunities for adventure in the Central Flanaess (see "[Greyhawk Conflicts](#GreyhawkConflicts)" in this chapter). This region is particularly appropriate for campaigns flavored with epic fantasy, supernatural horror, or war (see "[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)" in this chapter). This region is also home to many of the most famous dungeons and ruins of Greyhawk, including those described in the sections that follow.
 
 ***Ghost Tower of Inverness.*** Ages ago, an archmage raised the mighty fortress of Inverness from the very rock of the Abbor-Alz. In the great inner tower of the keep, he hid his most prized possession: the Soul-Gem. Legend says this great white diamond fell from the sky and glowed with the brilliance of the sun, and its magic could drag mortal souls screaming from their bodies and trap them. The fortress was ruined long ago, but on foggy nights the great central tower still appears.
 
@@ -662,7 +662,7 @@ Aerdiaak, Ahlissa, Medegia, and Rel Astra are provinces and fiefs of the Great K
 
 #### Shar
 
-Fanatical Suloise militarists called the Scarlet Order founded the Hidden Empire of Shar, which is closed to outsiders. The order controls the peninsula west of the Tilva Strait, as far north as the Vast Swamp. See “[Factions and Organizations](#FactionsandOrganizations)” in this chapter for more about the [Scarlet Order](#ScarletOrder).
+Fanatical Suloise militarists called the Scarlet Order founded the Hidden Empire of Shar, which is closed to outsiders. The order controls the peninsula west of the Tilva Strait, as far north as the Vast Swamp. See "[Factions and Organizations](#FactionsandOrganizations)" in this chapter for more about the [Scarlet Order](#ScarletOrder).
 
 #### Eastern Flanaess Culture
 
@@ -680,7 +680,7 @@ The proximity of the Nyr Dyv, the Cairn Hills, and the Shield Lands means the Ur
 
 #### Eastern Flanaess Adventures
 
-The story of the Eastern Flanaess is a tale of scrappy rebels—Nyrond, Almor, and the Iron League—defying the overwhelming power of a corrupt and decadent empire. This story lends itself to campaigns exploring themes of supernatural horror (in the fiend-haunted courts of the overking), swashbuckling (in the cities across the region as well as the eastern seas), and war (see “[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)” in this chapter).
+The story of the Eastern Flanaess is a tale of scrappy rebels—Nyrond, Almor, and the Iron League—defying the overwhelming power of a corrupt and decadent empire. This story lends itself to campaigns exploring themes of supernatural horror (in the fiend-haunted courts of the overking), swashbuckling (in the cities across the region as well as the eastern seas), and war (see "[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)" in this chapter).
 
 ***Havens of Unrest.*** Those who despise and challenge the Great Kingdom’s oppression—outlaws both good and bad—find refuge in borderlands just beyond the reach of the overking’s soldiers. These include the woods and swamp near Rel Astra (the eastern reaches of the Grandwood Forest and the Lone Heath) and the Hestmark Highlands east of Sunndi. The outlaws in the Grandwood include significant numbers of elves and halflings as well as humans, while those in the Hestmark Highlands include dwarves and gnomes.
 
@@ -723,7 +723,7 @@ The Baklunish nomads favor bright pastel colors in gowns and robes. When traveli
 
 #### The North Kingdoms
 
-Three kingdoms of related peoples occupy the Thillonrian Peninsula in the northeast of the Flanaess—a beautiful subarctic landscape of high mountains, coniferous forests, and deep fjords. The kingdoms are named for the three distinct tribal lines that inhabit them: the Cruski (whose name means “ice”), the Fruzti (“frost”), and the Schnai (“snow”).
+Three kingdoms of related peoples occupy the Thillonrian Peninsula in the northeast of the Flanaess—a beautiful subarctic landscape of high mountains, coniferous forests, and deep fjords. The kingdoms are named for the three distinct tribal lines that inhabit them: the Cruski (whose name means "ice"), the Fruzti ("frost"), and the Schnai ("snow").
 
 The Schnai are strong and numerous. When Queen Ingrid of the Schnai has a mind to raid the isles of the Sea Baronies or the coasts of Aerdiaak and the Great Kingdom, she calls upon the king of the Fruzti and the queen of the Cruski to join her army. King Hundgred of the Fruzti has no choice but to honor his oath to the Schnai, while Queen Tharla of the Cruski rarely turns down a chance to attack her enemies. At other times, the Cruski raid the Fruzti, the Schnai, or the Hold of Stonefist.
 
@@ -748,7 +748,7 @@ The regions of the north exist on the fringes of other regions of the Flanaess. 
 
 #### Northern Flanaess Adventures
 
-The cold north is an ideal location for a campaign featuring themes of [sword-and-sorcery fantasy](/sources/dmg-2024/creating-campaigns#SwordandSorcery) (see “[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)” in this chapter). The peoples of the Northern Flanaess battle giants, dragons, and other horrific monsters in equally dangerous environments, while remaining suspicious of the decadence of the cities and nations of the south.
+The cold north is an ideal location for a campaign featuring themes of [sword-and-sorcery fantasy](/sources/dmg-2024/creating-campaigns#SwordandSorcery) (see "[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)" in this chapter). The peoples of the Northern Flanaess battle giants, dragons, and other horrific monsters in equally dangerous environments, while remaining suspicious of the decadence of the cities and nations of the south.
 
 ### Old Keoland
 
@@ -786,9 +786,9 @@ The long chain of the Lortmil Mountains forms a natural barrier between Old Keol
 
 #### Old Keoland Adventures
 
-One reason for the amicable relations among the nations of Old Keoland is the danger posed by dragons, giants, and other monsters found throughout the region. That makes this region particularly well suited to a heroic fantasy campaign (see “[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)” in this chapter). The most dangerous places include those described below.
+One reason for the amicable relations among the nations of Old Keoland is the danger posed by dragons, giants, and other monsters found throughout the region. That makes this region particularly well suited to a heroic fantasy campaign (see "[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)" in this chapter). The most dangerous places include those described below.
 
-***Barrier Peaks.*** These forbidding highlands are home to strange monsters. “[Expedition to the Barrier Peaks](/sources/dnd/qftis/expedition-to-the-barrier-peaks),” an adventure in [Quests from the Infinite Staircase](/sources/dnd/qftis), explores the origin of these monsters.
+***Barrier Peaks.*** These forbidding highlands are home to strange monsters. "[Expedition to the Barrier Peaks](/sources/dnd/qftis/expedition-to-the-barrier-peaks)," an adventure in [Quests from the Infinite Staircase](/sources/dnd/qftis), explores the origin of these monsters.
 
 ***Crystalmist Mountains.*** Giants, white dragons, and other monsters frequently descend from the Crystalmist Mountains into Geoff and Sterich, searching for food and plunder. An ancient tunnel stretches from the western end of the Yeomanry into the Sea of Dust, attracting many adventurers to explore its lengths.
 
@@ -835,6 +835,6 @@ Ket is the crossroads between the Western Flanaess and the rest of the continent
 
 #### Western Flanaess Adventures
 
-The political and mercantile intrigue among Ekbir, Tusmit, and Zeif provides abundant adventure opportunities for characters in the Western Flanaess. A campaign focused around intrigue or mystery (see “[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)” in this chapter) works particularly well in this region.
+The political and mercantile intrigue among Ekbir, Tusmit, and Zeif provides abundant adventure opportunities for characters in the Western Flanaess. A campaign focused around intrigue or mystery (see "[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)" in this chapter) works particularly well in this region.
 
 Of course, the Western Flanaess has its fair share of monsters, dungeons, and ruins as well. The ruins of the Baklunish Empire in the Dry Steppes, and those of the Suel Imperium in the Sea of Dust, attract plenty of adventurers as well as villains hoping to claim the magical knowledge that caused the terrible catastrophes leading to the fall of those empires. Ket and Ull, too, suffer from the depredations of the monsters in the Barrier Peaks and the Yatil Mountains, just as their eastern neighbors do.

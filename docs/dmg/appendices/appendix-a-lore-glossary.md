@@ -5,7 +5,7 @@ This appendix provides brief descriptions for many of the D&D game’s most famo
 Acererak
 --------
 
-Acererak *(ah-SAIR-er-rack)* is a powerful lich who travels between worlds and takes pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons to suffer horrible deaths. The most famous of such dungeons is the Tomb of Horrors, hidden in the Vast Swamp in the Greyhawk setting (see “[Greyhawk Gazetteer](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)” in [chapter 5](/sources/dnd/dmg-2024/greyhawk)); another lies under the lost city of Omu in the jungles of Chult in the Forgotten Realms setting (described in the adventure [Tomb of Annihilation](/sources/dnd/toa)).
+Acererak *(ah-SAIR-er-rack)* is a powerful lich who travels between worlds and takes pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons to suffer horrible deaths. The most famous of such dungeons is the Tomb of Horrors, hidden in the Vast Swamp in the Greyhawk setting (see "[Greyhawk Gazetteer](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk)); another lies under the lost city of Omu in the jungles of Chult in the Forgotten Realms setting (described in the adventure [Tomb of Annihilation](/sources/dnd/toa)).
 
 Adamantine
 ----------
@@ -156,7 +156,7 @@ The adventurers known as the Heroes of the Lance, whose deeds helped prevent Tak
 Heroes of the Realm, The
 ------------------------
 
-The so-called “heroes of the Realm” are a group of young adventurers—Bobby, Diana, Eric, Hank, Presto, and Sheila—who traveled from Earth in the 1980s into a world in the D&D multiverse. Equipped with powerful magic items, they foiled the schemes of foes such as [Venger](#Venger) and [Tiamat](#Tiamat) while seeking some means to return home. Eventually, as the heroes’ mastery of adventuring skills increased, they discovered the secrets of traveling between worlds, though they still haven’t found a way home.
+The so-called "heroes of the Realm" are a group of young adventurers—Bobby, Diana, Eric, Hank, Presto, and Sheila—who traveled from Earth in the 1980s into a world in the D&D multiverse. Equipped with powerful magic items, they foiled the schemes of foes such as [Venger](#Venger) and [Tiamat](#Tiamat) while seeking some means to return home. Eventually, as the heroes’ mastery of adventuring skills increased, they discovered the secrets of traveling between worlds, though they still haven’t found a way home.
 
 The heroes of the Realm weren’t the only kids transported from Earth to the worlds of D&D. Other young adventurers, including Niko the Cleric, are still exploring the vast D&D multiverse.
 
@@ -171,12 +171,12 @@ Iggwilv
 
 Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see [Zagyg](#Zagyg)). Later, as an adventurer, she created several new spells, including [Tasha’s Hideous Laughter](/spells/2619132-tashas-hideous-laughter) and [Tasha’s Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron), leaning on the teachings of her adoptive mother, the arch-hag [Baba Yaga](#BabaYaga). As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [Demonomicon of Iggwilv](/magic-items/9228464-demonomicon-of-iggwilv) (see [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#DemonomiconofIggwilv)). She also bound and trapped the demon lord [Graz’zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat)).
 
-Iggwilv ruled Perrenland as a tyrant. When Graz’zt escaped his magical prison, Iggwilv went into hiding. Iggwilv’s current location is unknown, but she left behind a cambion son ([Iuz](#Iuz)), who has his mother’s tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see “[Greyhawk Gazetteer](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)” in [chapter 5](/sources/dnd/dmg-2024/greyhawk)), not far from her mother’s old haunts.
+Iggwilv ruled Perrenland as a tyrant. When Graz’zt escaped his magical prison, Iggwilv went into hiding. Iggwilv’s current location is unknown, but she left behind a cambion son ([Iuz](#Iuz)), who has his mother’s tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see "[Greyhawk Gazetteer](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk)), not far from her mother’s old haunts.
 
 Iuz
 ---
 
-Iuz *(EYE-ooze or eye-OOZE)* is a cambion and the son of [Iggwilv](#Iggwilv) and [Graz’zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat)). He is every bit as evil as his father and as bent on conquest as his mother at her very worst. He rules a significant portion of Eastern Oerik (in the Greyhawk setting), and some fear that he aspires to conquer even more territory. See “[Greyhawk’s Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)” in [chapter 5](/sources/dnd/dmg-2024/greyhawk).
+Iuz *(EYE-ooze or eye-OOZE)* is a cambion and the son of [Iggwilv](#Iggwilv) and [Graz’zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat)). He is every bit as evil as his father and as bent on conquest as his mother at her very worst. He rules a significant portion of Eastern Oerik (in the Greyhawk setting), and some fear that he aspires to conquer even more territory. See "[Greyhawk’s Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk).
 
 Jallarzi Sallavarian
 --------------------
@@ -191,7 +191,7 @@ Kas *(KOSS)* is a vampire, legendary swordfighter, and ruthless warlord. He once
 Keraptis
 --------
 
-According to legend, Keraptis *(kuh-RAP-tiss)* was an evil archmage who long ago seized power as a petty tyrant somewhere in the northern mountains of the Greyhawk setting. When his demands on the local populace became too extreme, a revolt drove him into hiding. He disappeared into the tunnels beneath White Plume Mountain (see “[Greyhawk’s Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)” in [chapter 5](/sources/dnd/dmg-2024/greyhawk)). It’s conceivable that he became a lich as the grim climax of his magical research.
+According to legend, Keraptis *(kuh-RAP-tiss)* was an evil archmage who long ago seized power as a petty tyrant somewhere in the northern mountains of the Greyhawk setting. When his demands on the local populace became too extreme, a revolt drove him into hiding. He disappeared into the tunnels beneath White Plume Mountain (see "[Greyhawk’s Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk)). It’s conceivable that he became a lich as the grim climax of his magical research.
 
 Kyuss
 -----
@@ -233,7 +233,7 @@ Mithral *(MITH-ral)* is a light, flexible metal that resembles silver but is muc
 Moradin
 -------
 
-Myths told on many worlds describe Moradin *(MORE-ah-din)* crafting all the peoples of the Material Plane in his great workshop in [Mount Celestia](/sources/dnd/dmg-2024/cosmology#MountCelestia) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#MountCelestia)), causing them to spring to life from inert metal when he cooled the heated castings with his breath. These myths are the source of Moradin’s appellation, “All-Father.” Many peoples across the multiverse, including many dwarves, worship Moradin.
+Myths told on many worlds describe Moradin *(MORE-ah-din)* crafting all the peoples of the Material Plane in his great workshop in [Mount Celestia](/sources/dnd/dmg-2024/cosmology#MountCelestia) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#MountCelestia)), causing them to spring to life from inert metal when he cooled the heated castings with his breath. These myths are the source of Moradin’s appellation, "All-Father." Many peoples across the multiverse, including many dwarves, worship Moradin.
 
 Mordenkainen
 ------------
@@ -297,7 +297,7 @@ Rudolph van Richten
 
 A scholar and monster hunter, Rudolph van Richten has traveled to dozens of [Domains of Dread](/sources/dnd/dmg-2024/cosmology#DomainsofDread) in the [Shadowfell](/sources/dnd/dmg-2024/cosmology#Shadowfell) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Shadowfell)), investigating reports of monstrous beings and documenting them in a series of published guides, the best known of which is *Van Richten’s Guide to Vampires*.
 
-In kinder days, Rudolph lived with his wife, Ingrid, and son, Erasmus, but he lost them both to a wicked vampire. In the process of hunting the vampire, Rudolph came under a terrible curse: “Live you always among monsters, and see everyone you love die beneath their claws.”
+In kinder days, Rudolph lived with his wife, Ingrid, and son, Erasmus, but he lost them both to a wicked vampire. In the process of hunting the vampire, Rudolph came under a terrible curse: "Live you always among monsters, and see everyone you love die beneath their claws."
 
 In the decades since, van Richten has hunted monsters and armed others with the knowledge they need to confront evil. Though he’s made many devoted allies, he keeps them at arm’s length, fearing the threat of his curse.
 
@@ -419,7 +419,7 @@ Yolande *(yoh-LAWND*), known as the Faerie Queen, is the benevolent and beloved 
 Zagyg
 -----
 
-The archmage Zagig Yragerne *(ZAG-igg EE-rag-airn)* was an adventurer in the Greyhawk setting and a member of the [Company of Seven](#CompanyofSevenThe). At the climax of a long and prosperous adventuring career, he built a fortress known as Castle Greyhawk outside the Free City of Greyhawk (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk)). From this stronghold, he took an increasingly powerful role in the politics of the city, contributing to its reputation as “the Gem of the Flanaess.” He obsessively delved deeper under his castle and withdrew from the outside world until he managed to entrap nine demigods in magical prisons and claim a fragment of their divine power. He ascended to a minor form of godhood, took the name Zagyg, and took a place in the court of Boccob, a god of magic.
+The archmage Zagig Yragerne *(ZAG-igg EE-rag-airn)* was an adventurer in the Greyhawk setting and a member of the [Company of Seven](#CompanyofSevenThe). At the climax of a long and prosperous adventuring career, he built a fortress known as Castle Greyhawk outside the Free City of Greyhawk (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk)). From this stronghold, he took an increasingly powerful role in the politics of the city, contributing to its reputation as "the Gem of the Flanaess." He obsessively delved deeper under his castle and withdrew from the outside world until he managed to entrap nine demigods in magical prisons and claim a fragment of their divine power. He ascended to a minor form of godhood, took the name Zagyg, and took a place in the court of Boccob, a god of magic.
 
 Zargon
 ------

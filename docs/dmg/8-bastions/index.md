@@ -11,32 +11,32 @@ Most importantly, a Bastion is a creative playground for a player and a shared s
 Gaining a Bastion
 -----------------
 
-If you allow Bastions in your campaign, characters acquire their Bastions when they reach level 5. You and the players can decide together how these Bastions come into being. A character might inherit or receive a parcel of land on which to build their Bastion (see “[Marks of Prestige](/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)), or they might take a preexisting structure and refurbish it. It’s fair to assume that work has been going on behind the scenes of the campaign during a character’s early adventuring career, so the Bastion is ready when the character reaches level 5.
+If you allow Bastions in your campaign, characters acquire their Bastions when they reach level 5. You and the players can decide together how these Bastions come into being. A character might inherit or receive a parcel of land on which to build their Bastion (see "[Marks of Prestige](/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)), or they might take a preexisting structure and refurbish it. It’s fair to assume that work has been going on behind the scenes of the campaign during a character’s early adventuring career, so the Bastion is ready when the character reaches level 5.
 
-The shape, style, and function of a character’s Bastion are up to the player to determine. For example, a Wizard might build a tower, a Cleric might establish a shrine, a Fighter might build a fortified keep or similar stronghold, and a Rogue might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them—a Paladin’s Bastion might be similar to a Cleric’s shrine but as fortified as a Fighter’s stronghold. And multiple characters can combine their Bastions to form a single large structure (see “[Bastion Map](#BastionMap)”).
+The shape, style, and function of a character’s Bastion are up to the player to determine. For example, a Wizard might build a tower, a Cleric might establish a shrine, a Fighter might build a fortified keep or similar stronghold, and a Rogue might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them—a Paladin’s Bastion might be similar to a Cleric’s shrine but as fortified as a Fighter’s stronghold. And multiple characters can combine their Bastions to form a single large structure (see "[Bastion Map](#BastionMap)").
 
-Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see “[Basic Facilities](#BasicFacilities)” and “[Special Facilities](#SpecialFacilities)”).
+Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see "[Basic Facilities](#BasicFacilities)" and "[Special Facilities](#SpecialFacilities)").
 
 Bastion Turns
 -------------
 
-As time passes in the campaign, players take Bastion turns to reflect the activity occurring in their Bastions, whether or not the characters are present. On a Bastion turn, a character can issue orders to the special facilities in their Bastion or issue the [Maintain](#Maintain) order to the entire Bastion (see “[Orders](#Orders)”).
+As time passes in the campaign, players take Bastion turns to reflect the activity occurring in their Bastions, whether or not the characters are present. On a Bastion turn, a character can issue orders to the special facilities in their Bastion or issue the [Maintain](#Maintain) order to the entire Bastion (see "[Orders](#Orders)").
 
 ### Frequency of Bastion Turns
 
 By default, a Bastion turn occurs every 7 days of in-game time. Here are common examples of players taking one or more Bastion turns:
 
-* The characters are on a long journey away from their Bastions. After the characters have been away for 7 days, you might say, “Time for a Bastion turn. Since you’re not there, we’ll assume you issue the [Maintain](#Maintain) order for your Bastions.” Then roll for events as described in the “[Bastion Events](#BastionEvents)” section in this chapter.
-* The characters spend 7 days or more in their Bastions between adventures. You might say, “You have six weeks to spend in your Bastions. Go ahead and resolve six Bastion turns.”
-* The characters return to their Bastions in the midst of an adventure. You might say, “You have just enough time to take a Bastion turn before you leave again in the morning.”
-* The characters are adventuring near their Bastions and resting in their Bastions at night. You might say, “It’s been a week since your last Bastion turn, so you can take one now.”
+* The characters are on a long journey away from their Bastions. After the characters have been away for 7 days, you might say, "Time for a Bastion turn. Since you’re not there, we’ll assume you issue the [Maintain](#Maintain) order for your Bastions." Then roll for events as described in the "[Bastion Events](#BastionEvents)" section in this chapter.
+* The characters spend 7 days or more in their Bastions between adventures. You might say, "You have six weeks to spend in your Bastions. Go ahead and resolve six Bastion turns."
+* The characters return to their Bastions in the midst of an adventure. You might say, "You have just enough time to take a Bastion turn before you leave again in the morning."
+* The characters are adventuring near their Bastions and resting in their Bastions at night. You might say, "It’s been a week since your last Bastion turn, so you can take one now."
 
 You can slow the frequency of Bastion turns to better serve the needs of your players and your campaign. For example, if the characters have months between adventures, you can call for a Bastion turn every month instead of every 7 days, so the characters aren’t issuing so many orders or reaping too many benefits at once.
 
 Bastion Map
 -----------
 
-Encourage players to create floor plans of their characters’ Bastions, configuring its facilities as they see fit and using the same techniques you use to create dungeon maps (see “[Dungeons](/sources/dnd/dmg-2024/dms-toolbox#Dungeons)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) and “[Adventure Maps](/sources/dnd/dmg-2024/creating-adventures#AdventureMaps)” in [chapter 4](/sources/dnd/dmg-2024/creating-adventures)).
+Encourage players to create floor plans of their characters’ Bastions, configuring its facilities as they see fit and using the same techniques you use to create dungeon maps (see "[Dungeons](/sources/dnd/dmg-2024/dms-toolbox#Dungeons)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) and "[Adventure Maps](/sources/dnd/dmg-2024/creating-adventures#AdventureMaps)" in [chapter 4](/sources/dnd/dmg-2024/creating-adventures)).
 
 In addition to [basic facilities](#BasicFacilities) and [special facilities](#specialfacilities) (described later in this chapter), a Bastion can have the following features:
 
@@ -44,9 +44,9 @@ In addition to [basic facilities](#BasicFacilities) and [special facilities](#sp
 
 - **Corridors, Ramps, and Staircases.** A facility can contain one or more corridors, ramps, or staircases leading to other facilities in the Bastion. These features are free.
 
-- **Defensive Walls.** A character can add defensive walls around their Bastion. A defensive wall is 20 feet high and may include a walkway along its top, with a means to access it (such as a ladder or lift). Each 5-foot square of defensive wall takes 10 days to build and costs 250 GP. If a character’s Bastion is completely enclosed by defensive walls and it comes under attack (see “[Bastion Events](#BastionEvents)” at the end of this chapter), reduce by 2 the number of dice rolled to determine how many Bastion Defenders are lost in the attack.
+- **Defensive Walls.** A character can add defensive walls around their Bastion. A defensive wall is 20 feet high and may include a walkway along its top, with a means to access it (such as a ladder or lift). Each 5-foot square of defensive wall takes 10 days to build and costs 250 GP. If a character’s Bastion is completely enclosed by defensive walls and it comes under attack (see "[Bastion Events](#BastionEvents)" at the end of this chapter), reduce by 2 the number of dice rolled to determine how many Bastion Defenders are lost in the attack.
 
-- **Doors and Windows.** Each facility comes with one or more doors and shuttered windows, placed wherever the player sees fit. See “[Doors](/sources/dnd/dmg-2024/dms-toolbox#Doors)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for kinds of doors to choose from, including locked doors, secret doors, and portcullises. These features are free.
+- **Doors and Windows.** Each facility comes with one or more doors and shuttered windows, placed wherever the player sees fit. See "[Doors](/sources/dnd/dmg-2024/dms-toolbox#Doors)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for kinds of doors to choose from, including locked doors, secret doors, and portcullises. These features are free.
 
 ### Combining Bastions
 
@@ -133,7 +133,7 @@ Each special facility has a level. A character must be that level or higher to g
 
 ### Space
 
-A special facility occupies a certain amount of space (see “[Facility Space](#FacilitySpace)”). A player can configure the squares of a special facility as desired on the Bastion’s map. A special facility can be enlarged to grant additional benefits if its description says so.
+A special facility occupies a certain amount of space (see "[Facility Space](#FacilitySpace)"). A player can configure the squares of a special facility as desired on the Bastion’s map. A special facility can be enlarged to grant additional benefits if its description says so.
 
 ### Hirelings
 
@@ -167,7 +167,7 @@ All the Bastion’s hirelings focus on maintaining the Bastion rather than execu
 
 #### Recruit
 
-Hirelings recruit creatures to the Bastion. These creatures might include one or more Bastion Defenders, whose main purpose is to defend the Bastion if it is attacked (see “[Bastion Events](#BastionEvents)” at the end of this chapter). The Bastion generates enough income to provide for the needs of its Bastion Defenders.
+Hirelings recruit creatures to the Bastion. These creatures might include one or more Bastion Defenders, whose main purpose is to defend the Bastion if it is attacked (see "[Bastion Events](#BastionEvents)" at the end of this chapter). The Bastion generates enough income to provide for the needs of its Bastion Defenders.
 
 #### Research
 
@@ -237,7 +237,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 
 An Arcane Study is a place of quiet research that contains one or more desks and bookshelves.
 
-***Arcane Study Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Identify](/spells/2619180-identify) without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it.
+***Arcane Study Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see "[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Identify](/spells/2619180-identify) without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it.
 
 ***Craft Options.*** When you issue the [Craft](#Craft) order to this facility, choose one of the following options:
 
@@ -245,7 +245,7 @@ An Arcane Study is a place of quiet research that contains one or more desks and
 
 **Craft: Book.** You commission the facility’s hireling to craft a blank book. The work takes 7 days and costs you 10 GP. The book remains in your Bastion until you claim it.
 
-**Craft: Magic Item (Arcana).** If you are level 9+, you can commission the facility’s hireling to craft a Common or an Uncommon magic item chosen by you from the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hireling can assist), and you must have all those spells prepared every day you spend crafting the item.
+**Craft: Magic Item (Arcana).** If you are level 9+, you can commission the facility’s hireling to craft a Common or an Uncommon magic item chosen by you from the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the "[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)" section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hireling can assist), and you must have all those spells prepared every day you spend crafting the item.
 
 ---
 
@@ -297,7 +297,7 @@ An Armory contains mannequins for displaying armor, hooks for holding Shields, r
 
 ***Trade: Stock Armory.*** When you issue the [Trade](#Trade) order to this facility, you commission the facility’s hireling to stock the Armory with armor, [Shields](/equipment/8-shield), weapons, and ammunition. This equipment costs you 100 GP plus an extra 100 GP for each Bastion Defender in your Bastion. If your Bastion has a [Smithy](#Smithy), the total cost is halved.
 
-While your Armory is stocked, your Bastion Defenders are harder to kill. When any event causes you to roll dice to determine if your Bastion loses one or more of its defenders (see “[Bastion Events](#BastionEvents)” at the end of this chapter), roll 1d8 in place of each d6 you would normally roll. When the event is over, the equipment in your Armory is expended regardless of how many Bastion Defenders you have or how many you lost, leaving your Armory depleted until you issue another Trade order to the facility and pay the cost to restock it.
+While your Armory is stocked, your Bastion Defenders are harder to kill. When any event causes you to roll dice to determine if your Bastion loses one or more of its defenders (see "[Bastion Events](#BastionEvents)" at the end of this chapter), roll 1d8 in place of each d6 you would normally roll. When the event is over, the equipment in your Armory is expended regardless of how many Bastion Defenders you have or how many you lost, leaving your Armory depleted until you issue another Trade order to the facility and pay the cost to restock it.
 
 ---
 
@@ -423,7 +423,7 @@ A Greenhouse is an enclosure where rare plants and fungi are nurtured in a contr
 
 **Harvest: Healing Herbs.** You commission the facility’s hireling to create a [Potion of Healing (greater)](/magic-items/5133-potion-of-healing-greater) made from healing herbs. The work takes 7 days and costs no money.
 
-**Harvest: Poison.** You commission the facility’s hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: [Assassin’s Blood](/equipment/553-assassins-blood), [Malice](/equipment/558-malice), [Pale Tincture](/equipment/561-pale-tincture), or [Truth Serum](/equipment/565-truth-serum). See “[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for each poison’s effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money.
+**Harvest: Poison.** You commission the facility’s hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: [Assassin’s Blood](/equipment/553-assassins-blood), [Malice](/equipment/558-malice), [Pale Tincture](/equipment/561-pale-tincture), or [Truth Serum](/equipment/565-truth-serum). See "[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for each poison’s effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money.
 
 ---
 
@@ -454,7 +454,7 @@ Your guild has roughly fifty members made up of skilled folk who live and work o
 | Adventurers’ Guild | Lit torch | You send adventurers to track down a Beast that has a Challenge Rating of 2 or lower and is known to lair within 50 miles of your Bastion. The adventurers slay or capture the creature (your choice) in 1d6 + 1 days. If the creature is slain and your Bastion has a Trophy Room, you can add a trophy taken from the creature to that facility. If the creature is captured and your Bastion has a Menagerie, you can add the creature to that facility, provided the facility has space to house it. |
 | Bakers’ Guild | Pastry | You assign bakers to create baked goods for a prestigious event that occurs within the next 7 days. You can receive payment in coin (500 GP) or in the form of a favor owed to you by the event’s host, the details of which are left to you and the DM. |
 | Brewers’ Guild | Foaming mug | You assign brewers to deliver fifty 40-gallon barrels of ale (worth 10 GP each) to your Bastion in 7 days. |
-| Masons’ Guild | Stone mask | You assign masons to add a defensive wall to your Bastion at no cost. Alternatively, you can have the masons perform this work for another character’s Bastion, provided their Bastion is within 1 mile of yours. Each 5-foot square of defensive wall takes 1 day to build instead of 10 (see “[Bastion Map](#BastionMap)”). |
+| Masons’ Guild | Stone mask | You assign masons to add a defensive wall to your Bastion at no cost. Alternatively, you can have the masons perform this work for another character’s Bastion, provided their Bastion is within 1 mile of yours. Each 5-foot square of defensive wall takes 1 day to build instead of 10 (see "[Bastion Map](#BastionMap)"). |
 | Shipbuilders’ Guild | Crossed oars | You assign shipbuilders to build one of the vehicles in the [Airborne and Waterborne Vehicles](/sources/dnd/phb-2024/equipment#AirborneandWaterborneVehicles) table of the [Player’s Handbook](/sources/dnd/phb-2024). You pay the full cost of the vehicle, and the work takes 1 day per 1,000 GP of the vehicle’s cost (a [Rowboat](/equipment/479-rowboat) can be made in 1 day). |
 | Thieves’ Guild | White key | You assign thieves to infiltrate a location within 50 miles of your Bastion and steal a nonmagical object from it. The object can be no bigger than 5 feet in any dimension and is delivered to your Bastion in 1d6 + 1 days. The DM may decide this activity leaves you at risk of retaliation from law enforcement or the victim. |
 
@@ -478,7 +478,7 @@ A Laboratory contains storage space for alchemical supplies and workspaces for c
 
 **Craft: Alchemist’s Supplies.** The facility’s hireling crafts anything that can be made with [Alchemist’s Supplies](/equipment/397-alchemists-supplies) using the rules in the [Player’s Handbook](/sources/dnd/phb-2024) and [chapter 7](/sources/dnd/dmg-2024/treasure) of this book.
 
-**Craft: Poison.** You commission the facility’s hireling to craft a vial containing one application of a poison. The poison must be one of the following: [Burnt Othur Fumes](/equipment/554-burnt-othur-fumes), [Essence of Ether](/equipment/556-essence-of-ether), or [Torpor](/equipment/564-torpor). This work takes 7 days, and you must pay half the poison’s cost. See “[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for descriptions and costs of poisons.
+**Craft: Poison.** You commission the facility’s hireling to craft a vial containing one application of a poison. The poison must be one of the following: [Burnt Othur Fumes](/equipment/554-burnt-othur-fumes), [Essence of Ether](/equipment/556-essence-of-ether), or [Torpor](/equipment/564-torpor). This work takes 7 days, and you must pay half the poison’s cost. See "[Poison](/sources/dnd/dmg-2024/dms-toolbox#Poison)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for descriptions and costs of poisons.
 
 ---
 
@@ -599,7 +599,7 @@ With the DM’s consent, you can add different creatures than those shown in the
 
 Situated atop your Bastion, your Observatory contains a telescope aimed at the night sky.
 
-***Observatory Charm.*** You can use your Observatory to peer into the far corners of [Wildspace](/sources/dnd/dmg-2024/cosmology#Wildspace) and the [Astral Plane](/sources/dnd/dmg-2024/cosmology#AstralPlane). After spending a Long Rest in your Observatory, you gain a magical Charm (see “[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Contact Other Plane](/spells/2619052-contact-other-plane) without expending a spell slot. You can’t gain this Charm again while you still have it.
+***Observatory Charm.*** You can use your Observatory to peer into the far corners of [Wildspace](/sources/dnd/dmg-2024/cosmology#Wildspace) and the [Astral Plane](/sources/dnd/dmg-2024/cosmology#AstralPlane). After spending a Long Rest in your Observatory, you gain a magical Charm (see "[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Contact Other Plane](/spells/2619052-contact-other-plane) without expending a spell slot. You can’t gain this Charm again while you still have it.
 
 ***Empower: Eldritch Discovery.*** When you issue the [Empower](#Empower) order to this facility, you enable yourself or the facility’s hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is on the same plane of existence as you: [Charm of Darkvision](/sources/dnd/dmg-2024/dms-toolbox#CharmofDarkvision), [Charm of Heroism](/sources/dnd/dmg-2024/dms-toolbox#CharmofHeroism), or [Charm of Vitality](/sources/dnd/dmg-2024/dms-toolbox#CharmofVitality) (all described in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)).
 
@@ -623,7 +623,7 @@ Folks come here to consume tasty beverages and socialize. Your Pub might be a ba
 
 ***Pub Special.*** The Pub has one magical beverage on tap, chosen from the options below:
 
-**Bigby’s Burden.** Drinking a pint of this beverage grants you the “enlarge” effect of an [Enlarge/Reduce](/spells/2619170-enlarge-reduce) spell that has a duration of 24 hours (no saving throw allowed).
+**Bigby’s Burden.** Drinking a pint of this beverage grants you the "enlarge" effect of an [Enlarge/Reduce](/spells/2619170-enlarge-reduce) spell that has a duration of 24 hours (no saving throw allowed).
 
 **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [Spider Climb](/spells/2619071-spider-climb) spell that has a duration of 24 hours.
 
@@ -653,7 +653,7 @@ At the start of a Bastion turn, you can switch to one of the other options. Your
 
 This vault holds sacred objects.
 
-***Reliquary Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Greater Restoration](/spells/2618961-greater-restoration) once without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it.
+***Reliquary Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see "[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Greater Restoration](/spells/2618961-greater-restoration) once without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it.
 
 ***Harvest: Talisman.*** When you issue the [Harvest](#Harvest) order to this facility, you commission its hireling to produce a specially prepared talisman for your use. The talisman usually takes the form of an amulet, a rune-carved box, or a statuette, but it can be any Tiny, nonmagical object that has religious significance. The work takes 7 days and costs no money. You can use this talisman in place of one spell’s Material components, provided the components have a cost of 1,000 GP or less. If the spell normally consumes its components, the talisman isn’t consumed. After the talisman has been used in this way, it can’t be used again until you return it to your Reliquary and use another Harvest order to prepare it.
 
@@ -677,7 +677,7 @@ A Sacristy serves as a preparation and storage room for the sacred items and rel
 
 **Craft: Holy Water.** You commission the facility’s hireling to craft a flask of [Holy Water](/equipment/507-holy-water). The work takes 7 days and costs no money. You can spend GP during the creation process to increase the potency of the Holy Water. For every 100 GP you spend, up to a maximum of 500 GP, the damage dealt by the Holy Water increases by 1d8.
 
-**Craft: Magic Item (Relic).** You commission the facility’s hireling to craft a Common or an Uncommon magic item chosen by you from the [Relics](/sources/dnd/dmg-2024/random-magic-items#RelicsTables) tables in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hireling can assist), and you must have all those spells prepared every day you spend crafting the item.
+**Craft: Magic Item (Relic).** You commission the facility’s hireling to craft a Common or an Uncommon magic item chosen by you from the [Relics](/sources/dnd/dmg-2024/random-magic-items#RelicsTables) tables in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the "[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)" section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hireling can assist), and you must have all those spells prepared every day you spend crafting the item.
 
 ***Spell Refreshment.*** Having a Sacristy allows you to regain one expended spell slot of level 5 or lower after spending an entire Short Rest in your Bastion. You can’t gain this benefit again until you finish a Long Rest.
 
@@ -697,7 +697,7 @@ A Sacristy serves as a preparation and storage room for the sacred items and rel
 
 Icons of your religion are displayed in this facility, which includes a quiet place for worship.
 
-***Sanctuary Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Healing Word](/spells/2619143-healing-word) once without expending a spell slot. You can’t gain this Charm again while you still have it.
+***Sanctuary Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see "[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Healing Word](/spells/2619143-healing-word) once without expending a spell slot. You can’t gain this Charm again while you still have it.
 
 ***Craft: Sacred Focus.*** When you issue the [Craft](#Craft) order to this facility, you commission the facility’s hireling to craft a [Druidic Focus](/equipment/532-druidic-focus) ([wooden staff](/equipment/530-wooden-staff)) or a [Holy Symbol](/equipment/514-holy-symbol). The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
@@ -718,7 +718,7 @@ Icons of your religion are displayed in this facility, which includes a quiet pl
 
 A Sanctum is a place of solace and healing.
 
-***Sanctum Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Heal](/spells/2618979-heal) once without expending a spell slot. You can’t gain this Charm again while you still have it.
+***Sanctum Charm.*** After spending a Long Rest in your Bastion, you gain a magical Charm (see "[Supernatural Gifts](/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Heal](/spells/2618979-heal) once without expending a spell slot. You can’t gain this Charm again while you still have it.
 
 ***Empower: Fortifying Rites.*** When you issue the [Empower](#Empower) order to this facility, you inspire its hirelings to perform daily rites that benefit you or another character you name. The beneficiary doesn’t need to be in the Bastion when the rites are performed to gain their benefit. Each time the beneficiary finishes a Long Rest, they gain [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to your level. This effect lasts for 7 days.
 
@@ -744,7 +744,7 @@ A Scriptorium contains desks and writing supplies.
 
 **Craft: Book Replica.** You commission the facility’s hireling to make a copy of a nonmagical Book. Doing so requires a blank book. The work takes 7 days.
 
-**Craft: Spell Scroll.** You commission the facility’s hireling to scribe a [Spell Scroll](/magic-items/9229085-spell-scroll) containing one Cleric or Wizard spell of level 3 or lower. The facility has the necessary [Calligrapher’s Supplies](/equipment/404-calligraphers-supplies), and the hireling meets all the prerequisites needed to scribe the scroll. The “[Crafting Equipment](/sources/phb/equipment#CraftingEquipment)” section in the [Player’s Handbook](/sources/dnd/phb-2024) specifies the time needed to scribe the scroll and the cost of the scroll, which you must pay.
+**Craft: Spell Scroll.** You commission the facility’s hireling to scribe a [Spell Scroll](/magic-items/9229085-spell-scroll) containing one Cleric or Wizard spell of level 3 or lower. The facility has the necessary [Calligrapher’s Supplies](/equipment/404-calligraphers-supplies), and the hireling meets all the prerequisites needed to scribe the scroll. The "[Crafting Equipment](/sources/phb/equipment#CraftingEquipment)" section in the [Player’s Handbook](/sources/dnd/phb-2024) specifies the time needed to scribe the scroll and the cost of the scroll, which you must pay.
 
 **Craft: Paperwork.** You commission the facility’s hireling to create up to fifty copies of a broadsheet, a pamphlet, or another loose-leaf paper product. The work takes 7 days and costs you 1 GP per copy. At no additional cost in time or money, the facility’s hireling can distribute the paperwork to one or more locations within 50 miles of your Bastion.
 
@@ -769,7 +769,7 @@ This Smithy contains a forge, an anvil, and other tools needed to craft weapons,
 
 **Craft: Smith’s Tools.** The facility’s hirelings craft anything that can be made with [Smith’s Tools](/equipment/438-smiths-tools), using the rules in the [Player’s Handbook](/sources/dnd/phb-2024).
 
-**Craft: Magic Item (Armament).** If you are level 9+, can you commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Armaments](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) tables in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
+**Craft: Magic Item (Armament).** If you are level 9+, can you commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Armaments](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) tables in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the "[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)" section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
 
 ---
 
@@ -835,7 +835,7 @@ Inscribed on the floor of this room is a permanent teleportation circle created 
 
 While you are in your Bastion, you can ask the spellcaster to cast one Wizard spell of level 4 or lower; if you are level 17+, the spell’s maximum level increases to 8. The spellcaster is assumed to have the spell prepared. If the spell has one or more Material components that cost money, you must pay for them before the spell can be cast.
 
-The spellcaster stays for 14 days or until they cast a spell for you. The spellcaster won’t defend your Bastion and departs immediately if the Bastion is attacked (see “[Bastion Events](#BastionEvents)” at the end of the chapter).
+The spellcaster stays for 14 days or until they cast a spell for you. The spellcaster won’t defend your Bastion and departs immediately if the Bastion is attacked (see "[Bastion Events](#BastionEvents)" at the end of the chapter).
 
 ---
 
@@ -933,7 +933,7 @@ This room houses a collection of mementos, such as weapons from old battles, the
 
 **Order:** Recruit
 
-The War Room is where you plan military actions in consultation with an inner circle of loyal lieutenants, each one a battle-hardened **Veteran Warrior** (see the *Monster Manual*) whose alignment matches yours. You start with two lieutenants but can add more, as described below. If your Bastion lacks facilities to house your lieutenants, they secure accommodations in the inn or settlement closest to your Bastion. Lieutenants are hirelings, not Bastion Defenders; however, if your Bastion is attacked (see “[Bastion Events](#Attack)” at the end of this chapter), each lieutenant housed in your Bastion reduces by 1 the number of dice you roll to determine how many Bastion Defenders are lost in the attack.
+The War Room is where you plan military actions in consultation with an inner circle of loyal lieutenants, each one a battle-hardened **Veteran Warrior** (see the *Monster Manual*) whose alignment matches yours. You start with two lieutenants but can add more, as described below. If your Bastion lacks facilities to house your lieutenants, they secure accommodations in the inn or settlement closest to your Bastion. Lieutenants are hirelings, not Bastion Defenders; however, if your Bastion is attacked (see "[Bastion Events](#Attack)" at the end of this chapter), each lieutenant housed in your Bastion reduces by 1 the number of dice you roll to determine how many Bastion Defenders are lost in the attack.
 
 The War Room contains war memorabilia plus a large table surrounded by enough chairs for you and your lieutenants.
 
@@ -987,7 +987,7 @@ This Workshop is a creative space where useful items can be crafted.
 
 **Craft: Adventuring Gear.** The facility’s hirelings craft anything that can be made with the tools you chose when you added the Workshop to your Bastion (see above), using the rules in the [Player’s Handbook](/sources/dnd/phb-2024).
 
-**Craft: Magic Item (Implement).** If you are level 9+, you can commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Implements](/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) tables in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
+**Craft: Magic Item (Implement).** If you are level 9+, you can commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Implements](/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) tables in [chapter 7](/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill. See the "[Crafting Magic Items](/sources/dnd/dmg-2024/treasure#CraftingMagicItems)" section in [chapter 7](/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
 
 ***Source of Inspiration.*** After spending an entire Short Rest in your Workshop, you gain [Heroic Inspiration](/sources/dnd/free-rules/rules-glossary#HeroicInspiration). You can’t gain this benefit again until you finish a Long Rest.
 
@@ -1039,7 +1039,7 @@ Nothing significant happens. Roll on the following table, fleshing out the detai
 
 > ### Bastion Tracker
 > 
-> Players can use the [Bastion Tracker](#BastionTrackerSheet) sheet as a record of the facilities and other characteristics of their Bastions. Encourage your players to list their hirelings on this sheet and develop them more fully as NPCs on separate sheets (perhaps using the [NPC Tracker](/sources/dnd/dmg-2024/dms-toolbox#NPCTracker) in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). Similarly, the Bastion Tracker provides space to indicate the space of each special facility, but encourage players to draw maps of their Bastions (see “[Bastion Map](#BastionMap)” earlier in this chapter).
+> Players can use the [Bastion Tracker](#BastionTrackerSheet) sheet as a record of the facilities and other characteristics of their Bastions. Encourage your players to list their hirelings on this sheet and develop them more fully as NPCs on separate sheets (perhaps using the [NPC Tracker](/sources/dnd/dmg-2024/dms-toolbox#NPCTracker) in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). Similarly, the Bastion Tracker provides space to indicate the space of each special facility, but encourage players to draw maps of their Bastions (see "[Bastion Map](#BastionMap)" earlier in this chapter).
 
 #### Attack
 
@@ -1072,7 +1072,7 @@ A Friendly guest comes to stay at your Bastion. Determine the guest by rolling o
 
 | 1d4 | Guest |
 | --- | --- |
-| 1 | The guest is an individual of great renown who stays for 7 days. At the end of their stay, the guest gives you a letter of recommendation (see “[Marks of Prestige](/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)” in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). |
+| 1 | The guest is an individual of great renown who stays for 7 days. At the end of their stay, the guest gives you a letter of recommendation (see "[Marks of Prestige](/sources/dnd/dmg-2024/dms-toolbox#MarksofPrestige)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). |
 | 2 | The guest requests sanctuary while avoiding persecution for their beliefs or crimes. They depart 7 days later, but not before offering you a gift of 1d6 × 100 GP. |
 | 3 | The guest is a mercenary, giving you one additional Bastion Defender. The guest doesn’t require a facility to house them, and they stay until you send them away or they’re killed. |
 | 4 | The guest is a [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude) monster, such as a brass dragon or a treant. If your Bastion is attacked while this monster is your guest, it defends your Bastion, and you lose no Bastion Defenders. The monster leaves after it defends your Bastion once or when you send it away. |

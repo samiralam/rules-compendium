@@ -104,7 +104,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 ### Level 2: Wild Shape
 
-The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition, or die. You can also leave the form early as a Bonus Action.
+The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition, or die. You can also leave the form early as a Bonus Action.
 
 ***Number of Uses.*** You can use Wild Shape twice. You regain one expended use when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 

@@ -7,7 +7,7 @@ Origin Components
 
 Each part of your character’s origin reflects facets of your character, their life, and the circumstances that started them on the path to adventure.
 
-If you choose a background or a species from an older book, see the sidebar “[Backgrounds and Species from Older Books](/sources/dnd/phb-2024/creating-a-character#BackgroundsandSpeciesfromOlderBooks)” in [chapter 2](/sources/dnd/phb-2024/creating-a-character/) for how to use them with the options here.
+If you choose a background or a species from an older book, see the sidebar "[Backgrounds and Species from Older Books](/sources/dnd/phb-2024/creating-a-character#BackgroundsandSpeciesfromOlderBooks)" in [chapter 2](/sources/dnd/phb-2024/creating-a-character/) for how to use them with the options here.
 
 ### Character Backgrounds
 
@@ -504,7 +504,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes’ secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
 
-Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeling of a roof over their head, even if that “roof” is nothing more than a hat.
+Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeling of a roof over their head, even if that "roof" is nothing more than a hat.
 
 ---
 
@@ -563,7 +563,7 @@ As a Goliath, you have these special traits.
 
 Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size—similar to that of a human child—helps them pass through crowds unnoticed and slip through tight spaces.
 
-Anyone who has spent time around halflings, particularly halfling adventurers, has likely witnessed the storied “luck of the halflings” in action. When a halfling is in mortal danger, an unseen force seems to intervene on the halfling’s behalf. Many halflings believe in the power of luck, and they attribute their unusual gift to one or more of their benevolent gods, including Yondalla, Brandobaris, and Charmalaine. The same gift might contribute to their robust life spans (about 150 years).
+Anyone who has spent time around halflings, particularly halfling adventurers, has likely witnessed the storied "luck of the halflings" in action. When a halfling is in mortal danger, an unseen force seems to intervene on the halfling’s behalf. Many halflings believe in the power of luck, and they attribute their unusual gift to one or more of their benevolent gods, including Yondalla, Brandobaris, and Charmalaine. The same gift might contribute to their robust life spans (about 150 years).
 
 Halfling communities come in all varieties. For every sequestered shire tucked away in an unspoiled part of the world, there’s a crime syndicate like the Boromar Clan in the Eberron setting or a territorial mob of halflings like those in the Dark Sun setting.
 
