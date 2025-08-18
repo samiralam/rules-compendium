@@ -92,10 +92,6 @@ theme:
   features:
     - search.share
     - search.suggest
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
-    - navigation.instant.preview
     - navigation.tabs
     - navigation.path
     - navigation.top
