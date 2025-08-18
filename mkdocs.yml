@@ -1,4 +1,128 @@
 site_name: Rules Compendium
 site_url: https://rules.womford.quest
+
+nav:
+  - Home: index.md
+  - "Player's Handbook":
+    - "Introduction": phb/introduction.md
+    - "Chapter 1: Playing the Game":
+      - phb/1-playing-the-game/index.md
+    - "Chapter 2: Creating a Character":
+      - phb/2-creating-a-character/index.md
+    - "Chapter 3: Character Classes":
+      - phb/3-character-classes/index.md
+      - "Barbarian": phb/3-character-classes/barbarian.md
+      - "Bard": phb/3-character-classes/bard.md
+      - "Cleric": phb/3-character-classes/cleric.md
+      - "Druid": phb/3-character-classes/druid.md
+      - "Fighter": phb/3-character-classes/fighter.md
+      - "Monk": phb/3-character-classes/monk.md
+      - "Paladin": phb/3-character-classes/paladin.md
+      - "Ranger": phb/3-character-classes/ranger.md
+      - "Rogue": phb/3-character-classes/rogue.md
+      - "Sorcerer": phb/3-character-classes/sorcerer.md
+      - "Warlock": phb/3-character-classes/warlock.md
+      - "Wizard": phb/3-character-classes/wizard.md
+    - "Chapter 4: Character Origins":
+      - phb/4-character-origins/index.md
+    - "Chapter 5: Feats":
+      - phb/5-feats/index.md
+    - "Chapter 6: Equipment":
+      - phb/6-equipment/index.md
+    - "Chapter 7: Spells":
+      - phb/7-spells/index.md
+      - "Spell Descriptions": phb/7-spells/spell-descriptions.md
+    - Appendices:
+      - "Appendix A: The Multiverse": phb/appendices/appendix-a-the-multiverse.md
+      - "Appendix B: Creature Stats": phb/appendices/appendix-b-creature-stats.md
+      - "Appendix C: Rules Glossary": phb/appendices/appendix-c-rules-glossary.md
+  - Dungeon Master's Guide:
+    - "Chapter 1: The Basics":
+      - dmg/1-the-basics/index.md
+    - "Chapter 2: Running the Game":
+      - dmg/2-running-the-game/index.md
+    - "Chapter 3: DM's Toolbox":
+      - dmg/3-dms-toolbox/index.md
+    - "Chapter 4: Creating Adventures":
+      - dmg/4-creating-adventures/index.md
+    - "Chapter 5: Creating Campaigns":
+      - dmg/5-creating-campaigns/index.md
+      - "Greyhawk": dmg/5-creating-campaigns/greyhawk.md
+    - "Chapter 6: Cosmology":
+      - dmg/6-cosmology/index.md
+    - "Chapter 7: Treasure":
+      - dmg/7-treasure/index.md
+      - "Magic Items A-Z": dmg/7-treasure/magic-items.md
+      - "Random Magic Items": dmg/7-treasure/random-magic-items.md
+    - "Chapter 8: Bastions":
+      - dmg/8-bastions/index.md
+    - "Appendices":
+      - "Appendix A: Lore Glossary": dmg/appendices/appendix-a-lore-glossary.md
+
+
 theme:
   name: material
+  icon:
+    logo: simple/dungeonsanddragons
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+    
+  features:
+    - search.share
+    - search.suggest
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - navigation.expand
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: "#"
+      permalink_title: "Permanent link"
+      toc_depth: 3
+      title: "Contents"

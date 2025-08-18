@@ -1,17 +1,43 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome
 
-## Commands
+Welcome to the Rules Compendium, a searchable index of D&D 5.5e rules built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). This site is organized by sourcebook.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Content
 
-## Project layout
+<div class="grid cards" markdown>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+-   :material-sword-cross:{ .lg .middle } __Player's Handbook__
+
+    ---
+
+    Rules for character creation and advancement, exploration, combat, equipment, spells, and more.
+
+    [:octicons-arrow-right-24: View](phb/introduction.md)
+
+-   :fontawesome-solid-dungeon:{ .lg .middle } __Dungeon Master's Guide__
+
+    ---
+
+    World-building advice, magic items, rules for strongholds, and other tools for DMs.
+
+    [:octicons-arrow-right-24: View](dmg/1-the-basics/index.md)
+
+-   :fontawesome-solid-spaghetti-monster-flying:{ .lg .middle } __Monster Manual__
+
+    ---
+
+    Stat blocks and lore for hundreds of D&D monsters.
+
+    > :material-clock-fast: Coming soon
+
+</div>
+
+## Keyboard shortcuts
+- Search: ++s++ or ++f++ or ++slash++
+- Next page: ++n++
+- Previous page: ++p++
