@@ -1,0 +1,4865 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://rules.womford.quest/phb/3-character-classes/warlock/">
+      
+      
+        <link rel="prev" href="../sorcerer/">
+      
+      
+        <link rel="next" href="../wizard/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.18">
+    
+    
+      
+        <title>Warlock - Rules Compendium</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#warlock-an-occultist-empowered-by-otherworldly-pacts" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Rules Compendium" class="md-header__button md-logo" aria-label="Rules Compendium" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.921 2.217C4.859 1.297 6.122.742 7.988.838c2.944.152 4.358 2.096 4.358 4.193 0 1.011-.536 2.363-1.276 3.323-.045-.044-.083-.087-.13-.131a21 21 0 0 0-.49-.436c-.484-.421-1.03-.905-1.397-1.426.807-1.413.346-3.414-1.359-3.414-.998 0-1.83.88-1.759 2.047-.26.552-.387 1.352-.337 2.062-.489-.295-.901-.618-1.095-1.067l-.626-1.445-.493 1.492a2.5 2.5 0 0 0-.088 1.135l-.01-.001a3.27 3.27 0 0 1-.555-1.57c-.18-1.908.764-2.964 1.19-3.383m-.45 6.824c.114-.434-.778-1.173-1.11-1.311 1.224-.047 1.833.175 1.833.175-.32-.454-.423-1.146-.242-1.695.667 1.539 3.052 1.786 3.642 3.062-.084-.55-.625-1.169-1.253-1.53-.337-.838-.085-2.383.327-2.808-.145 2.22 3.149 3.49 3.832 5.105-.4-1.383-1.936-2.258-2.664-3.086-.24-.55-.056-1.48.205-1.799-.077 1.488 1.592 2.648 2.483 3.48 1.051.979 1.349 1.845 1.207 2.553.23.058.547.273.493.638.336-.075.677-.445.76-.673.165 1.104-.51 2.273-1.266 2.621 0 0 .203-.527-.141-.93-.34-.398-1.305-.403-1.631-.38 0 0 .4-.57.242-.86-.2-.357-2.087-.2-2.93.094.287-.03.967.044 1.205.14-.132.189-.478.989-.23 1.229.23.22.53-.162.53-.162s-.294.875-.082 1.078c.21.203.662.059.662.059-.281.687-1.379 1.16-2.146 1.16.274-.084.725-.553.795-.836-.2.097-.726.153-.928.117.248-.097.746-.712.592-1.405-.229-1.009-1.69-1.137-2.425-.649.238-.678.95-1.312 1.507-1.52a7.5 7.5 0 0 0-1.117-.273c.468-.369 1.642-.67 2.241-.639-.914-.225-2.586.057-3.352.927.245 0 .875.114 1.118.19-1.048.182-2.478 1.122-2.898 1.566.11-.584.28-1.08.136-1.43-.202-.497-.826-.704-2.07-.457.84-.809 2.56-1.31 2.676-1.751zm5.724.783c.166.563.39 1.08 1.097 1.08 0 0-.248-.779-1.097-1.08m10.479 6.203c.533.088 1.282.635 1.282 1.417 0 1.275-1.652 1.667-2.566 1.469.97-.648.84-2.512-.326-3.178.395 1.045-.79 2.082-1.942 1.172-.641-.506-2.123-1.694-2.785-2.206-.66-.511-1.434-.214-1.74-.437-.348-.254-.125-.97-.6-1.236-.399-.222-.79-.098-1.253-.246-.42-.133-.733-.448-.68-.872-.178.303-.19.83.129 1.186.316.352.844.57 1.062.957.282.5-.193 1.196 1.062 2.143.6.452 1.53 1.195 2.137 1.707 1.021.862.476 1.94.61 2.879.155 1.096 1.072 1.704 1.682 1.858-.526-.46-.725-1.62.014-2.33.038.916.725 2.35 2.292 2.753 1.667.427 3.439-.482 3.807-1.122-.643.28-1.854-.022-2.353-.472 1.956.267 3.686-1.038 3.686-2.712 0-1.633-1.645-2.898-3.518-2.73m-8.5.793c-.667 1.1-2.088 2.531-3.529 2.531-2.651 0-3.98-3.61-1.007-6.564a1.4 1.4 0 0 0-.4-.06c-.255 0-.504.064-.668.174l-1.168.776.264-1.432a2 2 0 0 1 .093-.225c-.675.322-1.339.782-1.588 1.045L2.02 14.28l.122-1.703q.04-.2.08-.385c.06-.275.135-.618.089-.732a.2.2 0 0 0-.083-.091C1.68 11.775.177 13.055 0 14.936c0 0 .291-.395.544-.487.167-.062.313.017.153.487-.061.184-1.51 3.96 1.34 6.57 0 0-.312-.768-.124-1 .092-.114.212-.123.376.08.123.156.251.306.438.51s.447.447.729.657c.853.575 2.011 1.037 3.329 1.037 3.526 0 5.395-2.34 6.43-4.305a2 2 0 0 0-.155-.15 57 57 0 0 0-1.887-1.515zm1.91-2.884c.208.067.42.158.627.319.244.188.603.471.987.776.306-.65 1.009-2.003 2.097-3.204.98-1.08 2.69-1.184 3.588-.526.577-.502 2.569-.974 3.617-.687-.639-.668-1.996-1.564-3.496-1.564-1.237 0-1.936.583-2.113.32-.228-.336.837-.833.837-.833-1.46.058-2.523 1.711-2.966 1.505-.262-.12.395-.92.395-.92-1.336.746-2.455 2.328-2.688 3.291 1.229-1.448 3.614-2.486 5.166-2.267-2.629.122-4.891 2.276-6.05 3.79Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Rules Compendium
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Warlock
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../introduction/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Player's Handbook
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../dmg/1-the-basics/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Dungeon Master's Guide
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Rules Compendium" class="md-nav__button md-logo" aria-label="Rules Compendium" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.921 2.217C4.859 1.297 6.122.742 7.988.838c2.944.152 4.358 2.096 4.358 4.193 0 1.011-.536 2.363-1.276 3.323-.045-.044-.083-.087-.13-.131a21 21 0 0 0-.49-.436c-.484-.421-1.03-.905-1.397-1.426.807-1.413.346-3.414-1.359-3.414-.998 0-1.83.88-1.759 2.047-.26.552-.387 1.352-.337 2.062-.489-.295-.901-.618-1.095-1.067l-.626-1.445-.493 1.492a2.5 2.5 0 0 0-.088 1.135l-.01-.001a3.27 3.27 0 0 1-.555-1.57c-.18-1.908.764-2.964 1.19-3.383m-.45 6.824c.114-.434-.778-1.173-1.11-1.311 1.224-.047 1.833.175 1.833.175-.32-.454-.423-1.146-.242-1.695.667 1.539 3.052 1.786 3.642 3.062-.084-.55-.625-1.169-1.253-1.53-.337-.838-.085-2.383.327-2.808-.145 2.22 3.149 3.49 3.832 5.105-.4-1.383-1.936-2.258-2.664-3.086-.24-.55-.056-1.48.205-1.799-.077 1.488 1.592 2.648 2.483 3.48 1.051.979 1.349 1.845 1.207 2.553.23.058.547.273.493.638.336-.075.677-.445.76-.673.165 1.104-.51 2.273-1.266 2.621 0 0 .203-.527-.141-.93-.34-.398-1.305-.403-1.631-.38 0 0 .4-.57.242-.86-.2-.357-2.087-.2-2.93.094.287-.03.967.044 1.205.14-.132.189-.478.989-.23 1.229.23.22.53-.162.53-.162s-.294.875-.082 1.078c.21.203.662.059.662.059-.281.687-1.379 1.16-2.146 1.16.274-.084.725-.553.795-.836-.2.097-.726.153-.928.117.248-.097.746-.712.592-1.405-.229-1.009-1.69-1.137-2.425-.649.238-.678.95-1.312 1.507-1.52a7.5 7.5 0 0 0-1.117-.273c.468-.369 1.642-.67 2.241-.639-.914-.225-2.586.057-3.352.927.245 0 .875.114 1.118.19-1.048.182-2.478 1.122-2.898 1.566.11-.584.28-1.08.136-1.43-.202-.497-.826-.704-2.07-.457.84-.809 2.56-1.31 2.676-1.751zm5.724.783c.166.563.39 1.08 1.097 1.08 0 0-.248-.779-1.097-1.08m10.479 6.203c.533.088 1.282.635 1.282 1.417 0 1.275-1.652 1.667-2.566 1.469.97-.648.84-2.512-.326-3.178.395 1.045-.79 2.082-1.942 1.172-.641-.506-2.123-1.694-2.785-2.206-.66-.511-1.434-.214-1.74-.437-.348-.254-.125-.97-.6-1.236-.399-.222-.79-.098-1.253-.246-.42-.133-.733-.448-.68-.872-.178.303-.19.83.129 1.186.316.352.844.57 1.062.957.282.5-.193 1.196 1.062 2.143.6.452 1.53 1.195 2.137 1.707 1.021.862.476 1.94.61 2.879.155 1.096 1.072 1.704 1.682 1.858-.526-.46-.725-1.62.014-2.33.038.916.725 2.35 2.292 2.753 1.667.427 3.439-.482 3.807-1.122-.643.28-1.854-.022-2.353-.472 1.956.267 3.686-1.038 3.686-2.712 0-1.633-1.645-2.898-3.518-2.73m-8.5.793c-.667 1.1-2.088 2.531-3.529 2.531-2.651 0-3.98-3.61-1.007-6.564a1.4 1.4 0 0 0-.4-.06c-.255 0-.504.064-.668.174l-1.168.776.264-1.432a2 2 0 0 1 .093-.225c-.675.322-1.339.782-1.588 1.045L2.02 14.28l.122-1.703q.04-.2.08-.385c.06-.275.135-.618.089-.732a.2.2 0 0 0-.083-.091C1.68 11.775.177 13.055 0 14.936c0 0 .291-.395.544-.487.167-.062.313.017.153.487-.061.184-1.51 3.96 1.34 6.57 0 0-.312-.768-.124-1 .092-.114.212-.123.376.08.123.156.251.306.438.51s.447.447.729.657c.853.575 2.011 1.037 3.329 1.037 3.526 0 5.395-2.34 6.43-4.305a2 2 0 0 0-.155-.15 57 57 0 0 0-1.887-1.515zm1.91-2.884c.208.067.42.158.627.319.244.188.603.471.987.776.306-.65 1.009-2.003 2.097-3.204.98-1.08 2.69-1.184 3.588-.526.577-.502 2.569-.974 3.617-.687-.639-.668-1.996-1.564-3.496-1.564-1.237 0-1.936.583-2.113.32-.228-.336.837-.833.837-.833-1.46.058-2.523 1.711-2.966 1.505-.262-.12.395-.92.395-.92-1.336.746-2.455 2.328-2.688 3.291 1.229-1.448 3.614-2.486 5.166-2.267-2.629.122-4.891 2.276-6.05 3.79Z"/></svg>
+
+    </a>
+    Rules Compendium
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Player's Handbook
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Player's Handbook
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../1-playing-the-game/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1: Playing the Game
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 1: Playing the Game
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../2-creating-a-character/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2: Creating a Character
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 2: Creating a Character
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3: Character Classes
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 3: Character Classes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../barbarian/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Barbarian
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cleric/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cleric
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../druid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Druid
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fighter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fighter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Monk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../paladin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Paladin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ranger/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ranger
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rogue/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rogue
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sorcerer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sorcerer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Warlock
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Warlock
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#becoming-a-warlock">
+    <span class="md-ellipsis">
+      Becoming a Warlock...
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Becoming a Warlock...">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-level-1-character">
+    <span class="md-ellipsis">
+      As a Level 1 Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-multiclass-character">
+    <span class="md-ellipsis">
+      As a Multiclass Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#warlock-class-features">
+    <span class="md-ellipsis">
+      Warlock Class Features
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Warlock Class Features">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-eldritch-invocations">
+    <span class="md-ellipsis">
+      Level 1: Eldritch Invocations
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-pact-magic">
+    <span class="md-ellipsis">
+      Level 1: Pact Magic
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-magical-cunning">
+    <span class="md-ellipsis">
+      Level 2: Magical Cunning
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-warlock-subclass">
+    <span class="md-ellipsis">
+      Level 3: Warlock Subclass
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-ability-score-improvement">
+    <span class="md-ellipsis">
+      Level 4: Ability Score Improvement
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-contact-patron">
+    <span class="md-ellipsis">
+      Level 9: Contact Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-11-mystic-arcanum">
+    <span class="md-ellipsis">
+      Level 11: Mystic Arcanum
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-19-epic-boon">
+    <span class="md-ellipsis">
+      Level 19: Epic Boon
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-20-eldritch-master">
+    <span class="md-ellipsis">
+      Level 20: Eldritch Master
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-invocation-options">
+    <span class="md-ellipsis">
+      Eldritch Invocation Options
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Eldritch Invocation Options">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#agonizing-blast">
+    <span class="md-ellipsis">
+      Agonizing Blast
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#armor-of-shadows">
+    <span class="md-ellipsis">
+      Armor of Shadows
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#ascendant-step">
+    <span class="md-ellipsis">
+      Ascendant Step
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#devils-sight">
+    <span class="md-ellipsis">
+      Devil's Sight
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#devouring-blade">
+    <span class="md-ellipsis">
+      Devouring Blade
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-mind">
+    <span class="md-ellipsis">
+      Eldritch Mind
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-smite">
+    <span class="md-ellipsis">
+      Eldritch Smite
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-spear">
+    <span class="md-ellipsis">
+      Eldritch Spear
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#fiendish-vigor">
+    <span class="md-ellipsis">
+      Fiendish Vigor
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#gaze-of-two-minds">
+    <span class="md-ellipsis">
+      Gaze of Two Minds
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#gift-of-the-depths">
+    <span class="md-ellipsis">
+      Gift of the Depths
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#gift-of-the-protectors">
+    <span class="md-ellipsis">
+      Gift of the Protectors
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#investment-of-the-chain-master">
+    <span class="md-ellipsis">
+      Investment of the Chain Master
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#lessons-of-the-first-ones">
+    <span class="md-ellipsis">
+      Lessons of the First Ones
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#lifedrinker">
+    <span class="md-ellipsis">
+      Lifedrinker
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#mask-of-many-faces">
+    <span class="md-ellipsis">
+      Mask of Many Faces
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#master-of-myriad-forms">
+    <span class="md-ellipsis">
+      Master of Myriad Forms
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#misty-visions">
+    <span class="md-ellipsis">
+      Misty Visions
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#one-with-shadows">
+    <span class="md-ellipsis">
+      One with Shadows
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#otherworldly-leap">
+    <span class="md-ellipsis">
+      Otherworldly Leap
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#pact-of-the-blade">
+    <span class="md-ellipsis">
+      Pact of the Blade
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#pact-of-the-chain">
+    <span class="md-ellipsis">
+      Pact of the Chain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#pact-of-the-tome">
+    <span class="md-ellipsis">
+      Pact of the Tome
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#repelling-blast">
+    <span class="md-ellipsis">
+      Repelling Blast
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#thirsting-blade">
+    <span class="md-ellipsis">
+      Thirsting Blade
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#visions-of-distant-realms">
+    <span class="md-ellipsis">
+      Visions of Distant Realms
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#whispers-of-the-grave">
+    <span class="md-ellipsis">
+      Whispers of the Grave
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#witch-sight">
+    <span class="md-ellipsis">
+      Witch Sight
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#warlock-spell-list">
+    <span class="md-ellipsis">
+      Warlock Spell List
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Warlock Spell List">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cantrips-level-0-warlock-spells">
+    <span class="md-ellipsis">
+      Cantrips (Level 0 Warlock Spells)
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-warlock-spells">
+    <span class="md-ellipsis">
+      Level 1 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-warlock-spells">
+    <span class="md-ellipsis">
+      Level 2 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-warlock-spells">
+    <span class="md-ellipsis">
+      Level 3 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-warlock-spells">
+    <span class="md-ellipsis">
+      Level 4 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-warlock-spells">
+    <span class="md-ellipsis">
+      Level 5 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-6-warlock-spells">
+    <span class="md-ellipsis">
+      Level 6 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-warlock-spells">
+    <span class="md-ellipsis">
+      Level 7 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-8-warlock-spells">
+    <span class="md-ellipsis">
+      Level 8 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-warlock-spells">
+    <span class="md-ellipsis">
+      Level 9 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#warlock-subclasses">
+    <span class="md-ellipsis">
+      Warlock Subclasses
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Warlock Subclasses">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#archfey-patron">
+    <span class="md-ellipsis">
+      Archfey Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#celestial-patron">
+    <span class="md-ellipsis">
+      Celestial Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#fiend-patron">
+    <span class="md-ellipsis">
+      Fiend Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#great-old-one-patron">
+    <span class="md-ellipsis">
+      Great Old One Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wizard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Wizard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../4-character-origins/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 4: Character Origins
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 4: Character Origins
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../5-feats/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 5: Feats
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 5: Feats
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../6-equipment/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 6: Equipment
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 6: Equipment
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../7-spells/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 7: Spells
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_8" id="__nav_2_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 7: Spells
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7-spells/spell-descriptions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Spell Descriptions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_9" id="__nav_2_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Appendices
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_9">
+            <span class="md-nav__icon md-icon"></span>
+            Appendices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-a-the-multiverse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix A: The Multiverse
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-b-creature-stats/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix B: Creature Stats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-c-rules-glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix C: Rules Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Dungeon Master's Guide
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Dungeon Master's Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/1-the-basics/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1: The Basics
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 1: The Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/2-running-the-game/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2: Running the Game
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 2: Running the Game
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/3-dms-toolbox/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3: DM's Toolbox
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 3: DM's Toolbox
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/4-creating-adventures/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 4: Creating Adventures
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 4: Creating Adventures
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/5-creating-campaigns/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 5: Creating Campaigns
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 5: Creating Campaigns
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/5-creating-campaigns/greyhawk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Greyhawk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/6-cosmology/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 6: Cosmology
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 6: Cosmology
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/7-treasure/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 7: Treasure
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_7" id="__nav_3_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_7">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 7: Treasure
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/7-treasure/magic-items/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Magic Items A-Z
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/7-treasure/random-magic-items/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Random Magic Items
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/8-bastions/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 8: Bastions
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_8">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 8: Bastions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_9" id="__nav_3_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Appendices
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_9">
+            <span class="md-nav__icon md-icon"></span>
+            Appendices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/appendices/appendix-a-lore-glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix A: Lore Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#becoming-a-warlock">
+    <span class="md-ellipsis">
+      Becoming a Warlock...
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Becoming a Warlock...">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-level-1-character">
+    <span class="md-ellipsis">
+      As a Level 1 Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-multiclass-character">
+    <span class="md-ellipsis">
+      As a Multiclass Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#warlock-class-features">
+    <span class="md-ellipsis">
+      Warlock Class Features
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Warlock Class Features">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-eldritch-invocations">
+    <span class="md-ellipsis">
+      Level 1: Eldritch Invocations
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-pact-magic">
+    <span class="md-ellipsis">
+      Level 1: Pact Magic
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-magical-cunning">
+    <span class="md-ellipsis">
+      Level 2: Magical Cunning
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-warlock-subclass">
+    <span class="md-ellipsis">
+      Level 3: Warlock Subclass
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-ability-score-improvement">
+    <span class="md-ellipsis">
+      Level 4: Ability Score Improvement
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-contact-patron">
+    <span class="md-ellipsis">
+      Level 9: Contact Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-11-mystic-arcanum">
+    <span class="md-ellipsis">
+      Level 11: Mystic Arcanum
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-19-epic-boon">
+    <span class="md-ellipsis">
+      Level 19: Epic Boon
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-20-eldritch-master">
+    <span class="md-ellipsis">
+      Level 20: Eldritch Master
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-invocation-options">
+    <span class="md-ellipsis">
+      Eldritch Invocation Options
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Eldritch Invocation Options">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#agonizing-blast">
+    <span class="md-ellipsis">
+      Agonizing Blast
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#armor-of-shadows">
+    <span class="md-ellipsis">
+      Armor of Shadows
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#ascendant-step">
+    <span class="md-ellipsis">
+      Ascendant Step
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#devils-sight">
+    <span class="md-ellipsis">
+      Devil's Sight
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#devouring-blade">
+    <span class="md-ellipsis">
+      Devouring Blade
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-mind">
+    <span class="md-ellipsis">
+      Eldritch Mind
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-smite">
+    <span class="md-ellipsis">
+      Eldritch Smite
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#eldritch-spear">
+    <span class="md-ellipsis">
+      Eldritch Spear
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#fiendish-vigor">
+    <span class="md-ellipsis">
+      Fiendish Vigor
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#gaze-of-two-minds">
+    <span class="md-ellipsis">
+      Gaze of Two Minds
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#gift-of-the-depths">
+    <span class="md-ellipsis">
+      Gift of the Depths
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#gift-of-the-protectors">
+    <span class="md-ellipsis">
+      Gift of the Protectors
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#investment-of-the-chain-master">
+    <span class="md-ellipsis">
+      Investment of the Chain Master
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#lessons-of-the-first-ones">
+    <span class="md-ellipsis">
+      Lessons of the First Ones
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#lifedrinker">
+    <span class="md-ellipsis">
+      Lifedrinker
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#mask-of-many-faces">
+    <span class="md-ellipsis">
+      Mask of Many Faces
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#master-of-myriad-forms">
+    <span class="md-ellipsis">
+      Master of Myriad Forms
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#misty-visions">
+    <span class="md-ellipsis">
+      Misty Visions
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#one-with-shadows">
+    <span class="md-ellipsis">
+      One with Shadows
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#otherworldly-leap">
+    <span class="md-ellipsis">
+      Otherworldly Leap
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#pact-of-the-blade">
+    <span class="md-ellipsis">
+      Pact of the Blade
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#pact-of-the-chain">
+    <span class="md-ellipsis">
+      Pact of the Chain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#pact-of-the-tome">
+    <span class="md-ellipsis">
+      Pact of the Tome
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#repelling-blast">
+    <span class="md-ellipsis">
+      Repelling Blast
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#thirsting-blade">
+    <span class="md-ellipsis">
+      Thirsting Blade
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#visions-of-distant-realms">
+    <span class="md-ellipsis">
+      Visions of Distant Realms
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#whispers-of-the-grave">
+    <span class="md-ellipsis">
+      Whispers of the Grave
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#witch-sight">
+    <span class="md-ellipsis">
+      Witch Sight
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#warlock-spell-list">
+    <span class="md-ellipsis">
+      Warlock Spell List
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Warlock Spell List">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cantrips-level-0-warlock-spells">
+    <span class="md-ellipsis">
+      Cantrips (Level 0 Warlock Spells)
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-warlock-spells">
+    <span class="md-ellipsis">
+      Level 1 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-warlock-spells">
+    <span class="md-ellipsis">
+      Level 2 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-warlock-spells">
+    <span class="md-ellipsis">
+      Level 3 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-warlock-spells">
+    <span class="md-ellipsis">
+      Level 4 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-warlock-spells">
+    <span class="md-ellipsis">
+      Level 5 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-6-warlock-spells">
+    <span class="md-ellipsis">
+      Level 6 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-warlock-spells">
+    <span class="md-ellipsis">
+      Level 7 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-8-warlock-spells">
+    <span class="md-ellipsis">
+      Level 8 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-warlock-spells">
+    <span class="md-ellipsis">
+      Level 9 Warlock Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#warlock-subclasses">
+    <span class="md-ellipsis">
+      Warlock Subclasses
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Warlock Subclasses">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#archfey-patron">
+    <span class="md-ellipsis">
+      Archfey Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#celestial-patron">
+    <span class="md-ellipsis">
+      Celestial Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#fiend-patron">
+    <span class="md-ellipsis">
+      Fiend Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#great-old-one-patron">
+    <span class="md-ellipsis">
+      Great Old One Patron
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="warlock-an-occultist-empowered-by-otherworldly-pacts">Warlock: An Occultist Empowered by Otherworldly Pacts<a class="headerlink" href="#warlock-an-occultist-empowered-by-otherworldly-pacts" title="Permanent link">#</a></h1>
+<div class="admonition info">
+<p class="admonition-title">Core Warlock Traits</p>
+<table>
+<thead>
+<tr>
+<th>Primary Ability</th>
+<th>Charisma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Point Die</td>
+<td>D8 per Warlock level</td>
+</tr>
+<tr>
+<td>Saving Throw Proficiencies</td>
+<td>Wisdom and Charisma</td>
+</tr>
+<tr>
+<td>Skill Proficiencies</td>
+<td><em>Choose 2:</em> <a href="/sources/dnd/free-rules/playing-the-game#Skills">Arcana</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Deception</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">History</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Intimidation</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Investigation</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Nature</a>, or <a href="/sources/dnd/free-rules/playing-the-game#Skills">Religion</a></td>
+</tr>
+<tr>
+<td>Weapon Proficiencies</td>
+<td>Simple weapons</td>
+</tr>
+<tr>
+<td>Armor Training</td>
+<td>Light armor</td>
+</tr>
+<tr>
+<td>Starting Equipment</td>
+<td><em>Choose A or B:</em> (A) <a href="/equipment/10-leather">Leather Armor</a>, <a href="/equipment/13-sickle">Sickle</a>, 2 <a href="/equipment/3-dagger">Daggers</a>, <a href="/equipment/544-arcane-focus">Arcane Focus</a> (<a href="/equipment/526-orb">orb</a>), <a href="/equipment/439-book">Book</a> (occult lore), <a href="/equipment/418-scholars-pack">Scholar's Pack</a>, and 15 GP; or (B) 100 GP</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.</p>
+<p>Warlocks view their patrons as resources, as means to the end of achieving magical power. Some Warlocks respect, revere, or even love their patrons; some serve their patrons grudgingly; and some seek to undermine their patrons even as they wield the power their patrons have given them.</p>
+<p>Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.</p>
+<h2 id="becoming-a-warlock">Becoming a Warlock...<a class="headerlink" href="#becoming-a-warlock" title="Permanent link">#</a></h2>
+<h3 id="as-a-level-1-character">As a Level 1 Character<a class="headerlink" href="#as-a-level-1-character" title="Permanent link">#</a></h3>
+<ul>
+<li>Gain all the traits in the <a href="#CoreWarlockTraits">Core Warlock Traits table</a>.</li>
+<li>Gain the Warlock's level 1 features, which are listed in the <a href="#WarlockFeatures">Warlock Features table</a>.</li>
+</ul>
+<h3 id="as-a-multiclass-character">As a Multiclass Character<a class="headerlink" href="#as-a-multiclass-character" title="Permanent link">#</a></h3>
+<ul>
+<li>Gain the following traits from the <a href="#CoreWarlockTraits">Core Warlock Traits table</a>: Hit Point Die and training with Light armor.</li>
+<li>Gain the Warlock's level 1 features, which are listed in the <a href="#WarlockFeatures">Warlock Features table</a>. See the multiclassing rules in <a href="/sources/dnd/phb-2024/creating-a-character#Multiclassing">chapter 2</a> to determine your available spell slots.</li>
+</ul>
+<h2 id="warlock-class-features">Warlock Class Features<a class="headerlink" href="#warlock-class-features" title="Permanent link">#</a></h2>
+<p>As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.</p>
+<h4 id="warlock-features">Warlock Features<a class="headerlink" href="#warlock-features" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Class Features</th>
+<th>Eldritch Invocations</th>
+<th>Cantrips</th>
+<th>Prepared Spells</th>
+<th>Spell Slots</th>
+<th>Slot Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+2</td>
+<td><a href="#Level1EldritchInvocations">Eldritch Invocations</a>, <a href="#Level1PactMagic">Pact Magic</a></td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+2</td>
+<td><a href="#Level2MagicalCunning">Magical Cunning</a></td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+2</td>
+<td><a href="#Level3WarlockSubclass">Warlock Subclass</a></td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+2</td>
+<td><a href="#Level4WarlockAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>3</td>
+<td>3</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+3</td>
+<td>—</td>
+<td>5</td>
+<td>3</td>
+<td>6</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+3</td>
+<td>Subclass feature</td>
+<td>5</td>
+<td>3</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+3</td>
+<td>—</td>
+<td>6</td>
+<td>3</td>
+<td>8</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+3</td>
+<td><a href="#Level4WarlockAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>6</td>
+<td>3</td>
+<td>9</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>9</td>
+<td>+4</td>
+<td><a href="#Level9ContactPatron">Contact Patron</a></td>
+<td>7</td>
+<td>3</td>
+<td>10</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+4</td>
+<td>Subclass feature</td>
+<td>7</td>
+<td>4</td>
+<td>10</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>11</td>
+<td>+4</td>
+<td><a href="#Level11MysticArcanum">Mystic Arcanum</a> (level 6 spell)</td>
+<td>7</td>
+<td>4</td>
+<td>11</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>12</td>
+<td>+4</td>
+<td><a href="#Level4WarlockAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>8</td>
+<td>4</td>
+<td>11</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>13</td>
+<td>+5</td>
+<td><a href="#Level11MysticArcanum">Mystic Arcanum</a> (level 7 spell)</td>
+<td>8</td>
+<td>4</td>
+<td>12</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>14</td>
+<td>+5</td>
+<td>Subclass feature</td>
+<td>8</td>
+<td>4</td>
+<td>12</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>15</td>
+<td>+5</td>
+<td><a href="#Level11MysticArcanum">Mystic Arcanum</a> (level 8 spell)</td>
+<td>9</td>
+<td>4</td>
+<td>13</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>16</td>
+<td>+5</td>
+<td><a href="#Level4WarlockAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>9</td>
+<td>4</td>
+<td>13</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>+6</td>
+<td><a href="#Level11MysticArcanum">Mystic Arcanum</a> (level 9 spell)</td>
+<td>9</td>
+<td>4</td>
+<td>14</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>+6</td>
+<td>—</td>
+<td>10</td>
+<td>4</td>
+<td>14</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>19</td>
+<td>+6</td>
+<td><a href="#Level19WarlockEpicBoon">Epic Boon</a></td>
+<td>10</td>
+<td>4</td>
+<td>15</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>20</td>
+<td>+6</td>
+<td><a href="#Level20EldritchMaster">Eldritch Master</a></td>
+<td>10</td>
+<td>4</td>
+<td>15</td>
+<td>4</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-1-eldritch-invocations">Level 1: Eldritch Invocations<a class="headerlink" href="#level-1-eldritch-invocations" title="Permanent link">#</a></h3>
+<p>You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as <a href="#PactoftheTome">Pact of the Tome</a>. Invocations are described in the "<a href="#EldritchInvocationOptions">Eldritch Invocation Options</a>" section later in this class's description.</p>
+<p><strong><em>Prerequisites.</em></strong> If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.</p>
+<p><strong><em>Replacing and Gaining Invocations.</em></strong> Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.</p>
+<p>When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the <a href="#WarlockFeatures">Warlock Features table</a>.</p>
+<p>You can't pick the same invocation more than once unless its description says otherwise.</p>
+<h3 id="level-1-pact-magic">Level 1: Pact Magic<a class="headerlink" href="#level-1-pact-magic" title="Permanent link">#</a></h3>
+<p>Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See <a href="/sources/dnd/phb-2024/spells/">chapter 7</a> for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the <a href="#WarlockSpellList">Warlock spell list</a> later in the class's description.</p>
+<p><strong><em>Cantrips.</em></strong> You know two Warlock cantrips of your choice. <a href="/spells/2619161-eldritch-blast">Eldritch Blast</a> and <a href="/spells/2618893-prestidigitation">Prestidigitation</a> are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.</p>
+<p>When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the <a href="#WarlockFeatures">Warlock Features table</a>.</p>
+<p><strong><em>Spell Slots.</em></strong> The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short</a> or <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p>For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell <a href="/spells/2619215-witch-bolt">Witch Bolt</a>, you must spend one of those slots, and you cast it as a level 3 spell.</p>
+<p><strong><em>Prepared Spells of Level 1+.</em></strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. <a href="/spells/2618964-charm-person">Charm Person</a> and <a href="/spells/2618988-hex">Hex</a> are recommended.</p>
+<p>The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the <a href="#WarlockFeatures">Warlock Features table</a>. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.</p>
+<p>If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.</p>
+<p><strong><em>Changing Your Prepared Spells.</em></strong> Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.</p>
+<p><strong><em>Spellcasting Ability.</em></strong> Charisma is the spellcasting ability for your Warlock spells.</p>
+<p><strong><em>Spellcasting Focus.</em></strong> You can use an <a href="/equipment/544-arcane-focus">Arcane Focus</a> as a Spellcasting Focus for your Warlock spells.</p>
+<h3 id="level-2-magical-cunning">Level 2: Magical Cunning<a class="headerlink" href="#level-2-magical-cunning" title="Permanent link">#</a></h3>
+<p>You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="level-3-warlock-subclass">Level 3: Warlock Subclass<a class="headerlink" href="#level-3-warlock-subclass" title="Permanent link">#</a></h3>
+<p>You gain a Warlock subclass of your choice. The <a href="#ArchfeyPatron">Archfey Patron</a>, <a href="#CelestialPatron">Celestial Patron</a>, <a href="#FiendPatron">Fiend Patron</a>, and <a href="#GreatOldOnePatron">Great Old One Patron</a> subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.</p>
+<h3 id="level-4-ability-score-improvement">Level 4: Ability Score Improvement<a class="headerlink" href="#level-4-ability-score-improvement" title="Permanent link">#</a></h3>
+<p>You gain the Ability Score Improvement feat (see <a href="/sources/dnd/phb-2024/feats#AbilityScoreImprovement">chapter 5</a>) or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.</p>
+<h3 id="level-9-contact-patron">Level 9: Contact Patron<a class="headerlink" href="#level-9-contact-patron" title="Permanent link">#</a></h3>
+<p>In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the <a href="/spells/2619052-contact-other-plane">Contact Other Plane</a> spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.</p>
+<p>Once you cast the spell with this feature, you can't do so in this way again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="level-11-mystic-arcanum">Level 11: Mystic Arcanum<a class="headerlink" href="#level-11-mystic-arcanum" title="Permanent link">#</a></h3>
+<p>Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.</p>
+<p>You can cast your arcanum spell once without expending a spell slot, and you must finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> before you can cast it in this way again.</p>
+<p>As shown in the <a href="#WarlockFeatures">Warlock Features table</a>, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p>Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.</p>
+<h3 id="level-19-epic-boon">Level 19: Epic Boon<a class="headerlink" href="#level-19-epic-boon" title="Permanent link">#</a></h3>
+<p>You gain an Epic Boon feat (see <a href="/sources/dnd/phb-2024/feats#EpicBoonFeats">chapter 5</a>) or another feat of your choice for which you qualify. <a href="/sources/dnd/phb-2024/feats#BoonofFate">Boon of Fate</a> is recommended.</p>
+<h3 id="level-20-eldritch-master">Level 20: Eldritch Master<a class="headerlink" href="#level-20-eldritch-master" title="Permanent link">#</a></h3>
+<p>When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots.</p>
+<h2 id="eldritch-invocation-options">Eldritch Invocation Options<a class="headerlink" href="#eldritch-invocation-options" title="Permanent link">#</a></h2>
+<p>Eldritch Invocation options appear in alphabetical order.</p>
+<h3 id="agonizing-blast">Agonizing Blast<a class="headerlink" href="#agonizing-blast" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage</em></p>
+<p>Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.</p>
+<p><strong><em>Repeatable.</em></strong> You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p>
+<h3 id="armor-of-shadows">Armor of Shadows<a class="headerlink" href="#armor-of-shadows" title="Permanent link">#</a></h3>
+<p>You can cast <a href="/spells/2619006-mage-armor">Mage Armor</a> on yourself without expending a spell slot.</p>
+<h3 id="ascendant-step">Ascendant Step<a class="headerlink" href="#ascendant-step" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock</em></p>
+<p>You can cast <a href="/spells/2618994-levitate">Levitate</a> on yourself without expending a spell slot.</p>
+<h3 id="devils-sight">Devil's Sight<a class="headerlink" href="#devils-sight" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock</em></p>
+<p>You can see normally in <a href="/sources/dnd/free-rules/rules-glossary#DimLight">Dim Light</a> and <a href="/sources/dnd/free-rules/rules-glossary#Darkness">Darkness</a>—both magical and nonmagical—within 120 feet of yourself.</p>
+<h3 id="devouring-blade">Devouring Blade<a class="headerlink" href="#devouring-blade" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 12+ Warlock, <a href="#ThirstingBlade">Thirsting Blade</a> Invocation</em></p>
+<p>The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.</p>
+<h3 id="eldritch-mind">Eldritch Mind<a class="headerlink" href="#eldritch-mind" title="Permanent link">#</a></h3>
+<p>You have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on Constitution saving throws that you make to maintain <a href="/sources/dnd/free-rules/rules-glossary#Concentration">Concentration</a>.</p>
+<h3 id="eldritch-smite">Eldritch Smite<a class="headerlink" href="#eldritch-smite" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock, <a href="#PactoftheBlade">Pact of the Blade</a> Invocation</em></p>
+<p>Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the <a href="/sources/dnd/free-rules/rules-glossary#ProneCondition">Prone</a> condition if it is Huge or smaller.</p>
+<h3 id="eldritch-spear">Eldritch Spear<a class="headerlink" href="#eldritch-spear" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage</em></p>
+<p>Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.</p>
+<p><strong><em>Repeatable.</em></strong> You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p>
+<h3 id="fiendish-vigor">Fiendish Vigor<a class="headerlink" href="#fiendish-vigor" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock</em></p>
+<p>You can cast <a href="/spells/2618866-false-life">False Life</a> on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the <a href="/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints">Temporary Hit Points</a>; you automatically get the highest number on the die.</p>
+<h3 id="gaze-of-two-minds">Gaze of Two Minds<a class="headerlink" href="#gaze-of-two-minds" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock</em></p>
+<p>You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.</p>
+<p>While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.</p>
+<h3 id="gift-of-the-depths">Gift of the Depths<a class="headerlink" href="#gift-of-the-depths" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock</em></p>
+<p>You can breathe underwater, and you gain a Swim Speed equal to your Speed.</p>
+<p>You can also cast <a href="/spells/2619205-water-breathing">Water Breathing</a> once without expending a spell slot. You regain the ability to cast it in this way again when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="gift-of-the-protectors">Gift of the Protectors<a class="headerlink" href="#gift-of-the-protectors" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 9+ Warlock, <a href="#PactoftheTome">Pact of the Tome</a> Invocation</em></p>
+<p>A new page appears in your <em>Book of Shadows</em> when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).</p>
+<p>When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p>As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you can erase a name on the page by touching it.</p>
+<h3 id="investment-of-the-chain-master">Investment of the Chain Master<a class="headerlink" href="#investment-of-the-chain-master" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock, <a href="#PactoftheChain">Pact of the Chain</a> Invocation</em></p>
+<p>When you cast <a href="/spells/2618877-find-familiar">Find Familiar</a>, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.</p>
+<p><strong><em>Aerial or Aquatic.</em></strong> The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.</p>
+<p><strong><em>Quick Attack.</em></strong> As a Bonus Action, you can command the familiar to take the <a href="/sources/dnd/free-rules/rules-glossary#AttackAction">Attack</a> action.</p>
+<p><strong><em>Necrotic or Radiant Damage.</em></strong> Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.</p>
+<p><strong><em>Your Save DC.</em></strong> If the familiar forces a creature to make a saving throw, it uses your spell save DC.</p>
+<p><strong><em>Resistance.</em></strong> When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.</p>
+<h3 id="lessons-of-the-first-ones">Lessons of the First Ones<a class="headerlink" href="#lessons-of-the-first-ones" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock</em></p>
+<p>You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice (see <a href="/sources/dnd/phb-2024/feats#OriginFeats">chapter 5</a>).</p>
+<p><strong><em>Repeatable.</em></strong> You can gain this invocation more than once. Each time you do so, choose a different Origin feat.</p>
+<h3 id="lifedrinker">Lifedrinker<a class="headerlink" href="#lifedrinker" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 9+ Warlock, <a href="#PactoftheBlade">Pact of the Blade</a> Invocation</em></p>
+<p>Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).</p>
+<h3 id="mask-of-many-faces">Mask of Many Faces<a class="headerlink" href="#mask-of-many-faces" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock</em></p>
+<p>You can cast <a href="/spells/2619102-disguise-self">Disguise Self</a> without expending a spell slot.</p>
+<h3 id="master-of-myriad-forms">Master of Myriad Forms<a class="headerlink" href="#master-of-myriad-forms" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock</em></p>
+<p>You can cast <a href="/spells/2618846-alter-self">Alter Self</a> without expending a spell slot.</p>
+<h3 id="misty-visions">Misty Visions<a class="headerlink" href="#misty-visions" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock</em></p>
+<p>You can cast <a href="/spells/2619062-silent-image">Silent Image</a> without expending a spell slot.</p>
+<h3 id="one-with-shadows">One with Shadows<a class="headerlink" href="#one-with-shadows" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock</em></p>
+<p>While you're in an area of <a href="/sources/dnd/free-rules/rules-glossary#DimLight">Dim Light</a> or <a href="/sources/dnd/free-rules/rules-glossary#Darkness">Darkness</a>, you can cast <a href="/spells/2619116-invisibility">Invisibility</a> on yourself without expending a spell slot.</p>
+<h3 id="otherworldly-leap">Otherworldly Leap<a class="headerlink" href="#otherworldly-leap" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock</em></p>
+<p>You can cast <a href="/spells/2618991-jump">Jump</a> on yourself without expending a spell slot.</p>
+<h3 id="pact-of-the-blade">Pact of the Blade<a class="headerlink" href="#pact-of-the-blade" title="Permanent link">#</a></h3>
+<p>As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.</p>
+<p>Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.</p>
+<p>Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.</p>
+<h3 id="pact-of-the-chain">Pact of the Chain<a class="headerlink" href="#pact-of-the-chain" title="Permanent link">#</a></h3>
+<p>You learn the <a href="/spells/2618877-find-familiar">Find Familiar</a> spell and can cast it as a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action without expending a spell slot.</p>
+<p>When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: <a href="/monsters/4775825-imp">Imp</a>, <a href="/monsters/4775834-pseudodragon">Pseudodragon</a>, <a href="/monsters/4775835-quasit">Quasit</a>, <a href="/monsters/4775841-skeleton">Skeleton</a>, <a href="/monsters/4775842-slaad-tadpole">Slaad Tadpole</a>, <a href="/monsters/4775843-sphinx-of-wonder">Sphinx of Wonder</a>, <a href="/monsters/4775845-sprite">Sprite</a>, or <a href="/monsters/4775847-venomous-snake">Venomous Snake</a> (see <a href="/sources/dnd/phb-2024/creature-stat-blocks/">appendix B</a> for the familiar's stat block).</p>
+<p>Additionally, when you take the <a href="/sources/dnd/free-rules/rules-glossary#AttackAction">Attack</a> action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.</p>
+<h3 id="pact-of-the-tome">Pact of the Tome<a class="headerlink" href="#pact-of-the-tome" title="Permanent link">#</a></h3>
+<p>Stitching together strands of shadow, you conjure forth a book in your hand at the end of a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short</a> or <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>. This <em>Book of Shadows</em> (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.</p>
+<p><strong><em>Cantrips and Rituals.</em></strong> When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.</p>
+<p><strong><em>Spellcasting Focus.</em></strong> You can use the book as a Spellcasting Focus.</p>
+<h3 id="repelling-blast">Repelling Blast<a class="headerlink" href="#repelling-blast" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll</em></p>
+<p>Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.</p>
+<p><strong><em>Repeatable.</em></strong> You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p>
+<h3 id="thirsting-blade">Thirsting Blade<a class="headerlink" href="#thirsting-blade" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 5+ Warlock, <a href="#PactoftheBlade">Pact of the Blade</a> Invocation</em></p>
+<p>You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the <a href="/sources/dnd/free-rules/rules-glossary#AttackAction">Attack</a> action on your turn.</p>
+<h3 id="visions-of-distant-realms">Visions of Distant Realms<a class="headerlink" href="#visions-of-distant-realms" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 9+ Warlock</em></p>
+<p>You can cast <a href="/spells/2618863-arcane-eye">Arcane Eye</a> without expending a spell slot.</p>
+<h3 id="whispers-of-the-grave">Whispers of the Grave<a class="headerlink" href="#whispers-of-the-grave" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 7+ Warlock</em></p>
+<p>You can cast <a href="/spells/2619068-speak-with-dead">Speak with Dead</a> without expending a spell slot.</p>
+<h3 id="witch-sight">Witch Sight<a class="headerlink" href="#witch-sight" title="Permanent link">#</a></h3>
+<p><em>Prerequisite: Level 15+ Warlock</em></p>
+<p>You have <a href="/sources/dnd/free-rules/rules-glossary#Truesight">Truesight</a> with a range of 30 feet.</p>
+<h2 id="warlock-spell-list">Warlock Spell List<a class="headerlink" href="#warlock-spell-list" title="Permanent link">#</a></h2>
+<p>This section presents the Warlock spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, <em>C</em> means the spell requires Concentration, <em>R</em> means it's a Ritual, and <em>M</em> means it requires a specific Material component.</p>
+<h3 id="cantrips-level-0-warlock-spells">Cantrips (Level 0 Warlock Spells)<a class="headerlink" href="#cantrips-level-0-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618931-blade-ward">Blade Ward</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618965-chill-touch">Chill Touch</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619161-eldritch-blast">Eldritch Blast</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618924-friends">Friends</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619008-mage-hand">Mage Hand</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619037-mind-sliver">Mind Sliver</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619039-minor-illusion">Minor Illusion</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618875-poison-spray">Poison Spray</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618893-prestidigitation">Prestidigitation</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619179-thunderclap">Thunderclap</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619188-toll-the-dead">Toll the Dead</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619204-true-strike">True Strike</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-1-warlock-spells">Level 1 Warlock Spells<a class="headerlink" href="#level-1-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618870-armor-of-agathys">Armor of Agathys</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618871-arms-of-hadar">Arms of Hadar</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618900-bane">Bane</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618964-charm-person">Charm Person</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618993-comprehend-languages">Comprehend Languages</a></td>
+<td>Divination</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619097-detect-magic">Detect Magic</a></td>
+<td>Divination</td>
+<td>C, R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619189-expeditious-retreat">Expeditious Retreat</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619149-hellish-rebuke">Hellish Rebuke</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618988-hex">Hex</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619173-illusory-script">Illusory Script</a></td>
+<td>Illusion</td>
+<td>R, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618912-protection-from-evil-and-good">Protection from Evil and Good</a></td>
+<td>Abjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619059-speak-with-animals">Speak with Animals</a></td>
+<td>Divination</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619132-tashas-hideous-laughter">Tasha's Hideous Laughter</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619209-unseen-servant">Unseen Servant</a></td>
+<td>Conjuration</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619215-witch-bolt">Witch Bolt</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-2-warlock-spells">Level 2 Warlock Spells<a class="headerlink" href="#level-2-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618974-cloud-of-daggers">Cloud of Daggers</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619056-crown-of-madness">Crown of Madness</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619080-darkness">Darkness</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619192-enthrall">Enthrall</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619153-hold-person">Hold Person</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619116-invisibility">Invisibility</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619038-mind-spike">Mind Spike</a></td>
+<td>Divination</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619060-mirror-image">Mirror Image</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619133-misty-step">Misty Step</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618926-ray-of-enfeeblement">Ray of Enfeeblement</a></td>
+<td>Necromancy</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619071-spider-climb">Spider Climb</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619101-suggestion">Suggestion</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-3-warlock-spells">Level 3 Warlock Spells<a class="headerlink" href="#level-3-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2619072-counterspell">Counterspell</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619103-dispel-magic">Dispel Magic</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618872-fear">Fear</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618909-fly">Fly</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618927-gaseous-form">Gaseous Form</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619162-hunger-of-hadar">Hunger of Hadar</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619168-hypnotic-pattern">Hypnotic Pattern</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619018-magic-circle">Magic Circle</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619025-major-image">Major Image</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618943-remove-curse">Remove Curse</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619115-summon-fey">Summon Fey</a></td>
+<td>Conjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619119-summon-undead">Summon Undead</a></td>
+<td>Necromancy</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619190-tongues">Tongues</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619214-vampiric-touch">Vampiric Touch</a></td>
+<td>Necromancy</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-4-warlock-spells">Level 4 Warlock Spells<a class="headerlink" href="#level-4-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618906-banishment">Banishment</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618934-blight">Blight</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618963-charm-monster">Charm Monster</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619100-dimension-door">Dimension Door</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619139-hallucinatory-terrain">Hallucinatory Terrain</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619105-summon-aberration">Summon Aberration</a></td>
+<td>Conjuration</td>
+<td>C, M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-5-warlock-spells">Level 5 Warlock Spells<a class="headerlink" href="#level-5-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2619052-contact-other-plane">Contact Other Plane</a></td>
+<td>Divination</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619156-dream">Dream</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619152-hold-monster">Hold Monster</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618836-jallarzis-storm-of-radiance">Jallarzi's Storm of Radiance</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619131-mislead">Mislead</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618864-planar-binding">Planar Binding</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619007-scrying">Scrying</a></td>
+<td>Divination</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619129-synaptic-static">Synaptic Static</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619167-teleportation-circle">Teleportation Circle</a></td>
+<td>Conjuration</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-6-warlock-spells">Level 6 Warlock Spells<a class="headerlink" href="#level-6-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618865-arcane-gate">Arcane Gate</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618969-circle-of-death">Circle of Death</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619076-create-undead">Create Undead</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619191-eyebite">Eyebite</a></td>
+<td>Necromancy</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619117-summon-fiend">Summon Fiend</a></td>
+<td>Conjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618841-tashas-bubbling-cauldron">Tasha's Bubbling Cauldron</a></td>
+<td>Conjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619201-true-seeing">True Seeing</a></td>
+<td>Divination</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-7-warlock-spells">Level 7 Warlock Spells<a class="headerlink" href="#level-7-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2619193-etherealness">Etherealness</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618885-finger-of-death">Finger of Death</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618916-forcecage">Forcecage</a></td>
+<td>Evocation</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618867-plane-shift">Plane Shift</a></td>
+<td>Conjuration</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-8-warlock-spells">Level 8 Warlock Spells<a class="headerlink" href="#level-8-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618832-befuddlement">Befuddlement</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619088-demiplane">Demiplane</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619147-dominate-monster">Dominate Monster</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618948-glibness">Glibness</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618889-power-word-stun">Power Word Stun</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-9-warlock-spells">Level 9 Warlock Spells<a class="headerlink" href="#level-9-warlock-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618878-astral-projection">Astral Projection</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618918-foresight">Foresight</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618932-gate">Gate</a></td>
+<td>Conjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619175-imprisonment">Imprisonment</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618886-power-word-kill">Power Word Kill</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619198-true-polymorph">True Polymorph</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619210-weird">Weird</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h2 id="warlock-subclasses">Warlock Subclasses<a class="headerlink" href="#warlock-subclasses" title="Permanent link">#</a></h2>
+<p>A Warlock subclass is a specialization that grants you features at certain Warlock levels, as specified in the subclass. This section presents the <a href="#ArchfeyPatron">Archfey Patron</a>, <a href="#CelestialPatron">Celestial Patron</a>, <a href="#FiendPatron">Fiend Patron</a>, and <a href="#GreatOldOnePatron">Great Old One Patron</a> subclasses.</p>
+<h3 id="archfey-patron">Archfey Patron<a class="headerlink" href="#archfey-patron" title="Permanent link">#</a></h3>
+<p><em>Bargain with Whimsical Fey</em></p>
+<p>Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.</p>
+<h4 id="level-3-archfey-spells">Level 3: Archfey Spells<a class="headerlink" href="#level-3-archfey-spells" title="Permanent link">#</a></h4>
+<p>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="archfey-spells">Archfey Spells<a class="headerlink" href="#archfey-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Warlock Level</th>
+<th>Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618959-calm-emotions">Calm Emotions</a>, <a href="/spells/2618858-faerie-fire">Faerie Fire</a>, <a href="/spells/2619133-misty-step">Misty Step</a>, <a href="/spells/2618854-phantasmal-force">Phantasmal Force</a>, <a href="/spells/2619064-sleep">Sleep</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2618939-blink">Blink</a>, <a href="/spells/2618869-plant-growth">Plant Growth</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2619146-dominate-beast">Dominate Beast</a>, <a href="/spells/2618958-greater-invisibility">Greater Invisibility</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2619148-dominate-person">Dominate Person</a>, <a href="/spells/2619014-seeming">Seeming</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-steps-of-the-fey">Level 3: Steps of the Fey<a class="headerlink" href="#level-3-steps-of-the-fey" title="Permanent link">#</a></h4>
+<p>Your patron grants you the ability to move between the boundaries of the planes. You can cast <a href="/spells/2619133-misty-step">Misty Step</a> without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p>In addition, whenever you cast that spell, you can choose one of the following additional effects.</p>
+<p><strong><em>Refreshing Step.</em></strong> Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains 1d10 <a href="/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints">Temporary Hit Points</a>.</p>
+<p><strong><em>Taunting Step.</em></strong> Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a> on attack rolls against creatures other than you until the start of your next turn.</p>
+<h4 id="level-6-misty-escape">Level 6: Misty Escape<a class="headerlink" href="#level-6-misty-escape" title="Permanent link">#</a></h4>
+<p>You can cast <a href="/spells/2619133-misty-step">Misty Step</a> as a Reaction in response to taking damage.</p>
+<p>In addition, the following effects are now among your Steps of the Fey options.</p>
+<p><strong><em>Disappearing Step.</em></strong> You have the <a href="/sources/dnd/free-rules/rules-glossary#InvisibleCondition">Invisible</a> condition until the start of your next turn or until immediately after you make an attack roll, deal damage, or cast a spell.</p>
+<p><strong><em>Dreadful Step.</em></strong> Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take 2d10 Psychic damage.</p>
+<h4 id="level-10-beguiling-defenses">Level 10: Beguiling Defenses<a class="headerlink" href="#level-10-beguiling-defenses" title="Permanent link">#</a></h4>
+<p>Your patron teaches you how to guard your mind and body. You are immune to the <a href="/sources/dnd/free-rules/rules-glossary#CharmedCondition">Charmed</a> condition.</p>
+<p>In addition, immediately after a creature you can see hits you with an attack roll, you can take a Reaction to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this Reaction, you can't use it again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> unless you expend a Pact Magic spell slot (no action required) to restore your use of it.</p>
+<h4 id="level-14-bewitching-magic">Level 14: Bewitching Magic<a class="headerlink" href="#level-14-bewitching-magic" title="Permanent link">#</a></h4>
+<p>Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast <a href="/spells/2619133-misty-step">Misty Step</a> as part of the same action and without expending a spell slot.</p>
+<h3 id="celestial-patron">Celestial Patron<a class="headerlink" href="#celestial-patron" title="Permanent link">#</a></h3>
+<p><em>Call on the Power of the Heavens</em></p>
+<p>Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.</p>
+<h4 id="level-3-celestial-spells">Level 3: Celestial Spells<a class="headerlink" href="#level-3-celestial-spells" title="Permanent link">#</a></h4>
+<p>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="celestial-spells">Celestial Spells<a class="headerlink" href="#celestial-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Warlock Level</th>
+<th>Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618845-aid">Aid</a>, <a href="/spells/2619079-cure-wounds">Cure Wounds</a>, <a href="/spells/2619136-guiding-bolt">Guiding Bolt</a>, <a href="/spells/2619016-lesser-restoration">Lesser Restoration</a>, <a href="/spells/2618996-light">Light</a>, <a href="/spells/2618967-sacred-flame">Sacred Flame</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2619083-daylight">Daylight</a>, <a href="/spells/2618956-revivify">Revivify</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2619135-guardian-of-faith">Guardian of Faith</a>, <a href="/spells/2619107-wall-of-fire">Wall of Fire</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2618961-greater-restoration">Greater Restoration</a>, <a href="/spells/2619108-summon-celestial">Summon Celestial</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-healing-light">Level 3: Healing Light<a class="headerlink" href="#level-3-healing-light" title="Permanent link">#</a></h4>
+<p>You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.</p>
+<p>As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of Hit Points equal to the roll's total. Your pool regains all expended dice when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h4 id="level-6-radiant-soul">Level 6: Radiant Soul<a class="headerlink" href="#level-6-radiant-soul" title="Permanent link">#</a></h4>
+<p>Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.</p>
+<h4 id="level-10-celestial-resilience">Level 10: Celestial Resilience<a class="headerlink" href="#level-10-celestial-resilience" title="Permanent link">#</a></h4>
+<p>You gain <a href="/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints">Temporary Hit Points</a> whenever you use your Magical Cunning feature or finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short</a> or <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>. These Temporary Hit Points equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain Temporary Hit Points equal to half your Warlock level plus your Charisma modifier.</p>
+<h4 id="level-14-searing-vengeance">Level 14: Searing Vengeance<a class="headerlink" href="#level-14-searing-vengeance" title="Permanent link">#</a></h4>
+<p>When you or an ally within 60 feet of you is about to make a <a href="/sources/dnd/free-rules/rules-glossary#DeathSavingThrow">Death Saving Throw</a>, you can unleash radiant energy to save the creature. The creature regains Hit Points equal to half its Hit Point maximum and can end the <a href="/sources/dnd/free-rules/rules-glossary#ProneCondition">Prone</a> condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to 2d8 plus your Charisma modifier, and each has the <a href="/sources/dnd/free-rules/rules-glossary#BlindedCondition">Blinded</a> condition until the end of the current turn.</p>
+<p>Once you use this feature, you can't use it again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="fiend-patron">Fiend Patron<a class="headerlink" href="#fiend-patron" title="Permanent link">#</a></h3>
+<p><em>Make a Deal with the Lower Planes</em></p>
+<p>Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.</p>
+<h4 id="level-3-dark-ones-blessing">Level 3: Dark One's Blessing<a class="headerlink" href="#level-3-dark-ones-blessing" title="Permanent link">#</a></h4>
+<p>When you reduce an enemy to 0 Hit Points, you gain <a href="/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints">Temporary Hit Points</a> equal to your Charisma modifier plus your Warlock level (minimum of 1 Temporary Hit Point). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 Hit Points.</p>
+<h4 id="level-3-fiend-spells">Level 3: Fiend Spells<a class="headerlink" href="#level-3-fiend-spells" title="Permanent link">#</a></h4>
+<p>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="fiend-spells">Fiend Spells<a class="headerlink" href="#fiend-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Warlock Level</th>
+<th>Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618946-burning-hands">Burning Hands</a>, <a href="/spells/2618985-command">Command</a>, <a href="/spells/2619005-scorching-ray">Scorching Ray</a>, <a href="/spells/2619101-suggestion">Suggestion</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2618887-fireball">Fireball</a>, <a href="/spells/2619091-stinking-cloud">Stinking Cloud</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2618894-fire-shield">Fire Shield</a>, <a href="/spells/2619107-wall-of-fire">Wall of Fire</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2618940-geas">Geas</a>, <a href="/spells/2619183-insect-plague">Insect Plague</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-6-dark-ones-own-luck">Level 6: Dark One's Own Luck<a class="headerlink" href="#level-6-dark-ones-own-luck" title="Permanent link">#</a></h4>
+<p>You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add 1d10 to your roll. You can do so after seeing the roll but before any of the roll's effects occur.</p>
+<p>You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h4 id="level-10-fiendish-resilience">Level 10: Fiendish Resilience<a class="headerlink" href="#level-10-fiendish-resilience" title="Permanent link">#</a></h4>
+<p>Choose one damage type, other than Force, whenever you finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short</a> or <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>. You have Resistance to that damage type until you choose a different one with this feature.</p>
+<h4 id="level-14-hurl-through-hell">Level 14: Hurl Through Hell<a class="headerlink" href="#level-14-hurl-through-hell" title="Permanent link">#</a></h4>
+<p>Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn't a Fiend, and it has the <a href="/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition">Incapacitated</a> condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.</p>
+<p>Once you use this feature, you can't use it again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> unless you expend a Pact Magic spell slot (no action required) to restore your use of it.</p>
+<h3 id="great-old-one-patron">Great Old One Patron<a class="headerlink" href="#great-old-one-patron" title="Permanent link">#</a></h3>
+<p><em>Unearth Forbidden Lore of Ineffable Beings</em></p>
+<p>When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.</p>
+<h4 id="level-3-awakened-mind">Level 3: Awakened Mind<a class="headerlink" href="#level-3-awakened-mind" title="Permanent link">#</a></h4>
+<p>You can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.</p>
+<p>The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature.</p>
+<h4 id="level-3-great-old-one-spells">Level 3: Great Old One Spells<a class="headerlink" href="#level-3-great-old-one-spells" title="Permanent link">#</a></h4>
+<p>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="great-old-one-spells">Great Old One Spells<a class="headerlink" href="#great-old-one-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Warlock Level</th>
+<th>Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2619099-detect-thoughts">Detect Thoughts</a>, <a href="/spells/2619104-dissonant-whispers">Dissonant Whispers</a>, <a href="/spells/2618854-phantasmal-force">Phantasmal Force</a>, <a href="/spells/2619132-tashas-hideous-laughter">Tasha's Hideous Laughter</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2618972-clairvoyance">Clairvoyance</a>, <a href="/spells/2619162-hunger-of-hadar">Hunger of Hadar</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2619043-confusion">Confusion</a>, <a href="/spells/2619105-summon-aberration">Summon Aberration</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2619109-modify-memory">Modify Memory</a>, <a href="/spells/2619157-telekinesis">Telekinesis</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-psychic-spells">Level 3: Psychic Spells<a class="headerlink" href="#level-3-psychic-spells" title="Permanent link">#</a></h4>
+<p>When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or Illusion, you can do so without Verbal or Somatic components.</p>
+<h4 id="level-6-clairvoyant-combatant">Level 6: Clairvoyant Combatant<a class="headerlink" href="#level-6-clairvoyant-combatant" title="Permanent link">#</a></h4>
+<p>When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a> on attack rolls against you, and you have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on attack rolls against that creature for the duration of the bond.</p>
+<p>Once you use this feature, you can't use it again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short</a> or <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> unless you expend a Pact Magic spell slot (no action required) to restore your use of it.</p>
+<h4 id="level-10-eldritch-hex">Level 10: Eldritch Hex<a class="headerlink" href="#level-10-eldritch-hex" title="Permanent link">#</a></h4>
+<p>Your alien patron grants you a powerful curse. You always have the <a href="/spells/2618988-hex">Hex</a> spell prepared. When you cast <em>Hex</em> and choose an ability, the target also has <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a> on saving throws of the chosen ability for the duration of the spell.</p>
+<h4 id="level-10-thought-shield">Level 10: Thought Shield<a class="headerlink" href="#level-10-thought-shield" title="Permanent link">#</a></h4>
+<p>Your thoughts can't be read by telepathy or other means unless you allow it. You also have Resistance to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.</p>
+<h4 id="level-14-create-thrall">Level 14: Create Thrall<a class="headerlink" href="#level-14-create-thrall" title="Permanent link">#</a></h4>
+<p>When you cast <a href="/spells/2619105-summon-aberration">Summon Aberration</a>, you can modify it so that it doesn't require <a href="/sources/dnd/free-rules/rules-glossary#Concentration">Concentration</a>. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of <a href="/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints">Temporary Hit Points</a> equal to your Warlock level plus your Charisma modifier.</p>
+<p>In addition, the first time each turn the Aberration hits a creature under the effect of your <a href="/spells/2618988-hex">Hex</a>, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../sorcerer/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Sorcerer">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Sorcerer
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../wizard/" class="md-footer__link md-footer__link--next" aria-label="Next: Wizard">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Wizard
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../..", "features": ["search.share", "search.suggest", "navigation.tabs", "navigation.path", "navigation.top", "navigation.footer", "navigation.indexes", "navigation.expand", "toc.follow"], "search": "../../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.92b07e13.min.js"></script>
+      
+    
+  </body>
+</html>
