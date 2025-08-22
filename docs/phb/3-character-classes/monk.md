@@ -8,13 +8,13 @@
     | Saving Throw Proficiencies | Strength and Dexterity |
     | Skill Proficiencies | *Choose 2:* [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Religion](/sources/dnd/free-rules/playing-the-game#Skills), or [Stealth](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple weapons and Martial weapons that have the [Light](/sources/dnd/free-rules/equipment#Light) property |
-    | Tool Proficiencies | Choose one type of Artisan’s Tools or Musical Instrument (see [chapter 6](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)) |
+    | Tool Proficiencies | Choose one type of Artisan's Tools or Musical Instrument (see [chapter 6](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)) |
     | Armor Training | None |
-    | Starting Equipment | *Choose A or B:* (A) [Spear](/equipment/14-spear), 5 [Daggers](/equipment/3-dagger), **[Artisan’s Tools](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)** or **[Musical Instrument](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)** chosen for the tool proficiency above, [Explorer’s Pack](/equipment/522-explorers-pack), and 11 GP; or (B) 50 GP |
+    | Starting Equipment | *Choose A or B:* (A) [Spear](/equipment/14-spear), 5 [Daggers](/equipment/3-dagger), **[Artisan's Tools](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Tools)** or **[Musical Instrument](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MusicalInstrumentVaries)** chosen for the tool proficiency above, [Explorer's Pack](/equipment/522-explorers-pack), and 11 GP; or (B) 50 GP |
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.
 
-Monks focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk’s hands, even the most basic weapons can become sophisticated implements of combat mastery.
+Monks focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk's hands, even the most basic weapons can become sophisticated implements of combat mastery.
 
 Many Monks find that a structured life of ascetic withdrawal helps them cultivate the physical and mental focus they need to harness their power. Other Monks believe that immersing themselves in the vibrant confusion of life helps to fuel their determination and discipline.
 
@@ -25,12 +25,12 @@ Monks generally view adventures as tests of their physical and mental developmen
 ### As a Level 1 Monk
 
 * Gain all the traits in the [Core Monk Traits table](#CoreMonkTraits).
-* Gain the Monk’s level 1 features, which are listed in the [Monk Features table](#MonkFeatures).
+* Gain the Monk's level 1 features, which are listed in the [Monk Features table](#MonkFeatures).
 
 ### As a Multiclass Monk
 
 * Gain the Hit Point Die trait from the [Core Monk Traits table](#CoreMonkTraits).
-* Gain the Monk’s level 1 features, which are listed in the [Monk Features table](#MonkFeatures).
+* Gain the Monk's level 1 features, which are listed in the [Monk Features table](#MonkFeatures).
 
 ## Monk Class Features
 
@@ -42,7 +42,7 @@ As a Monk, you gain the following class features when you reach the specified Mo
 | Level | Proficiency Bonus | Class Features | Martial Arts | Focus Points | Unarmored Movement |
 | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | [Martial Arts](#Level1MartialArts), [Unarmored Defense](#Level1MonkUnarmoredDefense) | 1d6 | — | — |
-| 2 | +2 | [Monk’s Focus](#Level2MonksFocus), [Unarmored Movement](#Level2MonkUnarmoredMovement), [Uncanny Metabolism](#Level2UncannyMetabolism) | 1d6 | 2 | +10 ft. |
+| 2 | +2 | [Monk's Focus](#Level2MonksFocus), [Unarmored Movement](#Level2MonkUnarmoredMovement), [Uncanny Metabolism](#Level2UncannyMetabolism) | 1d6 | 2 | +10 ft. |
 | 3 | +2 | [Deflect Attacks](#Level3DeflectAttacks), [Monk Subclass](#Level3MonkSubclass) | 1d6 | 3 | +10 ft. |
 | 4 | +2 | [Ability Score Improvement](#Level4MonkAbilityScoreImprovement), [Slow Fall](#Level4SlowFall) | 1d6 | 4 | +10 ft. |
 | 5 | +3 | [Extra Attack](#Level5MonkExtraAttack), [Stunning Strike](#Level5StunningStrike) | 1d8 | 5 | +10 ft. |
@@ -69,7 +69,7 @@ Your practice of martial arts gives you mastery of combat styles that use your [
 * Simple Melee weapons
 * Martial Melee weapons that have the [Light](/sources/dnd/free-rules/equipment#Light) property
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing armor or wielding a Shield.
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a Shield.
 
 ***Bonus Unarmed Strike.*** You can make an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike) as a Bonus Action.
 
@@ -79,9 +79,9 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 
 ### Level 1: Unarmored Defense
 
-While you aren’t wearing armor or wielding a Shield, your base [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing armor or wielding a Shield, your base [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) equals 10 plus your Dexterity and Wisdom modifiers.
 
-### Level 2: Monk’s Focus
+### Level 2: Monk's Focus
 
 Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the [Monk Features table](#MonkFeatures).
 
@@ -99,23 +99,23 @@ Some features that use Focus Points require your target to make a saving throw. 
 
 ### Level 2: Unarmored Movement
 
-Your speed increases by 10 feet while you aren’t wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the [Monk Features table](#MonkFeatures).
+Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the [Monk Features table](#MonkFeatures).
 
 ### Level 2: Uncanny Metabolism
 
 When you roll [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative), you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
-Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Level 3: Deflect Attacks
 
-When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack’s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
 
-If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack’s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn’t behind [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover) if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
+If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover) if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
 ### Level 3: Monk Subclass
 
-You gain a Monk subclass of your choice. The [Warrior of Mercy](#WarriorofMercy), [Warrior of Shadow](#WarriorofShadow), [Warrior of the Elements](#WarrioroftheElements), and [Warrior of the Open Hand](#WarrioroftheOpenHand) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass’s features that are of your Monk level or lower.
+You gain a Monk subclass of your choice. The [Warrior of Mercy](#WarriorofMercy), [Warrior of Shadow](#WarriorofShadow), [Warrior of the Elements](#WarrioroftheElements), and [Warrior of the Open Hand](#WarrioroftheOpenHand) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -131,7 +131,7 @@ You can attack twice instead of once whenever you take the [Attack](/sources/dnd
 
 ### Level 5: Stunning Strike
 
-Once per turn when you hit a creature with a Monk weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](/sources/dnd/free-rules/rules-glossary#StunnedCondition) condition until the start of your next turn. On a successful save, the target’s Speed is halved until the start of your next turn, and the next attack roll made against the target before then has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage).
+Once per turn when you hit a creature with a Monk weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](/sources/dnd/free-rules/rules-glossary#StunnedCondition) condition until the start of your next turn. On a successful save, the target's Speed is halved until the start of your next turn, and the next attack roll made against the target before then has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage).
 
 ### Level 6: Empowered Strikes
 
@@ -139,13 +139,13 @@ Whenever you deal damage with your [Unarmed Strike](/sources/dnd/free-rules/rule
 
 ### Level 7: Evasion
 
-When you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
+When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
 
-You don’t benefit from this feature if you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+You don't benefit from this feature if you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
 ### Level 9: Acrobatic Movement
 
-While you aren’t wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren't wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ### Level 10: Heightened Focus
 
@@ -155,13 +155,13 @@ Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following b
 
 ***Patient Defense.*** When you expend a Focus Point to use Patient Defense, you gain a number of [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to two rolls of your Martial Arts die.
 
-***Step of the Wind.*** When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack).
+***Step of the Wind.*** When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack).
 
 ### Level 10: Self-Restoration
 
 Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), or [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition).
 
-In addition, forgoing food and drink doesn’t give you levels of [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition).
+In addition, forgoing food and drink doesn't give you levels of [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition).
 
 ### Level 13: Deflect Energy
 
@@ -175,7 +175,7 @@ Additionally, whenever you make a saving throw and fail, you can expend 1 Focus 
 
 ### Level 15: Perfect Focus
 
-When you roll [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) and don’t use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
+When you roll [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
 
 ### Level 18: Superior Defense
 
@@ -213,7 +213,7 @@ When you use your Flurry of Blows, you can replace one of the [Unarmed Strikes](
 
 You gain proficiency in the [Insight](/sources/dnd/free-rules/playing-the-game#Skills) and [Medicine](/sources/dnd/free-rules/playing-the-game#Skills) skills and proficiency with the Herbalism Kit.
 
-#### Level 6: Physician’s Touch
+#### Level 6: Physician's Touch
 
 Your Hand of Harm and Hand of Healing improve, as detailed below.
 
@@ -233,7 +233,7 @@ You can use these benefits a total number of times equal to your Wisdom modifier
 
 Your mastery of life energy opens the door to the ultimate mercy. As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of Hit Points equal to 4d10 plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [Blinded](/sources/dnd/free-rules/rules-glossary#BlindedCondition), [Deafened](/sources/dnd/free-rules/rules-glossary#DeafenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition), and [Stunned](/sources/dnd/free-rules/rules-glossary#StunnedCondition).
 
-Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Warrior of Shadow
 
@@ -245,7 +245,7 @@ Warriors of Shadow practice stealth and subterfuge, harnessing the power of the 
 
 You have learned to draw on the power of the Shadowfell, gaining the following benefits.
 
-***Darkness.*** You can expend 1 Focus Point to cast the [Darkness](/spells/2619080-darkness) spell without spell components. You can see within the spell’s area when you cast it with this feature. While the spell persists, you can move its area of [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness) to a space within 60 feet of yourself at the start of each of your turns.
+***Darkness.*** You can expend 1 Focus Point to cast the [Darkness](/spells/2619080-darkness) spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness) to a space within 60 feet of yourself at the start of each of your turns.
 
 ***Darkvision.*** You gain [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
 
@@ -317,7 +317,7 @@ Warriors of the Open Hand are masters of unarmed combat. They learn techniques t
 
 Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.
 
-***Addle.*** The target can’t make [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) until the start of its next turn.
+***Addle.*** The target can't make [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) until the start of its next turn.
 
 ***Push.*** The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
 
@@ -335,6 +335,6 @@ When you take a Bonus Action other than Step of the Wind, you can also use Step 
 
 #### Level 17: Quivering Palm
 
-You gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking 10d12 Force damage on a failed save or half as much damage on a successful one.
+You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking 10d12 Force damage on a failed save or half as much damage on a successful one.
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).

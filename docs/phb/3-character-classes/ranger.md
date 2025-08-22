@@ -9,23 +9,23 @@
     | Skill Proficiencies | *Choose 3:* [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), [Stealth](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple and Martial weapons |
     | Armor Training | Light and Medium armor and Shields |
-    | Starting Equipment | *Choose A or B:* (A) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Druidic Focus](/equipment/532-druidic-focus) ([sprig of mistletoe](/equipment/531-sprig-of-mistletoe)), [Explorer’s Pack](/equipment/522-explorers-pack), and 7 GP; or (B) 150 GP |
+    | Starting Equipment | *Choose A or B:* (A) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Druidic Focus](/equipment/532-druidic-focus) ([sprig of mistletoe](/equipment/531-sprig-of-mistletoe)), [Explorer's Pack](/equipment/522-explorers-pack), and 7 GP; or (B) 150 GP |
 
 Far from bustling cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch in the wilderness. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
 
-Thanks to their connection with nature, Rangers can also cast spells that harness primal powers of the wilderness. A Ranger’s talents and magic are honed with deadly focus to protect the world from the ravages of monsters and tyrants.
+Thanks to their connection with nature, Rangers can also cast spells that harness primal powers of the wilderness. A Ranger's talents and magic are honed with deadly focus to protect the world from the ravages of monsters and tyrants.
 
 ## Becoming a Ranger...
 
 ### As a Level 1 Character
 
 * Gain all the traits in the [Core Ranger Traits table](#CoreRangerTraits).
-* Gain the Ranger’s level 1 features, which are listed in the [Ranger Features table](#RangerFeatures).
+* Gain the Ranger's level 1 features, which are listed in the [Ranger Features table](#RangerFeatures).
 
 ### As a Multiclass Character
 
-* Gain the following traits from the [Core Ranger Traits table](#CoreRangerTraits): Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger’s skill list, and training with Light and Medium armor and Shields.
-* Gain the Ranger’s level 1 features, which are listed in the [Ranger Features table](#RangerFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
+* Gain the following traits from the [Core Ranger Traits table](#CoreRangerTraits): Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger's skill list, and training with Light and Medium armor and Shields.
+* Gain the Ranger's level 1 features, which are listed in the [Ranger Features table](#RangerFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
 
 ## Ranger Class Features
 
@@ -48,7 +48,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 | 11 | +4 | Subclass feature | 4 | 10 | 4 | 3 | 3 | — | — |
 | 12 | +4 | [Ability Score Improvement](#Level4RangerAbilityScoreImprovement) | 4 | 10 | 4 | 3 | 3 | — | — |
 | 13 | +5 | [Relentless Hunter](#Level13RelentlessHunter) | 5 | 11 | 4 | 3 | 3 | 1 | — |
-| 14 | +5 | [Nature’s Veil](#Level14NaturesVeil) | 5 | 11 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | [Nature's Veil](#Level14NaturesVeil) | 5 | 11 | 4 | 3 | 3 | 1 | — |
 | 15 | +5 | Subclass feature | 5 | 12 | 4 | 3 | 3 | 2 | — |
 | 16 | +5 | [Ability Score Improvement](#Level4RangerAbilityScoreImprovement) | 5 | 12 | 4 | 3 | 3 | 2 | — |
 | 17 | +6 | [Precise Hunter](#Level17PreciseHunter) | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
@@ -58,15 +58,15 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-You have learned to channel the magical essence of nature to cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](#RangerSpellList) later in the class’s description.
+You have learned to channel the magical essence of nature to cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](#RangerSpellList) later in the class's description.
 
 ***Spell Slots.*** The [Ranger Features table](#RangerFeatures) shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ***Prepared Spells of Level 1+***. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [Cure Wounds](/spells/2619079-cure-wounds) and [Ensnaring Strike](/spells/2619172-ensnaring-strike) are recommended.
 
-The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the [Ranger Features table](#RangerFeatures). Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the [Ranger Features table](#RangerFeatures). Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
-If another Ranger feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
+If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
 
 ***Changing Your Prepared Spells.*** Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
@@ -76,7 +76,7 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 ### Level 1: Favored Enemy
 
-You always have the [Hunter’s Mark](/spells/2619166-hunters-mark) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+You always have the [Hunter's Mark](/spells/2619166-hunters-mark) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the [Ranger Features table](#RangerFeatures).
 
@@ -98,11 +98,11 @@ Thanks to your travels, you gain the following benefits.
 
 You gain a Fighting Style feat of your choice (see [chapter 5](/sources/dnd/phb-2024/feats#FightingStyleFeats)). Instead of choosing one of those feats, you can choose the option below.
 
-***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class’s section for a [list of Druid spells](/sources/dnd/phb-2024/character-classes#DruidSpellList)). [Guidance](/spells/2618971-guidance) and [Starry Wisp](/spells/2618840-starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+***Druidic Warrior.*** You learn two Druid cantrips of your choice (see the Druid class's section for a [list of Druid spells](/sources/dnd/phb-2024/character-classes#DruidSpellList)). [Guidance](/spells/2618971-guidance) and [Starry Wisp](/spells/2618840-starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ### Level 3: Ranger Subclass
 
-You gain a Ranger subclass of your choice.The [Beast Master](#BeastMaster), [Fey Wanderer](#FeyWanderer), [Gloom Stalker](#GloomStalker), and [Hunter](#Hunter) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
+You gain a Ranger subclass of your choice.The [Beast Master](#BeastMaster), [Fey Wanderer](#FeyWanderer), [Gloom Stalker](#GloomStalker), and [Hunter](#Hunter) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -114,7 +114,7 @@ You can attack twice instead of once whenever you take the [Attack](/sources/dnd
 
 ### Level 6: Roving
 
-Your Speed increases by 10 feet while you aren’t wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
+Your Speed increases by 10 feet while you aren't wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
 
 ### Level 9: Expertise
 
@@ -130,9 +130,9 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 ### Level 13: Relentless Hunter
 
-Taking damage can’t break your [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) on [Hunter’s Mark](/spells/2619166-hunters-mark).
+Taking damage can't break your [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) on [Hunter's Mark](/spells/2619166-hunters-mark).
 
-### Level 14: Nature’s Veil
+### Level 14: Nature's Veil
 
 You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the [Invisible](/sources/dnd/free-rules/rules-glossary#InvisibleCondition) condition until the end of your next turn.
 
@@ -140,7 +140,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Level 17: Precise Hunter
 
-You have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls against the creature currently marked by your [Hunter’s Mark](/spells/2619166-hunters-mark).
+You have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls against the creature currently marked by your [Hunter's Mark](/spells/2619166-hunters-mark).
 
 ### Level 18: Feral Senses
 
@@ -152,11 +152,11 @@ You gain an Epic Boon feat (see [chapter 5](/sources/dnd/phb-2024/feats#EpicBoon
 
 ### Level 20: Foe Slayer
 
-The damage die of your [Hunter’s Mark](/spells/2619166-hunters-mark) is a d10 rather than a d6.
+The damage die of your [Hunter's Mark](/spells/2619166-hunters-mark) is a d10 rather than a d6.
 
 ## Ranger Spell List
 
-This section presents the Ranger spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+This section presents the Ranger spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 
 
 ### Level 1 Ranger Spells
@@ -174,7 +174,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 | [Fog Cloud](/spells/2618910-fog-cloud) | Conjuration | C |
 | [Goodberry](/spells/2618952-goodberry) | Conjuration | — |
 | [Hail of Thorns](/spells/2618975-hail-of-thorns) | Conjuration | — |
-| [Hunter’s Mark](/spells/2619166-hunters-mark) | Divination | C |
+| [Hunter's Mark](/spells/2619166-hunters-mark) | Divination | C |
 | [Jump](/spells/2618991-jump) | Transmutation | — |
 | [Longstrider](/spells/2619004-longstrider) | Transmutation | — |
 | [Speak with Animals](/spells/2619059-speak-with-animals) | Divination | R |
@@ -270,7 +270,7 @@ You magically summon a primal beast, which draws strength from your bond with na
 
 The beast is [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude) to you and your allies and obeys your commands. It vanishes if you die.
 
-***The Beast in Combat.*** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](/sources/dnd/free-rules/rules-glossary#DodgeAction) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action to command the beast to take the Beast’s Strike action. If you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition, the beast acts on its own and isn’t limited to the Dodge action.
+***The Beast in Combat.*** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](/sources/dnd/free-rules/rules-glossary#DodgeAction) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action to command the beast to take the Beast's Strike action. If you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition, the beast acts on its own and isn't limited to the Dodge action.
 
 ***Restoring or Replacing the Beast.*** If the beast has died within the last hour, you can take a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its Hit Points restored.
 
@@ -313,7 +313,7 @@ Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRes
     **Actions**
     </p>
 
-    ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition if it is a Large or smaller creature.
+    ***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition if it is a Large or smaller creature.
 
 !!! info "Beast of the Sea"
 
@@ -352,7 +352,7 @@ Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRes
     **Actions**
     </p>
 
-    ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition (escape DC equals your spell save DC).
+    ***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition (escape DC equals your spell save DC).
 
 !!! info "Beast of the Sky"
 
@@ -383,7 +383,7 @@ Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRes
     **Traits**
     </p>
 
-    ***Flyby.*** The beast doesn’t provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) when it flies out of an enemy’s reach.
+    ***Flyby.*** The beast doesn't provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) when it flies out of an enemy's reach.
 
     ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
 
@@ -391,7 +391,7 @@ Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRes
     **Actions**
     </p>
 
-    ***Beast’s Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d4 + 3 plus your Wisdom modifier Slashing damage.
+    ***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d4 + 3 plus your Wisdom modifier Slashing damage.
 
 #### Level 7: Exceptional Training
 
@@ -401,9 +401,9 @@ In addition, whenever it hits with an attack roll and deals damage, it can deal 
 
 #### Level 11: Bestial Fury
 
-When you command your Primal Companion beast to take the Beast’s Strike action, the beast can use it twice.
+When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.
 
-In addition, the first time each turn it hits a creature under the effect of your [Hunter’s Mark](/spells/2619166-hunters-mark) spell, the beast deals extra Force damage equal to the bonus damage of that spell.
+In addition, the first time each turn it hits a creature under the effect of your [Hunter's Mark](/spells/2619166-hunters-mark) spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
 #### Level 15: Share Spells
 
@@ -466,7 +466,7 @@ In addition, whenever you or a creature you can see within 120 feet of you succe
 
 You can cast [Summon Fey](/spells/2619115-summon-fey) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
-Whenever you start casting the spell, you can modify it so that it doesn’t require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). If you do so, the spell’s duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
 
 #### Level 15: Misty Wanderer
 
@@ -486,7 +486,7 @@ Gloom Stalkers are at home in the darkest places, wielding magic drawn from the 
 
 You have mastered the art of creating fearsome ambushes, granting you the following benefits.
 
-***Ambusher’s Leap.*** At the start of your first turn of each combat, your Speed increases by 10 feet until the end of that turn.
+***Ambusher's Leap.*** At the start of your first turn of each combat, your Speed increases by 10 feet until the end of that turn.
 
 ***Dreadful Strike.*** When you attack a creature and hit it with a weapon, you can deal an extra 2d6 Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
@@ -519,11 +519,11 @@ You are also adept at evading creatures that rely on Darkvision. While entirely 
 
 You have honed your ability to resist mind-altering powers. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
 
-#### Level 11: Stalker’s Flurry
+#### Level 11: Stalker's Flurry
 
 The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you use the Dreadful Strike effect of your Dread Ambusher feature, you can cause one of the following additional effects.
 
-***Sudden Strike.*** You can make another attack with the same weapon against a different creature that is within 5 feet of the original target and that is within the weapon’s range.
+***Sudden Strike.*** You can make another attack with the same weapon against a different creature that is within 5 feet of the original target and that is within the weapon's range.
 
 ***Mass Fear.*** The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the start of your next turn.
 
@@ -538,17 +538,17 @@ When a creature makes an attack roll against you, you can take a Reaction to imp
 
 You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
 
-#### Level 3: Hunter’s Lore
+#### Level 3: Hunter's Lore
 
-You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your [Hunter’s Mark](/spells/2619166-hunters-mark), you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your [Hunter's Mark](/spells/2619166-hunters-mark), you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
-#### Level 3: Hunter’s Prey
+#### Level 3: Hunter's Prey
 
 You gain one of the following feature options of your choice. Whenever you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), you can replace the chosen option with the other one.
 
-***Colossus Slayer.*** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it’s missing any of its Hit Points. You can deal this extra damage only once per turn.
+***Colossus Slayer.*** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it's missing any of its Hit Points. You can deal this extra damage only once per turn.
 
-***Horde Breaker.*** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon’s range, and that you haven’t attacked this turn.
+***Horde Breaker.*** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
 
 #### Level 7: Defensive Tactics
 
@@ -558,10 +558,10 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 ***Multiattack Defense.*** When a creature hits you with an attack roll, that creature has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on all other attack rolls against you this turn.
 
-#### Level 11: Superior Hunter’s Prey
+#### Level 11: Superior Hunter's Prey
 
-Once per turn when you deal damage to a creature marked by your [Hunter’s Mark](/spells/2619166-hunters-mark), you can also deal that spell’s extra damage to a different creature that you can see within 30 feet of the first creature.
+Once per turn when you deal damage to a creature marked by your [Hunter's Mark](/spells/2619166-hunters-mark), you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
 
-#### Level 15: Superior Hunter’s Defense
+#### Level 15: Superior Hunter's Defense
 
 When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.

@@ -9,7 +9,7 @@
     | Skill Proficiencies | *Choose 2:* [Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills), [Animal Handling](/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), [Perception](/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple and Martial weapons |
     | Armor Training | Light, Medium, and Heavy armor and Shields |
-    | Starting Equipment | *Choose A, B, or C:* (A) [Chain Mail](/equipment/16-chain-mail), [Greatsword](/equipment/22-greatsword), [Flail](/equipment/20-flail), 8 [Javelins](/equipment/8-javelin), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 4 GP; (B) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 11 GP; or (C) 155 GP |
+    | Starting Equipment | *Choose A, B, or C:* (A) [Chain Mail](/equipment/16-chain-mail), [Greatsword](/equipment/22-greatsword), [Flail](/equipment/20-flail), 8 [Javelins](/equipment/8-javelin), [Dungeoneer's Pack](/equipment/525-dungeoneers-pack), and 4 GP; (B) [Studded Leather Armor](/equipment/3-studded-leather), [Scimitar](/equipment/29-scimitar), [Shortsword](/equipment/30-shortsword), [Longbow](/equipment/37-longbow), 20 [Arrows](/equipment/508-arrows), [Quiver](/equipment/407-quiver), [Dungeoneer's Pack](/equipment/525-dungeoneers-pack), and 11 GP; or (C) 155 GP |
 
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.
 
@@ -20,12 +20,12 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 ### As a Level 1 Fighter
 
 * Gain all the traits in the [Core Fighter Traits table](#CoreFighterTraits).
-* Gain the Fighter’s level 1 features, which are listed in the [Fighter Features table](#FighterFeatures).
+* Gain the Fighter's level 1 features, which are listed in the [Fighter Features table](#FighterFeatures).
 
 ### As a Multiclass Fighter
 
 * Gain the following traits from the [Core Fighter Traits table](#CoreFighterTraits): Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
-* Gain the Fighter’s level 1 features, which are listed in the [Fighter Features table](#FighterFeatures).
+* Gain the Fighter's level 1 features, which are listed in the [Fighter Features table](#FighterFeatures).
 
 ## Fighter Class Features
 
@@ -80,15 +80,15 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action.
 
-Once you use this feature, you can’t do so again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Level 2: Tactical Mind
 
-You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
+You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ### Level 3: Fighter Subclass
 
-You gain a Fighter subclass of your choice. The [Battle Master](#BattleMaster), [Champion](#Champion), [Eldritch Knight](#EldritchKnight), and [Psi Warrior](#PsiWarrior) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass’s features that are of your Fighter level or lower.
+You gain a Fighter subclass of your choice. The [Battle Master](#BattleMaster), [Champion](#Champion), [Eldritch Knight](#EldritchKnight), and [Psi Warrior](#PsiWarrior) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -104,7 +104,7 @@ Whenever you activate your Second Wind with a Bonus Action, you can move up to h
 
 ### Level 9: Indomitable
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can’t use this feature again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 You can use this feature twice before a Long Rest starting at level 13 and three times before a Long Rest starting at level 17.
 
@@ -142,7 +142,7 @@ Battle Masters are students of the art of battle, learning martial techniques pa
 
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Superiority Dice.
 
-***Maneuvers.*** You learn three maneuvers of your choice from the ["Maneuver Options"](#ManeuverOptions) section later in this subclass’s description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+***Maneuvers.*** You learn three maneuvers of your choice from the ["Maneuver Options"](#ManeuverOptions) section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
@@ -154,13 +154,13 @@ You gain an additional Superiority Die when you reach Fighter levels 7 (five dic
 
 #### Level 3: Student of War
 
-You gain proficiency with one type of [Artisan’s Tools](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#ArtisansTools) of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at [level 1](#CoreFighterTraits).
+You gain proficiency with one type of [Artisan's Tools](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#ArtisansTools) of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at [level 1](#CoreFighterTraits).
 
 #### Level 7: Know Your Enemy
 
 As a Bonus Action, you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
-Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore a use of the feature by expending one Superiority Die (no action required).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore a use of the feature by expending one Superiority Die (no action required).
 
 #### Level 10: Improved Combat Superiority
 
@@ -184,13 +184,13 @@ When you make a Dexterity ([Stealth](/sources/dnd/free-rules/playing-the-game#Sk
 
 #### Bait and Switch
 
-When you’re within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. This movement doesn’t provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack).
+When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. This movement doesn't provoke [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack).
 
 Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 
-#### Commander’s Strike
+#### Commander's Strike
 
-When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its Reaction to make one attack with a weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), adding the Superiority Die to the attack’s damage roll on a hit.
+When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its Reaction to make one attack with a weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), adding the Superiority Die to the attack's damage roll on a hit.
 
 #### Commanding Presence
 
@@ -198,11 +198,11 @@ When you make a Charisma ([Intimidation](/sources/dnd/free-rules/playing-the-gam
 
 #### Disarming Attack
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to disarm the target. Add the Superiority Die roll to the attack’s damage roll. The target must succeed on a Strength saving throw or drop one object of your choice that it’s holding, with the object landing in its space.
+When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to disarm the target. Add the Superiority Die roll to the attack's damage roll. The target must succeed on a Strength saving throw or drop one object of your choice that it's holding, with the object landing in its space.
 
 #### Distracting Strike
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack’s damage roll. The next attack roll against the target by an attacker other than you has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) if the attack is made before the start of your next turn.
+When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack's damage roll. The next attack roll against the target by an attacker other than you has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) if the attack is made before the start of your next turn.
 
 #### Evasive Footwork
 
@@ -210,23 +210,23 @@ As a Bonus Action, you can expend one Superiority Die and take the [Disengage](/
 
 #### Feinting Attack
 
-As a Bonus Action, you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack’s damage roll.
+As a Bonus Action, you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
 
 #### Goading Attack
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack’s damage roll. The target must succeed on a Wisdom saving throw or have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on attack rolls against targets other than you until the end of your next turn.
+When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on attack rolls against targets other than you until the end of your next turn.
 
 #### Lunging Attack
 
-As a Bonus Action, you can expend one Superiority Die and take the [Dash](/sources/dnd/free-rules/rules-glossary#DashAction) action. If you move at least 5 feet in a straight line immediately before hitting with a melee attack as part of the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on this turn, you can add the Superiority Die to the attack’s damage roll.
+As a Bonus Action, you can expend one Superiority Die and take the [Dash](/sources/dnd/free-rules/rules-glossary#DashAction) action. If you move at least 5 feet in a straight line immediately before hitting with a melee attack as part of the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on this turn, you can add the Superiority Die to the attack's damage roll.
 
 #### Maneuvering Attack
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack’s damage roll, and choose a willing creature who can see or hear you. That creature can use its Reaction to move up to half its Speed without provoking an [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) from the target of your attack.
+When you hit a creature with an attack roll, you can expend one Superiority Die to maneuver one of your comrades into another position. Add the Superiority Die roll to the attack's damage roll, and choose a willing creature who can see or hear you. That creature can use its Reaction to move up to half its Speed without provoking an [Opportunity Attacks](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) from the target of your attack.
 
 #### Menacing Attack
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack’s damage roll. The target must succeed on a Wisdom saving throw or have the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the end of your next turn.
+When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the end of your next turn.
 
 #### Parry
 
@@ -238,7 +238,7 @@ When you miss with an attack roll, you can expend one Superiority Die, roll that
 
 #### Pushing Attack
 
-When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack’s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
+When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
 
 #### Rally
 
@@ -246,7 +246,7 @@ As a Bonus Action, you can expend one Superiority Die to bolster the resolve of 
 
 #### Riposte
 
-When a creature misses you with a melee attack roll, you can take a Reaction and expend one Superiority Die to make a melee attack roll with a weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike) against the creature. If you hit, add the Superiority Die to the attack’s damage.
+When a creature misses you with a melee attack roll, you can take a Reaction and expend one Superiority Die to make a melee attack roll with a weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike) against the creature. If you hit, add the Superiority Die to the attack's damage.
 
 #### Sweeping Attack
 
@@ -258,7 +258,7 @@ When you make an Intelligence ([History](/sources/dnd/free-rules/playing-the-gam
 
 #### Trip Attack
 
-When you hit a creature with an attack roll using a weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), you can expend one Superiority Die and add the die to the attack’s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
+When you hit a creature with an attack roll using a weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike), you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
 
 ### Champion
 
@@ -306,7 +306,7 @@ Eldritch Knights combine the martial mastery common to all Fighters with a caref
 
 You have learned to cast spells. See [chapter 7](https://www.dndbeyond.com/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules as an Eldritch Knight.
 
-**Cantrips.** You know two cantrips of your choice from the [Wizard spell list](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued#WizardSpellList) (see that class’s section for its list). [Ray of Frost](/spells/2618930-ray-of-frost) and [Shocking Grasp](/spells/2618986-shocking-grasp) are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
+**Cantrips.** You know two cantrips of your choice from the [Wizard spell list](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued#WizardSpellList) (see that class's section for its list). [Ray of Frost](/spells/2618930-ray-of-frost) and [Shocking Grasp](/spells/2618986-shocking-grasp) are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
 
 When you reach Fighter level 10, you learn another Wizard cantrip of your choice.
 
@@ -338,7 +338,7 @@ When you reach Fighter level 10, you learn another Wizard cantrip of your choice
 
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the [Wizard spell list](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued#WizardSpellList). [Burning Hands](/spells/2618946-burning-hands), [Jump](/spells/2618991-jump), and [Shield](/spells/2619019-shield) are recommended.
 
-The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 
 ***Changing Your Prepared Spells.*** Whenever you gain a Fighter level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 
@@ -350,7 +350,7 @@ The number of spells on your list increases as you gain Fighter levels, as shown
 
 You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest). The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. The bond fails if another Fighter is bonded to the weapon or if the weapon is a magic item to which someone else is attuned.
 
-Once you have bonded a weapon to yourself, you can’t be disarmed of that weapon unless you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. If it is on the same plane of existence, you can summon that weapon as a Bonus Action, causing it to teleport instantly to your hand.
+Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. If it is on the same plane of existence, you can summon that weapon as a Bonus Action, causing it to teleport instantly to your hand.
 
 You can have up to two bonded weapons, but you can summon only one at a time with a Bonus Action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
@@ -360,7 +360,7 @@ When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) 
 
 #### Level 10: Eldritch Strike
 
-You learn how to make your weapon strikes undercut a creature’s ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on the next saving throw it makes against a spell you cast before the end of your next turn.
+You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on the next saving throw it makes against a spell you cast before the end of your next turn.
 
 #### Level 15: Arcane Charge
 
@@ -393,7 +393,7 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 | 13 | D10 | 10 |
 | 17 | D12 | 12 |
 
-Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die, as specified in a power’s description, and you can’t use a power if it requires you to use a die when all your Psionic Energy Dice are expended.
+Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend the Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when all your Psionic Energy Dice are expended.
 
 You regain one of your expended Psionic Energy Dice when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), and you regain all of them when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
@@ -404,13 +404,13 @@ You regain one of your expended Psionic Energy Dice when you finish a [Short Res
 
 ***Telekinetic Movement.*** You can move an object or a creature with your mind. As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
 
-Once you take this action, you can’t do so again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+Once you take this action, you can't do so again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 #### Level 7: Telekinetic Adept
 
 You have mastered new ways to use your telekinetic abilities, detailed below.
 
-***Psi-Powered Leap.*** As a Bonus Action, you gain a Fly Speed equal to twice your Speed until the end of the current turn. Once you take this Bonus Action, you can’t do so again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+***Psi-Powered Leap.*** As a Bonus Action, you gain a Fly Speed equal to twice your Speed until the end of the current turn. Once you take this Bonus Action, you can't do so again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ***Telekinetic Thrust.*** When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC 8 plus your Intelligence modifier and Proficiency Bonus). On a failed save, you can give the target the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition or transport it up to 10 feet horizontally.
 
@@ -422,10 +422,10 @@ You have Resistance to Psychic damage. Moreover, if you start your turn with the
 
 You can shield yourself and others with telekinetic force. As a Bonus Action, you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [Half Cover](/sources/dnd/free-rules/rules-glossary#Cover) for 1 minute or until you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
-Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 #### Level 18: Telekinetic Master
 
 You always have the [Telekinesis](/spells/2619157-telekinesis) spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.
 
-Once you cast the spell with this feature, you can’t do so in this way again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.

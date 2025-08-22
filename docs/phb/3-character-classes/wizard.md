@@ -9,9 +9,9 @@
     | Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple weapons |
     | Armor Training | None |
-    | Starting Equipment | *Choose A or B:* (A) 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([Quarterstaff](/equipment/12-quarterstaff)), [Robe](/equipment/412-robe), [Spellbook](/equipment/86-spellbook), [Scholar’s Pack](/equipment/418-scholars-pack), and 5 GP; or (B) 55 GP |
+    | Starting Equipment | *Choose A or B:* (A) 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([Quarterstaff](/equipment/12-quarterstaff)), [Robe](/equipment/412-robe), [Spellbook](/equipment/86-spellbook), [Scholar's Pack](/equipment/418-scholars-pack), and 5 GP; or (B) 55 GP |
 
-Wizards are defined by their exhaustive study of magic’s inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
+Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 
 Most Wizards share a scholarly approach to magic. They examine the theoretical underpinnings of magic, particularly the categorization of spells into schools of magic. Renowned Wizards such as Bigby, Tasha, Mordenkainen, and Yolande have built on their studies to invent iconic spells now used across the multiverse.
 
@@ -24,12 +24,12 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 ### As a Level 1 Character
 
 * Gain all the traits in the [Core Wizard Traits table](#CoreWizardTraits).
-* Gain the Wizard’s level 1 features, which are listed in the [Wizard Features table](#WizardFeatures).
+* Gain the Wizard's level 1 features, which are listed in the [Wizard Features table](#WizardFeatures).
 
 ### As a Multiclass Character
 
 * Gain the Hit Point Die from the [Core Wizard Traits table](#CoreWizardTraits).
-* Gain the Wizard’s level 1 features, which are listed in the [Wizard Features table](#WizardFeatures). See the multiclassing rules in chapter 2 to determine your available spell slots.
+* Gain the Wizard's level 1 features, which are listed in the [Wizard Features table](#WizardFeatures). See the multiclassing rules in chapter 2 to determine your available spell slots.
 
 ## Wizard Class Features
 
@@ -62,13 +62,13 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-As a student of arcane magic, you have learned to cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class’s description.
+As a student of arcane magic, you have learned to cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class's description.
 
 ***Cantrips.*** You know three Wizard cantrips of your choice. [Light](/spells/2618996-light), [Mage Hand](/spells/2619008-mage-hand), and [Ray of Frost](/spells/2618930-ray-of-frost) are recommended. Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the [Wizard Features table](#WizardFeatures).
 
-***Spellbook.*** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [Identify](/spells/2619180-identify). You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+***Spellbook.*** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [Identify](/spells/2619180-identify). You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
 The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Magic](/spells/2619097-detect-magic), [Feather Fall](/spells/2618874-feather-fall), [Mage Armor](/spells/2619006-mage-armor), [Magic Missile](/spells/2619022-magic-missile), [Sleep](/spells/2619064-sleep), and [Thunderwave](/spells/2619184-thunderwave) are recommended.
 
@@ -78,9 +78,9 @@ Whenever you gain a Wizard level after 1, add two Wizard spells of your choice t
 
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
 
-The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the [Wizard Features table](#WizardFeatures). Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
+The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the [Wizard Features table](#WizardFeatures). Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
 
-If another Wizard feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
+If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
 
 ***Changing Your Prepared Spells.*** Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
 
@@ -92,7 +92,7 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
     The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [Spell Scroll](/magic-items/9229085-spell-scroll), for example, and then copy it into your spellbook.
 
-    ***Copying a Spell into the Book.*** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it’s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
+    ***Copying a Spell into the Book.*** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
 
     ***Copying the Book.*** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
 
@@ -100,13 +100,13 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
 ### Level 1: Ritual Adept
 
-You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn’t have the spell prepared, but you must read from the book to cast a spell in this way.
+You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
 
 ### Level 1: Arcane Recovery
 
-You can regain some of your magical energy by studying your spellbook. When you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you’re a level 4 Wizard, you can recover up to two levels’ worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
+You can regain some of your magical energy by studying your spellbook. When you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
-Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Level 2: Scholar
 
@@ -114,7 +114,7 @@ While studying magic, you also specialized in another field of study. Choose one
 
 ### Level 3: Wizard Subclass
 
-You gain a Wizard subclass of your choice. The [Abjurer](#Abjurer), [Diviner](#Diviner), [Evoker](#Evoker), and [Illusionist](#Illusionist) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
+You gain a Wizard subclass of your choice. The [Abjurer](#Abjurer), [Diviner](#Diviner), [Evoker](#Evoker), and [Illusionist](#Illusionist) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -136,11 +136,11 @@ You gain an Epic Boon feat (see [chapter 5](/sources/dnd/phb-2024/feats#EpicBoon
 
 ### Level 20: Signature Spells
 
-Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). To cast either spell at a higher level, you must expend a spell slot.
+Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). To cast either spell at a higher level, you must expend a spell slot.
 
 ## Wizard Spell List
 
-This section presents the Wizard spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+This section presents the Wizard spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 
 
 ### Cantrips (Level 0 Wizard Spells)
@@ -201,8 +201,8 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Shield](/spells/2619019-shield) | Abjuration | — |
 | [Silent Image](/spells/2619062-silent-image) | Illusion | C |
 | [Sleep](/spells/2619064-sleep) | Enchantment | C |
-| [Tasha’s Hideous Laughter](/spells/2619132-tashas-hideous-laughter) | Enchantment | C |
-| [Tenser’s Floating Disk](/spells/2619169-tensers-floating-disk) | Conjuration | R |
+| [Tasha's Hideous Laughter](/spells/2619132-tashas-hideous-laughter) | Enchantment | C |
+| [Tenser's Floating Disk](/spells/2619169-tensers-floating-disk) | Conjuration | R |
 | [Thunderwave](/spells/2619184-thunderwave) | Evocation | — |
 | [Unseen Servant](/spells/2619209-unseen-servant) | Conjuration | R |
 | [Witch Bolt](/spells/2619215-witch-bolt) | Evocation | C |
@@ -225,7 +225,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Darkness](/spells/2619080-darkness) | Evocation | C |
 | [Darkvision](/spells/2619082-darkvision) | Transmutation | — |
 | [Detect Thoughts](/spells/2619099-detect-thoughts) | Divination | C |
-| [Dragon’s Breath](/spells/2619150-dragons-breath) | Transmutation | C |
+| [Dragon's Breath](/spells/2619150-dragons-breath) | Transmutation | C |
 | [Enhance Ability](/spells/2619165-enhance-ability) | Transmutation | C |
 | [Enlarge/Reduce](/spells/2619170-enlarge-reduce) | Transmutation | C |
 | [Flaming Sphere](/spells/2618919-flaming-sphere) | Evocation | C |
@@ -238,11 +238,11 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Locate Object](/spells/2619002-locate-object) | Divination | C |
 | [Magic Mouth](/spells/2619023-magic-mouth) | Illusion | R, M |
 | [Magic Weapon](/spells/2619024-magic-weapon) | Transmutation | — |
-| [Melf’s Acid Arrow](/spells/2619032-melfs-acid-arrow) | Evocation | — |
+| [Melf's Acid Arrow](/spells/2619032-melfs-acid-arrow) | Evocation | — |
 | [Mind Spike](/spells/2619038-mind-spike) | Divination | C |
 | [Mirror Image](/spells/2619060-mirror-image) | Illusion | — |
 | [Misty Step](/spells/2619133-misty-step) | Conjuration | — |
-| [Nystul’s Magic Aura](/spells/2619124-nystuls-magic-aura) | Illusion | — |
+| [Nystul's Magic Aura](/spells/2619124-nystuls-magic-aura) | Illusion | — |
 | [Phantasmal Force](/spells/2618854-phantasmal-force) | Illusion | C |
 | [Ray of Enfeeblement](/spells/2618926-ray-of-enfeeblement) | Necromancy | C |
 | [Rope Trick](/spells/2618962-rope-trick) | Transmutation | — |
@@ -273,7 +273,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Glyph of Warding](/spells/2618951-glyph-of-warding) | Abjuration | M |
 | [Haste](/spells/2619141-haste) | Transmutation | C |
 | [Hypnotic Pattern](/spells/2619168-hypnotic-pattern) | Illusion | C |
-| [Leomund’s Tiny Hut](/spells/2619013-leomunds-tiny-hut) | Evocation | R |
+| [Leomund's Tiny Hut](/spells/2619013-leomunds-tiny-hut) | Evocation | R |
 | [Lightning Bolt](/spells/2618999-lightning-bolt) | Evocation | — |
 | [Magic Circle](/spells/2619018-magic-circle) | Abjuration | M |
 | [Major Image](/spells/2619025-major-image) | Illusion | C |
@@ -307,17 +307,17 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Control Water](/spells/2619070-control-water) | Transmutation | C |
 | [Dimension Door](/spells/2619100-dimension-door) | Conjuration | — |
 | [Divination](/spells/2619140-divination) | Divination | R, M |
-| [Evard’s Black Tentacles](/spells/2619187-evards-black-tentacles) | Conjuration | C |
+| [Evard's Black Tentacles](/spells/2619187-evards-black-tentacles) | Conjuration | C |
 | [Fabricate](/spells/2618848-fabricate) | Transmutation | — |
 | [Fire Shield](/spells/2618894-fire-shield) | Evocation | — |
 | [Greater Invisibility](/spells/2618958-greater-invisibility) | Illusion | C |
 | [Hallucinatory Terrain](/spells/2619139-hallucinatory-terrain) | Illusion | — |
 | [Ice Storm](/spells/2619178-ice-storm) | Evocation | — |
-| [Leomund’s Secret Chest](/spells/2619012-leomunds-secret-chest) | Conjuration | M |
+| [Leomund's Secret Chest](/spells/2619012-leomunds-secret-chest) | Conjuration | M |
 | [Locate Creature](/spells/2619001-locate-creature) | Divination | C |
-| [Mordenkainen’s Faithful Hound](/spells/2619110-mordenkainens-faithful-hound) | Conjuration | — |
-| [Mordenkainen’s Private Sanctum](/spells/2619114-mordenkainens-private-sanctum) | Abjuration | — |
-| [Otiluke’s Resilient Sphere](/spells/2619128-otilukes-resilient-sphere) | Abjuration | C |
+| [Mordenkainen's Faithful Hound](/spells/2619110-mordenkainens-faithful-hound) | Conjuration | — |
+| [Mordenkainen's Private Sanctum](/spells/2619114-mordenkainens-private-sanctum) | Abjuration | — |
+| [Otiluke's Resilient Sphere](/spells/2619128-otilukes-resilient-sphere) | Abjuration | C |
 | [Phantasmal Killer](/spells/2618857-phantasmal-killer) | Illusion | C |
 | [Polymorph](/spells/2618876-polymorph) | Transmutation | C |
 | [Stone Shape](/spells/2619092-stone-shape) | Transmutation | — |
@@ -334,7 +334,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Spell | School | Special |
 | --- | --- | --- |
 | [Animate Objects](/spells/2618855-animate-objects) | Transmutation | C |
-| [Bigby’s Hand](/spells/2618928-bigbys-hand) | Evocation | C |
+| [Bigby's Hand](/spells/2618928-bigbys-hand) | Evocation | C |
 | [Circle of Power](/spells/2618970-circle-of-power) | Abjuration | C |
 | [Cloudkill](/spells/2618976-cloudkill) | Conjuration | C |
 | [Cone of Cold](/spells/2619042-cone-of-cold) | Evocation | — |
@@ -345,13 +345,13 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Dream](/spells/2619156-dream) | Illusion | — |
 | [Geas](/spells/2618940-geas) | Enchantment | — |
 | [Hold Monster](/spells/2619152-hold-monster) | Enchantment | C |
-| [Jallarzi’s Storm of Radiance](/spells/2618836-jallarzis-storm-of-radiance) | Evocation | C |
+| [Jallarzi's Storm of Radiance](/spells/2618836-jallarzis-storm-of-radiance) | Evocation | C |
 | [Legend Lore](/spells/2619010-legend-lore) | Divination | M |
 | [Mislead](/spells/2619131-mislead) | Illusion | C |
 | [Modify Memory](/spells/2619109-modify-memory) | Enchantment | C |
 | [Passwall](/spells/2618852-passwall) | Transmutation | — |
 | [Planar Binding](/spells/2618864-planar-binding) | Abjuration | M |
-| [Rary’s Telepathic Bond](/spells/2618925-rarys-telepathic-bond) | Divination | R |
+| [Rary's Telepathic Bond](/spells/2618925-rarys-telepathic-bond) | Divination | R |
 | [Scrying](/spells/2619007-scrying) | Divination | C, M |
 | [Seeming](/spells/2619014-seeming) | Illusion | — |
 | [Steel Wind Strike](/spells/2619087-steel-wind-strike) | Conjuration | M |
@@ -361,7 +361,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Teleportation Circle](/spells/2619167-teleportation-circle) | Conjuration | M |
 | [Wall of Force](/spells/2619194-wall-of-force) | Evocation | C |
 | [Wall of Stone](/spells/2619200-wall-of-stone) | Evocation | C |
-| [Yolande’s Regal Presence](/spells/2618842-yolandes-regal-presence) | Enchantment | C |
+| [Yolande's Regal Presence](/spells/2618842-yolandes-regal-presence) | Enchantment | C |
 
 
 ### Level 6 Wizard Spells
@@ -375,7 +375,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Contingency](/spells/2619053-contingency) | Abjuration | M |
 | [Create Undead](/spells/2619076-create-undead) | Necromancy | M |
 | [Disintegrate](/spells/2619094-disintegrate) | Transmutation | — |
-| [Drawmij’s Instant Summons](/spells/2619154-drawmijs-instant-summons) | Conjuration | R, M |
+| [Drawmij's Instant Summons](/spells/2619154-drawmijs-instant-summons) | Conjuration | R, M |
 | [Eyebite](/spells/2619191-eyebite) | Necromancy | C |
 | [Flesh to Stone](/spells/2618905-flesh-to-stone) | Transmutation | C |
 | [Globe of Invulnerability](/spells/2618950-globe-of-invulnerability) | Abjuration | C |
@@ -383,12 +383,12 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Magic Jar](/spells/2619021-magic-jar) | Necromancy | M |
 | [Mass Suggestion](/spells/2619029-mass-suggestion) | Enchantment | — |
 | [Move Earth](/spells/2619120-move-earth) | Transmutation | C |
-| [Otiluke’s Freezing Sphere](/spells/2619126-otilukes-freezing-sphere) | Evocation | — |
-| [Otto’s Irresistible Dance](/spells/2619130-ottos-irresistible-dance) | Enchantment | C |
+| [Otiluke's Freezing Sphere](/spells/2619126-otilukes-freezing-sphere) | Evocation | — |
+| [Otto's Irresistible Dance](/spells/2619130-ottos-irresistible-dance) | Enchantment | C |
 | [Programmed Illusion](/spells/2618902-programmed-illusion) | Illusion | M |
 | [Summon Fiend](/spells/2619117-summon-fiend) | Conjuration | C, M |
 | [Sunbeam](/spells/2619121-sunbeam) | Evocation | C |
-| [Tasha’s Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron) | Conjuration | M |
+| [Tasha's Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron) | Conjuration | M |
 | [True Seeing](/spells/2619201-true-seeing) | Divination | M |
 | [Wall of Ice](/spells/2619195-wall-of-ice) | Evocation | C |
 
@@ -402,8 +402,8 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | [Finger of Death](/spells/2618885-finger-of-death) | Necromancy | — |
 | [Forcecage](/spells/2618916-forcecage) | Evocation | C, M |
 | [Mirage Arcane](/spells/2619040-mirage-arcane) | Illusion | — |
-| [Mordenkainen’s Magnificent Mansion](/spells/2619112-mordenkainens-magnificent-mansion) | Conjuration | M |
-| [Mordenkainen’s Sword](/spells/2619118-mordenkainens-sword) | Evocation | C, M |
+| [Mordenkainen's Magnificent Mansion](/spells/2619112-mordenkainens-magnificent-mansion) | Conjuration | M |
+| [Mordenkainen's Sword](/spells/2619118-mordenkainens-sword) | Evocation | C, M |
 | [Plane Shift](/spells/2618867-plane-shift) | Conjuration | M |
 | [Prismatic Spray](/spells/2618895-prismatic-spray) | Evocation | — |
 | [Project Image](/spells/2618903-project-image) | Illusion | C, M |
@@ -470,21 +470,21 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 #### Level 3: Arcane Ward
 
-You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell’s magic to create a magical ward on yourself that lasts until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). The ward has a Hit Point maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward’s Hit Points. If the damage reduces the ward to 0 Hit Points, you take any remaining damage. While the ward has 0 Hit Points, it can’t absorb damage, but its magic remains.
+You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). The ward has a Hit Point maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's Hit Points. If the damage reduces the ward to 0 Hit Points, you take any remaining damage. While the ward has 0 Hit Points, it can't absorb damage, but its magic remains.
 
 Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of Hit Points equal to twice the level of the spell slot. Alternatively, as a Bonus Action, you can expend a spell slot, and the ward regains a number of Hit Points equal to twice the level of the spell slot expended.
 
-Once you create the ward, you can’t create it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+Once you create the ward, you can't create it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 #### Level 6: Projected Ward
 
-When a creature that you can see within 30 feet of yourself takes damage, you can take a Reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 Hit Points, the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward’s Hit Points.
+When a creature that you can see within 30 feet of yourself takes damage, you can take a Reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 Hit Points, the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward's Hit Points.
 
 #### Level 10: Spell Breaker
 
 You always have the [Counterspell](/spells/2619072-counterspell) and [Dispel Magic](/spells/2619103-dispel-magic) spells prepared. In addition, you can cast *Dispel Magic* as a Bonus Action, and you can add your Proficiency Bonus to its ability check.
 
-When you cast either spell with a spell slot, that slot isn’t expended if the spell fails to stop a spell.
+When you cast either spell with a spell slot, that slot isn't expended if the spell fails to stop a spell.
 
 #### Level 14: Spell Resistance
 
@@ -510,11 +510,11 @@ Each foretelling roll can be used only once. When you finish a Long Rest, you lo
 
 #### Level 6: Expert Divination
 
-Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a Divination spell using a level 2+ spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the slot you expended and can’t be higher than level 5.
+Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a Divination spell using a level 2+ spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the slot you expended and can't be higher than level 5.
 
 #### Level 10: The Third Eye
 
-You can increase your powers of perception. As a Bonus Action, choose one of the following benefits, which lasts until you start a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can’t use this feature again until you finish a Short or Long Rest.
+You can increase your powers of perception. As a Bonus Action, choose one of the following benefits, which lasts until you start a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can't use this feature again until you finish a Short or Long Rest.
 
 ***Darkvision.*** You gain [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 120 feet.
 
@@ -540,11 +540,11 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 #### Level 3: Potent Cantrip
 
-Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip’s damage (if any) but suffers no additional effect from the cantrip.
+Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
 
 #### Level 6: Sculpt Spells
 
-You can create pockets of relative safety within the effects of your evocations. When you cast an Evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 plus the spell’s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+You can create pockets of relative safety within the effects of your evocations. When you cast an Evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 plus the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
 
 #### Level 10: Empowered Evocation
 
@@ -574,18 +574,18 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.
 
-You also know the [Minor Illusion](/spells/2619039-minor-illusion) cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn’t count against your number of cantrips known. You can create both a sound and an image with a single casting of *Minor Illusion*, and you can cast it as a Bonus Action.
+You also know the [Minor Illusion](/spells/2619039-minor-illusion) cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of *Minor Illusion*, and you can cast it as a Bonus Action.
 
 #### Level 6: Phantasmal Creatures
 
-You always have the [Summon Beast](/spells/2619106-summon-beast) and [Summon Fey](/spells/2619115-summon-fey) spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature’s Hit Points. Once you cast either spell without a spell slot, you must finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) before you can cast the spell in that way again.
+You always have the [Summon Beast](/spells/2619106-summon-beast) and [Summon Fey](/spells/2619115-summon-fey) spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature's Hit Points. Once you cast either spell without a spell slot, you must finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) before you can cast the spell in that way again.
 
 #### Level 10: Illusory Self
 
 When a creature hits you with an attack roll, you can take a Reaction to interpose an illusory duplicate of yourself between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
 
-Once you use this feature, you can’t use it again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 2+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 2+ spell slot (no action required).
 
 #### Level 14: Illusory Reality
 
-You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a Bonus Action while the spell is ongoing. The object remains real for 1 minute, during which it can’t deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it.
+You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a Bonus Action while the spell is ongoing. The object remains real for 1 minute, during which it can't deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it.

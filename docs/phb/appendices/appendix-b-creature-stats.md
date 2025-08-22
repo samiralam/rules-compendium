@@ -427,7 +427,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Traits
 
-***Pack Tactics.*** The wolf has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+***Pack Tactics.*** The wolf has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
 ### Actions
 
@@ -567,7 +567,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ***Amphibious.*** The frog can breathe air and water.
 
-***Standing Leap.*** The frog’s [Long Jump](/sources/dnd/free-rules/rules-glossary#LongJump) is up to 10 feet and its [High Jump](/sources/dnd/free-rules/rules-glossary#HighJump) is up to 5 feet with or without a running start.
+***Standing Leap.*** The frog's [Long Jump](/sources/dnd/free-rules/rules-glossary#LongJump) is up to 10 feet and its [High Jump](/sources/dnd/free-rules/rules-glossary#HighJump) is up to 5 feet with or without a running start.
 
 ### Actions
 
@@ -894,7 +894,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Traits
 
-***Devil’s Sight.*** Magical Darkness doesn’t impede the imp’s [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision).
+***Devil's Sight.*** Magical Darkness doesn't impede the imp's [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision).
 
 ***Magic Resistance.*** The imp has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on saving throws against spells and other magical effects.
 
@@ -904,7 +904,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ***Invisibility.*** The imp casts [Invisibility](/spells/2619116-invisibility) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
-***Shape-Shift.*** The imp shape-shifts to resemble a [rat](/monsters/4775836-rat) (Speed 20 ft.), a [raven](/monsters/4775837-raven) (20 ft., Fly 60 ft.), or a [spider](/monsters/4775844-spider) (20 ft., Climb 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it’s wearing or carrying isn’t transformed.
+***Shape-Shift.*** The imp shape-shifts to resemble a [rat](/monsters/4775836-rat) (Speed 20 ft.), a [raven](/monsters/4775837-raven) (20 ft., Fly 60 ft.), or a [spider](/monsters/4775844-spider) (20 ft., Climb 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it's wearing or carrying isn't transformed.
 
 
 [Lion](/monsters/4775826-lion)
@@ -937,7 +937,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Traits
 
-***Pack Tactics.*** The lion has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the lion’s allies is within 5 feet of the creature and the ally doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+***Pack Tactics.*** The lion has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
 ***Running Leap.*** With a 10-foot running start, the lion can [Long Jump](/sources/dnd/free-rules/rules-glossary#LongJump) up to 25 feet.
 
@@ -947,7 +947,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage.
 
-***Roar.*** *Wisdom Saving Throw:* DC 11, one creature within 15 feet. *Failure:* The target has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the start of the lion’s next turn.
+***Roar.*** *Wisdom Saving Throw:* DC 11, one creature within 15 feet. *Failure:* The target has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the start of the lion's next turn.
 
 
 [Lizard](/monsters/4775827-lizard)
@@ -1126,7 +1126,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Traits
 
-***Flyby.*** The owl doesn’t provoke [Opportunity Attack](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) action when it flies out of an enemy’s reach.
+***Flyby.*** The owl doesn't provoke [Opportunity Attack](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) action when it flies out of an enemy's reach.
 
 ### Actions
 
@@ -1225,7 +1225,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 **Senses** [Blindsight](/sources/dnd/free-rules/rules-glossary#Blindsight) 10 ft., [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 15
 
-**Languages** Understands Common and Draconic but can’t speak
+**Languages** Understands Common and Draconic but can't speak
 
 **CR** 1/4 (XP 50; PB +2)
 
@@ -1280,13 +1280,13 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Actions
 
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing damage, and the target has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition until the start of the quasit’s next turn.
+***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing damage, and the target has the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition until the start of the quasit's next turn.
 
 ***Invisibility.*** The quasit casts [Invisibility](/spells/2619116-invisibility) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
 ***Scare (1/Day).*** *Wisdom Saving Throw:* DC 10, one creature within 20 feet. *Failure:* The target has the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
 
-***Shape-Shift.*** The quasit [shape-shifts](/sources/dnd/free-rules/rules-glossary#ShapeShifting) to resemble a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it’s wearing or carrying isn’t transformed.
+***Shape-Shift.*** The quasit [shape-shifts](/sources/dnd/free-rules/rules-glossary#ShapeShifting) to resemble a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it's wearing or carrying isn't transformed.
 
 
 
@@ -1320,7 +1320,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Traits
 
-***Agile.*** The rat doesn’t provoke [Opportunity Attack](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) action when it moves out of an enemy’s reach.
+***Agile.*** The rat doesn't provoke [Opportunity Attack](/sources/dnd/free-rules/rules-glossary#OpportunityAttack) action when it moves out of an enemy's reach.
 
 ### Actions
 
@@ -1394,7 +1394,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Traits
 
-***Pack Tactics.*** The shark has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the shark’s allies is within 5 feet of the creature and the ally doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+***Pack Tactics.*** The shark has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
@@ -1493,7 +1493,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 9
 
-**Languages** Understands the languages it knew in life but can’t speak
+**Languages** Understands the languages it knew in life but can't speak
 
 **CR** 1/4 (XP 50; PB +2)
 
@@ -1530,7 +1530,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 7
 
-**Languages** Understands Slaad but can’t speak
+**Languages** Understands Slaad but can't speak
 
 **CR** 1/8 (XP 25; PB +2)
 
@@ -1658,9 +1658,9 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ***Needle Sword.*** *Melee Attack Roll:* +6, reach 5 ft. *Hit:* 6 (1d4 + 4) Piercing damage.
 
-***Enchanting Bow.*** *Ranged Attack Roll:* +6, range 40/160 ft. *Hit:* 1 Piercing damage, and the target has the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition until the start of the sprite’s next turn.
+***Enchanting Bow.*** *Ranged Attack Roll:* +6, range 40/160 ft. *Hit:* 1 Piercing damage, and the target has the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition until the start of the sprite's next turn.
 
-***Heart Sight.*** *Charisma Saving Throw:* DC 10, one creature within 5 feet the sprite can see. Celestials, Fiends, and Undead automatically fail the save. *Failure:* The sprite knows the target’s emotions and alignment.
+***Heart Sight.*** *Charisma Saving Throw:* DC 10, one creature within 5 feet the sprite can see. Celestials, Fiends, and Undead automatically fail the save. *Failure:* The sprite knows the target's emotions and alignment.
 
 ***Invisibility.*** The sprite casts [Invisibility](/spells/2619116-invisibility) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
@@ -1827,7 +1827,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 ### Traits
 
-***Pack Tactics.*** The wolf has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally doesn’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+***Pack Tactics.*** The wolf has [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
 ### Actions
 
@@ -1858,7 +1858,7 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 
 **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 8
 
-**Languages** Understands the languages it knew in life but can’t speak
+**Languages** Understands the languages it knew in life but can't speak
 
 **CR** 1/4 (XP 50; PB +2)
 

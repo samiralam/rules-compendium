@@ -9,25 +9,25 @@
     | Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [Deception](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple weapons |
     | Armor Training | None |
-    | Starting Equipment | *Choose A or B:*(A) [Spear](/equipment/14-spear), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([crystal](/equipment/523-crystal)), [Dungeoneer’s Pack](/equipment/525-dungeoneers-pack), and 28 GP; or (B) 50 GP |
+    | Starting Equipment | *Choose A or B:*(A) [Spear](/equipment/14-spear), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([crystal](/equipment/523-crystal)), [Dungeoneer's Pack](/equipment/525-dungeoneers-pack), and 28 GP; or (B) 50 GP |
 
-Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can’t name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby’s birth or the strike of lightning from a clear sky might spark a Sorcerer’s gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.
+Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby's birth or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.
 
-Sorcerers don’t learn magic; the raw, roiling power of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect its source.
+Sorcerers don't learn magic; the raw, roiling power of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect its source.
 
-Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn’t like to stay quiet. A Sorcerer’s magic wants to be wielded.
+Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn't like to stay quiet. A Sorcerer's magic wants to be wielded.
 
 ## Becoming a Sorcerer...
 
 ### As a Level 1 Character
 
 * Gain all the traits in the [Core Sorcerer Traits table](#CoreSorcererTraits).
-* Gain the Sorcerer’s level 1 features, which are listed in the [Sorcerer Features table](#SorcererFeatures).
+* Gain the Sorcerer's level 1 features, which are listed in the [Sorcerer Features table](#SorcererFeatures).
 
 ### As a Multiclass Character
 
 * Gain the Hit Point Die from the [Core Sorcerer Traits table](#CoreSorcererTraits).
-* Gain the Sorcerer’s level 1 features, which are listed in the [Sorcerer Features table](#SorcererFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
+* Gain the Sorcerer's level 1 features, which are listed in the [Sorcerer Features table](#SorcererFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
 
 ## Sorcerer Class Features
 
@@ -60,7 +60,7 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ### Level 1: Spellcasting
 
-Drawing from your innate magic, you can cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](#SorcererSpellList) later in the class’s description.
+Drawing from your innate magic, you can cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](#SorcererSpellList) later in the class's description.
 
 ***Cantrips.*** You know four Sorcerer cantrips of your choice. [Light](/spells/2618996-light), [Prestidigitation](/spells/2618893-prestidigitation), [Shocking Grasp](/spells/2618986-shocking-grasp), and [Sorcerous Burst](/spells/2618839-sorcerous-burst) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
@@ -70,9 +70,9 @@ When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of y
 
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [Burning Hands](/spells/2618946-burning-hands) and [Detect Magic](/spells/2619097-detect-magic) are recommended.
 
-The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the [Sorcerer Features table](#SorcererFeatures). Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
+The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the [Sorcerer Features table](#SorcererFeatures). Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 
-If another Sorcerer feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
+If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
 
 ***Changing Your Prepared Spells.*** Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
 
@@ -93,11 +93,11 @@ You can use this feature twice, and you regain all expended uses of it when you 
 
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
-You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the [Sorcerer Features table](#SorcererFeatures). You can’t have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the [Sorcerer Features table](#SorcererFeatures). You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
 
-***Converting Spell Slots to Sorcery Points.*** You can expend a spell slot to gain a number of Sorcery Points equal to the slot’s level (no action required).
+***Converting Spell Slots to Sorcery Points.*** You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
 
 ***Creating Spell Slots.*** As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
@@ -117,15 +117,15 @@ Any spell slot you create with this feature vanishes when you finish a [Long Res
 
 ### Level 2: Metamagic
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "[Metamagic Options](#MetamagicOptions)" later in this class’s description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "[Metamagic Options](#MetamagicOptions)" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
-Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
 
 ### Level 3: Sorcerer Subclass
 
-You gain a Sorcerer subclass of your choice. The [Aberrant Sorcery](#AberrantSorcery), [Clockwork Sorcery](#ClockworkSorcery), [Draconic Sorcery](#DraconicSorcery), and [Wild Magic Sorcery](#WildMagicSorcery) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
+You gain a Sorcerer subclass of your choice. The [Aberrant Sorcery](#AberrantSorcery), [Clockwork Sorcery](#ClockworkSorcery), [Draconic Sorcery](#DraconicSorcery), and [Wild Magic Sorcery](#WildMagicSorcery) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -133,7 +133,7 @@ You gain the Ability Score Improvement feat (see [chapter 5](/sources/dnd/phb-20
 
 ### Level 5: Sorcerous Restoration
 
-When you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+When you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Level 7: Sorcery Incarnate
 
@@ -157,13 +157,13 @@ The following options are available to your [Metamagic feature](#Level2Metamagic
 
 *Cost: 1 Sorcery Point*
 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
+When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
 
 #### Distant Spell
 
 *Cost: 1 Sorcery Point*
 
-When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell’s range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell’s range 30 feet.
+When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell's range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell's range 30 feet.
 
 #### Empowered Spell
 
@@ -171,7 +171,7 @@ When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorce
 
 When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls.
 
-You can use Empowered Spell even if you’ve already used a different Metamagic option during the casting of the spell.
+You can use Empowered Spell even if you've already used a different Metamagic option during the casting of the spell.
 
 #### Extended Spell
 
@@ -191,7 +191,7 @@ When you cast a spell that forces a creature to make a saving throw, you can spe
 
 *Cost: 2 Sorcery Points*
 
-When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can’t modify a spell in this way if you’ve already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
 #### Seeking Spell
 
@@ -199,7 +199,7 @@ When you cast a spell that has a casting time of an action, you can spend 2 Sorc
 
 If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll.
 
-You can use Seeking Spell even if you’ve already used a different Metamagic option during the casting of the spell.
+You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.
 
 #### Subtle Spell
 
@@ -217,11 +217,11 @@ When you cast a spell that deals a type of damage from the following list, you c
 
 *Cost: 1 Sorcery Point*
 
-When you cast a spell, such as [Charm Person](/spells/2618964-charm-person), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell’s effective level by 1.
+When you cast a spell, such as [Charm Person](/spells/2618964-charm-person), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
 
 ## Sorcerer Spell List
 
-This section presents the Sorcerer spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+This section presents the Sorcerer spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 
 
 ### Cantrips (Level 0 Sorcerer Spells)
@@ -294,7 +294,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [Darkness](/spells/2619080-darkness) | Evocation | C |
 | [Darkvision](/spells/2619082-darkvision) | Transmutation | — |
 | [Detect Thoughts](/spells/2619099-detect-thoughts) | Divination | C |
-| [Dragon’s Breath](/spells/2619150-dragons-breath) | Transmutation | C |
+| [Dragon's Breath](/spells/2619150-dragons-breath) | Transmutation | C |
 | [Enhance Ability](/spells/2619165-enhance-ability) | Transmutation | C |
 | [Enlarge/Reduce](/spells/2619170-enlarge-reduce) | Transmutation | C |
 | [Flame Blade](/spells/2618899-flame-blade) | Evocation | C |
@@ -371,7 +371,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Spell | School | Special |
 | --- | --- | --- |
 | [Animate Objects](/spells/2618855-animate-objects) | Transmutation | C |
-| [Bigby’s Hand](/spells/2618928-bigbys-hand) | Evocation | C |
+| [Bigby's Hand](/spells/2618928-bigbys-hand) | Evocation | C |
 | [Cloudkill](/spells/2618976-cloudkill) | Conjuration | C |
 | [Cone of Cold](/spells/2619042-cone-of-cold) | Evocation | — |
 | [Creation](/spells/2619077-creation) | Illusion | — |
@@ -399,7 +399,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | [Globe of Invulnerability](/spells/2618950-globe-of-invulnerability) | Abjuration | C |
 | [Mass Suggestion](/spells/2619029-mass-suggestion) | Enchantment | — |
 | [Move Earth](/spells/2619120-move-earth) | Transmutation | C |
-| [Otiluke’s Freezing Sphere](/spells/2619126-otilukes-freezing-sphere) | Evocation | — |
+| [Otiluke's Freezing Sphere](/spells/2619126-otilukes-freezing-sphere) | Evocation | — |
 | [Sunbeam](/spells/2619121-sunbeam) | Evocation | C |
 | [True Seeing](/spells/2619201-true-seeing) | Divination | M |
 
@@ -453,7 +453,7 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 
 An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?
 
-Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm’s warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole’s psionic power is yours. However you acquired this power, your mind is aflame with it.
+Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm's warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole's psionic power is yours. However you acquired this power, your mind is aflame with it.
 
 #### Level 3: Psionic Spells
 
@@ -467,8 +467,8 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 | --- | --- |
 | 3 | [Arms of Hadar](/spells/2618871-arms-of-hadar), [Calm Emotions](/spells/2618959-calm-emotions), [Detect Thoughts](/spells/2619099-detect-thoughts), [Dissonant Whispers](/spells/2619104-dissonant-whispers), [Mind Sliver](/spells/2619037-mind-sliver) |
 | 5 | [Hunger of Hadar](/spells/2619162-hunger-of-hadar), [Sending](/spells/2619015-sending) |
-| 7 | [Evard’s Black Tentacles](/spells/2619187-evards-black-tentacles), [Summon Aberration](/spells/2619105-summon-aberration) |
-| 9 | [Rary’s Telepathic Bond](/spells/2618925-rarys-telepathic-bond), [Telekinesis](/spells/2619157-telekinesis) |
+| 7 | [Evard's Black Tentacles](/spells/2619187-evards-black-tentacles), [Summon Aberration](/spells/2619105-summon-aberration) |
+| 9 | [Rary's Telepathic Bond](/spells/2618925-rarys-telepathic-bond), [Telekinesis](/spells/2619157-telekinesis) |
 
 #### Level 3: Telepathic Speech
 
@@ -478,7 +478,7 @@ The telepathic connection lasts for a number of minutes equal to your Sorcerer l
 
 #### Level 6: Psionic Sorcery
 
-When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell’s level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
+When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
 
 #### Level 6: Psychic Defenses
 
@@ -492,7 +492,7 @@ You can unleash the aberrant truth hidden within yourself. As a Bonus Action, yo
 
 ***Glistening Flight.*** You gain a Fly Speed equal to your Speed, and you can hover. As you fly, your skin glistens with mucus or otherworldly light.
 
-***See the Invisible.*** You can see any [Invisible](/sources/dnd/free-rules/rules-glossary#InvisibleCondition) creature within 60 feet of yourself that isn’t behind [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover). Your eyes also turn black or become writhing sensory tendrils.
+***See the Invisible.*** You can see any [Invisible](/sources/dnd/free-rules/rules-glossary#InvisibleCondition) creature within 60 feet of yourself that isn't behind [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover). Your eyes also turn black or become writhing sensory tendrils.
 
 ***Wormlike Movement.*** Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch, and you can spend 5 feet of movement to escape from nonmagical restraints or the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition.
 
@@ -500,13 +500,13 @@ You can unleash the aberrant truth hidden within yourself. As a Bonus Action, yo
 
 You can unleash a space-warping anomaly. As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
 
-Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 ### Clockwork Sorcery
 
 *Channel Cosmic Forces of Order*
 
-The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it’s part of a vast and glorious system.
+The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.
 
 #### Level 3: Clockwork Spells
 
@@ -551,13 +551,13 @@ The ward lasts until you finish a [Long Rest](/sources/dnd/free-rules/rules-glos
 
 #### Level 14: Trance of Order
 
-You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can’t benefit from [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage), and whenever you make a [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test), you can treat a roll of 9 or lower on the d20 as a 10.
+You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage), and whenever you make a [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test), you can treat a roll of 9 or lower on the d20 as a 10.
 
-Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 #### Level 18: Clockwork Cavalcade
 
-You momentarily summon spirits of order to expunge disorder around you. As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you summon the spirits in a 30-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the Cube before vanishing. Once you use this action, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+You momentarily summon spirits of order to expunge disorder around you. As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you summon the spirits in a 30-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the Cube before vanishing. Once you use this action, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
 ***Heal.*** The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.
 
@@ -569,13 +569,13 @@ You momentarily summon spirits of order to expunge disorder around you. As a [Ma
 
 *Breathe the Magic of Dragons*
 
-Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power. Or perhaps you handled a treasure taken from a dragon’s hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
+Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
 
 #### Level 3: Draconic Resilience
 
 The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren’t wearing armor, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
+Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
 
 #### Level 3: Draconic Spells
 
@@ -587,7 +587,7 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 | --- | --- |
-| 3 | [Alter Self](/spells/2618846-alter-self), [Chromatic Orb](/spells/2618966-chromatic-orb), [Command](/spells/2618985-command), [Dragon’s Breath](/spells/2619150-dragons-breath) |
+| 3 | [Alter Self](/spells/2618846-alter-self), [Chromatic Orb](/spells/2618966-chromatic-orb), [Command](/spells/2618985-command), [Dragon's Breath](/spells/2619150-dragons-breath) |
 | 5 | [Fear](/spells/2618872-fear), [Fly](/spells/2618909-fly) |
 | 7 | [Arcane Eye](/spells/2618863-arcane-eye), [Charm Monster](/spells/2618963-charm-monster) |
 | 9 | [Legend Lore](/spells/2619010-legend-lore), [Summon Dragon](/spells/2618843-summon-dragon) |
@@ -603,13 +603,13 @@ You have Resistance to that damage type, and when you cast a spell that deals da
 
 As a Bonus Action, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
 
-Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 
 #### Level 18: Dragon Companion
 
 You can cast [Summon Dragon](/spells/2618843-summon-dragon) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
-Whenever you start casting the spell, you can modify it so that it doesn’t require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). If you do so, the spell’s duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
 
 ### Wild Magic Sorcery
 
@@ -642,7 +642,7 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 
 Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the Wild Magic Surge table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
-Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 
 #### Wild Magic Surge
@@ -651,21 +651,21 @@ Once you use this feature, you can’t do so again until you finish a [Long Rest
 | 1d100 | Effect |
 | --- | --- |
 | 01–04 | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. |
-| 05–08 | A creature that is [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude) toward you appears in a random unoccupied space within 60 feet of you. The creature is under the DM’s control and disappears 1 minute later. Roll 1d4 to determine the creature: on a **1**, a [Modron Duodrone](/monsters/17180-duodrone) appears; on a **2**, a [Flumph](/monsters/17145-flumph) appears; on a **3**, a [Modron Monodrone](/monsters/17176-monodrone) appears; on a **4**, a [Unicorn](/monsters/17042-unicorn) appears. See the *Monster Manual* for the creature’s stat block. |
+| 05–08 | A creature that is [Friendly](/sources/dnd/free-rules/rules-glossary#FriendlyAttitude) toward you appears in a random unoccupied space within 60 feet of you. The creature is under the DM's control and disappears 1 minute later. Roll 1d4 to determine the creature: on a **1**, a [Modron Duodrone](/monsters/17180-duodrone) appears; on a **2**, a [Flumph](/monsters/17145-flumph) appears; on a **3**, a [Modron Monodrone](/monsters/17176-monodrone) appears; on a **4**, a [Unicorn](/monsters/17042-unicorn) appears. See the *Monster Manual* for the creature's stat block. |
 | 09–12 | For the next minute, you regain 5 Hit Points at the start of each of your turns. |
 | 13–16 | Creatures have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on saving throws against the next spell you cast in the next minute that involves a saving throw. |
-| 17–20 | You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll 1d8 to determine the effect: on a **1**, you’re surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a **2**, your size increases by one size category; on a **3**, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a **4**, you must shout when you speak; on a **5**, illusory butterflies flutter in the air within 10 feet of you; on a **6**, an eye appears on your forehead, granting you [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) checks; on an **7**, pink bubbles float out of your mouth whenever you speak; on an **8**, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a [Remove Curse](/spells/2618943-remove-curse) spell. |
+| 17–20 | You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll 1d8 to determine the effect: on a **1**, you're surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a **2**, your size increases by one size category; on a **3**, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a **4**, you must shout when you speak; on a **5**, illusory butterflies flutter in the air within 10 feet of you; on a **6**, an eye appears on your forehead, granting you [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) checks; on an **7**, pink bubbles float out of your mouth whenever you speak; on an **8**, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a [Remove Curse](/spells/2618943-remove-curse) spell. |
 | 21–24 | For the next minute, all your spells with a casting time of an action have a casting time of a Bonus Action. |
 | 25–28 | You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
-| 29–32 | The next time you cast a spell that deals damage within the next minute, don’t roll the spell’s damage dice for the damage. Instead use the highest number possible for each damage die. |
+| 29–32 | The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die. |
 | 33–36 | You have Resistance to all damage for the next minute. |
-| 37–40 | You turn into a potted plant until the start of your next turn. While you’re a plant, you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition and have Vulnerability to all damage. If you drop to 0 Hit Points, your pot breaks, and your form reverts. |
+| 37–40 | You turn into a potted plant until the start of your next turn. While you're a plant, you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition and have Vulnerability to all damage. If you drop to 0 Hit Points, your pot breaks, and your form reverts. |
 | 41–44 | For the next minute, you can teleport up to 20 feet as a Bonus Action on each of your turns. |
 | 45–48 | You and up to three creatures you choose within 30 feet of you have the [Invisible](/sources/dnd/free-rules/rules-glossary#InvisibleCondition) condition for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell. |
 | 49–52 | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to [Magic Missile](/spells/2619022-magic-missile). |
 | 53–56 | You can take one extra action on this turn. |
-| 57–60 | You cast a random spell. If the spell normally requires [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration), it doesn’t require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a **1**, [Confusion](/spells/2619043-confusion); on a **2**, [Fireball](/spells/2618887-fireball); on a **3**, [Fog Cloud](/spells/2618910-fog-cloud); on a **4**, [Fly](/spells/2618909-fly) (cast on a random creature within 60 feet of you), on a **5**, [Grease](/spells/2618957-grease); on a **6**, [Levitate](/spells/2618994-levitate) (cast on yourself); on a **7**, [Magic Missile](/spells/2619022-magic-missile) (cast as a level 5 spell); on an **8**, [Mirror Image](/spells/2619060-mirror-image); on a **9**, [Polymorph](/spells/2618876-polymorph) (cast on yourself), and if you fail the saving throw, you turn into a [Goat](/monsters/4775823-goat) (see [appendix B](/sources/dnd/phb-2024/creature-stat-blocks#Goat)); on a **10**, [See Invisibility](/spells/2619011-see-invisibility). |
-| 61–64 | For the next minute, any flammable, nonmagical object you touch that isn’t being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is burning. |
+| 57–60 | You cast a random spell. If the spell normally requires [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration), it doesn't require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a **1**, [Confusion](/spells/2619043-confusion); on a **2**, [Fireball](/spells/2618887-fireball); on a **3**, [Fog Cloud](/spells/2618910-fog-cloud); on a **4**, [Fly](/spells/2618909-fly) (cast on a random creature within 60 feet of you), on a **5**, [Grease](/spells/2618957-grease); on a **6**, [Levitate](/spells/2618994-levitate) (cast on yourself); on a **7**, [Magic Missile](/spells/2619022-magic-missile) (cast as a level 5 spell); on an **8**, [Mirror Image](/spells/2619060-mirror-image); on a **9**, [Polymorph](/spells/2618876-polymorph) (cast on yourself), and if you fail the saving throw, you turn into a [Goat](/monsters/4775823-goat) (see [appendix B](/sources/dnd/phb-2024/creature-stat-blocks#Goat)); on a **10**, [See Invisibility](/spells/2619011-see-invisibility). |
+| 61–64 | For the next minute, any flammable, nonmagical object you touch that isn't being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is burning. |
 | 65–68 | If you die within the next hour, you immediately revive as if by the [Reincarnate](/spells/2618941-reincarnate) spell. |
 | 69–72 | You have the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition until the end of your next turn. The DM determines the source of your fear. |
 | 73–76 | You teleport up to 60 feet to an unoccupied space you can see. |

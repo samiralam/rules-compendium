@@ -9,25 +9,25 @@
     | Skill Proficiencies | *Choose 2:* [Athletics](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple and Martial weapons |
     | Armor Training | Light, Medium, and Heavy armor and Shields |
-    | Starting Equipment | *Choose A or B:* (A) [Chain Mail](/equipment/16-chain-mail), [Shield](/equipment/8-shield), [Longsword](/equipment/4-longsword), 6 [Javelins](/equipment/8-javelin), [Holy Symbol](/equipment/514-holy-symbol), [Priest’s Pack](/equipment/405-priests-pack), and 9 GP; or (B) 150 GP |
+    | Starting Equipment | *Choose A or B:* (A) [Chain Mail](/equipment/16-chain-mail), [Shield](/equipment/8-shield), [Longsword](/equipment/4-longsword), 6 [Javelins](/equipment/8-javelin), [Holy Symbol](/equipment/514-holy-symbol), [Priest's Pack](/equipment/405-priests-pack), and 9 GP; or (B) 150 GP |
 
-Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god’s altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin’s oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
+Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
 
 Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the injured, smite their foes, and protect the helpless and those who fight at their side.
 
-Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world’s armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic.
+Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic.
 
 ## Becoming a Paladin...
 
 ### As a Level 1 Character
 
 * [Gain all the traits in the](#Illusionist) [Core Paladin Traits table](#CorePaladinTraits).
-* Gain the Paladin’s level 1 features, which are listed in the [Paladin Features table](#PaladinFeatures).
+* Gain the Paladin's level 1 features, which are listed in the [Paladin Features table](#PaladinFeatures).
 
 ### As a Multiclass Character
 
 * Gain the following traits from the [Core Paladin Traits table](#CorePaladinTraits): Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
-* Gain the Paladin’s level 1 features, which are listed in the [Paladin Features table](#PaladinFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
+* Gain the Paladin's level 1 features, which are listed in the [Paladin Features table](#PaladinFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
 
 ## Paladin Class Features
 
@@ -38,7 +38,7 @@ As a Paladin, you gain the following class features when you reach the specified
 | Level | Proficiency Bonus | Class Features | Channel Divinity | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | [Lay On Hands](#Level1LayOnHands), [Spellcasting](#Level1PaladinSpellcasting), [Weapon Mastery](#Level1PaladinWeaponMastery) | — | 2 | 2 | — | — | — | — |
-| 2 | +2 | [Fighting Style](#Level2PaladinFightingStyle), [Paladin’s Smite](#Level2PaladinsSmite) | — | 3 | 2 | — | — | — | — |
+| 2 | +2 | [Fighting Style](#Level2PaladinFightingStyle), [Paladin's Smite](#Level2PaladinsSmite) | — | 3 | 2 | — | — | — | — |
 | 3 | +2 | [Channel Divinity](#Level3ChannelDivinity), [Paladin Subclass](#Level3PaladinSubclass) | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | [Ability Score Improvement](#Level4PaladinAbilityScoreImprovement) | 2 | 5 | 3 | — | — | — | — |
 | 5 | +3 | [Extra Attack](#Level5PaladinExtraAttack), [Faithful Steed](#Level5FaithfulSteed) | 2 | 6 | 4 | 2 | — | — | — |
@@ -64,19 +64,19 @@ Your blessed touch can heal wounds. You have a pool of healing power that replen
 
 As a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
 
-You can also expend 5 Hit Points from the pool of healing power to remove the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition from the creature; those points don’t also restore Hit Points to the creature.
+You can also expend 5 Hit Points from the pool of healing power to remove the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition from the creature; those points don't also restore Hit Points to the creature.
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](#PaladinSpellList) later in the class’s description.
+You have learned to cast spells through prayer and meditation. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](#PaladinSpellList) later in the class's description.
 
 ***Spell Slots.*** The [Paladin Features table](#PaladinFeatures) shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ***Prepared Spells of Level 1+***. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [Heroism](/spells/2619151-heroism) and [Searing Smite](/spells/2619009-searing-smite) are recommended.
 
-The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the [Paladin Features table](#PaladinFeatures). Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
+The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the [Paladin Features table](#PaladinFeatures). Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
-If another Paladin feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
+If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 
 ***Changing Your Prepared Spells.*** Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
@@ -94,25 +94,25 @@ Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRes
 
 You gain a Fighting Style feat of your choice (see [chapter 5](/sources/dnd/phb-2024/feats#FightingStyleFeats) for feats). Instead of choosing one of those feats, you can choose the option below.
 
-***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class’s section for a [list of Cleric spells](/sources/dnd/phb-2024/character-classes#ClericSpellList)). [Guidance](/spells/2618971-guidance) and [Sacred Flame](/spells/2618967-sacred-flame) are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+***Blessed Warrior.*** You learn two Cleric cantrips of your choice (see the Cleric class's section for a [list of Cleric spells](/sources/dnd/phb-2024/character-classes#ClericSpellList)). [Guidance](/spells/2618971-guidance) and [Sacred Flame](/spells/2618967-sacred-flame) are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
-### Level 2: Paladin’s Smite
+### Level 2: Paladin's Smite
 
 You always have the [Divine Smite](/spells/2618833-divine-smite) spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) before you can cast it in this way again.
 
 ### Level 3: Channel Divinity
 
-You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class’s Channel Divinity, you choose which effect from this class to create.
+You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.
 
-You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You gain an additional use when you reach Paladin level 11.
+You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You gain an additional use when you reach Paladin level 11.
 
-If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
+If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
 
 ***Divine Sense.*** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](/spells/2619138-hallow) spell.
 
 ### Level 3: Paladin Subclass
 
-You gain a Paladin subclass of your choice. The [Oath of Devotion](#OathofDevotion), [Oath of Glory](#OathofGlory), [Oath of the Ancients](#OathoftheAncients), and [Oath of Vengeance](#OathofVengeance) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
+You gain a Paladin subclass of your choice. The [Oath of Devotion](#OathofDevotion), [Oath of Glory](#OathofGlory), [Oath of the Ancients](#OathoftheAncients), and [Oath of Vengeance](#OathofVengeance) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
 
 !!! note "Breaking Your Oath"
 
@@ -147,7 +147,7 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 
 ### Level 9: Abjure Foes
 
-As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can expend one use of this class’s Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
+As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
 
 ### Level 10: Aura of Courage
 
@@ -159,7 +159,7 @@ Your strikes now carry supernatural power. When you hit a target with an attack 
 
 ### Level 14: Restoring Touch
 
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [Blinded](/sources/dnd/free-rules/rules-glossary#BlindedCondition), [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Deafened](/sources/dnd/free-rules/rules-glossary#DeafenedCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), or [Stunned](/sources/dnd/free-rules/rules-glossary#StunnedCondition). You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don’t also restore Hit Points to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [Blinded](/sources/dnd/free-rules/rules-glossary#BlindedCondition), [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Deafened](/sources/dnd/free-rules/rules-glossary#DeafenedCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), or [Stunned](/sources/dnd/free-rules/rules-glossary#StunnedCondition). You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
 
 ### Level 18: Aura Expansion
 
@@ -171,7 +171,7 @@ You gain an Epic Boon feat (see [chapter 5](/sources/dnd/phb-2024/feats#EpicBoon
 
 ## Paladin Spell List
 
-This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 
 
 ### Level 1 Paladin Spells
@@ -223,7 +223,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 | [Aura of Vitality](/spells/2618891-aura-of-vitality) | Abjuration | C |
 | [Blinding Smite](/spells/2618936-blinding-smite) | Evocation | — |
 | [Create Food and Water](/spells/2619073-create-food-and-water) | Conjuration | — |
-| [Crusader’s Mantle](/spells/2619057-crusaders-mantle) | Transmutation | C |
+| [Crusader's Mantle](/spells/2619057-crusaders-mantle) | Transmutation | C |
 | [Daylight](/spells/2619083-daylight) | Evocation | — |
 | [Dispel Magic](/spells/2619103-dispel-magic) | Abjuration | — |
 | [Elemental Weapon](/spells/2619164-elemental-weapon) | Transmutation | C |
@@ -263,7 +263,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 
 A Paladin subclass is a specialization that grants you features at certain Paladin levels, as specified in the subclass. This section presents the [Oath of Devotion](#OathofDevotion), [Oath of Glory](#OathofGlory), [Oath of the Ancients](#OathoftheAncients), and [Oath of Vengeance](#OathofVengeance) subclasses.
 
-Each of these subclasses represents a body of oaths that a Paladin begins taking upon joining the class. The final oath, taken at level 3, is the culmination of a Paladin’s training. Some characters with this class don’t consider themselves true Paladins until they’ve reached level 3 and made this oath. For others, the swearing of the oath is a formality, an official stamp on what was already in their hearts.
+Each of these subclasses represents a body of oaths that a Paladin begins taking upon joining the class. The final oath, taken at level 3, is the culmination of a Paladin's training. Some characters with this class don't consider themselves true Paladins until they've reached level 3 and made this oath. For others, the swearing of the oath is a formality, an official stamp on what was already in their hearts.
 
 ### Oath of Devotion
 
@@ -271,7 +271,7 @@ Each of these subclasses represents a body of oaths that a Paladin begins taking
 
 The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some—for better or worse—hold the rest of the world to the same standards.
 
-Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
+Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
 
 These paladins share the following tenets:
 
@@ -300,7 +300,7 @@ When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) 
 
 The weapon also emits [Bright Light](/sources/dnd/free-rules/rules-glossary#BrightLight) in a 20-foot radius and [Dim Light](/sources/dnd/free-rules/rules-glossary#DimLight) 20 feet beyond that.
 
-You can end this effect early (no action required). This effect also ends if you aren’t carrying the weapon.
+You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon.
 
 #### Level 7: Aura of Devotion
 
@@ -312,7 +312,7 @@ Your magical smite now radiates protective energy. Whenever you cast [Divine Smi
 
 #### Level 20: Holy Nimbus
 
-As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Holy Ward.*** You have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on any saving throw you are forced to make by a Fiend or an Undead.
 
@@ -324,7 +324,7 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 
 *Strive for the Heights of Heroism*
 
-Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they’re all ready when destiny calls.
+Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.
 
 These paladins share the following tenets:
 
@@ -350,7 +350,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 5 | [Enhance Ability](/spells/2619165-enhance-ability), [Magic Weapon](/spells/2619024-magic-weapon) |
 | 9 | [Haste](/spells/2619141-haste), [Protection from Energy](/spells/2618908-protection-from-energy) |
 | 13 | [Compulsion](/spells/2619041-compulsion), [Freedom of Movement](/spells/2618921-freedom-of-movement) |
-| 17 | [Legend Lore](/spells/2619010-legend-lore), [Yolande’s Regal Presence](/spells/2618842-yolandes-regal-presence) |
+| 17 | [Legend Lore](/spells/2619010-legend-lore), [Yolande's Regal Presence](/spells/2618842-yolandes-regal-presence) |
 
 
 #### Level 3: Peerless Athlete
@@ -361,17 +361,17 @@ As a Bonus Action, you can expend one use of your Channel Divinity to augment yo
 
 Your Speed increases by 10 feet.
 
-In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally’s Speed increases by 10 feet until the end of their next turn.
+In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's Speed increases by 10 feet until the end of their next turn.
 
 #### Level 15: Glorious Defense
 
-You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a Reaction to grant a bonus to the target’s AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this Reaction if the attacker is within your weapon’s range.
+You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a Reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this Reaction if the attacker is within your weapon's range.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 #### Level 20: Living Legend
 
-You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a Bonus Action, you gain the benefits below for 10 minutes. Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
+You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a Bonus Action, you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Charismatic.*** You are blessed with an otherworldly presence and have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on all Charisma checks.
 
@@ -391,7 +391,7 @@ These paladins share the following tenets:
 * Shelter life.
 * Delight in art and laughter.
 
-#### Level 3: Nature’s Wrath
+#### Level 3: Nature's Wrath
 
 As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the [Restrained](/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition for 1 minute. A Restrained creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
@@ -418,13 +418,13 @@ Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting 
 
 #### Level 15: Undying Sentinel
 
-When you are reduced to 0 Hit Points and not killed outright, you can drop to 1 Hit Point instead, and you regain a number of Hit Points equal to three times your Paladin level. Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+When you are reduced to 0 Hit Points and not killed outright, you can drop to 1 Hit Point instead, and you regain a number of Hit Points equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
-Additionally, you can’t be aged magically, and you cease visibly aging.
+Additionally, you can't be aged magically, and you cease visibly aging.
 
 #### Level 20: Elder Champion
 
-As a Bonus Action, you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a Bonus Action, you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Diminish Defiance.*** Enemies in the aura have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on saving throws against your spells and Channel Divinity options.
 
@@ -436,7 +436,7 @@ As a Bonus Action, you can imbue your Aura of Protection with primal power, gran
 
 *Punish Evildoers at Any Cost*
 
-The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves’ guild grows too violent, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
+The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
 
 
 These paladins share the following tenets:
@@ -455,7 +455,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 | --- | --- |
-| 3 | [Bane](/spells/2618900-bane), [Hunter’s Mark](/spells/2619166-hunters-mark) |
+| 3 | [Bane](/spells/2618900-bane), [Hunter's Mark](/spells/2619166-hunters-mark) |
 | 5 | [Hold Person](/spells/2619153-hold-person), [Misty Step](/spells/2619133-misty-step) |
 | 9 | [Haste](/spells/2619141-haste), [Protection from Energy](/spells/2618908-protection-from-energy) |
 | 13 | [Banishment](/spells/2618906-banishment), [Dimension Door](/spells/2619100-dimension-door) |
@@ -470,15 +470,15 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 
 #### Level 7: Relentless Avenger
 
-Your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an [Opportunity Attack](/sources/dnd/free-rules/rules-glossary#OpportunityAttack), you can reduce the creature’s Speed to 0 until the end of the current turn. You can then move up to half your Speed as part of the same Reaction. This movement doesn’t provoke Opportunity Attacks.
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [Opportunity Attack](/sources/dnd/free-rules/rules-glossary#OpportunityAttack), you can reduce the creature's Speed to 0 until the end of the current turn. You can then move up to half your Speed as part of the same Reaction. This movement doesn't provoke Opportunity Attacks.
 
 #### Level 15: Soul of Vengeance
 
-Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a Reaction to make a melee attack against that creature if it’s within range.
+Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a Reaction to make a melee attack against that creature if it's within range.
 
 #### Level 20: Avenging Angel
 
-As a Bonus Action, you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a Bonus Action, you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Flight.*** You sprout spectral wings on your back, have a Fly Speed of 60 feet, and can hover.
 

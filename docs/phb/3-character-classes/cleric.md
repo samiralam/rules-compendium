@@ -9,11 +9,11 @@
     | Skill Proficiencies | *Choose 2:* [History](/sources/dnd/free-rules/playing-the-game#Skills), [Insight](/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple weapons |
     | Armor Training | Light and Medium armor and Shields |
-    | Starting Equipment | *Choose A or B:* (A) [Chain Shirt](/equipment/12-chain-shirt), [Shield](/equipment/8-shield), [Mace](/equipment/11-mace), [Holy Symbol](/equipment/514-holy-symbol), [Priest’s Pack](/equipment/405-priests-pack), and 7 GP; or (B) 110 GP |
+    | Starting Equipment | *Choose A or B:* (A) [Chain Shirt](/equipment/12-chain-shirt), [Shield](/equipment/8-shield), [Mace](/equipment/11-mace), [Holy Symbol](/equipment/514-holy-symbol), [Priest's Pack](/equipment/405-priests-pack), and 7 GP; or (B) 110 GP |
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
-Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
+Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn't rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
 
@@ -22,12 +22,12 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 ### As a Level 1 Cleric
 
 * Gain all the traits in the [Core Cleric Traits table](#CoreClericTraits).
-* Gain the Cleric’s level 1 features, which are listed in the [Cleric Features table](#ClericFeatures).
+* Gain the Cleric's level 1 features, which are listed in the [Cleric Features table](#ClericFeatures).
 
 ### As a Multiclass Cleric
 
 * Gain the following traits from the [Core Cleric Traits table](#CoreClericTraits): Hit Point Die and training with Light and Medium armor and Shields.
-* Gain the Cleric’s level 1 features, which are listed in the [Cleric Features table](#ClericFeatures). See the multiclassing rules in [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
+* Gain the Cleric's level 1 features, which are listed in the [Cleric Features table](#ClericFeatures). See the multiclassing rules in [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
 
 ## Cleric Class Features
 
@@ -61,7 +61,7 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. See [chapter 7](https://www.dndbeyond.com/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [Cleric spell list](#ClericSpellList) later in the class’s description.
+You have learned to cast spells through prayer and meditation. See [chapter 7](https://www.dndbeyond.com/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [Cleric spell list](#ClericSpellList) later in the class's description.
 
 ***Cantrips.*** You know three cantrips of your choice from the Cleric spell list. [Guidance](/spells/2618971-guidance), [Sacred Flame](/spells/2618967-sacred-flame), and [Thaumaturgy](/spells/2619174-thaumaturgy) are recommended.
 
@@ -73,9 +73,9 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [Bless](/spells/2618933-bless), [Cure Wounds](/spells/2619079-cure-wounds), [Guiding Bolt](/spells/2619136-guiding-bolt), and [Shield of Faith](/spells/2619020-shield-of-faith) are recommended.
 
-The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the [Cleric Features table](#ClericFeatures). Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the [Cleric Features table](#ClericFeatures). Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Cleric feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
+If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
 ***Changing Your Prepared Spells.*** Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
 
@@ -93,11 +93,11 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 ### Level 2: Channel Divinity
 
-You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class’s Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
+You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
 
-You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the [Cleric Features table](#ClericFeatures).
+You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the [Cleric Features table](#ClericFeatures).
 
-If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
+If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
 
 ***Divine Spark.*** As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
@@ -107,7 +107,7 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 
 ### Level 3: Cleric Subclass
 
-You gain a Cleric subclass of your choice. The [Life Domain](#LifeDomain), [Light Domain](#LightDomain), [Trickery Domain](#TrickeryDomain), and [War Domain](#WarDomain) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
+You gain a Cleric subclass of your choice. The [Life Domain](#LifeDomain), [Light Domain](#LightDomain), [Trickery Domain](#TrickeryDomain), and [War Domain](#WarDomain) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -115,7 +115,7 @@ You gain the Ability Score Improvement feat (see [chapter 5](https://www.dndbeyo
 
 ### Level 5: Sear Undead
 
-Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll’s total. This damage doesn’t end the turn effect.
+Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the turn effect.
 
 ### Level 7: Blessed Strikes
 
@@ -127,7 +127,7 @@ Divine power infuses you in battle. You gain one of the following options of you
 
 ### Level 10: Divine Intervention
 
-You can call on your deity or pantheon to intervene on your behalf. As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, choose any Cleric spell of level 5 or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+You can call on your deity or pantheon to intervene on your behalf. As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, choose any Cleric spell of level 5 or lower that doesn't require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Level 14: Improved Blessed Strikes
 
@@ -143,11 +143,11 @@ You gain an Epic Boon feat (see [chapter 5](https://www.dndbeyond.com/sources/dn
 
 ### Level 20: Greater Divine Intervention
 
-You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [Wish](/spells/2619213-wish) when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 [Long Rests](/sources/dnd/free-rules/rules-glossary#LongRest).
+You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [Wish](/spells/2619213-wish) when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 [Long Rests](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ## Cleric Spell List
 
-This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 
 
 ### Cantrips (Level 0 Cleric Spells)
@@ -290,7 +290,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | [Forbiddance](/spells/2618913-forbiddance) | Abjuration | R, M |
 | [Harm](/spells/2618977-harm) | Necromancy | — |
 | [Heal](/spells/2618979-heal) | Abjuration | — |
-| [Heroes’ Feast](/spells/2618983-heroes-feast) | Conjuration | M |
+| [Heroes' Feast](/spells/2618983-heroes-feast) | Conjuration | M |
 | [Planar Ally](/spells/2618861-planar-ally) | Conjuration | — |
 | [Sunbeam](/spells/2619121-sunbeam) | Evocation | C |
 | [True Seeing](/spells/2619201-true-seeing) | Divination | M |
@@ -350,7 +350,7 @@ Existence itself relies on the positive energy associated with this domain, so a
 
 #### Level 3: Disciple of Life
 
-When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot’s level.
+When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level.
 
 #### Level 3: Life Domain Spells
 
@@ -372,19 +372,19 @@ As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you pre
 
 #### Level 6: Blessed Healer
 
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one or more creatures other than yourself, you regain Hit Points equal to 2 plus the spell slot’s level.
+The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one or more creatures other than yourself, you regain Hit Points equal to 2 plus the spell slot's level.
 
 #### Level 17: Supreme Healing
 
-When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don’t roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
 
 ### Light Domain
 
 *Bring Light to Banish Darkness*
 
-The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities’ discerning vision, charged with chasing away lies and burning away darkness.
+The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.
 
-The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul’s improvement.
+The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul's improvement.
 
 #### Level 3: Light Domain Spells
 
@@ -430,7 +430,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.
 
-Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they’re patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
+Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
 
 #### Level 3: Blessing of the Trickster
 
@@ -454,15 +454,15 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 #### Level 3: Invoke Duplicity
 
-As a Bonus Action, you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn’t occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+As a Bonus Action, you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
-***Cast Spells.*** You can cast spells as though you were in the illusion’s space, but you must use your own senses.
+***Cast Spells.*** You can cast spells as though you were in the illusion's space, but you must use your own senses.
 
 ***Distract.*** When both you and your illusion are within 5 feet of a creature that can see the illusion, you have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls against that creature, given how distracting the illusion is to the target.
 
 ***Move.*** As a Bonus Action, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
 
-#### Level 6: Trickster’s Transposition
+#### Level 6: Trickster's Transposition
 
 Whenever you take the Bonus Action to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
 
@@ -484,7 +484,7 @@ Gods of the War Domain watch over warriors and reward them for their great deeds
 
 #### Level 3: Guided Strike
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature’s attack roll, you must take a Reaction to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
 
 #### Level 3: War Domain Spells
 
@@ -497,7 +497,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | Cleric Level | Prepared Spells |
 | --- | --- |
 | 3 | [Guiding Bolt](/spells/2619136-guiding-bolt), [Magic Weapon](/spells/2619024-magic-weapon), [Shield of Faith](/spells/2619020-shield-of-faith), [Spiritual Weapon](/spells/2619081-spiritual-weapon) |
-| 5 | [Crusader’s Mantle](/spells/2619057-crusaders-mantle), [Spirit Guardians](/spells/2619078-spirit-guardians) |
+| 5 | [Crusader's Mantle](/spells/2619057-crusaders-mantle), [Spirit Guardians](/spells/2619078-spirit-guardians) |
 | 7 | [Fire Shield](/spells/2618894-fire-shield), [Freedom of Movement](/spells/2618921-freedom-of-movement) |
 | 9 | [Hold Monster](/spells/2619152-hold-monster), [Steel Wind Strike](/spells/2619087-steel-wind-strike) |
 
@@ -505,9 +505,9 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 As a Bonus Action, you can make one attack with a weapon or an [Unarmed Strike](/sources/dnd/free-rules/rules-glossary#UnarmedStrike). You can use this Bonus Action a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
-#### Level 6: War God’s Blessing
+#### Level 6: War God's Blessing
 
-You can expend a use of your Channel Divinity to cast [Shield of Faith](/spells/2619020-shield-of-faith) or [Spiritual Weapon](/spells/2619081-spiritual-weapon) rather than expending a spell slot. When you cast either spell in this way, the spell doesn’t require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition, or die.
+You can expend a use of your Channel Divinity to cast [Shield of Faith](/spells/2619020-shield-of-faith) or [Spiritual Weapon](/spells/2619081-spiritual-weapon) rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition, or die.
 
 #### Level 17: Avatar of Battle
 

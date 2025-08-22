@@ -1,6 +1,6 @@
 # Random Magic Items
 
-Use the tables in this section to randomly determine magic items the characters find in your adventures. The tables are sorted first by treasure theme (as described in the *Monster Manual*), and then by item rarity. If an item isn’t associated with a theme, roll 1d4 to decide which table to roll on next: on a **1**, roll on the [Arcana tables](#ArcanaTables); on a **2**, [Armaments](#ArmamentsTables); on a **3**, [Implements](#ImplementsTables); and on a **4**, [Relics](#RelicsTables).
+Use the tables in this section to randomly determine magic items the characters find in your adventures. The tables are sorted first by treasure theme (as described in the *Monster Manual*), and then by item rarity. If an item isn't associated with a theme, roll 1d4 to decide which table to roll on next: on a **1**, roll on the [Arcana tables](#ArcanaTables); on a **2**, [Armaments](#ArmamentsTables); on a **3**, [Implements](#ImplementsTables); and on a **4**, [Relics](#RelicsTables).
 
 Arcana Tables
 -------------
@@ -22,7 +22,7 @@ Arcana Tables
 | 20–21 | [Ersatz Eye](/magic-items/9228601-ersatz-eye) |
 | 22–24 | [Hat of Vermin](/magic-items/27049-hat-of-vermin) |
 | 25–27 | [Hat of Wizardry](/magic-items/9228718-hat-of-wizardry) |
-| 28–29 | [Heward’s Handy Spice Pouch](/magic-items/9228723-hewards-handy-spice-pouch) |
+| 28–29 | [Heward's Handy Spice Pouch](/magic-items/9228723-hewards-handy-spice-pouch) |
 | 30–31 | [Horn of Silent Alarm](/magic-items/9228776-horn-of-silent-alarm) |
 | 32–33 | [Instrument of Illusions](/magic-items/9228786-instrument-of-illusions) |
 | 34–35 | [Instrument of Scribing](/magic-items/9228787-instrument-of-scribing) |
@@ -55,7 +55,7 @@ Arcana Tables
 | 1d100 | Item |
 | --- | --- |
 | 01 | [Amulet of Proof against Detection and Location](/magic-items/4569-amulet-of-proof-against-detection-and-location) |
-| 02 | [Baba Yaga’s Dancing Broom](/magic-items/9228354-baba-yagas-dancing-broom) |
+| 02 | [Baba Yaga's Dancing Broom](/magic-items/9228354-baba-yagas-dancing-broom) |
 | 03–05 | [Bag of Holding](/magic-items/9228356-bag-of-holding) |
 | 06–07 | [Bag of Tricks](/magic-items/9228357-bag-of-tricks) |
 | 08 | [Brooch of Shielding](/magic-items/4596-brooch-of-shielding) |
@@ -98,7 +98,7 @@ Arcana Tables
 | 56–57 | [Potion of Poison](/magic-items/9228937-potion-of-poison) |
 | 58–59 | [Potion of Resistance](/magic-items/5419-potion-of-resistance) |
 | 60–61 | [Potion of Water Breathing](/magic-items/9228940-potion-of-water-breathing) |
-| 62 | [Quaal’s Feather Token](/magic-items/9228948-quaals-feather-token) ([anchor](/magic-items/9228942-quaals-feather-token-anchor), [fan](/magic-items/9228944-quaals-feather-token-fan), or [tree](/magic-items/9228946-quaals-feather-token-tree)) |
+| 62 | [Quaal's Feather Token](/magic-items/9228948-quaals-feather-token) ([anchor](/magic-items/9228942-quaals-feather-token-anchor), [fan](/magic-items/9228944-quaals-feather-token-fan), or [tree](/magic-items/9228946-quaals-feather-token-tree)) |
 | 63 | [Ring of Mind Shielding](/magic-items/9228967-ring-of-mind-shielding) |
 | 64–65 | [Robe of Useful Items](/magic-items/9228979-robe-of-useful-items) |
 | 66–67 | [Rod of the Pact Keeper](/magic-items/9228987-rod-of-the-pact-keeper) |
@@ -135,13 +135,13 @@ Arcana Tables
 | 15–16 | [Cloak of the Bat](/magic-items/4608-cloak-of-the-bat) |
 | 17 | [Cube of Force](/magic-items/9228411-cube-of-force) |
 | 18 | [Cube of Summoning](/magic-items/9228412-cube-of-summoning) |
-| 19 | [Daern’s Instant Fortress](/magic-items/9228414-daerns-instant-fortress) |
+| 19 | [Daern's Instant Fortress](/magic-items/9228414-daerns-instant-fortress) |
 | 20–21 | [Enspelled Staff](/magic-items/9228594-enspelled-staff) (level 2 or 3 spell) |
 | 22–23 | [Figurine of Wondrous Power](/magic-items/9228621-figurine-of-wondrous-power) ([bronze griffon](/magic-items/9228612-figurine-of-wondrous-power-bronze-griffon), [ebony fly](/magic-items/9228613-figurine-of-wondrous-power-ebony-fly), [golden lions](/magic-items/9228614-figurine-of-wondrous-power-golden-lions), [ivory goats](/magic-items/9228615-figurine-of-wondrous-power-ivory-goats), [marble elephant](/magic-items/9228616-figurine-of-wondrous-power-marble-elephant), [onyx dog](/magic-items/9228618-figurine-of-wondrous-power-onyx-dog), or [serpentine owl](/magic-items/9228619-figurine-of-wondrous-power-serpentine-owl)) |
 | 24–25 | [Folding Boat](/magic-items/9228649-folding-boat) |
 | 26–27 | [Gem of Seeing](/magic-items/9228653-gem-of-seeing) |
 | 28 | [Helm of Teleportation](/magic-items/4656-helm-of-teleportation) |
-| 29–30 | [Heward’s Handy Haversack](/magic-items/9228722-hewards-handy-haversack) |
+| 29–30 | [Heward's Handy Haversack](/magic-items/9228722-hewards-handy-haversack) |
 | 31–32 | [Horseshoes of Speed](/magic-items/9228783-horseshoes-of-speed) |
 | 33–34 | [Ioun Stone (reserve)](/magic-items/9228800-ioun-stone-of-reserve) |
 | 35 | [Iron Bands of Bilarro](/magic-items/9228805-iron-bands-of-bilarro) |
@@ -158,7 +158,7 @@ Arcana Tables
 | 52–53 | [Potion of Invisibility](/magic-items/9228935-potion-of-invisibility) |
 | 54–55 | [Potion of Invulnerability](/magic-items/5358-potion-of-invulnerability) |
 | 56–57 | [Potion of Mind Reading](/magic-items/9228936-potion-of-mind-reading) |
-| 58–59 | [Quaal’s Feather Token](/magic-items/9228948-quaals-feather-token) ([bird](/magic-items/9228943-quaals-feather-token-bird), [swan boat](/magic-items/9228945-quaals-feather-token-swan-boat), or [whip](/magic-items/9228947-quaals-feather-token-whip)) |
+| 58–59 | [Quaal's Feather Token](/magic-items/9228948-quaals-feather-token) ([bird](/magic-items/9228943-quaals-feather-token-bird), [swan boat](/magic-items/9228945-quaals-feather-token-swan-boat), or [whip](/magic-items/9228947-quaals-feather-token-whip)) |
 | 60–61 | [Ring of Feather Falling](/magic-items/4721-ring-of-feather-falling) |
 | 62 | [Ring of Spell Storing](/magic-items/4730-ring-of-spell-storing) |
 | 63 | [Ring of X-ray Vision](/magic-items/9228974-ring-of-x-ray-vision) |
@@ -201,7 +201,7 @@ Arcana Tables
 | 25–26 | [Ioun Stone](/magic-items/9228804-ioun-stone) ([absorption](/magic-items/9228789-ioun-stone-of-absorption), [fortitude](/magic-items/9228792-ioun-stone-of-fortitude), [intellect](/magic-items/9228795-ioun-stone-of-intellect), or [leadership](/magic-items/9228796-ioun-stone-of-leadership)) |
 | 27–28 | [Manual of Golems](/magic-items/5416-manual-of-golems) ([clay](/magic-items/4676-manual-of-clay-golems), [flesh](/magic-items/4948-manual-of-flesh-golems), [iron](/magic-items/4949-manual-of-iron-golems), or [stone](/magic-items/4950-manual-of-stone-golems)) |
 | 29 | [Mirror of Life Trapping](/magic-items/9228851-mirror-of-life-trapping) |
-| 30–31 | [Nolzur’s Marvelous Pigments](/magic-items/9228905-nolzurs-marvelous-pigments) |
+| 30–31 | [Nolzur's Marvelous Pigments](/magic-items/9228905-nolzurs-marvelous-pigments) |
 | 32–34 | [Oil of Sharpness](/magic-items/9228908-oil-of-sharpness) |
 | 35–38 | [Potion of Flying](/magic-items/4704-potion-of-flying) |
 | 39–42 | [Potion of Giant Strength (cloud)](/magic-items/5131-potion-of-cloud-giant-strength) |
@@ -276,7 +276,7 @@ Armaments Tables
 | 51–60 | [Silvered Weapon](/magic-items/9229070-silvered-weapon) |
 | 61–70 | [Smoldering Armor](/magic-items/36837-smoldering-armor) |
 | 71–80 | [Sylvan Talon](/magic-items/9229122-sylvan-talon) |
-| 81–90 | [Veteran’s Cane](/magic-items/9308690-veterans-cane) |
+| 81–90 | [Veteran's Cane](/magic-items/9308690-veterans-cane) |
 | 91–00 | [Walloping Ammunition](/magic-items/36839-walloping-ammunition) |
 
 
@@ -293,7 +293,7 @@ Armaments Tables
 | 24–28 | [Enspelled Weapon](/magic-items/9228599-enspelled-weapon) (cantrip or level 1 spell) |
 | 29–33 | [Gauntlets of Ogre Power](/magic-items/4641-gauntlets-of-ogre-power) |
 | 34–38 | [Javelin of Lightning](/magic-items/9228807-javelin-of-lightning) |
-| 39–43 | [Mariner’s Armor](/magic-items/9228837-mariners-armor) |
+| 39–43 | [Mariner's Armor](/magic-items/9228837-mariners-armor) |
 | 44–48 | [Mithral Armor](/magic-items/5381-mithral-armor) |
 | 49–53 | [Potion of Giant Strength (hill)](/magic-items/4706-potion-of-hill-giant-strength) |
 | 54–58 | [Potion of Pugilism](/magic-items/9228938-potion-of-pugilism) |
@@ -320,7 +320,7 @@ Armaments Tables
 | 14–15 | [Arrow-Catching Shield](/magic-items/4577-arrow-catching-shield) |
 | 16–18 | [Belt of Giant Strength (hill)](/magic-items/4585-belt-of-hill-giant-strength) |
 | 19–20 | [Berserker Axe](/magic-items/5382-berserker-axe) |
-| 21–22 | [Daern’s Instant Fortress](/magic-items/9228414-daerns-instant-fortress) |
+| 21–22 | [Daern's Instant Fortress](/magic-items/9228414-daerns-instant-fortress) |
 | 23–25 | [Dagger of Venom](/magic-items/9228415-dagger-of-venom) |
 | 26–28 | [Dragon Slayer](/magic-items/9228520-dragon-slayer) |
 | 29–31 | [Elven Chain](/magic-items/9228539-elven-chain) |
@@ -370,7 +370,7 @@ Armaments Tables
 | 32–34 | [Energy Bow](/magic-items/9058960-energy-bow) |
 | 35–37 | [Enspelled Armor](/magic-items/9228541-enspelled-armor) (level 4 or 5 spell) |
 | 38–40 | [Enspelled Weapon](/magic-items/9228599-enspelled-weapon) (level 4 or 5 spell) |
-| 41–43 | [Executioner’s Axe](/magic-items/9228603-executioners-axe) |
+| 41–43 | [Executioner's Axe](/magic-items/9228603-executioners-axe) |
 | 44–46 | [Frost Brand](/magic-items/9228651-frost-brand) |
 | 47–49 | [Horn of Valhalla (bronze)](/magic-items/9228778-horn-of-valhalla-bronze) |
 | 50–52 | [Ioun Stone](/magic-items/9228804-ioun-stone) ([strength](/magic-items/9228801-ioun-stone-of-strength)) |
@@ -428,12 +428,12 @@ Implements Tables
 | 03–04 | [Bead of Refreshment](/magic-items/27023-bead-of-refreshment) |
 | 05–06 | [Boots of False Tracks](/magic-items/27025-boots-of-false-tracks) |
 | 07–08 | [Candle of the Deep](/magic-items/27026-candle-of-the-deep) |
-| 09–10 | [Charlatan’s Die](/magic-items/27039-charlatans-die) |
+| 09–10 | [Charlatan's Die](/magic-items/27039-charlatans-die) |
 | 11–13 | [Cloak of Many Fashions](/magic-items/27041-cloak-of-many-fashions) |
 | 14–15 | [Clockwork Amulet](/magic-items/27042-clockwork-amulet) |
 | 16–17 | [Ear Horn of Hearing](/magic-items/27046-ear-horn-of-hearing) |
 | 18–19 | [Ersatz Eye](/magic-items/9228601-ersatz-eye) |
-| 20–21 | [Heward’s Handy Spice Pouch](/magic-items/9228723-hewards-handy-spice-pouch) |
+| 20–21 | [Heward's Handy Spice Pouch](/magic-items/9228723-hewards-handy-spice-pouch) |
 | 22–23 | [Horn of Silent Alarm](/magic-items/9228776-horn-of-silent-alarm) |
 | 24–25 | [Instrument of Illusions](/magic-items/9228786-instrument-of-illusions) |
 | 26–27 | [Instrument of Scribing](/magic-items/9228787-instrument-of-scribing) |
@@ -455,7 +455,7 @@ Implements Tables
 | 81–82 | [Sylvan Talon](/magic-items/9229122-sylvan-talon) |
 | 83–84 | [Talking Doll](/magic-items/27140-talking-doll) |
 | 85–86 | [Tankard of Sobriety](/magic-items/27142-tankard-of-sobriety) |
-| 87–90 | [Veteran’s Cane](/magic-items/9308690-veterans-cane) |
+| 87–90 | [Veteran's Cane](/magic-items/9308690-veterans-cane) |
 | 91–93 | [Walloping Ammunition](/magic-items/36839-walloping-ammunition) |
 | 94–96 | [Wand of Conducting](/magic-items/9229183-wand-of-conducting) |
 | 97–00 | [Wand of Pyrotechnics](/magic-items/9229192-wand-of-pyrotechnics) |
@@ -494,14 +494,14 @@ Implements Tables
 | 55 | [Immovable Rod](/magic-items/9228785-immovable-rod) |
 | 56–57 | [Instrument of the Bards](/magic-items/9228788-instrument-of-the-bards) ([Doss lute](/magic-items/9228466-doss-lute), [Fochlucan bandore](/magic-items/9228648-fochlucan-bandore), or [Mac-Fuirmidh cittern](/magic-items/9228834-mac-fuirmidh-cittern)) |
 | 58–59 | [Lantern of Revealing](/magic-items/9228811-lantern-of-revealing) |
-| 60–61 | [Nature’s Mantle](/magic-items/2405507-natures-mantle) |
+| 60–61 | [Nature's Mantle](/magic-items/2405507-natures-mantle) |
 | 62–63 | [Oil of Slipperiness](/magic-items/9228909-oil-of-slipperiness) |
 | 64–65 | [Pipes of Haunting](/magic-items/9228925-pipes-of-haunting) |
 | 66–67 | [Pipes of the Sewers](/magic-items/9228926-pipes-of-the-sewers) |
 | 68–71 | [Potion of Growth](/magic-items/4707-potion-of-growth) |
 | 72–80 | [Potion of Healing (greater)](/magic-items/5133-potion-of-healing-greater) |
 | 81–84 | [Potion of Water Breathing](/magic-items/9228940-potion-of-water-breathing) |
-| 85–86 | [Quaal’s Feather Token](/magic-items/9228948-quaals-feather-token) ([anchor](/magic-items/9228942-quaals-feather-token-anchor), [fan](/magic-items/9228944-quaals-feather-token-fan), or [tree](/magic-items/9228946-quaals-feather-token-tree)) |
+| 85–86 | [Quaal's Feather Token](/magic-items/9228948-quaals-feather-token) ([anchor](/magic-items/9228942-quaals-feather-token-anchor), [fan](/magic-items/9228944-quaals-feather-token-fan), or [tree](/magic-items/9228946-quaals-feather-token-tree)) |
 | 87–88 | [Ring of Jumping](/magic-items/9228966-ring-of-jumping) |
 | 89–90 | [Ring of Swimming](/magic-items/4732-ring-of-swimming) |
 | 91–92 | [Ring of Warmth](/magic-items/9228972-ring-of-warmth) |
@@ -526,7 +526,7 @@ Implements Tables
 | 29–32 | [Enspelled Weapon](/magic-items/9228599-enspelled-weapon) (level 2 or 3 spell) |
 | 33–36 | [Folding Boat](/magic-items/9228649-folding-boat) |
 | 37–40 | [Glamoured Studded Leather](/magic-items/4645-glamoured-studded-leather) |
-| 41–44 | [Heward’s Handy Haversack](/magic-items/9228722-hewards-handy-haversack) |
+| 41–44 | [Heward's Handy Haversack](/magic-items/9228722-hewards-handy-haversack) |
 | 45–48 | [Horseshoes of Speed](/magic-items/9228783-horseshoes-of-speed) |
 | 49–52 | [Instrument of the Bards](/magic-items/9228788-instrument-of-the-bards) ([Canaith mandolin](/magic-items/9228373-canaith-mandolin) or [Cli lyre](/magic-items/9228406-cli-lyre)) |
 | 53–56 | [Ioun Stone](/magic-items/9228804-ioun-stone) ([awareness](/magic-items/9228791-ioun-stone-of-awareness)) |
@@ -534,7 +534,7 @@ Implements Tables
 | 61–64 | [Potion of Diminution](/magic-items/4703-potion-of-diminution) |
 | 65–68 | [Potion of Gaseous Form](/magic-items/4705-potion-of-gaseous-form) |
 | 69–76 | [Potion of Healing (superior)](/magic-items/5134-potion-of-healing-superior) |
-| 77–80 | [Quaal’s Feather Token](/magic-items/9228948-quaals-feather-token) ([bird](/magic-items/9228943-quaals-feather-token-bird), [swan boat](/magic-items/9228945-quaals-feather-token-swan-boat), or [whip](/magic-items/9228947-quaals-feather-token-whip)) |
+| 77–80 | [Quaal's Feather Token](/magic-items/9228948-quaals-feather-token) ([bird](/magic-items/9228943-quaals-feather-token-bird), [swan boat](/magic-items/9228945-quaals-feather-token-swan-boat), or [whip](/magic-items/9228947-quaals-feather-token-whip)) |
 | 81–84 | [Ring of Evasion](/magic-items/4720-ring-of-evasion) |
 | 85–88 | [Ring of Free Action](/magic-items/4722-ring-of-free-action) |
 | 89–92 | [Rope of Entanglement](/magic-items/9228989-rope-of-entanglement) |
@@ -556,7 +556,7 @@ Implements Tables
 | 43–49 | [Ioun Stone](/magic-items/9228804-ioun-stone) ([agility](/magic-items/9228790-ioun-stone-of-agility)) |
 | 50–56 | [Lute of Thunderous Thumping](/magic-items/9228833-lute-of-thunderous-thumping) |
 | 57–63 | [Manual of Quickness of Action](/magic-items/4677-manual-of-quickness-of-action) |
-| 64–70 | [Nolzur’s Marvelous Pigments](/magic-items/9228905-nolzurs-marvelous-pigments) |
+| 64–70 | [Nolzur's Marvelous Pigments](/magic-items/9228905-nolzurs-marvelous-pigments) |
 | 71–77 | [Potion of Flying](/magic-items/4704-potion-of-flying) |
 | 78–86 | [Potion of Healing (supreme)](/magic-items/5135-potion-of-healing-supreme) |
 | 87–93 | [Potion of Speed](/magic-items/9228939-potion-of-speed) |
@@ -601,9 +601,9 @@ Relics Tables
 | 1d100 | Item |
 | --- | --- |
 | 01–05 | [Enspelled Staff](/magic-items/9228594-enspelled-staff) (cantrip or level 1 spell) |
-| 06–10 | [Keoghtom’s Ointment](/magic-items/9228809-keoghtoms-ointment) |
-| 11–15 | [Mariner’s Armor](/magic-items/9228837-mariners-armor) |
-| 16–20 | [Nature’s Mantle](/magic-items/2405507-natures-mantle) |
+| 06–10 | [Keoghtom's Ointment](/magic-items/9228809-keoghtoms-ointment) |
+| 11–15 | [Mariner's Armor](/magic-items/9228837-mariners-armor) |
+| 16–20 | [Nature's Mantle](/magic-items/2405507-natures-mantle) |
 | 21–25 | [Pearl of Power](/magic-items/9228918-pearl-of-power) |
 | 26–30 | [Periapt of Health](/magic-items/9228920-periapt-of-health) |
 | 31–35 | [Periapt of Wound Closure](/magic-items/9228921-periapt-of-wound-closure) |

@@ -5,13 +5,13 @@ Glossary Conventions
 
 The glossary uses the following conventions:
 
-**Tags in Brackets.** Some entries have a tag in brackets after the entry’s name, as in "Attack [Action]." A tag—[Action](#Action), [Area of Effect](#AreaofEffect), [Attitude](#Attitude), [Condition](#Condition), or [Hazard](#Hazard)—indicates that a rule is part of a family of rules. The tags also have glossary entries.
+**Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—[Action](#Action), [Area of Effect](#AreaofEffect), [Attitude](#Attitude), [Condition](#Condition), or [Hazard](#Hazard)—indicates that a rule is part of a family of rules. The tags also have glossary entries.
 
-**"You."** The game’s rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](#ProneCondition) condition is a creature that currently has that condition.
+**"You."** The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](#ProneCondition) condition is a creature that currently has that condition.
 
 **"See Also."** Some glossary entries include a *See also* section that points to other entries in the glossary, to chapters in this book, or both.
 
-**No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you’re looking for a term from an earlier version of the fifth edition rules, consult the index.
+**No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.
 
 **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.
 
@@ -92,7 +92,7 @@ On your turn, you can take one action. Choose which action to take from those be
 
 ### Advantage
 
-If you have Advantage on a [D20 Test](#D20Test), roll two d20s, and use the higher roll. A roll can’t be affected by more than one Advantage, and Advantage and [Disadvantage](#Disadvantage) on the same roll cancel each other. *See also* chapter 1 ("[D20 Tests](/sources/dnd/phb-2024/playing-the-game#AdvantageDisadvantage)").
+If you have Advantage on a [D20 Test](#D20Test), roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and [Disadvantage](#Disadvantage) on the same roll cancel each other. *See also* chapter 1 ("[D20 Tests](/sources/dnd/phb-2024/playing-the-game#AdvantageDisadvantage)").
 
 ---
 
@@ -104,7 +104,7 @@ An adventure is a series of encounters. A story emerges through playing them. *S
 
 ### Alignment
 
-A creature’s alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil. *See also* chapter 2 ("[Create Your Character](/sources/dnd/phb-2024/creating-a-character#Step4ChooseanAlignment)").
+A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil. *See also* chapter 2 ("[Create Your Character](/sources/dnd/phb-2024/creating-a-character#Step4ChooseanAlignment)").
 
 ---
 
@@ -125,7 +125,7 @@ The descriptions of many spells and other features specify that they have an are
 - [Line](#LineAreaofEffect)
 - [Sphere](#SphereAreaofEffect)
 
-An area of effect has a point of origin, a location from which the effect’s energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn’t included in the area of effect. To block a line, an obstruction must provide [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover). *See also* "[Cover](#Cover)."
+An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover). *See also* "[Cover](#Cover)."
 
 If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall—is between the creator and that point, the point of origin comes into being on the near side of the obstruction.
 
@@ -135,13 +135,13 @@ If the creator of an area of effect places it at an unseen point and an obstruct
 
 An Armor Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
 
-Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can’t use more than one. *See also* "[Attack Roll](#AttackRoll)."
+Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can't use more than one. *See also* "[Attack Roll](#AttackRoll)."
 
 ---
 
 ### Armor Training
 
-Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any [D20 Test](#D20Test) that involves Strength or Dexterity, and you can’t cast spells. If you use a Shield and lack training with it, you don’t gain its AC bonus. *See also* "[Disadvantage](#Disadvantage)" and chapter 6 ("[Armor](/sources/dnd/phb-2024/equipment#Armor)").
+Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any [D20 Test](#D20Test) that involves Strength or Dexterity, and you can't cast spells. If you use a Shield and lack training with it, you don't gain its AC bonus. *See also* "[Disadvantage](#Disadvantage)" and chapter 6 ("[Armor](/sources/dnd/phb-2024/equipment#Armor)").
 
 ---
 
@@ -149,7 +149,7 @@ Armor training allows you to use armor of a certain category without the followi
 
 When you take the Attack action, you can make one attack roll with a weapon or an [Unarmed Strike](#UnarmedStrike).
 
-***Equipping and Unequipping Weapons.*** You can either equip or unequip one weapon when you make an attack as part of this action. You do so either before or after the attack. If you equip a weapon before an attack, you don’t need to use it for that attack. Equipping a weapon includes drawing it from a sheath or picking it up. Unequipping a weapon includes sheathing, stowing, or dropping it.
+***Equipping and Unequipping Weapons.*** You can either equip or unequip one weapon when you make an attack as part of this action. You do so either before or after the attack. If you equip a weapon before an attack, you don't need to use it for that attack. Equipping a weapon includes drawing it from a sheath or picking it up. Unequipping a weapon includes sheathing, stowing, or dropping it.
 
 ***Moving between Attacks.*** If you move on your turn and have a feature, such as Extra Attack, that gives you more than one attack as part of the Attack action, you can use some or all of that movement to move between those attacks.
 
@@ -169,7 +169,7 @@ A monster has a starting attitude toward a player character: Friendly, Hostile, 
 
 ### Attunement
 
-Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item’s magical properties. A creature can have Attunement with no more than three magic items at a time. *See also* chapter 6 ("[Magic Items](/sources/dnd/phb-2024/equipment#Attunement)").
+Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. A creature can have Attunement with no more than three magic items at a time. *See also* chapter 6 ("[Magic Items](/sources/dnd/phb-2024/equipment#Attunement)").
 
 ---
 
@@ -177,7 +177,7 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 While you have the Blinded condition, you experience the following effects.
 
-***Can’t See.*** You can’t see and automatically fail any ability check that requires sight.
+***Can't See.*** You can't see and automatically fail any ability check that requires sight.
 
 ***Attacks Affected.*** Attack rolls against you have [Advantage](#Advantage), and your attack rolls have [Disadvantage](#Disadvantage).
 
@@ -185,7 +185,7 @@ While you have the Blinded condition, you experience the following effects.
 
 ### Blindsight
 
-If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn’t behind [Total Cover](https://www.dndbeyond.com/sources/basic-rules/combat#Cover) even if you have the [Blinded](#BlindedCondition) condition or are in [Darkness](#Darkness). Moreover, in that range, you can see something that has the [Invisible](#InvisibleCondition) condition.
+If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [Total Cover](https://www.dndbeyond.com/sources/basic-rules/combat#Cover) even if you have the [Blinded](#BlindedCondition) condition or are in [Darkness](#Darkness). Moreover, in that range, you can see something that has the [Invisible](#InvisibleCondition) condition.
 
 ---
 
@@ -197,7 +197,7 @@ A creature is Bloodied while it has half its [Hit Points](#HitPoints) or fewer r
 
 ### Bonus Action
 
-A Bonus Action is a special action that you can take on the same turn that you take an action. You can’t take more than one Bonus Action on a turn, and you have a Bonus Action to take only if a rule explicitly says so. *See also* chapter 1 ("[Actions](/sources/dnd/phb-2024/playing-the-game#BonusActions)").
+A Bonus Action is a special action that you can take on the same turn that you take an action. You can't take more than one Bonus Action on a turn, and you have a Bonus Action to take only if a rule explicitly says so. *See also* chapter 1 ("[Actions](/sources/dnd/phb-2024/playing-the-game#BonusActions)").
 
 ---
 
@@ -221,7 +221,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 | 21 | Mithral |
 | 23 | Adamantine |
 
-***Hit Points.*** An object is destroyed when it has 0 [Hit Points](#HitPoints). The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section’s Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
+***Hit Points.*** An object is destroyed when it has 0 [Hit Points](#HitPoints). The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
 
 #### Object Hit Points
@@ -238,7 +238,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ***Damage Threshold.*** Big objects, such as castle walls, often have extra resilience represented by a damage threshold. *See also* "[Damage Threshold](#DamageThreshold)."
 
-***No Ability Scores.*** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can’t make ability checks, and it fails all saving throws.
+***No Ability Scores.*** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
 
 ---
 
@@ -256,7 +256,7 @@ A burning creature or object takes 1d4 Fire damage at the start of each of its t
 
 ### Burrow Speed
 
-A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can’t burrow through solid rock unless the creature has a trait that allows it to do so. *See also* "[Speed](#Speed)."
+A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so. *See also* "[Speed](#Speed)."
 
 ---
 
@@ -294,13 +294,13 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 
 ### Challenge Rating
 
-Challenge Rating (CR) summarizes the threat a monster poses to a group of four player characters. Compare a monster’s CR to the characters’ level. If the CR is higher, the monster is likely a danger. If the CR is lower, the monster likely poses little threat. But circumstances and the number of player characters can significantly alter how threatening a monster is in actual play. The *Dungeon Master’s Guide* provides guidance to the DM on using CR while planning potential combat encounters. *See also* "[Stat Block](#StatBlock)."
+Challenge Rating (CR) summarizes the threat a monster poses to a group of four player characters. Compare a monster's CR to the characters' level. If the CR is higher, the monster is likely a danger. If the CR is lower, the monster likely poses little threat. But circumstances and the number of player characters can significantly alter how threatening a monster is in actual play. The *Dungeon Master's Guide* provides guidance to the DM on using CR while planning potential combat encounters. *See also* "[Stat Block](#StatBlock)."
 
 ---
 
 ### Character Sheet
 
-A character sheet is a paper or digital record that you use to track your character’s information. *See also* [chapter 2](/sources/dnd/phb-2024/creating-a-character#ChooseaCharacterSheet).
+A character sheet is a paper or digital record that you use to track your character's information. *See also* [chapter 2](/sources/dnd/phb-2024/creating-a-character#ChooseaCharacterSheet).
 
 ---
 
@@ -308,7 +308,7 @@ A character sheet is a paper or digital record that you use to track your charac
 
 While you have the Charmed condition, you experience the following effects.
 
-***Can’t Harm the Charmer.*** You can’t attack the charmer or target the charmer with damaging abilities or magical effects.
+***Can't Harm the Charmer.*** You can't attack the charmer or target the charmer with damaging abilities or magical effects.
 
 ***Social Advantage.*** The charmer has [Advantage](#Advantage) on any ability check to interact with you socially.
 
@@ -316,9 +316,9 @@ While you have the Charmed condition, you experience the following effects.
 
 ### Climbing
 
-While you’re climbing, each foot of movement costs 1 extra foot (2 extra feet in [Difficult Terrain](#DifficultTerrain)). You ignore this extra cost if you have a [Climb Speed](#ClimbSpeed) and use it to climb.
+While you're climbing, each foot of movement costs 1 extra foot (2 extra feet in [Difficult Terrain](#DifficultTerrain)). You ignore this extra cost if you have a [Climb Speed](#ClimbSpeed) and use it to climb.
 
-At the DM’s option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+At the DM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
 ---
 
@@ -330,7 +330,7 @@ A Climb Speed can be used in place of Speed to traverse a vertical surface witho
 
 ### Concentration
 
-Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect’s creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect’s description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
 
 ***Another Concentration Effect.*** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
 
@@ -360,39 +360,39 @@ A condition is a temporary game state. The definition of a condition says how it
 - [Stunned](#StunnedCondition)
 - [Unconscious](#UnconsciousCondition)
 
-A condition doesn’t stack with itself; a recipient either has a condition or doesn’t. The Exhaustion condition is an exception to that rule. *See also* chapter 1 ("[Conditions](/sources/dnd/phb-2024/playing-the-game#Conditions)").
+A condition doesn't stack with itself; a recipient either has a condition or doesn't. The Exhaustion condition is an exception to that rule. *See also* chapter 1 ("[Conditions](/sources/dnd/phb-2024/playing-the-game#Conditions)").
 
 ---
 
 ### Cone [Area of Effect]
 
-A Cone is an [area of effect](#AreaofEffect) that extends in straight lines from a point of origin in a direction its creator chooses. A Cone’s width at any point along its length is equal to that point’s distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
+A Cone is an [area of effect](#AreaofEffect) that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
 
-A Cone’s point of origin isn’t included in the area of effect unless its creator decides otherwise.
+A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
 
 ---
 
 ### Cover
 
-Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target: [Half Cover](/sources/dnd/free-rules/rules-glossary#Cover) (+2 bonus to AC and Dexterity saving throws), [Three-Quarters Cover](/sources/dnd/free-rules/rules-glossary#Cover) (+5 bonus to AC and Dexterity saving throws), and [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover) (can’t be targeted directly). If behind more than one degree of cover, a target benefits only from the most protective degree. *See also* chapter 1 ("[Combat](/sources/dnd/phb-2024/playing-the-game#Cover)").
+Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target: [Half Cover](/sources/dnd/free-rules/rules-glossary#Cover) (+2 bonus to AC and Dexterity saving throws), [Three-Quarters Cover](/sources/dnd/free-rules/rules-glossary#Cover) (+5 bonus to AC and Dexterity saving throws), and [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover) (can't be targeted directly). If behind more than one degree of cover, a target benefits only from the most protective degree. *See also* chapter 1 ("[Combat](/sources/dnd/phb-2024/playing-the-game#Cover)").
 
 ---
 
 ### Crawling
 
-While you’re crawling, each foot of movement costs 1 extra foot (2 extra feet in [Difficult Terrain](#DifficultTerrain)). *See also* "[Speed](#Speed)."
+While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in [Difficult Terrain](#DifficultTerrain)). *See also* "[Speed](#Speed)."
 
 ---
 
 ### Creature
 
-Any being in the game, including a player’s character, is a creature. *See also* "[Creature Type](#CreatureType)."
+Any being in the game, including a player's character, is a creature. *See also* "[Creature Type](#CreatureType)."
 
 ---
 
 ### Creature Type
 
-Every creature, including every player character, has a tag in the rules that identifies the type of creature it is. Most player characters are of the Humanoid type. These are the game’s creature types:
+Every creature, including every player character, has a tag in the rules that identifies the type of creature it is. Most player characters are of the Humanoid type. These are the game's creature types:
 
 - Aberration
 - Beast
@@ -409,13 +409,13 @@ Every creature, including every player character, has a tag in the rules that id
 - Plant
 - Undead
 
-The types don’t have rules themselves, but some rules in the game affect creatures of certain types in different ways.
+The types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways.
 
 ---
 
 ### Critical Hit
 
-If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target’s AC. A Critical Hit lets you roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers. *See also* chapter 1 ("[Damage and Healing](/sources/dnd/phb-2024/playing-the-game#CriticalHits)").
+If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target's AC. A Critical Hit lets you roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers. *See also* chapter 1 ("[Damage and Healing](/sources/dnd/phb-2024/playing-the-game#CriticalHits)").
 
 ---
 
@@ -423,7 +423,7 @@ If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and th
 
 A Cube is an [area of effect](#AreaofEffect) that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side.
 
-A Cube’s point of origin isn’t included in the area of effect unless its creator decides otherwise.
+A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
 
 ---
 
@@ -435,9 +435,9 @@ Some game effects curse a creature or an object. The effect that confers a curse
 
 ### Cylinder [Area of Effect]
 
-A Cylinder is an [area of effect](#AreaofEffect) that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder’s base and the Cylinder’s height.
+A Cylinder is an [area of effect](#AreaofEffect) that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
 
-A Cylinder’s point of origin is included in the area of effect.
+A Cylinder's point of origin is included in the area of effect.
 
 
 ---
@@ -462,7 +462,7 @@ A damage roll is a die roll, adjusted by any applicable modifiers, that deals da
 
 ### Damage Threshold
 
-A creature or an object that has a damage threshold has [Immunity](#Immunity) to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes that entire instance of damage. Any damage that fails to meet or exceed the damage threshold is superficial and doesn’t reduce [Hit Points](#HitPoints). For example, if an object has a damage threshold of 10, the object takes no damage if 9 damage is dealt to it, since that damage fails to exceed the threshold. If the same object is dealt 11 damage, it takes all of that damage.
+A creature or an object that has a damage threshold has [Immunity](#Immunity) to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes that entire instance of damage. Any damage that fails to meet or exceed the damage threshold is superficial and doesn't reduce [Hit Points](#HitPoints). For example, if an object has a damage threshold of 10, the object takes no damage if 9 damage is dealt to it, since that damage fails to exceed the threshold. If the same object is dealt 11 damage, it takes all of that damage.
 
 ---
 
@@ -514,9 +514,9 @@ If you have a special speed, such as a [Fly Speed](#FlySpeed) or [Swim Speed](#S
 
 ### Dead
 
-A dead creature has no [Hit Points](#HitPoints) and can’t regain them unless it is first revived by magic such as the [Raise Dead](/spells/2618922-raise-dead) or [Revivify](/spells/2618956-revivify) spell. When such a spell is cast, the spirit knows who is casting it and can refuse. The spirit of a dead creature has left the body and departed for the Outer Planes, and reviving the creature requires calling the spirit back.
+A dead creature has no [Hit Points](#HitPoints) and can't regain them unless it is first revived by magic such as the [Raise Dead](/spells/2618922-raise-dead) or [Revivify](/spells/2618956-revivify) spell. When such a spell is cast, the spirit knows who is casting it and can refuse. The spirit of a dead creature has left the body and departed for the Outer Planes, and reviving the creature requires calling the spirit back.
 
-If the creature returns to life, the revival effect determines the creature’s current Hit Points. Unless otherwise stated, the creature returns to life with any conditions, magical contagions, or curses that were affecting it at death if the durations of those effects are still ongoing. If the creature died with any [Exhaustion](#ExhaustionCondition) levels, it returns with 1 fewer level. If the creature had [Attunement](#Attunement) to one or more magic items, it is no longer attuned to them.
+If the creature returns to life, the revival effect determines the creature's current Hit Points. Unless otherwise stated, the creature returns to life with any conditions, magical contagions, or curses that were affecting it at death if the durations of those effects are still ongoing. If the creature died with any [Exhaustion](#ExhaustionCondition) levels, it returns with 1 fewer level. If the creature had [Attunement](#Attunement) to one or more magic items, it is no longer attuned to them.
 
 ---
 
@@ -524,7 +524,7 @@ If the creature returns to life, the revival effect determines the creature’s 
 
 While you have the Deafened condition, you experience the following effect.
 
-***Can’t Hear.*** You can’t hear and automatically fail any ability check that requires hearing.
+***Can't Hear.*** You can't hear and automatically fail any ability check that requires hearing.
 
 ---
 
@@ -536,7 +536,7 @@ A player character must make a Death Saving Throw (also called a Death Save) if 
 
 ### Dehydration [Hazard]
 
-A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 Exhaustion level at the day’s end. Exhaustion caused by dehydration can’t be removed until the creature drinks the full amount of water required for a day. *See also* "[Exhaustion](#ExhaustionCondition)."
+A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 Exhaustion level at the day's end. Exhaustion caused by dehydration can't be removed until the creature drinks the full amount of water required for a day. *See also* "[Exhaustion](#ExhaustionCondition)."
 
 
 #### Water Needs per Day
@@ -555,14 +555,14 @@ A creature requires an amount of water per day based on its size, as shown in th
 
 ### Difficult Terrain
 
-If a space is Difficult Terrain, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn’t cumulative; either a space is Difficult Terrain or it isn’t.
+If a space is Difficult Terrain, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
 
 A space is Difficult Terrain if the space contains any of the following or something similar:
 
-* A creature that isn’t Tiny or your ally
+* A creature that isn't Tiny or your ally
 * Furniture that is sized for creatures of your size or larger
 * Heavy snow, ice, rubble, or undergrowth
-* Liquid that’s between shin- and waist-deep
+* Liquid that's between shin- and waist-deep
 * A narrow opening sized for a creature one size smaller than you
 * A slope of 20 degrees or more
 
@@ -582,13 +582,13 @@ An area with Dim Light is Lightly Obscured. *See also* "[Lightly Obscured](#Ligh
 
 ### Disadvantage
 
-If you have Disadvantage on a [D20 Test](#D20Test), roll two d20s and use the lower roll. A roll can’t be affected by more than one Disadvantage, and [Advantage](#Advantage) and Disadvantage on the same roll cancel each other. *See also* chapter 1 ("[D20 Tests](/sources/dnd/phb-2024/playing-the-game#AdvantageDisadvantage)").
+If you have Disadvantage on a [D20 Test](#D20Test), roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and [Advantage](#Advantage) and Disadvantage on the same roll cancel each other. *See also* chapter 1 ("[D20 Tests](/sources/dnd/phb-2024/playing-the-game#AdvantageDisadvantage)").
 
 ---
 
 ### Disengage [Action]
 
-If you take the Disengage action, your movement doesn’t provoke [Opportunity Attacks](#OpportunityAttacks) for the rest of the current turn.
+If you take the Disengage action, your movement doesn't provoke [Opportunity Attacks](#OpportunityAttacks) for the rest of the current turn.
 
 ---
 
@@ -606,13 +606,13 @@ An Emanation is an [area of effect](#AreaofEffect) that extends in straight line
 
 An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
 
-An Emanation’s origin (creature or object) isn’t included in the area of effect unless its creator decides otherwise.
+An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
 
 ---
 
 ### Encounter
 
-An encounter is a scene in an adventure that is part of at least one of the game’s three pillars: social interaction, exploration, or combat. *See also* chapter 1 ("[Social Interaction](/sources/dnd/phb-2024/playing-the-game#SocialInteraction)," "[Exploration](/sources/dnd/phb-2024/playing-the-game#Exploration)," and "[Combat](/sources/dnd/phb-2024/playing-the-game#Combat)").
+An encounter is a scene in an adventure that is part of at least one of the game's three pillars: social interaction, exploration, or combat. *See also* chapter 1 ("[Social Interaction](/sources/dnd/phb-2024/playing-the-game#SocialInteraction)," "[Exploration](/sources/dnd/phb-2024/playing-the-game#Exploration)," and "[Combat](/sources/dnd/phb-2024/playing-the-game#Combat)").
 
 ---
 
@@ -638,7 +638,7 @@ While you have the Exhaustion condition, you experience the following effects.
 
 ### Experience Points
 
-As they overcome challenges and complete adventures, characters earn Experience Points (XP), which are awarded by the Dungeon Master. When a character’s XP total crosses certain thresholds, the character’s level increases. The *Dungeon Master’s Guide* provides guidance on awarding XP. *See also* chapter 2 ("[Level Advancement](/sources/dnd/phb-2024/creating-a-character#LevelAdvancement)").
+As they overcome challenges and complete adventures, characters earn Experience Points (XP), which are awarded by the Dungeon Master. When a character's XP total crosses certain thresholds, the character's level increases. The *Dungeon Master's Guide* provides guidance on awarding XP. *See also* chapter 2 ("[Level Advancement](/sources/dnd/phb-2024/creating-a-character#LevelAdvancement)").
 
 ---
 
@@ -646,7 +646,7 @@ As they overcome challenges and complete adventures, characters earn Experience 
 
 Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your Proficiency Bonus is doubled for that check unless the bonus is doubled by another feature.
 
-If you gain Expertise, you gain it in one skill in which you have proficiency. You can’t have Expertise in the same skill proficiency more than once.
+If you gain Expertise, you gain it in one skill in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
 
 *See also* chapter 1 ("[Proficiency](/sources/dnd/phb-2024/playing-the-game#Proficiency)").
 
@@ -684,7 +684,7 @@ While you have the Frightened condition, you experience the following effects.
 
 ***Ability Checks and Attacks Affected.*** You have [Disadvantage](#Disadvantage) on [ability checks](#AbilityCheck) and [attack rolls](#AttackRoll) while the source of fear is within line of sight.
 
-***Can’t Approach.*** You can’t willingly move closer to the source of fear.
+***Can't Approach.*** You can't willingly move closer to the source of fear.
 
 ---
 
@@ -692,7 +692,7 @@ While you have the Frightened condition, you experience the following effects.
 
 While you have the Grappled condition, you experience the following effects.
 
-***Speed 0.*** Your [Speed](#Speed) is 0 and can’t increase.
+***Speed 0.*** Your [Speed](#Speed) is 0 and can't increase.
 
 ***Attacks Affected.*** You have [Disadvantage](#Disadvantage) on attack rolls against any target other than the grappler.
 
@@ -706,9 +706,9 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ***Grappled Condition.*** Successfully grappling a creature gives it the Grappled condition.
 
-***One Grapple per Hand.*** A creature must have a hand free to grapple another creature. Some stat blocks and game effects allow a creature to grapple using a tentacle, a maw, or another body part. Whatever part a grappler uses, it can grapple only one creature at a time with that part, and the grappler can’t use that part to target another creature unless it ends the grapple.
+***One Grapple per Hand.*** A creature must have a hand free to grapple another creature. Some stat blocks and game effects allow a creature to grapple using a tentacle, a maw, or another body part. Whatever part a grappler uses, it can grapple only one creature at a time with that part, and the grappler can't use that part to target another creature unless it ends the grapple.
 
-***Escaping a Grapple.*** A Grappled creature can use its action to make a Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) or Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check against the grapple’s escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the [Incapacitated](#IncapacitatedCondition) condition or if the distance between the Grappled target and the grappler exceeds the grapple’s range.
+***Escaping a Grapple.*** A Grappled creature can use its action to make a Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) or Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the [Incapacitated](#IncapacitatedCondition) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 ---
 
@@ -734,7 +734,7 @@ You have the Blinded condition while trying to see something in a Heavily Obscur
 
 When you take the Help action, you do one of the following.
 
-***Assist an Ability Check.*** Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has [Advantage](#Advantage) on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn’t use it before the start of your next turn. The DM has final say on whether your assistance is possible.
+***Assist an Ability Check.*** Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has [Advantage](#Advantage) on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The DM has final say on whether your assistance is possible.
 
 ***Assist an Attack Roll.*** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
@@ -744,15 +744,15 @@ When you take the Help action, you do one of the following.
 
 If you (a player character) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
-If you gain Heroic Inspiration but already have it, it’s lost unless you give it to a player character who lacks it.
+If you gain Heroic Inspiration but already have it, it's lost unless you give it to a player character who lacks it.
 
 ---
 
 ### Hide [Action]
 
-With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([Stealth](/sources/dnd/free-rules/playing-the-game#Skills)) check while you’re [Heavily Obscured](#HeavilyObscured) or behind [Three-Quarters Cover](/sources/dnd/free-rules/rules-glossary#Cover) or [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover), and you must be out of any enemy’s line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([Stealth](/sources/dnd/free-rules/playing-the-game#Skills)) check while you're [Heavily Obscured](#HeavilyObscured) or behind [Three-Quarters Cover](/sources/dnd/free-rules/rules-glossary#Cover) or [Total Cover](/sources/dnd/free-rules/rules-glossary#Cover), and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
-On a successful check, you have the [Invisible](#InvisibleCondition) condition. Make note of your check’s total, which is the DC for a creature to find you with a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+On a successful check, you have the [Invisible](#InvisibleCondition) condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
 The condition ends on you immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
@@ -768,13 +768,13 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ### Hit Point Dice
 
-Hit Point Dice, or Hit Dice for short, help determine a player character’s Hit Point maximum, as explained in [chapter 2](/sources/dnd/phb-2024/creating-a-character). Most monsters also have Hit Dice. A creature can spend Hit Dice during a Short Rest to regain [Hit Points](#HitPoints). *See also* "[Short Rest](#ShortRest)."
+Hit Point Dice, or Hit Dice for short, help determine a player character's Hit Point maximum, as explained in [chapter 2](/sources/dnd/phb-2024/creating-a-character). Most monsters also have Hit Dice. A creature can spend Hit Dice during a Short Rest to regain [Hit Points](#HitPoints). *See also* "[Short Rest](#ShortRest)."
 
 ---
 
 ### Hit Points
 
-Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can’t have more Hit Points than your Hit Point maximum, and you can’t have less than 0. *See also* "[Breaking Objects](#BreakingObjects)" and chapter 1 ("[Damage and Healing](/sources/dnd/phb-2024/playing-the-game#HitPoints)").
+Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can't have more Hit Points than your Hit Point maximum, and you can't have less than 0. *See also* "[Breaking Objects](#BreakingObjects)" and chapter 1 ("[Damage and Healing](/sources/dnd/phb-2024/playing-the-game#HitPoints)").
 
 ---
 
@@ -800,21 +800,21 @@ If an illusion manifests in space, the illusion is insubstantial and weightless,
 
 ### Immunity
 
-If you have Immunity to a damage type or a condition, it doesn’t affect you in any way.
+If you have Immunity to a damage type or a condition, it doesn't affect you in any way.
 
 ---
 
 ### Improvised Weapons
 
-An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it’s wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the [Thrown](/sources/dnd/free-rules/equipment#Thrown) property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
+An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the [Thrown](/sources/dnd/free-rules/equipment#Thrown) property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
 
-***Proficiency.*** Don’t add your Proficiency Bonus to attack rolls with an improvised weapon.
+***Proficiency.*** Don't add your Proficiency Bonus to attack rolls with an improvised weapon.
 
 ***Damage.*** On a hit, the weapon deals 1d4 damage of a type the DM thinks is appropriate for the object.
 
 ***Range.*** If you throw the weapon, it has a normal range of 20 feet and a long range of 60 feet.
 
-***Weapon Equivalents.*** If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon’s rules. For example, the DM could treat a table leg as a Club.
+***Weapon Equivalents.*** If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a Club.
 
 ---
 
@@ -822,13 +822,13 @@ An improvised weapon is an object wielded as a makeshift weapon, such as broken 
 
 While you have the Incapacitated condition, you experience the following effects.
 
-***Inactive.*** You can’t take any [action](#Action), [Bonus Action](#BonusAction), or [Reaction](#Reaction).
+***Inactive.*** You can't take any [action](#Action), [Bonus Action](#BonusAction), or [Reaction](#Reaction).
 
 ***No Concentration.*** Your [Concentration](#Concentration) is broken.
 
-***Speechless.*** You can’t speak.
+***Speechless.*** You can't speak.
 
-***Surprised.*** If you’re Incapacitated when you roll [Initiative](#Initiative), you have [Disadvantage](#Disadvantage) on the roll.
+***Surprised.*** If you're Incapacitated when you roll [Initiative](#Initiative), you have [Disadvantage](#Disadvantage) on the roll.
 
 ---
 
@@ -840,13 +840,13 @@ An Indifferent creature has no desire to help or hinder you. Indifferent is the 
 
 ### Influence [Action]
 
-With the Influence action, you urge a monster to do something. Describe or roleplay how you’re communicating with the monster. Are you trying to deceive, intimidate, amuse, or gently persuade? The DM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction; this determination establishes whether an ability check is necessary, as explained below.
+With the Influence action, you urge a monster to do something. Describe or roleplay how you're communicating with the monster. Are you trying to deceive, intimidate, amuse, or gently persuade? The DM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction; this determination establishes whether an ability check is necessary, as explained below.
 
-***Willing.*** If your urging aligns with the monster’s desires, no ability check is necessary; the monster fulfills your request in a way it prefers.
+***Willing.*** If your urging aligns with the monster's desires, no ability check is necessary; the monster fulfills your request in a way it prefers.
 
-***Unwilling.*** If your urging is repugnant to the monster or counter to its alignment, no ability check is necessary; it doesn’t comply.
+***Unwilling.*** If your urging is repugnant to the monster or counter to its alignment, no ability check is necessary; it doesn't comply.
 
-***Hesitant.*** If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster’s attitude: [Indifferent](#IndifferentAttitude), [Friendly](#FriendlyAttitude), or [Hostile](#HostileAttitude), each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you’re interacting with the monster. The DM chooses the check, which has a default DC equal to 15 or the monster’s Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the DM) before urging it in the same way again.
+***Hesitant.*** If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster's attitude: [Indifferent](#IndifferentAttitude), [Friendly](#FriendlyAttitude), or [Hostile](#HostileAttitude), each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you're interacting with the monster. The DM chooses the check, which has a default DC equal to 15 or the monster's Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the DM) before urging it in the same way again.
 
 
 #### Influence Checks
@@ -874,11 +874,11 @@ Sometimes a DM might have combatants use their Initiative scores instead of roll
 
 While you have the Invisible condition, you experience the following effects.
 
-***Surprise.*** If you’re Invisible when you roll [Initiative](#Initiative), you have [Advantage](#Advantage) on the roll.
+***Surprise.*** If you're Invisible when you roll [Initiative](#Initiative), you have [Advantage](#Advantage) on the roll.
 
-***Concealed.*** You aren’t affected by any effect that requires its target to be seen unless the effect’s creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+***Concealed.*** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-***Attacks Affected.*** Attack rolls against you have [Disadvantage](#Disadvantage), and your attack rolls have Advantage. If a creature can somehow see you, you don’t gain this benefit against that creature.
+***Attacks Affected.*** Attack rolls against you have [Disadvantage](#Disadvantage), and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 
 ---
@@ -907,7 +907,7 @@ You have [Disadvantage](#Disadvantage) on Wisdom ([Perception](/sources/dnd/free
 
 A Line is an [area of effect](#AreaofEffect) that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
 
-A Line’s point of origin isn’t included in the area of effect unless its creator decides otherwise.
+A Line's point of origin isn't included in the area of effect unless its creator decides otherwise.
 
 ---
 
@@ -917,7 +917,7 @@ When you make a Long Jump, you leap horizontally a number of feet up to your Str
 
 If you land in [Difficult Terrain](#DifficultTerrain), you must succeed on a DC 10 Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check or have the [Prone](#ProneCondition) condition.
 
-This Long Jump rule assumes that the height of the jump doesn’t matter, such as a jump across a stream or chasm. At your DM’s option, you must succeed on a DC 10 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit the obstacle.
+This Long Jump rule assumes that the height of the jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit the obstacle.
 
 ---
 
@@ -954,7 +954,7 @@ You can resume a Long Rest immediately after an interruption. If you do so, the 
 
 When you take the Magic action, you cast a spell that has a casting time of an action or use a feature or magic item that requires a Magic action to be activated.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don’t expend a spell slot. *See also* "[Concentration](#Concentration)."
+If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. *See also* "[Concentration](#Concentration)."
 
 ---
 
@@ -966,9 +966,9 @@ An effect is magical if it is created by a spell, a magic item, or a phenomenon 
 
 ### Malnutrition [Hazard]
 
-A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution saving throw or gain 1 Exhaustion level at the day’s end. A creature that eats nothing for 5 days automatically gains 1 Exhaustion level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution saving throw or gain 1 Exhaustion level at the day's end. A creature that eats nothing for 5 days automatically gains 1 Exhaustion level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
 
-Exhaustion caused by malnutrition can’t be removed until the creature eats the full amount of food required for a day. *See also* "[Exhaustion](#ExhaustionCondition)."
+Exhaustion caused by malnutrition can't be removed until the creature eats the full amount of food required for a day. *See also* "[Exhaustion](#ExhaustionCondition)."
 
 
 #### Food Needs per Day
@@ -1021,7 +1021,7 @@ While you have the Paralyzed condition, you experience the following effects.
 
 ***Incapacitated.*** You have the [Incapacitated](#IncapacitatedCondition) condition.
 
-***Speed 0.*** Your [Speed](#Speed) is 0 and can’t increase.
+***Speed 0.*** Your [Speed](#Speed) is 0 and can't increase.
 
 ***Saving Throws Affected.*** You automatically fail Strength and Dexterity [saving throws](#SavingThrow).
 
@@ -1033,9 +1033,9 @@ While you have the Paralyzed condition, you experience the following effects.
 
 ### Passive Perception
 
-Passive Perception is a score that reflects a creature’s general awareness of its surroundings. The DM uses this score when determining whether a creature notices something without consciously making a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+Passive Perception is a score that reflects a creature's general awareness of its surroundings. The DM uses this score when determining whether a creature notices something without consciously making a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
-A creature’s Passive Perception equals 10 plus the creature’s Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check bonus. If the creature has [Advantage](#Advantage) on such checks, increase the score by 5. If the creature has [Disadvantage](#Disadvantage) on them, decrease the score by 5. For example, a level 1 character with a Wisdom of 15 and proficiency in Perception has a Passive Perception of 14 (10 + 2 + 2). If that character has Advantage on Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) checks, the score becomes 19.
+A creature's Passive Perception equals 10 plus the creature's Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check bonus. If the creature has [Advantage](#Advantage) on such checks, increase the score by 5. If the creature has [Disadvantage](#Disadvantage) on them, decrease the score by 5. For example, a level 1 character with a Wisdom of 15 and proficiency in Perception has a Passive Perception of 14 (10 + 2 + 2). If that character has Advantage on Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) checks, the score becomes 19.
 
 ---
 
@@ -1053,7 +1053,7 @@ While you have the Petrified condition, you experience the following effects.
 
 ***Incapacitated.*** You have the [Incapacitated](#IncapacitatedCondition) condition.
 
-***Speed 0.*** Your [Speed](#Speed) is 0 and can’t increase.
+***Speed 0.*** Your [Speed](#Speed) is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have [Advantage](#Advantage).
 
@@ -1095,7 +1095,7 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 
 While you have the Prone condition, you experience the following effects.
 
-***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your [Speed](#Speed) (round down) to right yourself and thereby end the condition. If your Speed is 0, you can’t right yourself.
+***Restricted Movement.*** Your only movement options are to crawl or to spend an amount of movement equal to half your [Speed](#Speed) (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
 
 ***Attacks Affected.*** You have [Disadvantage](#Disadvantage) on attack rolls. An attack roll against you has [Advantage](#Advantage) if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
 
@@ -1103,7 +1103,7 @@ While you have the Prone condition, you experience the following effects.
 
 ### Reaction
 
-A Reaction is a special action taken in response to a trigger defined in the Reaction’s description. You can take a Reaction on another creature’s turn, and if you take it on your turn, you can do so even if you also take an action, a [Bonus Action](#BonusAction), or both. Once you take a Reaction, you can’t take another one until the start of your next turn. The Opportunity Attack is a Reaction available to all creatures. *See also* "[Opportunity Attacks](#OpportunityAttacks)" and chapter 1 ("[Actions](/sources/dnd/phb-2024/playing-the-game#Reactions)").
+A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a Reaction on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a [Bonus Action](#BonusAction), or both. Once you take a Reaction, you can't take another one until the start of your next turn. The Opportunity Attack is a Reaction available to all creatures. *See also* "[Opportunity Attacks](#OpportunityAttacks)" and chapter 1 ("[Actions](/sources/dnd/phb-2024/playing-the-game#Reactions)").
 
 ---
 
@@ -1111,11 +1111,11 @@ A Reaction is a special action taken in response to a trigger defined in the Rea
 
 You take the Ready action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a [Reaction](#Reaction) before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your [Speed](#Speed) in response to it. Examples include "If the cultist steps on the trapdoor, I’ll pull the lever that opens it," and "If the zombie steps next to me, I move away."
+First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your [Speed](#Speed) in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
 When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.
 
-When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your Reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell’s magic requires [Concentration](#Concentration), which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your Reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [Concentration](#Concentration), which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
 
 ---
 
@@ -1129,7 +1129,7 @@ If you have Resistance to a damage type, damage of that type is halved against y
 
 While you have the Restrained condition, you experience the following effects.
 
-***Speed 0.*** Your [Speed](#Speed) is 0 and can’t increase.
+***Speed 0.*** Your [Speed](#Speed) is 0 and can't increase.
 
 ***Attacks Affected.*** Attack rolls against you have [Advantage](#Advantage), and your attack rolls have [Disadvantage](#Disadvantage).
 
@@ -1139,7 +1139,7 @@ While you have the Restrained condition, you experience the following effects.
 
 ### Ritual
 
-If you have a spell prepared that has the Ritual tag, you can cast that spell as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn’t expend a spell slot, which means the ritual version of a spell can’t be cast at a higher level. *See also* [chapter 7](/sources/dnd/phb-2024/spells/).
+If you have a spell prepared that has the Ritual tag, you can cast that spell as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level. *See also* [chapter 7](/sources/dnd/phb-2024/spells/).
 
 ---
 
@@ -1164,7 +1164,7 @@ A saving throw—also called a save—represents an attempt to avoid or resist a
 
 ### Search [Action]
 
-When you take the Search action, you make a Wisdom check to discern something that isn’t obvious. The Search table suggests which skills are applicable when you take this action, depending on what you’re trying to detect.
+When you take the Search action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
 
 
 #### Search
@@ -1172,8 +1172,8 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 | Skill | Thing to Detect |
 | --- | --- |
-| [Insight](/sources/dnd/free-rules/playing-the-game#Skills) | Creature’s state of mind |
-| [Medicine](/sources/dnd/free-rules/playing-the-game#Skills) | Creature’s ailment or cause of death |
+| [Insight](/sources/dnd/free-rules/playing-the-game#Skills) | Creature's state of mind |
+| [Medicine](/sources/dnd/free-rules/playing-the-game#Skills) | Creature's ailment or cause of death |
 | [Perception](/sources/dnd/free-rules/playing-the-game#Skills) | Concealed creature or object |
 | [Survival](/sources/dnd/free-rules/playing-the-game#Skills) | Tracks or food |
 
@@ -1207,13 +1207,13 @@ An interrupted Short Rest confers no benefits.
 
 ### Simultaneous Effects
 
-If two or more things happen at the same time on a turn, the person at the game table—player or DM—whose turn it is decides the order in which those things happen. For example, if two effects occur at the start of a player character’s turn, the player decides which of the effects happens first.
+If two or more things happen at the same time on a turn, the person at the game table—player or DM—whose turn it is decides the order in which those things happen. For example, if two effects occur at the start of a player character's turn, the player decides which of the effects happens first.
 
 ---
 
 ### Size
 
-A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature’s size determines how much space the creature occupies in combat. An object’s size affects its [Hit Points](#HitPoints). *See also* "[Breaking Objects](#BreakingObjects)" and chapter 1 ("[Combat](/sources/dnd/phb-2024/playing-the-game#Combat)").
+A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature's size determines how much space the creature occupies in combat. An object's size affects its [Hit Points](#HitPoints). *See also* "[Breaking Objects](#BreakingObjects)" and chapter 1 ("[Combat](/sources/dnd/phb-2024/playing-the-game#Combat)").
 
 ---
 
@@ -1227,7 +1227,7 @@ A skill is an area of specialization associated with an ability check. If you ha
 
 A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn. *See also* "[Climbing](#Climbing)," "[Crawling](#Crawling)," "[Flying](#Flying)," "[Jumping](#Jumping)," "[Swimming](#Swimming)" and chapter 1 ("[Combat](/sources/dnd/phb-2024/playing-the-game#MovementandPosition)").
 
-***Special Speeds.*** Some creatures have special speeds, such as a [Burrow Speed](#BurrowSpeed), [Climb Speed](#ClimbSpeed), [Fly Speed](#FlySpeed), or [Swim Speed](#SwimSpeed), each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
+***Special Speeds.*** Some creatures have special speeds, such as a [Burrow Speed](#BurrowSpeed), [Climb Speed](#ClimbSpeed), [Fly Speed](#FlySpeed), or [Swim Speed](#SwimSpeed), each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
 ***Changes to Your Speeds.*** If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your Speed is halved and you have a Fly Speed, your Fly Speed is also halved.
 
@@ -1247,7 +1247,7 @@ A spell attack is an attack roll made as part of a spell or another magical effe
 
 ### Spellcasting Focus
 
-A Spellcasting Focus is an object that certain creatures can use in place of a spell’s Material components if those materials aren’t consumed by the spell and don’t have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses. *See also* chapter 7 ("[Casting Spells](/sources/dnd/phb-2024/spells#CastingSpells)").
+A Spellcasting Focus is an object that certain creatures can use in place of a spell's Material components if those materials aren't consumed by the spell and don't have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses. *See also* chapter 7 ("[Casting Spells](/sources/dnd/phb-2024/spells#CastingSpells)").
 
 ---
 
@@ -1255,19 +1255,19 @@ A Spellcasting Focus is an object that certain creatures can use in place of a s
 
 A Sphere is an [area of effect](#AreaofEffect) that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
 
-A Sphere’s point of origin is included in the Sphere’s area of effect.
+A Sphere's point of origin is included in the Sphere's area of effect.
 
 ---
 
 ### Stable
 
-A creature is Stable if it has 0 [Hit Points](#HitPoints) but isn’t required to make [Death Saving Throws](#DeathSavingThrow). *See also* chapter 1 ("[Damage and Healing](/sources/dnd/phb-2024/playing-the-game#StabilizingaCharacter)").
+A creature is Stable if it has 0 [Hit Points](#HitPoints) but isn't required to make [Death Saving Throws](#DeathSavingThrow). *See also* chapter 1 ("[Damage and Healing](/sources/dnd/phb-2024/playing-the-game#StabilizingaCharacter)").
 
 ---
 
 ### Stat Block
 
-A stat block contains the game statistics of a monster. Each stat block includes the following information presented after the monster’s name.
+A stat block contains the game statistics of a monster. Each stat block includes the following information presented after the monster's name.
 
 ***Size.*** A monster is Tiny, Small, Medium, Large, Huge, or Gargantuan. *See also* "[Size](#Size)."
 
@@ -1275,27 +1275,27 @@ A stat block contains the game statistics of a monster. Each stat block includes
 
 ***Alignment.*** An alignment is suggested for the monster, with the DM determining its actual alignment. *See also* "[Alignment](#Alignment)."
 
-***AC, Initiative, and HP.*** These entries give the monster’s [Armor Class](#ArmorClass), [Initiative](#Initiative), and [Hit Points](#HitPoints), which are detailed in [chapter 1](/sources/dnd/phb-2024/playing-the-game/). In parentheses after the Hit Points, the monster’s [Hit Point Dice](#HitPointDice) are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
+***AC, Initiative, and HP.*** These entries give the monster's [Armor Class](#ArmorClass), [Initiative](#Initiative), and [Hit Points](#HitPoints), which are detailed in [chapter 1](/sources/dnd/phb-2024/playing-the-game/). In parentheses after the Hit Points, the monster's [Hit Point Dice](#HitPointDice) are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
 
-***Speed.*** Here the monster’s Speed is provided, along with any special speeds. *See also* "[Burrow Speed](#BurrowSpeed)," "[Climb Speed](#ClimbSpeed)," "[Fly Speed](#FlySpeed)," and "[Swim Speed](#SwimSpeed)."
+***Speed.*** Here the monster's Speed is provided, along with any special speeds. *See also* "[Burrow Speed](#BurrowSpeed)," "[Climb Speed](#ClimbSpeed)," "[Fly Speed](#FlySpeed)," and "[Swim Speed](#SwimSpeed)."
 
-***Ability Scores.*** A table provides the monster’s [ability scores, modifiers](#AbilityScoreandModifier), and [saving throw](#SavingThrow) modifiers, all of which are detailed in [chapter 1](/sources/dnd/phb-2024/playing-the-game/).
+***Ability Scores.*** A table provides the monster's [ability scores, modifiers](#AbilityScoreandModifier), and [saving throw](#SavingThrow) modifiers, all of which are detailed in [chapter 1](/sources/dnd/phb-2024/playing-the-game/).
 
-***Skills.*** This entry lists the monster’s skill [proficiencies](#Proficiency), if any. *See also* chapter 1 ("[Proficiency](/sources/dnd/phb-2024/playing-the-game#Proficiency)").
+***Skills.*** This entry lists the monster's skill [proficiencies](#Proficiency), if any. *See also* chapter 1 ("[Proficiency](/sources/dnd/phb-2024/playing-the-game#Proficiency)").
 
-***Resistances and Vulnerabilities.*** These entries list the monster’s Resistances and Vulnerabilities, if any. *See also* "[Resistance](#Resistance)" and "[Vulnerability](#Vulnerability)."
+***Resistances and Vulnerabilities.*** These entries list the monster's Resistances and Vulnerabilities, if any. *See also* "[Resistance](#Resistance)" and "[Vulnerability](#Vulnerability)."
 
-***Immunities.*** This section lists the monster’s damage and condition Immunities, if any. *See also* "[Immunity](#Immunity)."
+***Immunities.*** This section lists the monster's damage and condition Immunities, if any. *See also* "[Immunity](#Immunity)."
 
-***Gear.*** If the monster has any equipment that can be given away or retrieved, it’s listed in this entry.
+***Gear.*** If the monster has any equipment that can be given away or retrieved, it's listed in this entry.
 
-***Senses.*** This entry lists the monster’s special senses, such as [Darkvision](#Darkvision), and its Passive Perception. *See also* "[Passive Perception](#PassivePerception)."
+***Senses.*** This entry lists the monster's special senses, such as [Darkvision](#Darkvision), and its Passive Perception. *See also* "[Passive Perception](#PassivePerception)."
 
 ***Languages.*** This entry lists any languages the monster knows.
 
 ***CR.*** Challenge Rating summarizes the threat a monster poses and is detailed in the *Monster Manual*. The Experience Points characters receive for defeating a monster and its Proficiency Bonus follow. Some creatures that are created by magic have no CR. *See also* "[Challenge Rating](#ChallengeRating)" and "[Experience Points](#ExperiencePoints)."
 
-***Traits.*** The monster’s traits, if any, are features that are active at all times or in certain situations.
+***Traits.*** The monster's traits, if any, are features that are active at all times or in certain situations.
 
 ***Actions.*** The monster can take these actions in addition to those detailed in this glossary. *See also* chapter 1 ("[Actions](/sources/dnd/phb-2024/playing-the-game#Actions)").
 
@@ -1303,11 +1303,11 @@ A stat block contains the game statistics of a monster. Each stat block includes
 
 ***Reactions.*** If the monster can take special [Reactions](#Reaction), those are listed in this section.
 
-***Attack Notation.*** The entry for a monster’s attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll’s bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
+***Attack Notation.*** The entry for a monster's attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
 
-***Saving Throw Effect Notation.*** If an effect forces a saving throw, the effect’s entry starts by identifying the kind of saving throw required and then provides the save’s DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
+***Saving Throw Effect Notation.*** If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
 
-***Damage Notation.*** A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don’t use both.
+***Damage Notation.*** A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
 
 ---
 
@@ -1357,7 +1357,7 @@ If a creature is caught unawares by the start of combat, that creature is surpri
 
 ### Swimming
 
-While you’re swimming, each foot of movement costs 1 extra foot (2 extra feet in [Difficult Terrain](#DifficultTerrain)). You ignore this extra cost if you have a [Swim Speed](#SwimSpeed) and use it to swim. At the DM’s option, moving any distance in rough water might require a successful DC 15 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+While you're swimming, each foot of movement costs 1 extra foot (2 extra feet in [Difficult Terrain](#DifficultTerrain)). You ignore this extra cost if you have a [Swim Speed](#SwimSpeed) and use it to swim. At the DM's option, moving any distance in rough water might require a successful DC 15 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
 ---
 
@@ -1375,23 +1375,23 @@ A target is the creature or object targeted by an attack roll, forced to make a 
 
 ### Telepathy
 
-Telepathy is a magical ability that allows a creature to communicate mentally with another creature within a specified range. Unless a rule states otherwise, the contacted creature doesn’t need to share a language with the telepath to understand this communication, but the contacted creature must be able to understand at least one language or be telepathic itself to understand.
+Telepathy is a magical ability that allows a creature to communicate mentally with another creature within a specified range. Unless a rule states otherwise, the contacted creature doesn't need to share a language with the telepath to understand this communication, but the contacted creature must be able to understand at least one language or be telepathic itself to understand.
 
-A telepath doesn’t need to see a contacted creature, and the telepath can start or end the telepathic contact at any time (no action required). Telepathic contact can’t be initiated and is immediately broken if either the telepath or the other creature has the [Incapacitated](#IncapacitatedCondition) condition. Telepathic contact is also broken if the contacted creature is no longer within the telepathy’s range or if the telepath contacts a different creature within range.
+A telepath doesn't need to see a contacted creature, and the telepath can start or end the telepathic contact at any time (no action required). Telepathic contact can't be initiated and is immediately broken if either the telepath or the other creature has the [Incapacitated](#IncapacitatedCondition) condition. Telepathic contact is also broken if the contacted creature is no longer within the telepathy's range or if the telepath contacts a different creature within range.
 
-A creature without telepathy can receive telepathic messages but can’t initiate a telepathic conversation. Once a telepathic conversation starts, the non-telepath can communicate mentally to the telepath until the telepathic connection ends.
+A creature without telepathy can receive telepathic messages but can't initiate a telepathic conversation. Once a telepathic conversation starts, the non-telepath can communicate mentally to the telepath until the telepathic connection ends.
 
 ---
 
 ### Teleportation
 
-Teleportation is a special kind of magical transportation. If you teleport, you disappear and reappear elsewhere instantly, without moving through the intervening space. This transportation doesn’t expend movement unless a rule tells you otherwise, and teleportation never provokes [Opportunity Attacks](#OpportunityAttacks).
+Teleportation is a special kind of magical transportation. If you teleport, you disappear and reappear elsewhere instantly, without moving through the intervening space. This transportation doesn't expend movement unless a rule tells you otherwise, and teleportation never provokes [Opportunity Attacks](#OpportunityAttacks).
 
-When you teleport, all the equipment you’re wearing and carrying teleports with you. If you’re touching another creature when you teleport, that creature doesn’t teleport with you unless the teleportation effect says otherwise.
+When you teleport, all the equipment you're wearing and carrying teleports with you. If you're touching another creature when you teleport, that creature doesn't teleport with you unless the teleportation effect says otherwise.
 
 If the destination space of your teleportation is occupied by another creature or blocked by a solid obstacle, you instead appear in the nearest unoccupied space of your choice.
 
-The description of a teleportation effect tells you if you must see the teleportation’s destination.
+The description of a teleportation effect tells you if you must see the teleportation's destination.
 
 ---
 
@@ -1405,7 +1405,7 @@ Temporary Hit Points are granted by certain effects and act as a buffer against 
 
 A creature with Tremorsense can pinpoint the location of creatures and moving objects within a specific range, provided that the creature with Tremorsense and anything it is detecting are both in contact with the same surface (such as the ground, a wall, or a ceiling) or the same liquid.
 
-Tremorsense can’t detect creatures or objects in the air, and it doesn’t count as a form of sight.
+Tremorsense can't detect creatures or objects in the air, and it doesn't count as a form of sight.
 
 ---
 
@@ -1445,9 +1445,9 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 
 While you have the Unconscious condition, you experience the following effects.
 
-***Inert.*** You have the [Incapacitated](#IncapacitatedCondition) and [Prone](#ProneCondition) conditions, and you drop whatever you’re holding. When this condition ends, you remain Prone.
+***Inert.*** You have the [Incapacitated](#IncapacitatedCondition) and [Prone](#ProneCondition) conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
-***Speed 0.*** Your [Speed](#Speed) is 0 and can’t increase.
+***Speed 0.*** Your [Speed](#Speed) is 0 and can't increase.
 
 ***Attacks Affected.*** [Attack rolls](#AttackRoll) against you have [Advantage](#Advantage).
 
@@ -1455,13 +1455,13 @@ While you have the Unconscious condition, you experience the following effects.
 
 ***Automatic Critical Hits.*** Any attack roll that hits you is a [Critical Hit](#CriticalHit) if the attacker is within 5 feet of you.
 
-***Unaware.*** You’re unaware of your surroundings.
+***Unaware.*** You're unaware of your surroundings.
 
 ---
 
 ### Unoccupied Space
 
-A space is unoccupied if no creatures are in it and it isn’t completely filled by objects.
+A space is unoccupied if no creatures are in it and it isn't completely filled by objects.
 
 ---
 

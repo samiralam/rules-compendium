@@ -5,7 +5,7 @@ hide:
 
 # Chapter 3: Character Classes
 
-Character class provides a character’s most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.
+Character class provides a character's most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.
 
 <div class="grid cards" markdown>
 
@@ -123,7 +123,7 @@ Character class provides a character’s most exciting capabilities. This chapte
 
     - *[Abjurer](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued/#Abjurer)* to shield allies and banish foes.
 
-    - *[Diviner](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued/#Diviner)* to learn the multiverse’s secrets.
+    - *[Diviner](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued/#Diviner)* to learn the multiverse's secrets.
 
     - *[Evoker](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued/#Evoker)* to create explosive effects.
 

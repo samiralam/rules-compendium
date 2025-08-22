@@ -4,16 +4,16 @@ toc_depth: 1
 
 # Appendix A: The Multiverse
 
-This appendix provides an overview of the multiverse, the overarching reality that encompasses D&D’s countless worlds and adventures. These realms are explored in greater detail in the *Dungeon Master’s Guide*, along with other planes like the Far Realm, Negative Plane, and Positive Plane.
+This appendix provides an overview of the multiverse, the overarching reality that encompasses D&D's countless worlds and adventures. These realms are explored in greater detail in the *Dungeon Master's Guide*, along with other planes like the Far Realm, Negative Plane, and Positive Plane.
 
 The Material Realms
 -------------------
 
 The philosophical and elemental forces of reality converge to create the following planes of existence:
 
-**Material Plane.** Most D&D adventures take place on the Material Plane, which holds the worlds of settings like Dragonlance, Eberron, the Forgotten Realms, and Greyhawk. There’s also room for any world your group creates. Magic and physical laws shape this plane’s diverse worlds.
+**Material Plane.** Most D&D adventures take place on the Material Plane, which holds the worlds of settings like Dragonlance, Eberron, the Forgotten Realms, and Greyhawk. There's also room for any world your group creates. Magic and physical laws shape this plane's diverse worlds.
 
-**Feywild.** This vibrant, idealized realm brims with life and emotion, which are most intense in the realm’s Domains of Delight.
+**Feywild.** This vibrant, idealized realm brims with life and emotion, which are most intense in the realm's Domains of Delight.
 
 **Shadowfell.** This gloom-haunted realm holds grim wastelands, haunted ruins, and the infamous Domains of Dread.
 
@@ -50,7 +50,7 @@ Realms where ideas take form and spirits spend their afterlives, the Outer Plane
 
 **Sigil.** Sigil, the City of Doors, is a metropolis rather than a plane at the center of the Outer Planes. Here portals lead throughout the multiverse, and the enigmatic Lady of Pain maintains order.
 
-**Outlands.** Influences from the other Outer Planes converge in the Outlands, where portals lead to those planes. At the Outlands’ center rises the Spire, a pillar atop which floats Sigil.
+**Outlands.** Influences from the other Outer Planes converge in the Outlands, where portals lead to those planes. At the Outlands' center rises the Spire, a pillar atop which floats Sigil.
 
 **Other Outer Planes.** These planes are listed on the Outer Planes table. Some are paradises, some are nightmare realms, and some are more bizarre. Each is dominated by forces that embody one or more of the alignments described in [chapter 2](/sources/dnd/phb-2024/creating-a-character#TheNineAlignments).
 

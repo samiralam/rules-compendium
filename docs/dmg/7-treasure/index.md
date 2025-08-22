@@ -5,7 +5,7 @@ Adventurers strive for many things, including glory, knowledge, and justice. Man
 Treasure Themes
 ---------------
 
-Monsters have treasure preferences, as explained in the *Monster Manual*. These preferences are expressed as themes, which helps you determine what treasures are found in monsters’ hoards, as summarized in the Treasure Themes table.
+Monsters have treasure preferences, as explained in the *Monster Manual*. These preferences are expressed as themes, which helps you determine what treasures are found in monsters' hoards, as summarized in the Treasure Themes table.
 
 For advice on how to [include treasure in an adventure](/sources/dnd/dmg-2024/creating-adventures#AdventureRewards), see [chapter 4](/sources/dnd/dmg-2024/creating-adventures).
 
@@ -25,7 +25,7 @@ To randomly determine a magic item found as treasure, use the [tables](/sources/
 Coins
 -----
 
-The most basic type of treasure is money, including Copper Pieces (CP), Silver Pieces (SP), Electrum Pieces (EP), Gold Pieces (GP), and Platinum Pieces (PP). See the [Player’s Handbook](/sources/dnd/phb-2024) for their [relative value](/sources/dnd/phb-2024/equipment#CoinValues). Fifty coins of any type weigh 1 pound.
+The most basic type of treasure is money, including Copper Pieces (CP), Silver Pieces (SP), Electrum Pieces (EP), Gold Pieces (GP), and Platinum Pieces (PP). See the [Player's Handbook](/sources/dnd/phb-2024) for their [relative value](/sources/dnd/phb-2024/equipment#CoinValues). Fifty coins of any type weigh 1 pound.
 
 Trade Bars
 ----------
@@ -263,17 +263,17 @@ If a treasure hoard includes art objects, you can use the following tables to ra
 Magic Items
 -----------
 
-Magic items are gleaned from the hoards of felled monsters or discovered in long-lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner’s capabilities in wondrous ways.
+Magic items are gleaned from the hoards of felled monsters or discovered in long-lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner's capabilities in wondrous ways.
 
 > ### Magic Item Rules
 > 
-> Rules for [identifying](/sources/dnd/phb-2024/equipment#IdentifyingaMagicItem), [attuning to](/sources/dnd/phb-2024/equipment#Attunement), and [using](/sources/dnd/phb-2024/equipment#WearingandWieldingItems) magic items appear in the [Player’s Handbook](/sources/dnd/phb-2024). Additional rules are presented below.
+> Rules for [identifying](/sources/dnd/phb-2024/equipment#IdentifyingaMagicItem), [attuning to](/sources/dnd/phb-2024/equipment#Attunement), and [using](/sources/dnd/phb-2024/equipment#WearingandWieldingItems) magic items appear in the [Player's Handbook](/sources/dnd/phb-2024). Additional rules are presented below.
 > 
 > ***Attunement Prerequisites.*** If a magic item has a class prerequisite, a creature must be a member of that class to attune to the item. If a creature must be a spellcaster to attune to an item, the creature qualifies if it can cast at least one spell using its traits or features, not by using a magic item or the like.
 > 
-> ***Items Made for Specific Creatures.*** Magic items that are meant to be worn tend to magically adjust themselves to the wearer. However, you can decide that a magic item doesn’t adjust its size to fit any wearer. For example, a particular armorer might make items usable only by folk who are sized and shaped like dwarves.
+> ***Items Made for Specific Creatures.*** Magic items that are meant to be worn tend to magically adjust themselves to the wearer. However, you can decide that a magic item doesn't adjust its size to fit any wearer. For example, a particular armorer might make items usable only by folk who are sized and shaped like dwarves.
 > 
-> ***Unusual Anatomy.*** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can’t wear magic boots.
+> ***Unusual Anatomy.*** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can't wear magic boots.
 > 
 > ***Paired Items.*** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single [Glove of Missile Snaring](/magic-items/9228697-gloves-of-missile-snaring) so long as the matching glove is on their person.
 
@@ -299,7 +299,7 @@ Every magic item belongs to a category. The Magic Item Categories table lists th
 
 #### Armor
 
-An item in the Armor category is typically a magical version of armor from the [Player’s Handbook](/sources/dnd/phb-2024). Unless an armor’s description notes otherwise, the armor must be worn for its magic to function.
+An item in the Armor category is typically a magical version of armor from the [Player's Handbook](/sources/dnd/phb-2024). Unless an armor's description notes otherwise, the armor must be worn for its magic to function.
 
 Some suits of magic armor specify the type of armor they are, such as [Chain Mail](/equipment/16-chain-mail) or [Plate Armor](/equipment/18-plate). If no type is specified, choose the type or determine it randomly.
 
@@ -326,7 +326,7 @@ When a character mixes two potions together, roll on the Potion Miscibility tabl
 | 26–35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
 | 36–90 | Both potions work normally. |
 | 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
-| 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [Potion of Healing](/magic-items/8960641-potion-of-healing) might increase the drinker’s Hit Point maximum by 2d4 + 2, or a [Potion of Invisibility](/magic-items/9228935-potion-of-invisibility) might give the drinker the [Invisible](/sources/dnd/free-rules/rules-glossary#InvisibleCondition) condition indefinitely. At your discretion, a [Dispel Magic](/spells/2619103-dispel-magic) spell or similar magic might end this lasting effect. |
+| 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [Potion of Healing](/magic-items/8960641-potion-of-healing) might increase the drinker's Hit Point maximum by 2d4 + 2, or a [Potion of Invisibility](/magic-items/9228935-potion-of-invisibility) might give the drinker the [Invisible](/sources/dnd/free-rules/rules-glossary#InvisibleCondition) condition indefinitely. At your discretion, a [Dispel Magic](/spells/2619103-dispel-magic) spell or similar magic might end this lasting effect. |
 
 #### Rings
 
@@ -340,9 +340,9 @@ Unless its description notes otherwise, a rod can be used as an [Arcane Focus](/
 
 #### Scrolls
 
-An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the [Spell Scroll](/magic-items/9229085-spell-scroll), a spell stored in written form. However, some scrolls, like the [Scroll of Protection](/magic-items/9229016-scroll-of-protection), bear an incantation that isn’t a spell.
+An item in the Scroll category is a roll of paper or parchment, sometimes attached to wooden rods and typically kept safe in a tube of ivory, jade, leather, metal, or wood. The most prevalent scroll is the [Spell Scroll](/magic-items/9229085-spell-scroll), a spell stored in written form. However, some scrolls, like the [Scroll of Protection](/magic-items/9229016-scroll-of-protection), bear an incantation that isn't a spell.
 
-***Using a Scroll.*** Scrolls are consumable items. Unleashing the magic in a scroll requires the user to read the scroll. When its magic has been invoked, the scroll can’t be used again. Its words fade, or it crumbles into dust.
+***Using a Scroll.*** Scrolls are consumable items. Unleashing the magic in a scroll requires the user to read the scroll. When its magic has been invoked, the scroll can't be used again. Its words fade, or it crumbles into dust.
 
 Any creature that can understand a written language can read a scroll and attempt to activate it unless its description notes otherwise.
 
@@ -360,7 +360,7 @@ Unless its description notes otherwise, a wand can be used as an [Arcane Focus](
 
 #### Weapons
 
-A magic weapon is typically a magical version of a weapon from the [Player’s Handbook](/sources/dnd/phb-2024). Some magic weapons specify the type of weapon they are in their descriptions, such as a [Longsword](/equipment/4-longsword) or [Longbow](/equipment/37-longbow). If no weapon type is specified, you may choose the type or determine it randomly.
+A magic weapon is typically a magical version of a weapon from the [Player's Handbook](/sources/dnd/phb-2024). Some magic weapons specify the type of weapon they are in their descriptions, such as a [Longsword](/equipment/4-longsword) or [Longbow](/equipment/37-longbow). If no weapon type is specified, you may choose the type or determine it randomly.
 
 ***Ammunition.*** If a magic weapon has the [Ammunition](/sources/dnd/free-rules/equipment#Ammunition) property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
 
@@ -370,7 +370,7 @@ Wondrous Items include wearable items such as boots, belts, capes, amulets, broo
 
 ### Magic Item Rarity
 
-Every magic item has a rarity, which provides a rough measure of an item’s power relative to other magic items. The rarities are shown in the Magic Item Rarities and Values table.
+Every magic item has a rarity, which provides a rough measure of an item's power relative to other magic items. The rarities are shown in the Magic Item Rarities and Values table.
 
 Common magic items, such as a [Potion of Healing](/magic-items/8960641-potion-of-healing), are the most plentiful. Artifacts, such as the [Wand of Orcus](/magic-items/9229189-wand-of-orcus), are priceless, unique, and difficult to acquire.
 
@@ -378,7 +378,7 @@ Common magic items, such as a [Potion of Healing](/magic-items/8960641-potion-of
 
 Common magic items can often be bought in a town or city. Uncommon and Rare magic items are usually found only in cities, and rarer magic items might be sold only in wondrous locations, such as the [City of Brass](/sources/dnd/dmg-2024/cosmology#CityofBrass) or [Sigil](/sources/dnd/dmg-2024/cosmology#SigilCityofDoors). If you allow characters to buy and sell magic items in your campaign, rarity can help you set prices for those items. Gold Piece values are provided in the Magic Item Rarities and Values table, though a seller might ask for a service rather than coin as payment.
 
-If a magic item incorporates an item that has a purchase cost in the [Player’s Handbook](/sources/dnd/phb-2024) (such as a weapon or a suit of armor), add that item’s cost to the magic item’s value. For example, [+1 Armor (Plate Armor)](/magic-items/5092-plate-1) has a value of 5,500 GP, which is the sum of a Rare magic item’s value (4,000 GP) and the cost of [Plate Armor](/equipment/18-plate) (1,500 GP).
+If a magic item incorporates an item that has a purchase cost in the [Player's Handbook](/sources/dnd/phb-2024) (such as a weapon or a suit of armor), add that item's cost to the magic item's value. For example, [+1 Armor (Plate Armor)](/magic-items/5092-plate-1) has a value of 5,500 GP, which is the sum of a Rare magic item's value (4,000 GP) and the cost of [Plate Armor](/equipment/18-plate) (1,500 GP).
 
 
 ##### Magic Item Rarities and Values
@@ -393,15 +393,15 @@ If a magic item incorporates an item that has a purchase cost in the [Player’s
 | Legendary | 200,000 GP |
 | Artifact | Priceless |
 
-\*Halve the value for a consumable item other than a [Spell Scroll](/magic-items/9229085-spell-scroll). The value of a *Spell Scroll* is double what it costs to scribe the scroll (as specified in the [Player’s Handbook](/sources/dnd/phb-2024)).
+\*Halve the value for a consumable item other than a [Spell Scroll](/magic-items/9229085-spell-scroll). The value of a *Spell Scroll* is double what it costs to scribe the scroll (as specified in the [Player's Handbook](/sources/dnd/phb-2024)).
 
 ### Awarding Magic Items
 
-Awarding magic items is the purview of the DM. You can award a magic item because the story calls for it or the players would be especially pleased to have it. This section helps you to determine which magic items end up in the characters’ possession.
+Awarding magic items is the purview of the DM. You can award a magic item because the story calls for it or the players would be especially pleased to have it. This section helps you to determine which magic items end up in the characters' possession.
 
 > ### Are Magic Items Necessary?
 > 
-> The D&D game assumes that magic items appear sporadically and that they are a boon unless an item bears a curse. Characters and monsters are built to face each other without the help of magic items, which means that having a magic item makes a character more powerful or versatile than a generic character of the same level. As DM, you never have to worry about awarding magic items just so the characters can keep up with the campaign’s threats. Magic items are truly prizes—desirable but not necessary.
+> The D&D game assumes that magic items appear sporadically and that they are a boon unless an item bears a curse. Characters and monsters are built to face each other without the help of magic items, which means that having a magic item makes a character more powerful or versatile than a generic character of the same level. As DM, you never have to worry about awarding magic items just so the characters can keep up with the campaign's threats. Magic items are truly prizes—desirable but not necessary.
 
 #### Magic Items Awarded by Level
 
@@ -409,9 +409,9 @@ The Magic Items Awarded by Level table shows the number of magic items a D&D par
 
 Artifacts are omitted from the table because they are most often used as plot devices in high-level adventures, and characters rarely have them for long (either because the Artifacts are meant to be destroyed or because the campaign is nearing its end).
 
-***Player Wish List.*** Encourage your players to keep a wish list of magic items they hope their characters will find in the course of the campaign. If you want to award a magic item but don’t have a specific magic item in mind, you can pick an item of the appropriate rarity from your players’ wish list.
+***Player Wish List.*** Encourage your players to keep a wish list of magic items they hope their characters will find in the course of the campaign. If you want to award a magic item but don't have a specific magic item in mind, you can pick an item of the appropriate rarity from your players' wish list.
 
-***Overstocking an Adventure.*** When creating or modifying an adventure, assume that the characters won’t find all the magic items you place in it. An adventure usually can include a number of items that’s 25 percent higher than the number in the Magic Items Awarded by Level table (round up). For example, an adventure designed to take characters from level 1 to 4 might include fourteen items rather than eleven, in the expectation that three items won’t be found.
+***Overstocking an Adventure.*** When creating or modifying an adventure, assume that the characters won't find all the magic items you place in it. An adventure usually can include a number of items that's 25 percent higher than the number in the Magic Items Awarded by Level table (round up). For example, an adventure designed to take characters from level 1 to 4 might include fourteen items rather than eleven, in the expectation that three items won't be found.
 
 
 ##### Magic Items Awarded by Level
@@ -427,11 +427,11 @@ Artifacts are omitted from the table because they are most often used as plot de
 
 #### Magic Item Tracker
 
-You can use the Magic Item Tracker sheet to track how many magic items the characters have acquired. Each time the characters get a magic item, put a check mark in one of the empty circles corresponding to the item’s rarity and the current level range of the characters. If the characters gain a magic item of a rarity that has no unchecked circles at the current level range, check off an empty circle from a lower tier. If all lower level ranges also have no circles left, check off an empty circle from a higher level range.
+You can use the Magic Item Tracker sheet to track how many magic items the characters have acquired. Each time the characters get a magic item, put a check mark in one of the empty circles corresponding to the item's rarity and the current level range of the characters. If the characters gain a magic item of a rarity that has no unchecked circles at the current level range, check off an empty circle from a lower tier. If all lower level ranges also have no circles left, check off an empty circle from a higher level range.
 
 #### Random Magic Item Rarity
 
-When you decide that a treasure contains magic items, there are two ways to determine the rarity of those items. You can choose an appropriate rarity based on the items you’ve given out already (using the Magic Item Tracker sheet to keep track), or you can roll on the Magic Item Rarities table.
+When you decide that a treasure contains magic items, there are two ways to determine the rarity of those items. You can choose an appropriate rarity based on the items you've given out already (using the Magic Item Tracker sheet to keep track), or you can roll on the Magic Item Rarities table.
 
 To use the table, find the level of the characters in the top row. Roll 1d100, and read down that column to find your roll. Then read across to the right column to find the rarity of the item.
 
@@ -440,7 +440,7 @@ To use the table, find the level of the characters in the top row. Roll 1d100, a
 
 
 **————— 1d100 Roll —————**
-| Levels 1–4 | Levels 5–10 | Levels 11–16 | Levels 17–20 | Item’s Rarity |
+| Levels 1–4 | Levels 5–10 | Levels 11–16 | Levels 17–20 | Item's Rarity |
 | --- | --- | --- | --- | --- |
 | 01–54 | 01–30 | 01–11 | — | Common |
 | 55–91 | 31–81 | 12–34 | — | Uncommon |
@@ -450,17 +450,17 @@ To use the table, find the level of the characters in the top row. Roll 1d100, a
 
 >### Magic Items for Starting Characters
 >
->If you’re starting a campaign for characters above level 1, the [Player’s Handbook](/sources/dnd/phb-2024) offers [suggestions](/sources/dnd/phb-2024/creating-a-character#StartingEquipmentatHigherLevels) for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
+>If you're starting a campaign for characters above level 1, the [Player's Handbook](/sources/dnd/phb-2024) offers [suggestions](/sources/dnd/phb-2024/creating-a-character#StartingEquipmentatHigherLevels) for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
 >
 >**DM Choice:** Choose items for each character using your own judgment.
 >
 >**Player Choice:** Let the players choose whatever items they want, within the specified rarity.
 >
->**Random Determination:** Use the tables at the end of this chapter to randomly determine starting items. Use the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) for Sorcerers, Warlocks, and Wizards. Use the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) for Barbarians, Fighters, Paladins, and Rangers. Use the [Implements tables](/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) for Bards, Monks, and Rogues. Use the [Relics tables](/sources/dnd/dmg-2024/random-magic-items#RelicsTables) for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) and the rest of the character’s items from the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables).
+>**Random Determination:** Use the tables at the end of this chapter to randomly determine starting items. Use the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) for Sorcerers, Warlocks, and Wizards. Use the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) for Barbarians, Fighters, Paladins, and Rangers. Use the [Implements tables](/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) for Bards, Monks, and Rogues. Use the [Relics tables](/sources/dnd/dmg-2024/random-magic-items#RelicsTables) for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) and the rest of the character's items from the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables).
 
 ### Activating a Magic Item
 
-It usually takes a Magic action to activate a magic item. The item’s user might also need to do something special. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
+It usually takes a Magic action to activate a magic item. The item's user might also need to do something special. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
 
 #### Command Word
 
@@ -472,9 +472,9 @@ Some items are consumed—used up, in other words—when they are activated. A [
 
 #### Spells Cast from Items
 
-Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell and caster level, doesn’t expend any of the user’s spell slots, and requires no components unless the item’s description notes otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). Many items, such as Potions, bypass the casting of a spell and confer the spell’s effects with its usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description notes otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). Many items, such as Potions, bypass the casting of a spell and confer the spell's effects with its usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
 
-A magic item may require the user to use their own spellcasting ability when casting a spell from the item. If the user has more than one spellcasting ability, the user chooses which one to use with the item. If the user doesn’t have a spellcasting ability, their spellcasting ability modifier is +0 for the item, and the user’s Proficiency Bonus applies.
+A magic item may require the user to use their own spellcasting ability when casting a spell from the item. If the user has more than one spellcasting ability, the user chooses which one to use with the item. If the user doesn't have a spellcasting ability, their spellcasting ability modifier is +0 for the item, and the user's Proficiency Bonus applies.
 
 #### Charges
 
@@ -482,13 +482,13 @@ Some magic items have charges that must be expended to activate their properties
 
 ### "The Next Dawn"
 
-Magic items often have charges or properties that recharge at the next dawn or some other specified time. If such an item is on a world or plane of existence where the specified event doesn’t occur, the DM determines when the item recharges.
+Magic items often have charges or properties that recharge at the next dawn or some other specified time. If such an item is on a world or plane of existence where the specified event doesn't occur, the DM determines when the item recharges.
 
 ### Cursed Items
 
-A magic item’s description specifies whether it bears a curse. Most methods of identifying items, including the [Identify](/spells/2619180-identify) spell, fail to reveal such a curse.
+A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the [Identify](/spells/2619180-identify) spell, fail to reveal such a curse.
 
-Attunement to a cursed item can’t be ended voluntarily unless the curse is broken first, such as with a [Remove Curse](/spells/2618943-remove-curse) spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a [Remove Curse](/spells/2618943-remove-curse) spell.
 
 ### Magic Item Resilience
 
@@ -498,7 +498,7 @@ An Artifact can be destroyed only in some special way. Otherwise, it is impervio
 
 ### Crafting Magic Items
 
-The [Player’s Handbook](/sources/dnd/phb-2024) contains rules on [brewing *Potions of Healing*](/sources/dnd/phb-2024/equipment#BrewingPotionsofHealing) and [scribing *Spell Scrolls*](/sources/dnd/phb-2024/equipment#ScribingSpellScrolls). To create other magic items, follow the rules below. In these rules, "you" refers to the character crafting the magic item.
+The [Player's Handbook](/sources/dnd/phb-2024) contains rules on [brewing *Potions of Healing*](/sources/dnd/phb-2024/equipment#BrewingPotionsofHealing) and [scribing *Spell Scrolls*](/sources/dnd/phb-2024/equipment#ScribingSpellScrolls). To create other magic items, follow the rules below. In these rules, "you" refers to the character crafting the magic item.
 
 #### Arcana Proficiency
 
@@ -506,7 +506,7 @@ To craft a magic item, you and any assistants must have proficiency in the [Arca
 
 #### Tools
 
-The Magic Item Tools table lists which tool is required to make a magic item of each category. You must use the required tool to make an item and have proficiency with that tool. Any assistants must also have proficiency with it. For more [information on the tools](/sources/dnd/phb-2024/equipment#Tools), see the [Player’s Handbook](/sources/dnd/phb-2024).
+The Magic Item Tools table lists which tool is required to make a magic item of each category. You must use the required tool to make an item and have proficiency with that tool. Any assistants must also have proficiency with it. For more [information on the tools](/sources/dnd/phb-2024/equipment#Tools), see the [Player's Handbook](/sources/dnd/phb-2024).
 
 
 ##### Magic Item Tools
@@ -514,15 +514,15 @@ The Magic Item Tools table lists which tool is required to make a magic item of 
 
 | Item Category | Required Tool |
 | --- | --- |
-| Armor | [Leatherworker’s Tools](/equipment/425-leatherworkers-tools), [Smith’s Tools](/equipment/438-smiths-tools), or [Weaver’s Tools](/equipment/443-weavers-tools) depending on the kind of armor as noted in the tools’ descriptions |
-| Potion | [Alchemist’s Supplies](/equipment/397-alchemists-supplies) or [Herbalism Kit](/equipment/460-herbalism-kit) |
-| Ring | [Jeweler’s Tools](/equipment/423-jewelers-tools) |
-| Rod | [Woodcarver’s Tools](/equipment/445-woodcarvers-tools) |
-| Scroll | [Calligrapher’s Supplies](/equipment/404-calligraphers-supplies) |
-| Staff | [Woodcarver’s Tools](/equipment/445-woodcarvers-tools) |
-| Wand | [Woodcarver’s Tools](/equipment/445-woodcarvers-tools) |
-| Weapon | [Leatherworker’s Tools](/equipment/425-leatherworkers-tools), [Smith’s Tools](/equipment/438-smiths-tools), or [Woodcarver’s Tools](/equipment/445-woodcarvers-tools) depending on the kind of weapon as noted in the tools’ descriptions |
-| Wondrous Item | [Tinker’s Tools](/equipment/441-tinkers-tools) or the tool required to make the nonmagical item on which the magic item is based |
+| Armor | [Leatherworker's Tools](/equipment/425-leatherworkers-tools), [Smith's Tools](/equipment/438-smiths-tools), or [Weaver's Tools](/equipment/443-weavers-tools) depending on the kind of armor as noted in the tools' descriptions |
+| Potion | [Alchemist's Supplies](/equipment/397-alchemists-supplies) or [Herbalism Kit](/equipment/460-herbalism-kit) |
+| Ring | [Jeweler's Tools](/equipment/423-jewelers-tools) |
+| Rod | [Woodcarver's Tools](/equipment/445-woodcarvers-tools) |
+| Scroll | [Calligrapher's Supplies](/equipment/404-calligraphers-supplies) |
+| Staff | [Woodcarver's Tools](/equipment/445-woodcarvers-tools) |
+| Wand | [Woodcarver's Tools](/equipment/445-woodcarvers-tools) |
+| Weapon | [Leatherworker's Tools](/equipment/425-leatherworkers-tools), [Smith's Tools](/equipment/438-smiths-tools), or [Woodcarver's Tools](/equipment/445-woodcarvers-tools) depending on the kind of weapon as noted in the tools' descriptions |
+| Wondrous Item | [Tinker's Tools](/equipment/441-tinkers-tools) or the tool required to make the nonmagical item on which the magic item is based |
 
 #### Spells
 
@@ -530,15 +530,15 @@ If a magic item allows its user to cast any spells from it, you must have all th
 
 #### Time and Cost
 
-Crafting a magic item takes an amount of time and money based on the item’s rarity as shown in the Magic Item Crafting Time and Cost table.
+Crafting a magic item takes an amount of time and money based on the item's rarity as shown in the Magic Item Crafting Time and Cost table.
 
-***Work per Day.*** For each day of crafting, you must work for 8 hours. If an item requires multiple days, those days needn’t be consecutive.
+***Work per Day.*** For each day of crafting, you must work for 8 hours. If an item requires multiple days, those days needn't be consecutive.
 
 ***Assistants.*** Characters can combine their efforts to shorten the crafting time. Divide the time needed to create an item by the number of characters working on it. Normally, only one other character can assist you, but the DM might allow more assistants.
 
-***Raw Materials.*** The cost in the table represents the raw materials needed to make a magic item. The DM determines whether appropriate raw materials are available. In a city, there is a 75 percent chance that the materials are available, and in any other settlement, that chance is 25 percent. If materials aren’t available, you must wait at least 7 days before checking on the availability again.
+***Raw Materials.*** The cost in the table represents the raw materials needed to make a magic item. The DM determines whether appropriate raw materials are available. In a city, there is a 75 percent chance that the materials are available, and in any other settlement, that chance is 25 percent. If materials aren't available, you must wait at least 7 days before checking on the availability again.
 
-If a magic item incorporates an item that has a purchase cost (such as a weapon or a suit of armor), you must also pay that entire cost or craft that item [using the rules](/sources/dnd/phb-2024/equipment#CraftingEquipment) in the [Player’s Handbook](/sources/dnd/phb-2024). For example, to make [+1 Armor (Plate Armor)](/magic-items/5092-plate-1), you must pay 3,500 GP or pay 2,000 GP and craft the armor.
+If a magic item incorporates an item that has a purchase cost (such as a weapon or a suit of armor), you must also pay that entire cost or craft that item [using the rules](/sources/dnd/phb-2024/equipment#CraftingEquipment) in the [Player's Handbook](/sources/dnd/phb-2024). For example, to make [+1 Armor (Plate Armor)](/magic-items/5092-plate-1), you must pay 3,500 GP or pay 2,000 GP and craft the armor.
 
 
 ##### Magic Item Crafting Time and Cost
@@ -552,19 +552,19 @@ If a magic item incorporates an item that has a purchase cost (such as a weapon 
 | Very Rare | 125 days | 20,000 GP |
 | Legendary | 250 days | 100,000 GP |
 
-\*The time and cost are halved for a consumable item other than a [Spell Scroll](/magic-items/9229085-spell-scroll), whose [crafting time and cost](/sources/dnd/phb-2024/equipment#SpellScrollCosts) are given in the [Player’s Handbook](/sources/dnd/phb-2024).
+\*The time and cost are halved for a consumable item other than a [Spell Scroll](/magic-items/9229085-spell-scroll), whose [crafting time and cost](/sources/dnd/phb-2024/equipment#SpellScrollCosts) are given in the [Player's Handbook](/sources/dnd/phb-2024).
 
 
 ### Magic Item Special Features
 
 You can add distinctiveness to a magic item by thinking about its backstory. Who made the item? Is anything unusual about its construction? Why was it made, and how was it used originally? What minor magical quirks set it apart from other items of its kind? Answering these questions can help turn a generic magic item, such as a [+1 Longsword](/magic-items/5245-longsword-1), into a more flavorful discovery.
 
-Use the following tables to fill in details about a magic item’s history. Some table entries make more sense for certain items than for others. If you roll something that doesn’t make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own special feature.
+Use the following tables to fill in details about a magic item's history. Some table entries make more sense for certain items than for others. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own special feature.
 
-On the Magic Item’s Minor Property table and the Magic Item’s Quirk table, "you" refers to the item’s bearer.
+On the Magic Item's Minor Property table and the Magic Item's Quirk table, "you" refers to the item's bearer.
 
 
-#### Magic Item’s Creator or Intended User
+#### Magic Item's Creator or Intended User
 
 
 | 1d20 | Creator or Intended User |
@@ -572,9 +572,9 @@ On the Magic Item’s Minor Property table and the Magic Item’s Quirk table, "
 | 1 | **Aberration.** The item is ancient. At a glance, it seems to be covered with mucus. |
 | 2 | **Celestial.** The item is half the normal weight and inscribed with feathered wings, suns, and stars. Fiends find it repulsive. |
 | 3 | **Devotees of Lolth.** The item is half the normal weight. It is inscribed with spiders and webs in honor of Lolth. |
-| 4 | **Dragon.** This item incorporates precious metals and gems from a dragon’s hoard. It grows warm when within 120 feet of a Dragon. |
+| 4 | **Dragon.** This item incorporates precious metals and gems from a dragon's hoard. It grows warm when within 120 feet of a Dragon. |
 | 5–6 | **Dwarf.** The item is durable and has Dwarvish runes worked into its design. It might be associated with a clan that would like to see it returned to their ancestral halls. |
-| 7 | **Elemental Air.** The item is half the normal weight and feels hollow. If it’s made of fabric, it is diaphanous. |
+| 7 | **Elemental Air.** The item is half the normal weight and feels hollow. If it's made of fabric, it is diaphanous. |
 | 8 | **Elemental Earth.** This item might be crafted from stone. Any cloth or leather elements are studded with finely polished rock. |
 | 9 | **Elemental Fire.** This item is warm to the touch, and any metal parts are crafted from black iron. Flame imagery covers its surface. |
 | 10 | **Elemental Water.** Lustrous fish scales replace leather or cloth on this item, and seashells and worked coral (as hard as any metal) replace metal portions. |
@@ -582,19 +582,19 @@ On the Magic Item’s Minor Property table and the Magic Item’s Quirk table, "
 | 13 | **Fey.** The item is exquisitely crafted from the finest materials and glows with a pale radiance in moonlight, shedding [Dim Light](/sources/dnd/free-rules/rules-glossary#DimLight) in a 5-foot radius. Any metal in the item is silver or mithral rather than iron or steel. |
 | 14 | **Fiend.** The item is made of iron or horn, and any cloth or leather components are crafted from the hide of Fiends. Leering faces or vile runes are engraved on its surface. Celestials find it repulsive. |
 | 15 | **Giant.** The item is larger than normal and was crafted by Giants for use by their smaller allies. |
-| 16 | **Gnome.** The item is crafted to appear ordinary and well used. It could also incorporate gears and mechanical components, even if these aren’t essential to its function. |
+| 16 | **Gnome.** The item is crafted to appear ordinary and well used. It could also incorporate gears and mechanical components, even if these aren't essential to its function. |
 | 17–19 | **Human.** The item was created during the heyday of a fallen human kingdom, or it is tied to a human of legend. It might hold writing in a forgotten language or symbols whose significance is lost to the ages. |
 | 20 | **Undead.** The item incorporates symbols of death, such as bones and skulls, and it might be crafted from parts of corpses. It feels cold to the touch. |
 
 
-#### Magic Item’s History
+#### Magic Item's History
 
 
 | 1d8 | History |
 | --- | --- |
-| 1 | **Arcane.** This item was created for an ancient order of spellcasters and bears the order’s symbol. |
+| 1 | **Arcane.** This item was created for an ancient order of spellcasters and bears the order's symbol. |
 | 2 | **Bane.** This item was created to oppose creatures of a particular type, such as Aberrations or Dragons. |
-| 3 | **Heroic.** A great hero once wielded this item. Anyone who knows the item’s history expects great deeds from the new owner. |
+| 3 | **Heroic.** A great hero once wielded this item. Anyone who knows the item's history expects great deeds from the new owner. |
 | 4 | **Ornament.** The item honors a special event. Inset gemstones, gold or platinum inlays, and gold or silver filigree adorn its surface. |
 | 5 | **Prophecy.** The item features in a prophecy: its bearer is destined to play a key role in future events. |
 | 6 | **Religious.** This item was used in religious ceremonies dedicated to a particular deity. It has religious symbols worked into it. |
@@ -602,15 +602,15 @@ On the Magic Item’s Minor Property table and the Magic Item’s Quirk table, "
 | 8 | **Symbol of Power.** This item was once used as part of royal regalia or as a badge of high office. |
 
 
-#### Magic Item’s Minor Property
+#### Magic Item's Minor Property
 
 
 | 1d20 | Minor Property |
 | --- | --- |
 | 1–2 | **Beacon.** You can take a Bonus Action to cause the item to shed [Bright Light](/sources/dnd/free-rules/rules-glossary#BrightLight) in a 10-foot radius and [Dim Light](/sources/dnd/free-rules/rules-glossary#DimLight) for an additional 10 feet, or to extinguish the light. |
 | 3 | **Compass.** You can take a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action to learn which way is magnetic north. Nothing happens if this property is used in a location that has no magnetic north. |
-| 4 | **Delver.** While underground, you always know the item’s depth below the surface and the direction to the nearest staircase, ramp, or other path leading upward. |
-| 5–6 | **Guardian.** The item warns you, granting a +2 bonus to your [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) rolls if you don’t have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. |
+| 4 | **Delver.** While underground, you always know the item's depth below the surface and the direction to the nearest staircase, ramp, or other path leading upward. |
+| 5–6 | **Guardian.** The item warns you, granting a +2 bonus to your [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) rolls if you don't have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. |
 | 7–8 | **Harmonious.** Attuning to this item takes only 1 minute. |
 | 9 | **Key.** The item is used to unlock a container, chamber, vault, or door. |
 | 10 | **Secret Message.** A message is hidden somewhere on the item. It might be visible only at a certain time, under the light of one phase of the moon, or in a specific location. |
@@ -618,23 +618,23 @@ On the Magic Item’s Minor Property table and the Magic Item’s Quirk table, "
 | 13 | **Songcraft.** Whenever this item is struck or is used to strike a foe, you hear a fragment of an ancient song. |
 | 14–15 | **Strange Material.** The item was created from a material that is bizarre given its purpose. Its durability is unaffected. |
 | 16 | **Temperate.** You are unharmed by temperatures of 0 degrees Fahrenheit or lower, and 100 degrees Fahrenheit or higher. |
-| 17 | **Unbreakable.** The item can’t be broken. Special means must be used to destroy it. |
+| 17 | **Unbreakable.** The item can't be broken. Special means must be used to destroy it. |
 | 18 | **War Leader.** You can take a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action to cause your voice or signal to carry clearly for up to 600 feet until the end of your next turn. |
 | 19 | **Waterborne.** This item floats on water and other liquids. You have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) checks to swim. |
 | 20 | Roll twice, rerolling any additional 20s. |
 
 
-#### Magic Item’s Quirk
+#### Magic Item's Quirk
 
 
 | 1d8 | Quirk |
 | --- | --- |
-| 1 | **Blissful.** You feel fortunate and optimistic about what the future holds. Butterflies and other harmless creatures might frolic in the item’s presence. |
+| 1 | **Blissful.** You feel fortunate and optimistic about what the future holds. Butterflies and other harmless creatures might frolic in the item's presence. |
 | 2 | **Confident.** The item helps you feel self-assured. |
 | 3 | **Covetous.** You become obsessed with material wealth. |
 | 4 | **Fragile.** The item crumbles, frays, chips, or cracks slightly when wielded, worn, or activated. This quirk has no effect on its properties. |
 | 5 | **Loud.** The item makes a loud noise—such as a clang, a shout, or a resonating gong—when used. |
-| 6 | **Metamorphic.** The item periodically alters its appearance in slight ways. You have no control over these minor alterations, which have no effect on the item’s use. |
+| 6 | **Metamorphic.** The item periodically alters its appearance in slight ways. You have no control over these minor alterations, which have no effect on the item's use. |
 | 7 | **Painful.** You experience a harmless flash of pain when using the item. |
 | 8 | **Repulsive.** You feel a sense of distaste when in contact with the item and continue to experience discomfort while bearing it. |
 
@@ -644,7 +644,7 @@ An Artifact is a unique, singularly powerful magic item with its own origin and 
 
 Some Artifacts appear when they are needed most. For others, the reverse is true; when these Artifacts are discovered, the world trembles at the ramifications of the find. In either case, introducing an Artifact into a campaign requires forethought. It could be an item that opposing sides are hoping to claim, or it might be something the adventurers need to overcome their greatest challenge.
 
-Characters don’t typically find Artifacts in the normal course of adventuring. In fact, Artifacts appear only when you want them to, for they are as much plot devices as magic items. Tracking down and recovering an Artifact is often the main goal of an adventure. Characters must chase down rumors, undergo significant trials, and venture into dangerous, half-forgotten places to find the Artifact they seek. Alternatively, a major villain might already have the Artifact. Obtaining and destroying the Artifact could be the only way to ensure that its power can’t be used for evil.
+Characters don't typically find Artifacts in the normal course of adventuring. In fact, Artifacts appear only when you want them to, for they are as much plot devices as magic items. Tracking down and recovering an Artifact is often the main goal of an adventure. Characters must chase down rumors, undergo significant trials, and venture into dangerous, half-forgotten places to find the Artifact they seek. Alternatively, a major villain might already have the Artifact. Obtaining and destroying the Artifact could be the only way to ensure that its power can't be used for evil.
 
 #### Artifact Properties
 
@@ -658,12 +658,12 @@ An Artifact can have as many as four minor beneficial properties and two major b
 
 | 1d100 | Property |
 | --- | --- |
-| 01–20 | While attuned to the Artifact, you gain proficiency in one skill of the DM’s choice. |
+| 01–20 | While attuned to the Artifact, you gain proficiency in one skill of the DM's choice. |
 | 21–30 | While attuned to the Artifact, you have Immunity to the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition. |
 | 31–40 | While attuned to the Artifact, you have Immunity to the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) and [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition) conditions. |
-| 41–50 | While attuned to the Artifact, you have Resistance to one damage type of the DM’s choice. |
+| 41–50 | While attuned to the Artifact, you have Resistance to one damage type of the DM's choice. |
 | 51–60 | While attuned to the Artifact, you can cast one cantrip (chosen by the DM) from it. |
-| 61–70 | While attuned to the Artifact, you can cast one level 1 spell (chosen by the DM) from it. After you cast the spell, roll 1d6. On a roll of 1–5, you can’t cast it again in this way until the next dawn. |
+| 61–70 | While attuned to the Artifact, you can cast one level 1 spell (chosen by the DM) from it. After you cast the spell, roll 1d6. On a roll of 1–5, you can't cast it again in this way until the next dawn. |
 | 71–80 | As 61–70 above, except the spell is level 2. |
 | 81–90 | As 61–70 above, except the spell is level 3. |
 | 91–00 | While attuned to the Artifact, you gain a +1 bonus to Armor Class. |
@@ -674,11 +674,11 @@ An Artifact can have as many as four minor beneficial properties and two major b
 
 | 1d100 | Property |
 | --- | --- |
-| 01–20 | While attuned to the Artifact, one of your ability scores (DM’s choice) increases by 2, to a maximum of 24. |
+| 01–20 | While attuned to the Artifact, one of your ability scores (DM's choice) increases by 2, to a maximum of 24. |
 | 21–30 | While attuned to the Artifact, you regain 1d6 Hit Points at the start of each of your turns if you have at least 1 Hit Point. |
 | 31–40 | When you hit with an attack roll while attuned to the Artifact, the target takes an extra 1d6 Force damage. |
-| 41–50 | While you’re attuned to the Artifact, your Speed increases by 10 feet. |
-| 51–60 | While attuned to the Artifact, you can cast one level 4 spell (chosen by the DM) from it. After you cast the spell, roll 1d6. On a roll of 1–5, you can’t cast it again in this way until the next dawn. |
+| 41–50 | While you're attuned to the Artifact, your Speed increases by 10 feet. |
+| 51–60 | While attuned to the Artifact, you can cast one level 4 spell (chosen by the DM) from it. After you cast the spell, roll 1d6. On a roll of 1–5, you can't cast it again in this way until the next dawn. |
 | 61–70 | As 51–60 above, except the spell is level 5. |
 | 71–80 | As 51–60 above, except the spell is level 6. |
 | 81–90 | As 51–60 above, except the spell is level 7. |
@@ -693,17 +693,17 @@ An Artifact can have as many as four minor beneficial properties and two major b
 | 01–08 | While attuned to the Artifact, you have Disadvantage on any ability check or saving throw that uses Strength or Constitution. |
 | 09–16 | While attuned to the Artifact, you have Disadvantage on Intelligence, Wisdom, and Charisma saving throws. |
 | 17–24 | While attuned to the Artifact, you have Vulnerability to Poison damage. |
-| 25–32 | While attuned to the Artifact, you have the [Blinded](/sources/dnd/free-rules/rules-glossary#BlindedCondition) condition when you’re more than 10 feet away from it. |
-| 33–40 | While attuned to the Artifact, you have the [Deafened](/sources/dnd/free-rules/rules-glossary#DeafenedCondition) condition when you’re more than 10 feet away from it. |
+| 25–32 | While attuned to the Artifact, you have the [Blinded](/sources/dnd/free-rules/rules-glossary#BlindedCondition) condition when you're more than 10 feet away from it. |
+| 33–40 | While attuned to the Artifact, you have the [Deafened](/sources/dnd/free-rules/rules-glossary#DeafenedCondition) condition when you're more than 10 feet away from it. |
 | 41–48 | While attuned to the Artifact, you lose all sense of smell. |
-| 49–66 | While you’re attuned to the Artifact, your appearance changes as the DM decides. |
+| 49–66 | While you're attuned to the Artifact, your appearance changes as the DM decides. |
 | 67–72 | While attuned to the Artifact, you emit a sour stench noticeable from up to 10 feet away. |
 | 73–76 | Whenever you touch a nonmagical gem or an art object while attuned to this Artifact, the value of the gem or art object is reduced by half. This affects a particular object only once. |
-| 77–80 | While you’re attuned to the Artifact, all [Holy Water](/equipment/507-holy-water) within 10 feet of you is destroyed. |
-| 81–84 | While you’re attuned to the Artifact, nonmagical flames are extinguished within 30 feet of you. |
-| 85–88 | While you’re attuned to the Artifact, other creatures can’t take Short or Long Rests while within 300 feet of you. |
-| 89–92 | While attuned to the Artifact, you kill any nonmagical vegetation you touch that isn’t a creature. |
-| 93–00 | While you’re attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude) toward you. |
+| 77–80 | While you're attuned to the Artifact, all [Holy Water](/equipment/507-holy-water) within 10 feet of you is destroyed. |
+| 81–84 | While you're attuned to the Artifact, nonmagical flames are extinguished within 30 feet of you. |
+| 85–88 | While you're attuned to the Artifact, other creatures can't take Short or Long Rests while within 300 feet of you. |
+| 89–92 | While attuned to the Artifact, you kill any nonmagical vegetation you touch that isn't a creature. |
+| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude) toward you. |
 
 
 ##### Major Detrimental Properties
@@ -711,18 +711,18 @@ An Artifact can have as many as four minor beneficial properties and two major b
 
 | 1d100 | Property |
 | --- | --- |
-| 01–09 | You can’t attune to other magic items while you’re attuned to the Artifact. When you become attuned to the Artifact, your Attunement to other magic items ends immediately. |
+| 01–09 | You can't attune to other magic items while you're attuned to the Artifact. When you become attuned to the Artifact, your Attunement to other magic items ends immediately. |
 | 10–18 | When you become attuned to the Artifact, a random one of your ability scores is reduced by 2, to a minimum of 3. A [Greater Restoration](/spells/2618961-greater-restoration) spell restores the ability. |
 | 19–27 | When you become attuned to the Artifact, you take 8d10 Psychic damage. |
-| 28–36 | The first time you become attuned to the Artifact, it gives you a quest determined by the DM. You can’t use any of the Artifact’s properties until you complete the quest. |
+| 28–36 | The first time you become attuned to the Artifact, it gives you a quest determined by the DM. You can't use any of the Artifact's properties until you complete the quest. |
 | 37–45 | Each time you become attuned to the Artifact, there is a 10 percent chance that you attract the attention of a god who sends an avatar to wrest the Artifact from you. The avatar has the same alignment as its creator and uses the [Empyrean](/monsters/17212-empyrean) stat block. Once it obtains the Artifact, the avatar vanishes. |
-| 46–54 | Each time you become attuned to the Artifact, you must succeed on a DC 10 Constitution saving throw or die from the shock. If you die, you’re instantly transformed into a [Wight](/monsters/17059-wight) under the DM’s control that must protect the Artifact. |
+| 46–54 | Each time you become attuned to the Artifact, you must succeed on a DC 10 Constitution saving throw or die from the shock. If you die, you're instantly transformed into a [Wight](/monsters/17059-wight) under the DM's control that must protect the Artifact. |
 | 55–63 | The Artifact dilutes potions within 10 feet of itself, rendering them nonmagical. |
 | 64–72 | The Artifact erases scrolls within 10 feet of itself, rendering them nonmagical. |
-| 73–81 | While you’re attuned to the Artifact, creatures of a particular type other than Humanoid (chosen by the DM) are always [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude) toward you. |
+| 73–81 | While you're attuned to the Artifact, creatures of a particular type other than Humanoid (chosen by the DM) are always [Hostile](/sources/dnd/free-rules/rules-glossary#HostileAttitude) toward you. |
 | 82–90 | While attuned to the Artifact, you have Vulnerability to all damage. |
 | 91–96 | The Artifact imprisons a [Death Slaad](/monsters/17113-death-slaad). Each time you become attuned to the Artifact, the slaad has a 10 percent chance of escaping, whereupon it appears in an unoccupied space as close to you as possible and attacks you. |
-| 97–00 | While attuned to the Artifact, you can’t spend Hit Point Dice or regain Hit Points. |
+| 97–00 | While attuned to the Artifact, you can't spend Hit Point Dice or regain Hit Points. |
 
 ### Sentient Magic Items
 
@@ -734,20 +734,20 @@ The DM controls sentient magic items and their activated properties. A bearer wh
 
 #### Sentient Magic Item Traits
 
-When you make a sentient magic item, you create the item’s persona much as you would create an NPC (as described in the "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)), with these exceptions.
+When you make a sentient magic item, you create the item's persona much as you would create an NPC (as described in the "[Nonplayer Characters](/sources/dnd/dmg-2024/dms-toolbox#NonplayerCharacters)" section of [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)), with these exceptions.
 
-***Abilities.*** A sentient magic item has Intelligence, Wisdom, and Charisma scores. Choose the item’s abilities, or determine them randomly as follows: roll 4d6 for each one, dropping the lowest roll and totaling the rest.
+***Abilities.*** A sentient magic item has Intelligence, Wisdom, and Charisma scores. Choose the item's abilities, or determine them randomly as follows: roll 4d6 for each one, dropping the lowest roll and totaling the rest.
 
-***Alignment.*** A sentient magic item has an alignment. Its creator or nature might suggest an alignment. Otherwise, pick an alignment or roll on the Sentient Item’s Alignment table.
+***Alignment.*** A sentient magic item has an alignment. Its creator or nature might suggest an alignment. Otherwise, pick an alignment or roll on the Sentient Item's Alignment table.
 
-***Communication.*** A sentient item communicates by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the Sentient Item’s Communication table.
+***Communication.*** A sentient item communicates by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the Sentient Item's Communication table.
 
-***Senses.*** A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the Sentient Item’s Senses table.
+***Senses.*** A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the Sentient Item's Senses table.
 
-***Special Purpose.*** You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder’s use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see "[Conflict](#Conflict)" below). You can pick a special purpose or roll on the Sentient Item’s Special Purpose table.
+***Special Purpose.*** You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see "[Conflict](#Conflict)" below). You can pick a special purpose or roll on the Sentient Item's Special Purpose table.
 
 
-##### Sentient Item’s Alignment
+##### Sentient Item's Alignment
 
 
 | 1d100 | Alignment |
@@ -763,7 +763,7 @@ When you make a sentient magic item, you create the item’s persona much as you
 | 97–00 | Chaotic Evil |
 
 
-##### Sentient Item’s Communication
+##### Sentient Item's Communication
 
 
 | 1d10 | Communication |
@@ -773,7 +773,7 @@ When you make a sentient magic item, you create the item’s persona much as you
 | 10 | The item speaks one or more languages. In addition, the item can communicate telepathically with any creature that carries or wields it. |
 
 
-##### Sentient Item’s Senses
+##### Sentient Item's Senses
 
 
 | 1d4 | Senses |
@@ -784,7 +784,7 @@ When you make a sentient magic item, you create the item’s persona much as you
 | 4 | Hearing and [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) out to 120 feet |
 
 
-##### Sentient Item’s Special Purpose
+##### Sentient Item's Special Purpose
 
 
 | 1d10 | Special Purpose |
@@ -802,18 +802,18 @@ When you make a sentient magic item, you create the item’s persona much as you
 
 #### Conflict
 
-When the bearer of a sentient item acts in a manner opposed to the item’s alignment or purpose, conflict can arise. When such a conflict occurs, the item’s bearer makes a Charisma saving throw (DC 12 plus the item’s Charisma modifier). On a failed save, the item makes one or more of the following demands:
+When the bearer of a sentient item acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item's bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the item makes one or more of the following demands:
 
-**Chase My Dreams.** The item demands that its bearer pursue the item’s goals to the exclusion of all other goals.
+**Chase My Dreams.** The item demands that its bearer pursue the item's goals to the exclusion of all other goals.
 
 **Get Rid of It.** The item demands that its bearer dispose of anything the item finds repugnant.
 
-**It’s Time for a Change.** The item demands to be given to someone else.
+**It's Time for a Change.** The item demands to be given to someone else.
 
 **Keep Me Close.** The item insists on being carried or worn at all times.
 
-If its bearer refuses to comply with the item’s demands, the item can do any of the following:
+If its bearer refuses to comply with the item's demands, the item can do any of the following:
 
 * Make it impossible for its bearer to attune to it.
 * Suppress one or more of its activated properties.
-* Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item’s Charisma modifier). On a failed save, the bearer has the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for 1d12 hours. While Charmed in this way, the bearer must try to follow the item’s commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can’t use this power again until the next dawn.
+* Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition for 1d12 hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.

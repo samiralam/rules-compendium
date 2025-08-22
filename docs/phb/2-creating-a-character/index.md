@@ -9,7 +9,7 @@ Before you dive into character creation, there are a few things to do to get rea
 
 ### Talk with Your DM
 
-Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don’t know where to begin, look at the character illustrations in this book for inspiration.
+Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don't know where to begin, look at the character illustrations in this book for inspiration.
 
 !!! note "Session Zero"
 
@@ -17,22 +17,22 @@ Start by talking with your Dungeon Master about the type of D&D game they plan t
 
 ### Choose a Character Sheet
 
-You’ll record the main details of your character on a character sheet. Throughout this chapter, we use the term "character sheet" to mean whatever you use to track your character’s details, whether it’s a printed character sheet, a digital character sheet like the one on [D&D Beyond](/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
+You'll record the main details of your character on a character sheet. Throughout this chapter, we use the term "character sheet" to mean whatever you use to track your character's details, whether it's a printed character sheet, a digital character sheet like the one on [D&D Beyond](/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
 
 Create Your Character
 ---------------------
 
 Here are the steps to make a character; each step is explored in detail in this chapter:
 
-1. **Choose a Class.** Every adventurer is a member of a class. A class broadly describes a character’s vocation, special talents, and favored tactics.
-2. **Determine Origin.** A character’s origin includes two elements: background and species. How did the character spend the years leading up to a life of adventure? Who are the character’s ancestors? You can also choose your character’s languages.
-3. **Determine Ability Scores.** Much of what your character does in the game depends on the character’s six abilities.
-4. **Choose an Alignment.** Alignment is a shorthand for your character’s moral compass.
-5. **Fill in Details.** Using the choices you’ve made, fill in the remaining details on your character sheet.
+1. **Choose a Class.** Every adventurer is a member of a class. A class broadly describes a character's vocation, special talents, and favored tactics.
+2. **Determine Origin.** A character's origin includes two elements: background and species. How did the character spend the years leading up to a life of adventure? Who are the character's ancestors? You can also choose your character's languages.
+3. **Determine Ability Scores.** Much of what your character does in the game depends on the character's six abilities.
+4. **Choose an Alignment.** Alignment is a shorthand for your character's moral compass.
+5. **Fill in Details.** Using the choices you've made, fill in the remaining details on your character sheet.
 
 ### Step 1: Choose a Class
 
-Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See [chapter 3](/sources/dnd/phb-2024/character-classes) for the classes’ details.
+Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See [chapter 3](/sources/dnd/phb-2024/character-classes) for the classes' details.
 
 
 #### Class Overview
@@ -55,7 +55,7 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 
 !!! note "A Balanced Party"
 
-    The classic D&D party comprises a Cleric, Fighter, Rogue, and Wizard. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You’re welcome to use that party setup or modify it using these guidelines:
+    The classic D&D party comprises a Cleric, Fighter, Rogue, and Wizard. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
 
     **Cleric:** Replace with Bard or Druid
 
@@ -67,7 +67,7 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 
 #### Write Your Level
 
-Write your character’s level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [Experience Points](/sources/dnd/free-rules/rules-glossary#ExperiencePoints) (XP).
+Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [Experience Points](/sources/dnd/free-rules/rules-glossary#ExperiencePoints) (XP).
 
 ***Write Your XP.*** Also record your Experience Points. A level 1 character has 0 XP.
 
@@ -79,19 +79,19 @@ Your class might give you training with certain categories of armor. Note your a
 
 #### Hold That Thought
 
-You’ll fill in more details about your class later. Choosing your class is the most important decision you make in creating a character, and it informs many of the decisions you make in later steps. You’ll return to your class’s description in [chapter 3](/sources/dnd/phb-2024/character-classes) several more times before you’re done.
+You'll fill in more details about your class later. Choosing your class is the most important decision you make in creating a character, and it informs many of the decisions you make in later steps. You'll return to your class's description in [chapter 3](/sources/dnd/phb-2024/character-classes) several more times before you're done.
 
 ### Step 2: Determine Origin
 
-Determining your character’s origin involves choosing a background, a species, and two languages.
+Determining your character's origin involves choosing a background, a species, and two languages.
 
-A character’s background represents the place and occupation that were most formative for the character. The combination of background, species, and languages provides fertile soil for your imagination as you ponder your character’s earliest days.
+A character's background represents the place and occupation that were most formative for the character. The combination of background, species, and languages provides fertile soil for your imagination as you ponder your character's earliest days.
 
 #### Choose a Background
 
-Choose your character’s background, and write it on your character sheet. You can choose any of the backgrounds detailed in [chapter 4](/sources/dnd/phb-2024/character-origins#BackgroundDescriptions), and your DM might offer additional backgrounds as options.
+Choose your character's background, and write it on your character sheet. You can choose any of the backgrounds detailed in [chapter 4](/sources/dnd/phb-2024/character-origins#BackgroundDescriptions), and your DM might offer additional backgrounds as options.
 
-The background you choose influences step 3, when you determine your character’s ability scores. If you’re having trouble choosing, the Ability Scores and Backgrounds table shows which backgrounds benefit which ability scores. Look for your class’s primary ability there.
+The background you choose influences step 3, when you determine your character's ability scores. If you're having trouble choosing, the Ability Scores and Backgrounds table shows which backgrounds benefit which ability scores. Look for your class's primary ability there.
 
 
 ##### Ability Scores and Backgrounds
@@ -114,23 +114,23 @@ Your class also gives proficiencies. Check your class description in [chapter 3]
 
 On the sample character sheet, you can indicate proficiency in skills and saving throws by marking the circle next to them.
 
-The features table in your class description shows your Proficiency Bonus (described in [chapter 1](/sources/dnd/phb-2024/playing-the-game#Proficiency)), which is +2 for a level 1 character. Note this number on your character sheet. You’ll fill in other numbers connected to these proficiencies in [step 5](#Step5FillInDetails).
+The features table in your class description shows your Proficiency Bonus (described in [chapter 1](/sources/dnd/phb-2024/playing-the-game#Proficiency)), which is +2 for a level 1 character. Note this number on your character sheet. You'll fill in other numbers connected to these proficiencies in [step 5](#Step5FillInDetails).
 
 #### Choose Starting Equipment
 
 Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from [chapter 6](/sources/dnd/phb-2024/equipment). In addition, you can have one trinket at no cost (see the [Trinkets table](#Trinkets) at the end of this chapter).
 
-Record your chosen equipment on your character sheet. Equipment is described in [chapter 6](/sources/dnd/phb-2024/equipment), but for now you can just write it all down and look up the specifics in that chapter later. There’s also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
+Record your chosen equipment on your character sheet. Equipment is described in [chapter 6](/sources/dnd/phb-2024/equipment), but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
 #### Choose a Species
 
-Choose a species for your character. The following species options are detailed in [chapter 4](/sources/dnd/phb-2024/character-origins): [Aasimar](/sources/dnd/phb-2024/character-origins#Aasimar), [Dragonborn](/sources/dnd/phb-2024/character-origins#Dragonborn), [Dwarf](/sources/dnd/phb-2024/character-origins#Dwarf), [Elf](/sources/dnd/phb-2024/character-origins#Elf), [Gnome](/sources/dnd/phb-2024/character-origins#Gnome), [Goliath](/sources/dnd/phb-2024/character-origins#Goliath), [Halfling](/sources/dnd/phb-2024/character-origins#Halfling), [Human](/sources/dnd/phb-2024/character-origins#Human), [Orc](/sources/dnd/phb-2024/character-origins#Orc), and [Tiefling](/sources/dnd/phb-2024/character-origins#Tiefling). Once you’ve chosen a species, write it on your character sheet. Then record your species’ traits.
+Choose a species for your character. The following species options are detailed in [chapter 4](/sources/dnd/phb-2024/character-origins): [Aasimar](/sources/dnd/phb-2024/character-origins#Aasimar), [Dragonborn](/sources/dnd/phb-2024/character-origins#Dragonborn), [Dwarf](/sources/dnd/phb-2024/character-origins#Dwarf), [Elf](/sources/dnd/phb-2024/character-origins#Elf), [Gnome](/sources/dnd/phb-2024/character-origins#Gnome), [Goliath](/sources/dnd/phb-2024/character-origins#Goliath), [Halfling](/sources/dnd/phb-2024/character-origins#Halfling), [Human](/sources/dnd/phb-2024/character-origins#Human), [Orc](/sources/dnd/phb-2024/character-origins#Orc), and [Tiefling](/sources/dnd/phb-2024/character-origins#Tiefling). Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
-Your character’s [size](/sources/dnd/free-rules/rules-glossary#Size) and [Speed](/sources/dnd/free-rules/rules-glossary#Speed) are determined by the character’s species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
+Your character's [size](/sources/dnd/free-rules/rules-glossary#Size) and [Speed](/sources/dnd/free-rules/rules-glossary#Speed) are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 
 #### Imagine Your Past and Present
 
-Let your character’s background and species inspire how you imagine their past. That past fed into the character’s present. With that in mind, consider answers to the following questions as your character:
+Let your character's background and species inspire how you imagine their past. That past fed into the character's present. With that in mind, consider answers to the following questions as your character:
 
 * Who raised you?
 * Who was your dearest childhood friend?
@@ -177,14 +177,14 @@ The Rare Languages table lists languages that are either secret or derived from 
 | Infernal | Devils of the Nine Hells |
 | Primordial\* | Elementals |
 | Sylvan | The Feywild |
-| Thieves’ Cant | Various criminal guilds |
+| Thieves' Cant | Various criminal guilds |
 | Undercommon | The Underdark |
 
 \*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
 ### Step 3: Determine Ability Scores
 
-To determine your character’s ability scores, you first generate a set of six numbers using the instructions below and then assign them to your six abilities. [Chapter 1](/sources/dnd/phb-2024/playing-the-game#TheSixAbilities) explains what each ability means.
+To determine your character's ability scores, you first generate a set of six numbers using the instructions below and then assign them to your six abilities. [Chapter 1](/sources/dnd/phb-2024/playing-the-game#TheSixAbilities) explains what each ability means.
 
 #### Generate Your Scores
 
@@ -213,9 +213,9 @@ Determine your ability scores by using one of the following three methods. Your 
 
 #### Assign Ability Scores
 
-Once you’ve generated six scores, assign them to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, keeping in mind your class’s primary ability. Fill in the ability modifiers as well.
+Once you've generated six scores, assign them to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, keeping in mind your class's primary ability. Fill in the ability modifiers as well.
 
-If you’re using the Standard Array option, consult the Standard Array by Class table for suggestions on where to assign scores for your character’s class. The table puts the highest scores in a class’s main abilities. If you used a different method to generate the scores, you may still use this table to guide where you place your highest and lowest scores.
+If you're using the Standard Array option, consult the Standard Array by Class table for suggestions on where to assign scores for your character's class. The table puts the highest scores in a class's main abilities. If you used a different method to generate the scores, you may still use this table to guide where you place your highest and lowest scores.
 
 
 ##### Standard Array by Class
@@ -240,15 +240,15 @@ If you’re using the Standard Array option, consult the Standard Array by Class
 
 After assigning your ability scores, adjust them according to your background. Your background lists three abilities; increase one of those scores by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20.
 
-Some players like to increase their class’s primary ability, while others prefer to increase a low score.
+Some players like to increase their class's primary ability, while others prefer to increase a low score.
 
 !!! note "Backgrounds and Species from Older Books"
 
-    Backgrounds in older D&D books don’t include ability score adjustments. If you’re using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
+    Backgrounds in older D&D books don't include ability score adjustments. If you're using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
 
-    Similarly, species in older books include ability score increases. If you’re using a species from an older book, ignore those increases and use only the ones given by your background.
+    Similarly, species in older books include ability score increases. If you're using a species from an older book, ignore those increases and use only the ones given by your background.
 
-    Also, if the background you choose doesn’t provide a feat, you gain an [Origin feat](/sources/dnd/phb-2024/feats#OriginFeats) of your choice.
+    Also, if the background you choose doesn't provide a feat, you gain an [Origin feat](/sources/dnd/phb-2024/feats#OriginFeats) of your choice.
 
 #### Determine Ability Modifiers
 
@@ -271,9 +271,9 @@ Finally, determine your ability modifiers using the Ability Scores and Modifiers
 
 #### Describe Appearance and Personality
 
-Ability scores are an essential part of the rules, but they can be more than that. Once you’ve assigned your ability scores, give some thought to what those scores might say about your character’s appearance and personality. A very strong character with low Charisma might look and behave differently from a charismatic character with low Strength. The following tables of descriptive words give suggestions of how you might describe your character based on having a high or low score in an ability.
+Ability scores are an essential part of the rules, but they can be more than that. Once you've assigned your ability scores, give some thought to what those scores might say about your character's appearance and personality. A very strong character with low Charisma might look and behave differently from a charismatic character with low Strength. The following tables of descriptive words give suggestions of how you might describe your character based on having a high or low score in an ability.
 
-Note your character’s appearance and personality on your character sheet.
+Note your character's appearance and personality on your character sheet.
 
 ##### Strength
 
@@ -341,13 +341,13 @@ Note your character’s appearance and personality on your character sheet.
 
 ### Step 4: Choose an Alignment
 
-Choose your character’s alignment from the options below, and note it on your character sheet.
+Choose your character's alignment from the options below, and note it on your character sheet.
 
-D&D assumes that player characters aren’t of an evil alignment. Check with your DM before making an evil character.
+D&D assumes that player characters aren't of an evil alignment. Check with your DM before making an evil character.
 
 #### The Nine Alignments
 
-A creature’s alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral).
+A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral).
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
@@ -355,11 +355,11 @@ The summaries of the alignments below describe the typical behavior of a creatur
 
 ***Neutral Good (NG).*** Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
 
-***Chaotic Good (CG).*** Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron’s tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
+***Chaotic Good (CG).*** Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
 
-***Lawful Neutral (LN).*** Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn’t swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
+***Lawful Neutral (LN).*** Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
 
-***Neutral (N).*** Neutral is the alignment of those who prefer to avoid moral questions and don’t take sides, doing what seems best at the time. Someone who’s bored by moral debate is probably Neutral.
+***Neutral (N).*** Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
 
 ***Chaotic Neutral (CN).*** Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
 
@@ -371,11 +371,11 @@ The summaries of the alignments below describe the typical behavior of a creatur
 
 !!! note "Unaligned Creatures"
 
-    Most creatures that lack the capacity for rational thought don’t have alignments; they are unaligned. [Sharks](/monsters/4775838-reef-shark) are savage predators, for example, but they aren’t evil; they are unaligned.
+    Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. [Sharks](/monsters/4775838-reef-shark) are savage predators, for example, but they aren't evil; they are unaligned.
 
 #### Alignment and Personality
 
-Alignment can shape a character’s personality, goals, and core beliefs. Looking at the two elements of an alignment, you can use the lists below to inspire details of your character’s personality.
+Alignment can shape a character's personality, goals, and core beliefs. Looking at the two elements of an alignment, you can use the lists below to inspire details of your character's personality.
 
 
 ##### Personality Traits by Alignment
@@ -415,7 +415,7 @@ Now fill in the rest of your character sheet.
 
 #### Record Class Features
 
-Look at your class’s feature table in [chapter 3](/sources/dnd/phb-2024/character-classes), and write down the level 1 features. The class features are detailed in that same chapter.
+Look at your class's feature table in [chapter 3](/sources/dnd/phb-2024/character-classes), and write down the level 1 features. The class features are detailed in that same chapter.
 
 Some class features offer choices. Make sure to read all your features and make any offered choices.
 
@@ -423,11 +423,11 @@ Some class features offer choices. Make sure to read all your features and make 
 
 Note these numbers on your character sheet.
 
-***Saving Throws.*** For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they’re not proficient in, which is just the relevant ability modifier.
+***Saving Throws.*** For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they're not proficient in, which is just the relevant ability modifier.
 
-***Skills.*** For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you’re not proficient in, which is just the relevant ability modifier.
+***Skills.*** For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you're not proficient in, which is just the relevant ability modifier.
 
-***Passive Perception.*** Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you’re not actively looking for something. Use this formula to determine your Passive Perception score:
+***Passive Perception.*** Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
 
 !!! info ""
     **Passive Perception** = 10 + Wisdom ([Perception](/sources/dnd/free-rules/playing-the-game#Skills)) check modifier
@@ -447,15 +447,15 @@ Include all modifiers that apply to your Wisdom ([Perception](/sources/dnd/free-
 | Bard, Cleric, Druid, Monk, Rogue, or Warlock | 8 + Con. modifier |
 | Sorcerer or Wizard | 6 + Con. modifier |
 
-The character sheet includes room to note your current Hit Points when you take damage, as well as any [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) you might gain. There’s also space to track [Death Saving Throws](/sources/dnd/free-rules/rules-glossary#DeathSavingThrow).
+The character sheet includes room to note your current Hit Points when you take damage, as well as any [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) you might gain. There's also space to track [Death Saving Throws](/sources/dnd/free-rules/rules-glossary#DeathSavingThrow).
 
-***Hit Point Dice.*** Your class’s description tells you the die type of your character’s Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you’ve spent.
+***Hit Point Dice.*** Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
 
 ***Initiative.*** Write your Dexterity modifier in the space for Initiative on your character sheet.
 
 ***Armor Class.*** Without armor or a shield, your base [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass) is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in [chapter 6](/sources/dnd/phb-2024/equipment#Armor). A class feature might give you a different way to calculate your AC.
 
-***Attacks.*** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon’s property says otherwise:
+***Attacks.*** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
 !!! info ""
     **Melee attack bonus** = Strength modifier + Proficiency Bonus
@@ -481,11 +481,11 @@ Choose a name for your character, and write it on your character sheet. The name
 
 #### Create Final Details
 
-As you finish creating your character, consider whether you’d like to make up any other details about the character. Here are the sorts of things you might ask yourself as the character:
+As you finish creating your character, consider whether you'd like to make up any other details about the character. Here are the sorts of things you might ask yourself as the character:
 
-* What’s your gender?
+* What's your gender?
 * What person or people do you care most about?
-* What’s your deepest fear?
+* What's your deepest fear?
 * On your adventures, will you seek knowledge, wealth, glory, enlightenment, justice, mercy, power, or something else?
 
 Level Advancement
@@ -541,12 +541,12 @@ When you gain a level, follow these steps:
 | Sorcerer or Wizard | 4 + Con. modifier |
 
 3. **Record New Class Features.** Look at your class features table in [chapter 3](/sources/dnd/phb-2024/character-classes), and note the features you gain at your new level in that class. Make any choices offered by a new feature.
-4. **Adjust Proficiency Bonus.** A character’s Proficiency Bonus increases at certain levels, as shown in the [Character Advancement table](#CharacterAdvancement) and your class features table in [chapter 3](/sources/dnd/phb-2024/character-classes). When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.
-5. **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character’s Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.
+4. **Adjust Proficiency Bonus.** A character's Proficiency Bonus increases at certain levels, as shown in the [Character Advancement table](#CharacterAdvancement) and your class features table in [chapter 3](/sources/dnd/phb-2024/character-classes). When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.
+5. **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character's Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.
 
 ### Tiers of Play
 
-With each new level, characters acquire new capabilities that equip them to handle greater challenges. As characters advance in level, the tone of the game also changes, and the stakes of the campaign get higher. It’s helpful to think of a character’s (and a campaign’s) arc in terms of four tiers of play, describing the journey from a level 1 character just beginning an adventuring career to the epic heights of level 20. These tiers don’t have any rules associated with them; they point to the fact that the play experience evolves as characters gain levels.
+With each new level, characters acquire new capabilities that equip them to handle greater challenges. As characters advance in level, the tone of the game also changes, and the stakes of the campaign get higher. It's helpful to think of a character's (and a campaign's) arc in terms of four tiers of play, describing the journey from a level 1 character just beginning an adventuring career to the epic heights of level 20. These tiers don't have any rules associated with them; they point to the fact that the play experience evolves as characters gain levels.
 
 #### Tier 1 (Levels 1–4)
 
@@ -571,7 +571,7 @@ At tier 4, characters achieve the pinnacle of their class features, becoming her
 Starting at Higher Levels
 -------------------------
 
-Your DM might start your group’s characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
+Your DM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
 
 ### Creating Your Character
 
@@ -619,23 +619,23 @@ Your Proficiency Bonus is based on your total character level, not your level in
 
 ### Proficiencies
 
-When you gain your first level in a class other than your initial class, you gain only some of the new class’s starting proficiencies, as detailed in each class’s description in [chapter 3](/sources/dnd/phb-2024/character-classes).
+When you gain your first level in a class other than your initial class, you gain only some of the new class's starting proficiencies, as detailed in each class's description in [chapter 3](/sources/dnd/phb-2024/character-classes).
 
 ### Class Features
 
-When you gain a new level in a class, you get its features for that level. A few features have additional rules when you’re multiclassing. Check the information about multiclassing included in each of your classes’ descriptions.
+When you gain a new level in a class, you get its features for that level. A few features have additional rules when you're multiclassing. Check the information about multiclassing included in each of your classes' descriptions.
 
 Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmored Defense) that give you alternative ways to calculate your Armor Class.
 
 #### Armor Class
 
-If you have multiple ways to calculate your [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk’s Unarmored Defense feature and a Sorcerer’s Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [Armor Class](/sources/dnd/free-rules/rules-glossary#ArmorClass), you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
 #### Extra Attack
 
-If you gain the Extra Attack feature from more than one class, the features don’t stack. You can’t make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter’s Two Extra Attacks feature).
+If you gain the Extra Attack feature from more than one class, the features don't stack. You can't make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).
 
-Similarly, the Warlock’s Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn’t give you additional attacks if you also have Extra Attack.
+Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack.
 
 #### Spellcasting
 
@@ -684,14 +684,14 @@ Then look up this total level in the Level column of the Multiclass Spellcaster 
 
 This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [Burning Hands](/spells/2618946-burning-hands), has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
 
-For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can’t prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
+For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
 
 ***Pact Magic.*** If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
 Trinkets
 --------
 
-When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature’s pockets.
+When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
 
 ### Trinkets
 
@@ -701,12 +701,12 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 01 | A mummified goblin hand |
 | 02 | A crystal that faintly glows in moonlight |
 | 03 | A gold coin minted in an unknown land |
-| 04 | A diary written in a language you don’t know |
+| 04 | A diary written in a language you don't know |
 | 05 | A brass ring that never tarnishes |
 | 06 | An old chess piece made from glass |
 | 07 | A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips |
 | 08 | A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it |
-| 09 | A lock of someone’s hair |
+| 09 | A lock of someone's hair |
 | 10 | The deed for a parcel of land in a realm unknown to you |
 | 11 | A 1-ounce block made from an unknown material |
 | 12 | A small cloth doll skewered with needles |
@@ -725,7 +725,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 25 | A silver icon of a raven |
 | 26 | A bag containing forty-seven teeth, one of which is rotten |
 | 27 | A shard of obsidian that always feels warm to the touch |
-| 28 | A dragon’s talon strung on a leather necklace |
+| 28 | A dragon's talon strung on a leather necklace |
 | 29 | A pair of old socks |
 | 30 | A blank book whose pages refuse to hold ink, chalk, graphite, or any other marking |
 | 31 | A silver badge that is a five-pointed star |
@@ -751,12 +751,12 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 51 | A dead scarab beetle the size of your hand |
 | 52 | Two toy soldiers, one missing a head |
 | 53 | A small box filled with different-sized buttons |
-| 54 | A candle that can’t be lit |
+| 54 | A candle that can't be lit |
 | 55 | A miniature cage with no door |
 | 56 | An old key |
 | 57 | An indecipherable treasure map |
 | 58 | A hilt from a broken sword |
-| 59 | A rabbit’s foot |
+| 59 | A rabbit's foot |
 | 60 | A glass eye |
 | 61 | A cameo of a hideous person |
 | 62 | A silver skull the size of a coin |
@@ -777,7 +777,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 77 | A sheet of parchment upon which is drawn a mechanical contraption |
 | 78 | An ornate scabbard that fits no blade you have found |
 | 79 | An invitation to a party where a murder happened |
-| 80 | A bronze pentacle with an etching of a rat’s head in its center |
+| 80 | A bronze pentacle with an etching of a rat's head in its center |
 | 81 | A purple handkerchief embroidered with the name of an archmage |
 | 82 | Half a floor plan for a temple, a castle, or another structure |
 | 83 | A bit of folded cloth that, when unfolded, turns into a stylish cap |
@@ -785,7 +785,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 85 | A diary with seven missing pages |
 | 86 | An empty silver snuffbox bearing the inscription "dreams" on its lid |
 | 87 | An iron holy symbol devoted to an unknown god |
-| 88 | A book about a legendary hero’s rise and fall, with the last chapter missing |
+| 88 | A book about a legendary hero's rise and fall, with the last chapter missing |
 | 89 | A vial of dragon blood |
 | 90 | An ancient arrow of elven design |
 | 91 | A needle that never bends |
@@ -793,8 +793,8 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 93 | An empty wine bottle bearing a pretty label that says, "The Wizard of Wines Winery, Red Dragon Crush, 331422-W" |
 | 94 | A mosaic tile with a multicolored, glazed surface |
 | 95 | A petrified mouse |
-| 96 | A black pirate flag adorned with a dragon’s skull and crossbones |
-| 97 | A tiny mechanical crab or spider that moves about when it’s not being observed |
+| 96 | A black pirate flag adorned with a dragon's skull and crossbones |
+| 97 | A tiny mechanical crab or spider that moves about when it's not being observed |
 | 98 | A glass jar containing lard with a label that reads, "Griffon Grease" |
 | 99 | A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body |
 | 00 | A metal urn containing the ashes of a hero |

@@ -1,6 +1,6 @@
 # Appendix A: Lore Glossary
 
-This appendix provides brief descriptions for many of the D&D game’s most famous heroes, villains, creatures, locations, and materials. The entries are presented in alphabetical order.
+This appendix provides brief descriptions for many of the D&D game's most famous heroes, villains, creatures, locations, and materials. The entries are presented in alphabetical order.
 
 Acererak
 --------
@@ -16,12 +16,12 @@ Adamantine is one of the hardest substances in existence, a dark metal found in 
 Alustriel Silverhand
 --------------------
 
-Alustriel *(ah-LOOSE-tree-ell)* Silverhand is the second of seven daughters of Mystra, a deity of magic in the Forgotten Realms. ([Laeral Silverhand](#LaeralSilverhand) is Alustriel’s younger sister.) She ruled the city of Silverymoon for centuries but stepped down from that position a little over a century ago to promote goodness and compassion in the multiverse. She has befriended adventurers such as [Drizzt Do’Urden](#DrizztDoUrden) and worked alongside the [Harpers](#HarpersThe) in pursuit of these aims.
+Alustriel *(ah-LOOSE-tree-ell)* Silverhand is the second of seven daughters of Mystra, a deity of magic in the Forgotten Realms. ([Laeral Silverhand](#LaeralSilverhand) is Alustriel's younger sister.) She ruled the city of Silverymoon for centuries but stepped down from that position a little over a century ago to promote goodness and compassion in the multiverse. She has befriended adventurers such as [Drizzt Do'Urden](#DrizztDoUrden) and worked alongside the [Harpers](#HarpersThe) in pursuit of these aims.
 
 Ashardalon
 ----------
 
-The terrible red dragon Ashardalon *(ah-SHAR-duh-lawn)* is legendary across the multiverse for his rampages, which turned lush grasslands into ashen plains and caused mighty citadels to be swallowed into the earth. As he grew aware of worlds beyond his home, he recruited a balor demon named Ammet, the Eater of Souls, to help him extend his reach and increase his power. When an adventurer dealt a mortal blow to Ashardalon’s heart, the dragon replaced the injured organ with the balor. Ashardalon’s features then took on a fiendish cast, and his eyes now glow with demonic flame. A secretive cult of Ashardalon’s followers and spawn serves him on the Material Plane, furthering the dragon’s schemes to attain godhood.
+The terrible red dragon Ashardalon *(ah-SHAR-duh-lawn)* is legendary across the multiverse for his rampages, which turned lush grasslands into ashen plains and caused mighty citadels to be swallowed into the earth. As he grew aware of worlds beyond his home, he recruited a balor demon named Ammet, the Eater of Souls, to help him extend his reach and increase his power. When an adventurer dealt a mortal blow to Ashardalon's heart, the dragon replaced the injured organ with the balor. Ashardalon's features then took on a fiendish cast, and his eyes now glow with demonic flame. A secretive cult of Ashardalon's followers and spawn serves him on the Material Plane, furthering the dragon's schemes to attain godhood.
 
 Baba Yaga
 ---------
@@ -33,29 +33,29 @@ Bahamut
 
 Bahamut *(ba-HA-mutt)* is one of the primordial dragons who (along with [Tiamat](#Tiamat)) is said to have created the [First World](#FirstWorldThe). For practical purposes, he is a god—ageless and immortal—who has dwelled in [Mount Celestia](/sources/dnd/dmg-2024/cosmology#MountCelestia) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#MountCelestia)) since the destruction of the First World. In the Dragonlance setting, where he is called Paladine *(PAL-a-deen)*, he is the greatest of the gods of good. On other worlds, he is revered as a god of justice and nobility and is favored by Paladins.
 
-To metallic dragons, Bahamut is more like a king than a god. Individual dragons might owe Bahamut allegiance, respect him, pay tribute to him, and strive to emulate him, but they don’t worship him.
+To metallic dragons, Bahamut is more like a king than a god. Individual dragons might owe Bahamut allegiance, respect him, pay tribute to him, and strive to emulate him, but they don't worship him.
 
-Baldur’s Gate
+Baldur's Gate
 -------------
 
-The city of Baldur’s Gate *(BAWL-durz GATE)*, in the Forgotten Realms setting, is a teeming metropolis haunted by the lingering influence of three evil gods (Bane, Bhaal, and Myrkul) who refuse to stay dead. It’s a place where a sword for hire can find a rich patron, join a secret guild, pursue killers for a bounty, or aid desperate citizens. The city offers opportunities for good-hearted champions to fight against corruption and bring murderers to justice, while less moral mercenaries find a good price for their services. Baldur’s Gate hosts the most reliable and ruthless market on the [Sword Coast](#SwordCoastThe). Information, treasures, secrets, and souls can be bought or sold for the right price.
+The city of Baldur's Gate *(BAWL-durz GATE)*, in the Forgotten Realms setting, is a teeming metropolis haunted by the lingering influence of three evil gods (Bane, Bhaal, and Myrkul) who refuse to stay dead. It's a place where a sword for hire can find a rich patron, join a secret guild, pursue killers for a bounty, or aid desperate citizens. The city offers opportunities for good-hearted champions to fight against corruption and bring murderers to justice, while less moral mercenaries find a good price for their services. Baldur's Gate hosts the most reliable and ruthless market on the [Sword Coast](#SwordCoastThe). Information, treasures, secrets, and souls can be bought or sold for the right price.
 
 Barovia
 -------
 
-Barovia *(buh-ROVE-ee-ah)* is a [Domain of Dread](/sources/dnd/dmg-2024/cosmology#DomainsofDread) sequestered in the [Shadowfell](/sources/dnd/dmg-2024/cosmology#Shadowfell) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Shadowfell))—a sort of spiritual prison for [Strahd von Zarovich](#StrahdvonZarovich) in his [Castle Ravenloft](#CastleRavenloft). It’s also the name of a village in that domain.
+Barovia *(buh-ROVE-ee-ah)* is a [Domain of Dread](/sources/dnd/dmg-2024/cosmology#DomainsofDread) sequestered in the [Shadowfell](/sources/dnd/dmg-2024/cosmology#Shadowfell) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Shadowfell))—a sort of spiritual prison for [Strahd von Zarovich](#StrahdvonZarovich) in his [Castle Ravenloft](#CastleRavenloft). It's also the name of a village in that domain.
 
 Bigby
 -----
 
-Bigby *(BIG-bee)* is a former apprentice of [Mordenkainen](#Mordenkainen). Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight), described in [chapter 5](/sources/dnd/dmg-2024/greyhawk#CircleofEight)). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [Bigby’s Hand](/spells/2618928-bigbys-hand) is his undisputed magnum opus.
+Bigby *(BIG-bee)* is a former apprentice of [Mordenkainen](#Mordenkainen). Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight), described in [chapter 5](/sources/dnd/dmg-2024/greyhawk#CircleofEight)). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [Bigby's Hand](/spells/2618928-bigbys-hand) is his undisputed magnum opus.
 
-A recent misadventure led to Bigby’s untimely demise. After he was crushed to death by a frost giant’s boulder, Bigby was the target of a [Reincarnate](/spells/2618941-reincarnate) spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome’s perspective.
+A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [Reincarnate](/spells/2618941-reincarnate) spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
 
 Boo
 ---
 
-Boo is a hamster. More precisely, he is a miniature giant space hamster, a species native to [Wildspace](/sources/dnd/dmg-2024/cosmology#Wildspace) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Wildspace)) that is both sapient and telepathic. Boo’s adventures with [Minsc](#Minsc), as well as the hamster’s ferocity, have given Boo legendary status, particularly in the city of [Baldur’s Gate](#BaldursGate).
+Boo is a hamster. More precisely, he is a miniature giant space hamster, a species native to [Wildspace](/sources/dnd/dmg-2024/cosmology#Wildspace) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Wildspace)) that is both sapient and telepathic. Boo's adventures with [Minsc](#Minsc), as well as the hamster's ferocity, have given Boo legendary status, particularly in the city of [Baldur's Gate](#BaldursGate).
 
 Castle Ravenloft
 ----------------
@@ -65,7 +65,7 @@ Castle Ravenloft *(RAY-ven-loft)* is the heart of the domain of [Barovia](#Barov
 Companions of the Hall, The
 ---------------------------
 
-Named for the dwarf stronghold of Mithral Hall in the Forgotten Realms setting, the Companions of the Hall is a group of heroic adventurers whose exploits have spanned centuries and even crossed the bounds of death. [Drizzt Do’Urden](#DrizztDoUrden) is the central figure in this party; all his companions have died and been reincarnated in new forms in recent years. These other companions are Drizzt’s wife, Cattie-Brie; his adoptive father, Bruenor Battlehammer; and his friends Wulfgar and Regis.
+Named for the dwarf stronghold of Mithral Hall in the Forgotten Realms setting, the Companions of the Hall is a group of heroic adventurers whose exploits have spanned centuries and even crossed the bounds of death. [Drizzt Do'Urden](#DrizztDoUrden) is the central figure in this party; all his companions have died and been reincarnated in new forms in recent years. These other companions are Drizzt's wife, Cattie-Brie; his adoptive father, Bruenor Battlehammer; and his friends Wulfgar and Regis.
 
 Company of Seven, The
 ---------------------
@@ -75,24 +75,24 @@ The Company of Seven was a group of adventurers active hundreds of years ago in 
 Corellon
 --------
 
-At the dawn of the multiverse, Corellon *(core-ELL-on or CORE-eh-lawn)* danced from world to world and plane to plane. A being of consummate mutability and infinite grace, Corellon is a whimsical shape-shifter, able to take the form of a chuckling stream, a teasing breeze, an incandescent beam, a school of fish, or a flock of birds. Corellon’s flamboyant, mercurial personality infuses every form the god adopts. Corellon loves wholeheartedly and takes pleasure from every encounter with other divine beings of the multiverse.
+At the dawn of the multiverse, Corellon *(core-ELL-on or CORE-eh-lawn)* danced from world to world and plane to plane. A being of consummate mutability and infinite grace, Corellon is a whimsical shape-shifter, able to take the form of a chuckling stream, a teasing breeze, an incandescent beam, a school of fish, or a flock of birds. Corellon's flamboyant, mercurial personality infuses every form the god adopts. Corellon loves wholeheartedly and takes pleasure from every encounter with other divine beings of the multiverse.
 
-According to legend, the first elves emerged from Corellon’s shed blood, and they shared the god’s changeable and audacious nature. Many elves, along with members of other species, worship Corellon.
+According to legend, the first elves emerged from Corellon's shed blood, and they shared the god's changeable and audacious nature. Many elves, along with members of other species, worship Corellon.
 
 Delina
 ------
 
-Delina *(dell-EEN-ah)* is a young elf Sorcerer who wields the unpredictable power of wild magic. Finding herself in trouble in the city of [Baldur’s Gate](#BaldursGate), she accidentally reawakened the ancient hero of the city, [Minsc](#Minsc), and got thrown into further adventures pursuing her lost twin brother.
+Delina *(dell-EEN-ah)* is a young elf Sorcerer who wields the unpredictable power of wild magic. Finding herself in trouble in the city of [Baldur's Gate](#BaldursGate), she accidentally reawakened the ancient hero of the city, [Minsc](#Minsc), and got thrown into further adventures pursuing her lost twin brother.
 
 Diancastra
 ----------
 
 Diancastra *(DIE-ann-CAST-rah)* is a demigod and a daughter of the divine ancestor of giants, Annam. She is a trickster, an adventurer, and a scholar of magic who enjoys wandering the Material Plane in search of new curiosities and spells to learn. She longs to see the descendants of Annam—storm, cloud, fire, frost, stone, and hill giants—restored to the position of honor and respect they held in ancient times.
 
-Drizzt Do’Urden
+Drizzt Do'Urden
 ---------------
 
-Drizzt Do’Urden *(DRIZT doh-UR-den)* is a drow exile from the city of [Menzoberranzan](#Menzoberranzan) and a fugitive from the wrath of [Lolth](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb)) and her priests. He wandered the surface world and gathered a circle of friends who became known as the [Companions of the Hall](#CompanionsoftheHallThe).
+Drizzt Do'Urden *(DRIZT doh-UR-den)* is a drow exile from the city of [Menzoberranzan](#Menzoberranzan) and a fugitive from the wrath of [Lolth](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb)) and her priests. He wandered the surface world and gathered a circle of friends who became known as the [Companions of the Hall](#CompanionsoftheHallThe).
 
 Elder Evils
 -----------
@@ -104,17 +104,17 @@ The names given to these terrible entities include such strange descriptions as 
 Elminster
 ---------
 
-Elminster *(el-MIN-ster)* is a powerful and ancient archmage in the Forgotten Realms setting. As one of Mystra’s Chosen, divinely called and empowered by a deity of magic, Elminster fosters magic and protects the fabric of magic in the world. Though this responsibility demands a certain amount of neutrality and dispassionate judgment, Elminster has a fundamentally kind and compassionate heart.
+Elminster *(el-MIN-ster)* is a powerful and ancient archmage in the Forgotten Realms setting. As one of Mystra's Chosen, divinely called and empowered by a deity of magic, Elminster fosters magic and protects the fabric of magic in the world. Though this responsibility demands a certain amount of neutrality and dispassionate judgment, Elminster has a fundamentally kind and compassionate heart.
 
 Euryale
 -------
 
-One card in the [Deck of Many Things](/magic-items/9228421-deck-of-many-things) (see [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#DeckofManyThings)) bears a person’s proper name, and the card’s namesake, Euryale *(YUR-ee-ale or yur-EYE-a-lee)*, is the subject of much speculation. Often assumed to be a fearsome demigod (perhaps the first medusa) or the wielder of a destructive curse, Euryale is actually a key part of the story of the magical deck’s creation. After befriending a princess named Asteria and spending many years in her dear friend’s company, Euryale was captured and sentenced to death by Asteria’s father. Asteria pleaded with the gods to save her friend, and Istus (a god from the Greyhawk setting; see [chapter 5](/sources/dnd/dmg-2024/greyhawk#GodsofGreyhawk)) intervened to help the pair rewrite their story, creating the *Deck of Many Things*. The magic of the deck helped the two escape, and they adventured together across the multiverse. Eventually, Euryale—having become an ancient, wise, and powerful Druid—settled in the [Outlands](/sources/dnd/dmg-2024/cosmology#Outlands) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Outlands)), where she still sometimes acts as a patron, mentor, or ally for adventurers.
+One card in the [Deck of Many Things](/magic-items/9228421-deck-of-many-things) (see [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#DeckofManyThings)) bears a person's proper name, and the card's namesake, Euryale *(YUR-ee-ale or yur-EYE-a-lee)*, is the subject of much speculation. Often assumed to be a fearsome demigod (perhaps the first medusa) or the wielder of a destructive curse, Euryale is actually a key part of the story of the magical deck's creation. After befriending a princess named Asteria and spending many years in her dear friend's company, Euryale was captured and sentenced to death by Asteria's father. Asteria pleaded with the gods to save her friend, and Istus (a god from the Greyhawk setting; see [chapter 5](/sources/dnd/dmg-2024/greyhawk#GodsofGreyhawk)) intervened to help the pair rewrite their story, creating the *Deck of Many Things*. The magic of the deck helped the two escape, and they adventured together across the multiverse. Eventually, Euryale—having become an ancient, wise, and powerful Druid—settled in the [Outlands](/sources/dnd/dmg-2024/cosmology#Outlands) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Outlands)), where she still sometimes acts as a patron, mentor, or ally for adventurers.
 
 Fallbacks, The
 --------------
 
-Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she’s gathered isn’t the stuff of legend yet, she’s confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Fighter too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Cleric who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Bard with as many secrets as songs; and Uggie, a pet otyugh.
+Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Fighter too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Cleric who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Bard with as many secrets as songs; and Uggie, a pet otyugh.
 
 First World, The
 ----------------
@@ -134,31 +134,31 @@ When the gears of the plane of [Mechanus](/sources/dnd/dmg-2024/cosmology#Mechan
 Gruumsh
 -------
 
-Gruumsh *(GROOMSH)* is a warring god who is often described as the creator or patron of the orc people. Some orcs attribute their tenacity and toughness to Gruumsh’s lingering influence. Some myths describe a primeval conflict between Gruumsh and [Corellon](#Corellon), which resulted in Gruumsh losing one eye and Corellon’s spilled blood becoming the first elves.
+Gruumsh *(GROOMSH)* is a warring god who is often described as the creator or patron of the orc people. Some orcs attribute their tenacity and toughness to Gruumsh's lingering influence. Some myths describe a primeval conflict between Gruumsh and [Corellon](#Corellon), which resulted in Gruumsh losing one eye and Corellon's spilled blood becoming the first elves.
 
 Hadar
 -----
 
-Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the [Far Realm](/sources/dnd/dmg-2024/cosmology#FarRealm) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#FarRealm)). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar’s power (see the [Arms of Hadar](/spells/2618871-arms-of-hadar) and [Hunger of Hadar](/spells/2619162-hunger-of-hadar) spells in the [Player’s Handbook](/sources/dnd/phb-2024)), and a few Warlocks claim this [Elder Evil](#ElderEvil) as their Great Old One patron.
+Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the [Far Realm](/sources/dnd/dmg-2024/cosmology#FarRealm) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#FarRealm)). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [Arms of Hadar](/spells/2618871-arms-of-hadar) and [Hunger of Hadar](/spells/2619162-hunger-of-hadar) spells in the [Player's Handbook](/sources/dnd/phb-2024)), and a few Warlocks claim this [Elder Evil](#ElderEvil) as their Great Old One patron.
 
 Harpers, The
 ------------
 
 The Harpers is a scattered network of spellcasters and spies in the Forgotten Realms setting. Its members advocate equality and covertly oppose the abuse of power, magical or otherwise.
 
-The Harpers has risen, been shattered, and risen again several times. The faction’s longevity and resilience are largely due to its decentralized, grassroots, secretive nature and the autonomy of its members. It has small cells and lone operatives throughout the Forgotten Realms, although they interact and share information with one another as the need arises. The Harpers’ ideology is noble, and members pride themselves on their ingenuity and incorruptibility. Harpers don’t seek power or glory, only fair treatment for all.
+The Harpers has risen, been shattered, and risen again several times. The faction's longevity and resilience are largely due to its decentralized, grassroots, secretive nature and the autonomy of its members. It has small cells and lone operatives throughout the Forgotten Realms, although they interact and share information with one another as the need arises. The Harpers' ideology is noble, and members pride themselves on their ingenuity and incorruptibility. Harpers don't seek power or glory, only fair treatment for all.
 
 Heroes of the Lance, The
 ------------------------
 
-The adventurers known as the Heroes of the Lance, whose deeds helped prevent Takhisis (see [Tiamat](#Tiamat)) and her evil dragons from conquering the world of the Dragonlance setting, began as a small group of young adventurers and their aging dwarf mentor. This original group (known as the Innfellows) consisted of Tanis Half-Elven, the brothers Raistlin and Caramon Majere, Sturm Brightblade, a kender (similar to a halfling) named Tasslehoff Burrfoot, the dwarf Flint Fireforge, and Kitiara Uth Matar, Raistlin and Caramon’s older half-sister. While Kitiara eventually joined Takhisis’s service, the heroes were joined by others: Riverwind and Goldmoon, from the nomadic peoples of the plains; Gilthanas and Laurana, elf friends from Tanis’s childhood; and Tika Waylan, a young barmaid whom the original Innfellows remembered as just a kid.
+The adventurers known as the Heroes of the Lance, whose deeds helped prevent Takhisis (see [Tiamat](#Tiamat)) and her evil dragons from conquering the world of the Dragonlance setting, began as a small group of young adventurers and their aging dwarf mentor. This original group (known as the Innfellows) consisted of Tanis Half-Elven, the brothers Raistlin and Caramon Majere, Sturm Brightblade, a kender (similar to a halfling) named Tasslehoff Burrfoot, the dwarf Flint Fireforge, and Kitiara Uth Matar, Raistlin and Caramon's older half-sister. While Kitiara eventually joined Takhisis's service, the heroes were joined by others: Riverwind and Goldmoon, from the nomadic peoples of the plains; Gilthanas and Laurana, elf friends from Tanis's childhood; and Tika Waylan, a young barmaid whom the original Innfellows remembered as just a kid.
 
 Heroes of the Realm, The
 ------------------------
 
-The so-called "heroes of the Realm" are a group of young adventurers—Bobby, Diana, Eric, Hank, Presto, and Sheila—who traveled from Earth in the 1980s into a world in the D&D multiverse. Equipped with powerful magic items, they foiled the schemes of foes such as [Venger](#Venger) and [Tiamat](#Tiamat) while seeking some means to return home. Eventually, as the heroes’ mastery of adventuring skills increased, they discovered the secrets of traveling between worlds, though they still haven’t found a way home.
+The so-called "heroes of the Realm" are a group of young adventurers—Bobby, Diana, Eric, Hank, Presto, and Sheila—who traveled from Earth in the 1980s into a world in the D&D multiverse. Equipped with powerful magic items, they foiled the schemes of foes such as [Venger](#Venger) and [Tiamat](#Tiamat) while seeking some means to return home. Eventually, as the heroes' mastery of adventuring skills increased, they discovered the secrets of traveling between worlds, though they still haven't found a way home.
 
-The heroes of the Realm weren’t the only kids transported from Earth to the worlds of D&D. Other young adventurers, including Niko the Cleric, are still exploring the vast D&D multiverse.
+The heroes of the Realm weren't the only kids transported from Earth to the worlds of D&D. Other young adventurers, including Niko the Cleric, are still exploring the vast D&D multiverse.
 
 Icewind Dale
 ------------
@@ -169,14 +169,14 @@ Iggwilv
 -------
 
 
-Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see [Zagyg](#Zagyg)). Later, as an adventurer, she created several new spells, including [Tasha’s Hideous Laughter](/spells/2619132-tashas-hideous-laughter) and [Tasha’s Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron), leaning on the teachings of her adoptive mother, the arch-hag [Baba Yaga](#BabaYaga). As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [Demonomicon of Iggwilv](/magic-items/9228464-demonomicon-of-iggwilv) (see [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#DemonomiconofIggwilv)). She also bound and trapped the demon lord [Graz’zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat)).
+Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see [Zagyg](#Zagyg)). Later, as an adventurer, she created several new spells, including [Tasha's Hideous Laughter](/spells/2619132-tashas-hideous-laughter) and [Tasha's Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron), leaning on the teachings of her adoptive mother, the arch-hag [Baba Yaga](#BabaYaga). As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [Demonomicon of Iggwilv](/magic-items/9228464-demonomicon-of-iggwilv) (see [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#DemonomiconofIggwilv)). She also bound and trapped the demon lord [Graz'zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat)).
 
-Iggwilv ruled Perrenland as a tyrant. When Graz’zt escaped his magical prison, Iggwilv went into hiding. Iggwilv’s current location is unknown, but she left behind a cambion son ([Iuz](#Iuz)), who has his mother’s tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see "[Greyhawk Gazetteer](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk)), not far from her mother’s old haunts.
+Iggwilv ruled Perrenland as a tyrant. When Graz'zt escaped his magical prison, Iggwilv went into hiding. Iggwilv's current location is unknown, but she left behind a cambion son ([Iuz](#Iuz)), who has his mother's tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see "[Greyhawk Gazetteer](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk)), not far from her mother's old haunts.
 
 Iuz
 ---
 
-Iuz *(EYE-ooze or eye-OOZE)* is a cambion and the son of [Iggwilv](#Iggwilv) and [Graz’zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat)). He is every bit as evil as his father and as bent on conquest as his mother at her very worst. He rules a significant portion of Eastern Oerik (in the Greyhawk setting), and some fear that he aspires to conquer even more territory. See "[Greyhawk’s Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk).
+Iuz *(EYE-ooze or eye-OOZE)* is a cambion and the son of [Iggwilv](#Iggwilv) and [Graz'zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat)). He is every bit as evil as his father and as bent on conquest as his mother at her very worst. He rules a significant portion of Eastern Oerik (in the Greyhawk setting), and some fear that he aspires to conquer even more territory. See "[Greyhawk's Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk).
 
 Jallarzi Sallavarian
 --------------------
@@ -186,12 +186,12 @@ The youngest and most recently appointed member of the [Circle of Eight](/source
 Kas the Betrayer
 ----------------
 
-Kas *(KOSS)* is a vampire, legendary swordfighter, and ruthless warlord. He once served as the leader of [Vecna](#Vecna)’s armies and the lich’s most trusted lieutenant, and he wielded a sword made for him (the [Sword of Kas](/magic-items/9229112-sword-of-kas), described in [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#SwordofKas)) by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
+Kas *(KOSS)* is a vampire, legendary swordfighter, and ruthless warlord. He once served as the leader of [Vecna](#Vecna)'s armies and the lich's most trusted lieutenant, and he wielded a sword made for him (the [Sword of Kas](/magic-items/9229112-sword-of-kas), described in [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#SwordofKas)) by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
 
 Keraptis
 --------
 
-According to legend, Keraptis *(kuh-RAP-tiss)* was an evil archmage who long ago seized power as a petty tyrant somewhere in the northern mountains of the Greyhawk setting. When his demands on the local populace became too extreme, a revolt drove him into hiding. He disappeared into the tunnels beneath White Plume Mountain (see "[Greyhawk’s Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk)). It’s conceivable that he became a lich as the grim climax of his magical research.
+According to legend, Keraptis *(kuh-RAP-tiss)* was an evil archmage who long ago seized power as a petty tyrant somewhere in the northern mountains of the Greyhawk setting. When his demands on the local populace became too extreme, a revolt drove him into hiding. He disappeared into the tunnels beneath White Plume Mountain (see "[Greyhawk's Premise](/sources/dnd/dmg-2024/greyhawk#GreyhawksPremise)" in [chapter 5](/sources/dnd/dmg-2024/greyhawk)). It's conceivable that he became a lich as the grim climax of his magical research.
 
 Kyuss
 -----
@@ -203,7 +203,7 @@ Variously identified as an [Elder Evil](#ElderEvil), as a demigod, or as a morta
 Laeral Silverhand
 -----------------
 
-Laeral *(LAIR-ull)* Silverhand is the fifth of seven daughters of Mystra, a deity of magic in the Forgotten Realms setting. ([Alustriel Silverhand](#AlustrielSilverhand) is Laeral’s older sister.) She is over 700 years old, and after a period of withdrawal from public life, she now serves as the Open Lord of [Waterdeep](#Waterdeep)—the only one of the twenty or so Lords of Waterdeep whose identity is publicly known. Though her power has waxed and waned depending on Mystra’s involvement with the world and has declined significantly in recent years, Laeral remains one of the most formidable spellcasters in a world known for powerful spellcasters.
+Laeral *(LAIR-ull)* Silverhand is the fifth of seven daughters of Mystra, a deity of magic in the Forgotten Realms setting. ([Alustriel Silverhand](#AlustrielSilverhand) is Laeral's older sister.) She is over 700 years old, and after a period of withdrawal from public life, she now serves as the Open Lord of [Waterdeep](#Waterdeep)—the only one of the twenty or so Lords of Waterdeep whose identity is publicly known. Though her power has waxed and waned depending on Mystra's involvement with the world and has declined significantly in recent years, Laeral remains one of the most formidable spellcasters in a world known for powerful spellcasters.
 
 League of Malevolence, The
 --------------------------
@@ -218,12 +218,12 @@ Lord Soth is a death knight in the Dragonlance setting—a former Paladin who al
 Menzoberranzan
 --------------
 
-The [Underdark](#UnderdarkThe) city of Menzoberranzan *(men-zoh-buh-RAN-zan)*, lying far beneath the [Sword Coast](#SwordCoastThe) region of the Forgotten Realms, is ruled by tyrannical priests of the Demon Queen of Spiders, [Lolth](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb)). Most of its people are drow, whose noble houses are locked in a constant struggle for Lolth’s favor and the power that comes with it.
+The [Underdark](#UnderdarkThe) city of Menzoberranzan *(men-zoh-buh-RAN-zan)*, lying far beneath the [Sword Coast](#SwordCoastThe) region of the Forgotten Realms, is ruled by tyrannical priests of the Demon Queen of Spiders, [Lolth](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Layer66TheDemonweb)). Most of its people are drow, whose noble houses are locked in a constant struggle for Lolth's favor and the power that comes with it.
 
 Minsc
 -----
 
-Minsc *(MINSK)* is a heroic Ranger from the land of Rashemen in the Forgotten Realms setting. Known for his good cheer, his hearty optimism, and his pet miniature giant space hamster, [Boo](#Boo), Minsc is particularly adored in the city of [Baldur’s Gate](#BaldursGate).
+Minsc *(MINSK)* is a heroic Ranger from the land of Rashemen in the Forgotten Realms setting. Known for his good cheer, his hearty optimism, and his pet miniature giant space hamster, [Boo](#Boo), Minsc is particularly adored in the city of [Baldur's Gate](#BaldursGate).
 
 Mithral
 -------
@@ -233,14 +233,14 @@ Mithral *(MITH-ral)* is a light, flexible metal that resembles silver but is muc
 Moradin
 -------
 
-Myths told on many worlds describe Moradin *(MORE-ah-din)* crafting all the peoples of the Material Plane in his great workshop in [Mount Celestia](/sources/dnd/dmg-2024/cosmology#MountCelestia) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#MountCelestia)), causing them to spring to life from inert metal when he cooled the heated castings with his breath. These myths are the source of Moradin’s appellation, "All-Father." Many peoples across the multiverse, including many dwarves, worship Moradin.
+Myths told on many worlds describe Moradin *(MORE-ah-din)* crafting all the peoples of the Material Plane in his great workshop in [Mount Celestia](/sources/dnd/dmg-2024/cosmology#MountCelestia) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#MountCelestia)), causing them to spring to life from inert metal when he cooled the heated castings with his breath. These myths are the source of Moradin's appellation, "All-Father." Many peoples across the multiverse, including many dwarves, worship Moradin.
 
 Mordenkainen
 ------------
 
-Mordenkainen *(mor-den-KIGH-nen or mor-den-KAY-nen)* is a human archmage who maintains a residence in the Free City of Greyhawk and another hidden somewhere in the Yatil Mountains between Perrenland and Ket (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)). He is the founder and leader of the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight), which he created to implement his philosophy of balance in the world. Among Mordenkainen’s celebrated accomplishments are several name-branded spells, including ones that create extradimensional mansions, swords of spectral force, and phantom watchdogs (detailed in the [Player’s Handbook](/sources/dnd/phb-2024)).
+Mordenkainen *(mor-den-KIGH-nen or mor-den-KAY-nen)* is a human archmage who maintains a residence in the Free City of Greyhawk and another hidden somewhere in the Yatil Mountains between Perrenland and Ket (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#GreyhawkGazetteer)). He is the founder and leader of the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight), which he created to implement his philosophy of balance in the world. Among Mordenkainen's celebrated accomplishments are several name-branded spells, including ones that create extradimensional mansions, swords of spectral force, and phantom watchdogs (detailed in the [Player's Handbook](/sources/dnd/phb-2024)).
 
-Mordenkainen has visited numerous worlds and planes of existence, making friends and fomenting rivalries on many of them. He maintains a close friendship with his former apprentice [Bigby](#Bigby) and the famous archmage [Elminster](#Elminster) of Shadowdale. Mordenkainen’s greatest rival is [Iggwilv](#Iggwilv), a former adventuring companion.
+Mordenkainen has visited numerous worlds and planes of existence, making friends and fomenting rivalries on many of them. He maintains a close friendship with his former apprentice [Bigby](#Bigby) and the famous archmage [Elminster](#Elminster) of Shadowdale. Mordenkainen's greatest rival is [Iggwilv](#Iggwilv), a former adventuring companion.
 
 Neverwinter
 -----------
@@ -252,19 +252,19 @@ Dagult Neverember is the Lord Protector of Neverwinter, ruling in the absence of
 Otiluke
 -------
 
-Otiluke *(AW-teh-luke)* is an impulsive, aggressive Wizard who is the main agent of the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight) in the Free City of Greyhawk (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk)). He holds a position of political power and keeps his membership in the Circle of Eight secret. He is best known for his spells that create magical spheres (detailed in the [Player’s Handbook](/sources/dnd/phb-2024)).
+Otiluke *(AW-teh-luke)* is an impulsive, aggressive Wizard who is the main agent of the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight) in the Free City of Greyhawk (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk)). He holds a position of political power and keeps his membership in the Circle of Eight secret. He is best known for his spells that create magical spheres (detailed in the [Player's Handbook](/sources/dnd/phb-2024)).
 
 Otto
 ----
 
-Otto *(AW-toe)* is an affable dwarf Bard with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he’s also a member of the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight) (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#CircleofEight)) and committed to the goals of that organization. He is well-known across the multiverse for his creation of the [Otto’s Irresistible Dance](/spells/2619130-ottos-irresistible-dance) spell.
+Otto *(AW-toe)* is an affable dwarf Bard with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he's also a member of the [Circle of Eight](/sources/dnd/dmg-2024/greyhawk#CircleofEight) (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#CircleofEight)) and committed to the goals of that organization. He is well-known across the multiverse for his creation of the [Otto's Irresistible Dance](/spells/2619130-ottos-irresistible-dance) spell.
 
 Phandalin
 ---------
 
 The frontier town of Phandalin *(FAN-duh-lin or fan-DAY-lin)* in the [Sword Coast](#SwordCoastThe) region of the Forgotten Realms setting is built on the ruins of a much older settlement. Hundreds of years ago, old Phandalin was a thriving town until it was sacked by bandits and lay abandoned for centuries.
 
-In the past few years, hardy folk from the cities of [Neverwinter](#Neverwinter) and [Waterdeep](#Waterdeep) have begun settling atop the ruins of old Phandalin. It’s now home to farmers, woodcutters, fur traders, and prospectors drawn by stories of gold and platinum in the foothills of the Sword Mountains—as well as more than a few ruffians and bandits.
+In the past few years, hardy folk from the cities of [Neverwinter](#Neverwinter) and [Waterdeep](#Waterdeep) have begun settling atop the ruins of old Phandalin. It's now home to farmers, woodcutters, fur traders, and prospectors drawn by stories of gold and platinum in the foothills of the Sword Mountains—as well as more than a few ruffians and bandits.
 
 Prince of Frost, The
 --------------------
@@ -275,7 +275,7 @@ The Prince of Frost is a son of Titania, the [Summer Queen](#SummerQueenThe). He
 Queen of Air and Darkness, The
 ------------------------------
 
-The mysterious Queen of Air and Darkness is the archfey ruler of the [Gloaming Court](/sources/dnd/dmg-2024/cosmology#GloamingCourt) in the [Feywild](/sources/dnd/dmg-2024/cosmology#Feywild) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Feywild)). Though she is often described as malicious and evil, her motivations are as obscure and whimsical as any other archfey’s. She gives supernatural boons and terrible curses with equal whimsy, with little regard for the elaborate customs surrounding gifts and favors in other courts of the Feywild. Though she is said to have a spectral form resembling a terrifying elf, to the unaided eye she appears as a strange, black diamond, hovering in the air like the slitted pupil of an unseen cat.
+The mysterious Queen of Air and Darkness is the archfey ruler of the [Gloaming Court](/sources/dnd/dmg-2024/cosmology#GloamingCourt) in the [Feywild](/sources/dnd/dmg-2024/cosmology#Feywild) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Feywild)). Though she is often described as malicious and evil, her motivations are as obscure and whimsical as any other archfey's. She gives supernatural boons and terrible curses with equal whimsy, with little regard for the elaborate customs surrounding gifts and favors in other courts of the Feywild. Though she is said to have a spectral form resembling a terrifying elf, to the unaided eye she appears as a strange, black diamond, hovering in the air like the slitted pupil of an unseen cat.
 
 Raven Queen, The
 ----------------
@@ -295,24 +295,24 @@ Bral is populated by an outlandish collection of traders, scoundrels, mercenarie
 Rudolph van Richten
 -------------------
 
-A scholar and monster hunter, Rudolph van Richten has traveled to dozens of [Domains of Dread](/sources/dnd/dmg-2024/cosmology#DomainsofDread) in the [Shadowfell](/sources/dnd/dmg-2024/cosmology#Shadowfell) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Shadowfell)), investigating reports of monstrous beings and documenting them in a series of published guides, the best known of which is *Van Richten’s Guide to Vampires*.
+A scholar and monster hunter, Rudolph van Richten has traveled to dozens of [Domains of Dread](/sources/dnd/dmg-2024/cosmology#DomainsofDread) in the [Shadowfell](/sources/dnd/dmg-2024/cosmology#Shadowfell) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Shadowfell)), investigating reports of monstrous beings and documenting them in a series of published guides, the best known of which is *Van Richten's Guide to Vampires*.
 
 In kinder days, Rudolph lived with his wife, Ingrid, and son, Erasmus, but he lost them both to a wicked vampire. In the process of hunting the vampire, Rudolph came under a terrible curse: "Live you always among monsters, and see everyone you love die beneath their claws."
 
-In the decades since, van Richten has hunted monsters and armed others with the knowledge they need to confront evil. Though he’s made many devoted allies, he keeps them at arm’s length, fearing the threat of his curse.
+In the decades since, van Richten has hunted monsters and armed others with the knowledge they need to confront evil. Though he's made many devoted allies, he keeps them at arm's length, fearing the threat of his curse.
 
-Van Richten is closely associated with other heroes who prowl the Domains of Dread, including the detective Alanik Ray and his partner Arthur Sedgwick, the explorer Ez d’Avenir, and the twins Gennifer and Laurie Weathermay-Foxgrove.
+Van Richten is closely associated with other heroes who prowl the Domains of Dread, including the detective Alanik Ray and his partner Arthur Sedgwick, the explorer Ez d'Avenir, and the twins Gennifer and Laurie Weathermay-Foxgrove.
 
 Strahd von Zarovich
 -------------------
 
-A brilliant thinker and capable warrior in life, Strahd von Zarovich *(STRAWD von zuh-ROH-vitch or ZAR-oh-vitch)* fought in countless battles for his people. After a long life of warfare and slaughter, he settled in the remote valley of [Barovia](#Barovia) and built a castle on a towering pinnacle. His brother Sergei came to live with him in [Castle Ravenloft](#CastleRavenloft), becoming Strahd’s adviser and constant companion.
+A brilliant thinker and capable warrior in life, Strahd von Zarovich *(STRAWD von zuh-ROH-vitch or ZAR-oh-vitch)* fought in countless battles for his people. After a long life of warfare and slaughter, he settled in the remote valley of [Barovia](#Barovia) and built a castle on a towering pinnacle. His brother Sergei came to live with him in [Castle Ravenloft](#CastleRavenloft), becoming Strahd's adviser and constant companion.
 
-In his brother, Strahd saw everything he was not. Resentment colored their relationship and eventually turned into hatred. Strahd’s beloved, Tatyana, spurned Strahd for Sergei, whom she pledged to marry.
+In his brother, Strahd saw everything he was not. Resentment colored their relationship and eventually turned into hatred. Strahd's beloved, Tatyana, spurned Strahd for Sergei, whom she pledged to marry.
 
-In a desperate attempt to regain Tatyana’s love, Strahd forged a pact with dark powers that made him immortal. Strahd confronted his brother at Sergei and Tatyana’s wedding and killed him. Tatyana fled and flung herself from Ravenloft’s walls. Guards shot Strahd with arrows, but he didn’t die. He became a vampire—the first vampire, according to many sages.
+In a desperate attempt to regain Tatyana's love, Strahd forged a pact with dark powers that made him immortal. Strahd confronted his brother at Sergei and Tatyana's wedding and killed him. Tatyana fled and flung herself from Ravenloft's walls. Guards shot Strahd with arrows, but he didn't die. He became a vampire—the first vampire, according to many sages.
 
-In the centuries since his transformation, Strahd’s lust for life has grown. He broods in his castle, cursing the living for all he has lost and never admitting to his role in the tragedy.
+In the centuries since his transformation, Strahd's lust for life has grown. He broods in his castle, cursing the living for all he has lost and never admitting to his role in the tragedy.
 
 
 Summer Queen, The
@@ -323,7 +323,7 @@ Titania, the Summer Queen, is the regal and charismatic ruler of the [Summer Cou
 Sword Coast, The
 ----------------
 
-The Sword Coast is the western edge of the continent of the Forgotten Realms setting, running along the Sea of Swords. It’s a narrow band of territory dominated by several major city-states, from [Neverwinter](#Neverwinter) in the north to [Baldur’s Gate](#BaldursGate) in the south, with [Waterdeep](#Waterdeep) in between.
+The Sword Coast is the western edge of the continent of the Forgotten Realms setting, running along the Sea of Swords. It's a narrow band of territory dominated by several major city-states, from [Neverwinter](#Neverwinter) in the north to [Baldur's Gate](#BaldursGate) in the south, with [Waterdeep](#Waterdeep) in between.
 
 
 Szass Tam
@@ -346,7 +346,7 @@ Tiamat
 
 Tiamat *(TEE-a-mat)* is one of the primordial dragons who (along with [Bahamut](#Bahamut)) is said to have created the [First World](#FirstWorldThe). Since the destruction of the First World, she has made her home in the [Nine Hells](/sources/dnd/dmg-2024/cosmology#NineHells) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#NineHells)), where she is served by devils and enjoys the worship of mortals across the multiverse. In the Dragonlance setting, where she is known as Takhisis *(ta-KEE-sis)*, she is the greatest of the gods of evil. On many worlds, she is known as a god of greed, wealth, and vengeance.
 
-Chromatic dragons might fear, respect, envy, and appease Tiamat as a sovereign, but they don’t worship her. Their devotion to her rarely supersedes their devotion to their own goals.
+Chromatic dragons might fear, respect, envy, and appease Tiamat as a sovereign, but they don't worship her. Their devotion to her rarely supersedes their devotion to their own goals.
 
 Underdark, The
 --------------
@@ -356,28 +356,28 @@ The Underdark is a vast subterranean realm of natural caverns and passages exten
 Undermountain
 -------------
 
-Undermountain is the largest, deepest dungeon in the Forgotten Realms setting. It’s a series of interconnected dungeon levels sprawling far beneath the city of [Waterdeep](#Waterdeep). Its tunnels connect to preexisting [mithral](#Mithral) mines and natural caverns of the [Underdark](#UnderdarkThe). The best-known entrance to Undermountain is through the [Yawning Portal](#YawningPortalThe) tavern in Waterdeep, but other routes also exist. A reclusive and cantankerous archmage named Halaster Blackcloak claims Undermountain as his domain, although his overlordship isn’t widely acknowledged by the dungeon’s other denizens.
+Undermountain is the largest, deepest dungeon in the Forgotten Realms setting. It's a series of interconnected dungeon levels sprawling far beneath the city of [Waterdeep](#Waterdeep). Its tunnels connect to preexisting [mithral](#Mithral) mines and natural caverns of the [Underdark](#UnderdarkThe). The best-known entrance to Undermountain is through the [Yawning Portal](#YawningPortalThe) tavern in Waterdeep, but other routes also exist. A reclusive and cantankerous archmage named Halaster Blackcloak claims Undermountain as his domain, although his overlordship isn't widely acknowledged by the dungeon's other denizens.
 
 Vajra Safahr
 ------------
 
 Vajra Safahr *(VAWJ-rah sah-FAR)* is a human Wizard in her midthirties, making her the youngest person ever to hold the position of Blackstaff—the chief mage of [Waterdeep](#Waterdeep) and the head of Blackstaff Academy, a school for mages. Several of the older and more seasoned mages of Waterdeep consider Vajra an upstart, but they are smart enough not to challenge her. As the badge of her office, she carries the *Blackstaff*, an Artifact that holds the spirits of all her predecessors.
 
-Valor’s Call
+Valor's Call
 ------------
 
-The noble adventuring party known as Valor’s Call was founded by Strongheart, a resolute human Paladin committed to destroying evil wherever it rears its head. Strongheart alone determines who can become a member of this prestigious group, and he is always looking for courageous heroes willing to devote themselves to a good cause.
+The noble adventuring party known as Valor's Call was founded by Strongheart, a resolute human Paladin committed to destroying evil wherever it rears its head. Strongheart alone determines who can become a member of this prestigious group, and he is always looking for courageous heroes willing to devote themselves to a good cause.
 
-Only good-aligned characters can join Valor’s Call. The group enjoys the patronage of [Yolande](#Yolande), the queen of Celene, and carries out missions on her behalf both in the Greyhawk setting (see [chapter 5](/sources/dnd/dmg-2024/greyhawk)) and in the [Feywild](/sources/dnd/dmg-2024/cosmology#Feywild) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Feywild)).
+Only good-aligned characters can join Valor's Call. The group enjoys the patronage of [Yolande](#Yolande), the queen of Celene, and carries out missions on her behalf both in the Greyhawk setting (see [chapter 5](/sources/dnd/dmg-2024/greyhawk)) and in the [Feywild](/sources/dnd/dmg-2024/cosmology#Feywild) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#Feywild)).
 
-Prominent members of Valor’s Call include the dwarf Fighter Elkhorn, the human Cleric Mercion, the human Rogue Molliver, and the human Wizard Ringlerun.
+Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human Cleric Mercion, the human Rogue Molliver, and the human Wizard Ringlerun.
 
 Vecna
 -----
 
 Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [Book of Vile Darkness](/magic-items/9228364-book-of-vile-darkness) (described in [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#BookofVileDarkness)). Armed with that dread tome, he forged a kingdom to rule, with the vampire [Kas](#KastheBetrayer) as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [Eye and Hand of Vecna](/magic-items/9228608-eye-and-hand-of-vecna) are described in [chapter 7](/sources/dnd/dmg-2024/magic-items-a-z#EyeandHandofVecna)).
 
-Vecna’s evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.
+Vecna's evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.
 
 
 Venger
@@ -388,17 +388,17 @@ Venger *(VEN-jur)* was once both human and good-hearted, but some fiendish force
 Vi
 --
 
-Vi *(VYE)* is a gnome artificer, entrepreneur, and traveler of many worlds who originally hails from Eberron. After helping to create terribly destructive weapons during the Last War, Vi sought to atone for this guilt by establishing the Fixers, an organization dedicated to solving apparently hopeless problems. From the Fixers’ headquarters in Sigil, Vi has brought her genius, warm heart, and love for a stiff drink to many worlds across the multiverse.
+Vi *(VYE)* is a gnome artificer, entrepreneur, and traveler of many worlds who originally hails from Eberron. After helping to create terribly destructive weapons during the Last War, Vi sought to atone for this guilt by establishing the Fixers, an organization dedicated to solving apparently hopeless problems. From the Fixers' headquarters in Sigil, Vi has brought her genius, warm heart, and love for a stiff drink to many worlds across the multiverse.
 
 Vlaakith
 --------
 
-Vlaakith *(VLAH-kith)* is the lich-queen of the githyanki city of Tu’narath, adrift in the [Astral Plane](/sources/dnd/dmg-2024/cosmology#AstralPlane) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#AstralPlane)). She is ancient, having fought alongside a leader named Gith to win her people’s freedom from the mind flayers that enslaved them. Githyanki of Tu’narath swear unquestioning obedience to the lich-queen, and she promises access to paradise to those who serve her loyally. In truth, she feasts on the souls of any subjects who grow powerful enough to dream of challenging her.
+Vlaakith *(VLAH-kith)* is the lich-queen of the githyanki city of Tu'narath, adrift in the [Astral Plane](/sources/dnd/dmg-2024/cosmology#AstralPlane) (see [chapter 6](/sources/dnd/dmg-2024/cosmology#AstralPlane)). She is ancient, having fought alongside a leader named Gith to win her people's freedom from the mind flayers that enslaved them. Githyanki of Tu'narath swear unquestioning obedience to the lich-queen, and she promises access to paradise to those who serve her loyally. In truth, she feasts on the souls of any subjects who grow powerful enough to dream of challenging her.
 
 Waterdeep
 ---------
 
-Waterdeep is the most famous and cosmopolitan city in the Forgotten Realms setting. It’s a center of wealth and influence where people come to make their dreams come true. The city is home to the [Yawning Portal](#YawningPortalThe), the best-known point of access to the sprawling dungeon of [Undermountain](#Undermountain).
+Waterdeep is the most famous and cosmopolitan city in the Forgotten Realms setting. It's a center of wealth and influence where people come to make their dreams come true. The city is home to the [Yawning Portal](#YawningPortalThe), the best-known point of access to the sprawling dungeon of [Undermountain](#Undermountain).
 
 Xanathar
 --------
@@ -414,7 +414,7 @@ The Yawning Portal is a tavern in [Waterdeep](#Waterdeep), built around an entra
 Yolande
 -------
 
-Yolande *(yoh-LAWND*), known as the Faerie Queen, is the benevolent and beloved elf monarch of Celene (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#CentralFlanaessLocations)). Raised in the court of the [Summer Queen](#SummerQueenThe), Yolande had no wish to rule. She preferred the life of an adventuring magic-user. She built her reputation on triumphs, such as her capture of the fomorian brigand Solgna and the theft of the [Prince of Frost](#PrinceofFrostThe)’s sentient sword, *Winterflash*. Yolande was among the first elves to migrate from the [Feywild](/sources/dnd/dmg-2024/cosmology#Feywild) to the Greyhawk setting.
+Yolande *(yoh-LAWND*), known as the Faerie Queen, is the benevolent and beloved elf monarch of Celene (see [chapter 5](/sources/dnd/dmg-2024/greyhawk#CentralFlanaessLocations)). Raised in the court of the [Summer Queen](#SummerQueenThe), Yolande had no wish to rule. She preferred the life of an adventuring magic-user. She built her reputation on triumphs, such as her capture of the fomorian brigand Solgna and the theft of the [Prince of Frost](#PrinceofFrostThe)'s sentient sword, *Winterflash*. Yolande was among the first elves to migrate from the [Feywild](/sources/dnd/dmg-2024/cosmology#Feywild) to the Greyhawk setting.
 
 Zagyg
 -----
@@ -424,4 +424,4 @@ The archmage Zagig Yragerne *(ZAG-igg EE-rag-airn)* was an adventurer in the Gre
 Zargon
 ------
 
-Zargon *(ZAR-gawn)* is an [Elder Evil](#ElderEvil)—an undying abomination from eons past with an insatiable appetite. A tentacled, slime-covered horror with a cyclopic red eye and an indestructible horn, Zargon corrupts creatures it doesn’t devour, transforming its victims into amorphous servants. Zargon is imprisoned on the Material Plane in a prison deep in the earth. This prison is described in the [Quests from the Infinite Staircase](/sources/dnd/qftis) adventure anthology.
+Zargon *(ZAR-gawn)* is an [Elder Evil](#ElderEvil)—an undying abomination from eons past with an insatiable appetite. A tentacled, slime-covered horror with a cyclopic red eye and an indestructible horn, Zargon corrupts creatures it doesn't devour, transforming its victims into amorphous servants. Zargon is imprisoned on the Material Plane in a prison deep in the earth. This prison is described in the [Quests from the Infinite Staircase](/sources/dnd/qftis) adventure anthology.

@@ -9,25 +9,25 @@
     | Skill Proficiencies | *Choose 2:* [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [Deception](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](/sources/dnd/free-rules/playing-the-game#Skills), [Nature](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) |
     | Weapon Proficiencies | Simple weapons |
     | Armor Training | Light armor |
-    | Starting Equipment | *Choose A or B:* (A) [Leather Armor](/equipment/10-leather), [Sickle](/equipment/13-sickle), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([orb](/equipment/526-orb)), [Book](/equipment/439-book) (occult lore), [Scholar’s Pack](/equipment/418-scholars-pack), and 15 GP; or (B) 100 GP |
+    | Starting Equipment | *Choose A or B:* (A) [Leather Armor](/equipment/10-leather), [Sickle](/equipment/13-sickle), 2 [Daggers](/equipment/3-dagger), [Arcane Focus](/equipment/544-arcane-focus) ([orb](/equipment/526-orb)), [Book](/equipment/439-book) (occult lore), [Scholar's Pack](/equipment/418-scholars-pack), and 15 GP; or (B) 100 GP |
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 
 Warlocks view their patrons as resources, as means to the end of achieving magical power. Some Warlocks respect, revere, or even love their patrons; some serve their patrons grudgingly; and some seek to undermine their patrons even as they wield the power their patrons have given them.
 
-Once a pact is made, a Warlock’s thirst for knowledge and power can’t be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
+Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked with mere study. Most Warlocks spend their days pursuing greater power and deeper knowledge, which typically means some kind of adventure.
 
 ## Becoming a Warlock...
 
 ### As a Level 1 Character
 
 * Gain all the traits in the [Core Warlock Traits table](#CoreWarlockTraits).
-* Gain the Warlock’s level 1 features, which are listed in the [Warlock Features table](#WarlockFeatures).
+* Gain the Warlock's level 1 features, which are listed in the [Warlock Features table](#WarlockFeatures).
 
 ### As a Multiclass Character
 
 * Gain the following traits from the [Core Warlock Traits table](#CoreWarlockTraits): Hit Point Die and training with Light armor.
-* Gain the Warlock’s level 1 features, which are listed in the [Warlock Features table](#WarlockFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
+* Gain the Warlock's level 1 features, which are listed in the [Warlock Features table](#WarlockFeatures). See the multiclassing rules in [chapter 2](/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
 
 ## Warlock Class Features
 
@@ -60,19 +60,19 @@ As a Warlock, you gain the following class features when you reach the specified
 
 ### Level 1: Eldritch Invocations
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as [Pact of the Tome](#PactoftheTome). Invocations are described in the "[Eldritch Invocation Options](#EldritchInvocationOptions)" section later in this class’s description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as [Pact of the Tome](#PactoftheTome). Invocations are described in the "[Eldritch Invocation Options](#EldritchInvocationOptions)" section later in this class's description.
 
 ***Prerequisites.*** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
-***Replacing and Gaining Invocations.*** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can’t replace an invocation if it’s a prerequisite for another invocation that you have.
+***Replacing and Gaining Invocations.*** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
 
 When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the [Warlock Features table](#WarlockFeatures).
 
-You can’t pick the same invocation more than once unless its description says otherwise.
+You can't pick the same invocation more than once unless its description says otherwise.
 
 ### Level 1: Pact Magic
 
-Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](#WarlockSpellList) later in the class’s description.
+Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See [chapter 7](/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](#WarlockSpellList) later in the class's description.
 
 ***Cantrips.*** You know two Warlock cantrips of your choice. [Eldritch Blast](/spells/2619161-eldritch-blast) and [Prestidigitation](/spells/2618893-prestidigitation) are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
@@ -80,13 +80,13 @@ When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 ***Spell Slots.*** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
-For example, when you’re a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](/spells/2619215-witch-bolt), you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](/spells/2619215-witch-bolt), you must spend one of those slots, and you cast it as a level 3 spell.
 
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [Charm Person](/spells/2618964-charm-person) and [Hex](/spells/2618988-hex) are recommended.
 
-The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the [Warlock Features table](#WarlockFeatures). Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
+The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the [Warlock Features table](#WarlockFeatures). Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 
-If another Warlock feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
+If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
 
 ***Changing Your Prepared Spells.*** Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
 
@@ -96,11 +96,11 @@ If another Warlock feature gives you spells that you always have prepared, those
 
 ### Level 2: Magical Cunning
 
-You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Level 3: Warlock Subclass
 
-You gain a Warlock subclass of your choice. The [Archfey Patron](#ArchfeyPatron), [Celestial Patron](#CelestialPatron), [Fiend Patron](#FiendPatron), and [Great Old One Patron](#GreatOldOnePatron) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower.
+You gain a Warlock subclass of your choice. The [Archfey Patron](#ArchfeyPatron), [Celestial Patron](#CelestialPatron), [Fiend Patron](#FiendPatron), and [Great Old One Patron](#GreatOldOnePatron) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -108,9 +108,9 @@ You gain the Ability Score Improvement feat (see [chapter 5](/sources/dnd/phb-20
 
 ### Level 9: Contact Patron
 
-In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](/spells/2619052-contact-other-plane) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
+In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](/spells/2619052-contact-other-plane) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
 
-Once you cast the spell with this feature, you can’t do so in this way again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Level 11: Mystic Arcanum
 
@@ -138,7 +138,7 @@ Eldritch Invocation options appear in alphabetical order.
 
 *Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
 
-Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell’s damage rolls.
+Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.
 
 ***Repeatable.*** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
@@ -152,7 +152,7 @@ You can cast [Mage Armor](/spells/2619006-mage-armor) on yourself without expend
 
 You can cast [Levitate](/spells/2618994-levitate) on yourself without expending a spell slot.
 
-### Devil’s Sight
+### Devil's Sight
 
 *Prerequisite: Level 2+ Warlock*
 
@@ -186,15 +186,15 @@ Choose one of your known Warlock cantrips that deals damage and has a range of 1
 
 *Prerequisite: Level 2+ Warlock*
 
-You can cast [False Life](/spells/2618866-false-life) on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints); you automatically get the highest number on the die.
+You can cast [False Life](/spells/2618866-false-life) on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints); you automatically get the highest number on the die.
 
 ### Gaze of Two Minds
 
 *Prerequisite: Level 5+ Warlock*
 
-You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don’t maintain it in this way.
+You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 
-While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
+While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
 
 ### Gift of the Depths
 
@@ -266,7 +266,7 @@ You can cast [Silent Image](/spells/2619062-silent-image) without expending a sp
 
 *Prerequisite: Level 5+ Warlock*
 
-While you’re in an area of [Dim Light](/sources/dnd/free-rules/rules-glossary#DimLight) or [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness), you can cast [Invisibility](/spells/2619116-invisibility) on yourself without expending a spell slot.
+While you're in an area of [Dim Light](/sources/dnd/free-rules/rules-glossary#DimLight) or [Darkness](/sources/dnd/free-rules/rules-glossary#Darkness), you can cast [Invisibility](/spells/2619116-invisibility) on yourself without expending a spell slot.
 
 ### Otherworldly Leap
 
@@ -276,17 +276,17 @@ You can cast [Jump](/spells/2618991-jump) on yourself without expending a spell 
 
 ### Pact of the Blade
 
-As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can’t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
 
 Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature’s Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ### Pact of the Chain
 
 You learn the [Find Familiar](/spells/2618877-find-familiar) spell and can cast it as a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action without expending a spell slot.
 
-When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](/monsters/4775825-imp), [Pseudodragon](/monsters/4775834-pseudodragon), [Quasit](/monsters/4775835-quasit), [Skeleton](/monsters/4775841-skeleton), [Slaad Tadpole](/monsters/4775842-slaad-tadpole), [Sphinx of Wonder](/monsters/4775843-sphinx-of-wonder), [Sprite](/monsters/4775845-sprite), or [Venomous Snake](/monsters/4775847-venomous-snake) (see [appendix B](/sources/dnd/phb-2024/creature-stat-blocks/) for the familiar’s stat block).
+When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](/monsters/4775825-imp), [Pseudodragon](/monsters/4775834-pseudodragon), [Quasit](/monsters/4775835-quasit), [Skeleton](/monsters/4775841-skeleton), [Slaad Tadpole](/monsters/4775842-slaad-tadpole), [Sphinx of Wonder](/monsters/4775843-sphinx-of-wonder), [Sprite](/monsters/4775845-sprite), or [Venomous Snake](/monsters/4775847-venomous-snake) (see [appendix B](/sources/dnd/phb-2024/creature-stat-blocks/) for the familiar's stat block).
 
 Additionally, when you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
 
@@ -294,7 +294,7 @@ Additionally, when you take the [Attack](/sources/dnd/free-rules/rules-glossary#
 
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest). This *Book of Shadows* (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
-***Cantrips and Rituals.*** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class’s spell list, and they must be spells you don’t already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+***Cantrips and Rituals.*** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
 ***Spellcasting Focus.*** You can use the book as a Spellcasting Focus.
 
@@ -332,7 +332,7 @@ You have [Truesight](/sources/dnd/free-rules/rules-glossary#Truesight) with a ra
 
 ## Warlock Spell List
 
-This section presents the Warlock spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+This section presents the Warlock spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 
 
 ### Cantrips (Level 0 Warlock Spells)
@@ -371,7 +371,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | [Illusory Script](/spells/2619173-illusory-script) | Illusion | R, M |
 | [Protection from Evil and Good](/spells/2618912-protection-from-evil-and-good) | Abjuration | C, M |
 | [Speak with Animals](/spells/2619059-speak-with-animals) | Divination | R |
-| [Tasha’s Hideous Laughter](/spells/2619132-tashas-hideous-laughter) | Enchantment | C |
+| [Tasha's Hideous Laughter](/spells/2619132-tashas-hideous-laughter) | Enchantment | C |
 | [Unseen Servant](/spells/2619209-unseen-servant) | Conjuration | R |
 | [Witch Bolt](/spells/2619215-witch-bolt) | Evocation | C |
 
@@ -437,7 +437,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | [Contact Other Plane](/spells/2619052-contact-other-plane) | Divination | R |
 | [Dream](/spells/2619156-dream) | Illusion | — |
 | [Hold Monster](/spells/2619152-hold-monster) | Enchantment | C |
-| [Jallarzi’s Storm of Radiance](/spells/2618836-jallarzis-storm-of-radiance) | Evocation | C |
+| [Jallarzi's Storm of Radiance](/spells/2618836-jallarzis-storm-of-radiance) | Evocation | C |
 | [Mislead](/spells/2619131-mislead) | Illusion | C |
 | [Planar Binding](/spells/2618864-planar-binding) | Abjuration | M |
 | [Scrying](/spells/2619007-scrying) | Divination | C, M |
@@ -455,7 +455,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | [Create Undead](/spells/2619076-create-undead) | Necromancy | M |
 | [Eyebite](/spells/2619191-eyebite) | Necromancy | C |
 | [Summon Fiend](/spells/2619117-summon-fiend) | Conjuration | C, M |
-| [Tasha’s Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron) | Conjuration | M |
+| [Tasha's Bubbling Cauldron](/spells/2618841-tashas-bubbling-cauldron) | Conjuration | M |
 | [True Seeing](/spells/2619201-true-seeing) | Divination | M |
 
 
@@ -546,7 +546,7 @@ In addition, the following effects are now among your Steps of the Fey options.
 
 Your patron teaches you how to guard your mind and body. You are immune to the [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition.
 
-In addition, immediately after a creature you can see hits you with an attack roll, you can take a Reaction to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this Reaction, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+In addition, immediately after a creature you can see hits you with an attack roll, you can take a Reaction to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this Reaction, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 #### Level 14: Bewitching Magic
 
@@ -577,12 +577,12 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
-As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of Hit Points equal to the roll’s total. Your pool regains all expended dice when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of Hit Points equal to the roll's total. Your pool regains all expended dice when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 
 #### Level 6: Radiant Soul
 
-Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell’s damage against one of the spell’s targets.
+Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
 
 #### Level 10: Celestial Resilience
 
@@ -592,16 +592,16 @@ You gain [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#Temporary
 
 When you or an ally within 60 feet of you is about to make a [Death Saving Throw](/sources/dnd/free-rules/rules-glossary#DeathSavingThrow), you can unleash radiant energy to save the creature. The creature regains Hit Points equal to half its Hit Point maximum and can end the [Prone](/sources/dnd/free-rules/rules-glossary#ProneCondition) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to 2d8 plus your Charisma modifier, and each has the [Blinded](/sources/dnd/free-rules/rules-glossary#BlindedCondition) condition until the end of the current turn.
 
-Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Fiend Patron
 
 *Make a Deal with the Lower Planes*
 
-Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron’s aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
+Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
 
 
-#### Level 3: Dark One’s Blessing
+#### Level 3: Dark One's Blessing
 
 When you reduce an enemy to 0 Hit Points, you gain [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to your Charisma modifier plus your Warlock level (minimum of 1 Temporary Hit Point). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 Hit Points.
 
@@ -620,9 +620,9 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 7 | [Fire Shield](/spells/2618894-fire-shield), [Wall of Fire](/spells/2619107-wall-of-fire) |
 | 9 | [Geas](/spells/2618940-geas), [Insect Plague](/spells/2619183-insect-plague) |
 
-#### Level 6: Dark One’s Own Luck
+#### Level 6: Dark One's Own Luck
 
-You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add 1d10 to your roll. You can do so after seeing the roll but before any of the roll’s effects occur.
+You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add 1d10 to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
@@ -633,15 +633,15 @@ Choose one damage type, other than Force, whenever you finish a [Short](/sources
 
 #### Level 14: Hurl Through Hell
 
-Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn’t a Fiend, and it has the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn't a Fiend, and it has the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
-Once you use this feature, you can’t use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 ### Great Old One Patron
 
 *Unearth Forbidden Lore of Ineffable Beings*
 
-When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you’ve learned nevertheless allow you to draw strange magic from it.
+When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
 
 #### Level 3: Awakened Mind
 
@@ -658,7 +658,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 | --- | --- |
-| 3 | [Detect Thoughts](/spells/2619099-detect-thoughts), [Dissonant Whispers](/spells/2619104-dissonant-whispers), [Phantasmal Force](/spells/2618854-phantasmal-force), [Tasha’s Hideous Laughter](/spells/2619132-tashas-hideous-laughter) |
+| 3 | [Detect Thoughts](/spells/2619099-detect-thoughts), [Dissonant Whispers](/spells/2619104-dissonant-whispers), [Phantasmal Force](/spells/2618854-phantasmal-force), [Tasha's Hideous Laughter](/spells/2619132-tashas-hideous-laughter) |
 | 5 | [Clairvoyance](/spells/2618972-clairvoyance), [Hunger of Hadar](/spells/2619162-hunger-of-hadar) |
 | 7 | [Confusion](/spells/2619043-confusion), [Summon Aberration](/spells/2619105-summon-aberration) |
 | 9 | [Modify Memory](/spells/2619109-modify-memory), [Telekinesis](/spells/2619157-telekinesis) |
@@ -671,7 +671,7 @@ When you cast a Warlock spell that deals damage, you can change its damage type 
 
 When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on attack rolls against you, and you have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls against that creature for the duration of the bond.
 
-Once you use this feature, you can’t use it again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/sources/dnd/free-rules/rules-glossary#ShortRest) or [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 #### Level 10: Eldritch Hex
 
@@ -679,10 +679,10 @@ Your alien patron grants you a powerful curse. You always have the [Hex](/spells
 
 #### Level 10: Thought Shield
 
-Your thoughts can’t be read by telepathy or other means unless you allow it. You also have Resistance to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have Resistance to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
 
 #### Level 14: Create Thrall
 
-When you cast [Summon Aberration](/spells/2619105-summon-aberration), you can modify it so that it doesn’t require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). If you do so, the spell’s duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to your Warlock level plus your Charisma modifier.
+When you cast [Summon Aberration](/spells/2619105-summon-aberration), you can modify it so that it doesn't require [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to your Warlock level plus your Charisma modifier.
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your [Hex](/spells/2618988-hex), the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.

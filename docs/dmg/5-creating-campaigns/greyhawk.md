@@ -2,7 +2,7 @@
 
 Greyhawk is a D&D setting you can use as the backdrop for your campaign or as a model you can reference while creating your own setting. Important aspects of Greyhawk are described herein so that you can make it your own, expanding or altering it however you wish.
 
-Greyhawk is the invention of Gary Gygax, one of the D&D game’s original creators. Gary based many of D&D’s earliest adventures in this home-brewed setting. The version of Greyhawk presented here is largely based on *The World of Greyhawk* gazetteer, published in 1980.
+Greyhawk is the invention of Gary Gygax, one of the D&D game's original creators. Gary based many of D&D's earliest adventures in this home-brewed setting. The version of Greyhawk presented here is largely based on *The World of Greyhawk* gazetteer, published in 1980.
 
 Important Names
 ---------------
@@ -11,18 +11,18 @@ A handful of important names are defined below:
 
 **Oerth** (pronounced *orth* or *oyth*) is the world of Greyhawk. It has four continents, four oceans, and a plethora of islands and seas.
 
-**Oerik** (pronounced *or*-ick or *oy*-rick) is one of Oerth’s continents.
+**Oerik** (pronounced *or*-ick or *oy*-rick) is one of Oerth's continents.
 
-**Eastern Oerik**, the vast region explored in this chapter, is home to many powerful nations and some of the D&D game’s most famous dungeons and adventurers.
+**Eastern Oerik**, the vast region explored in this chapter, is home to many powerful nations and some of the D&D game's most famous dungeons and adventurers.
 
-**The Flanaess** (pronounced flah-*nay*-ess or *flay*-nayz) is another name for Eastern Oerik and means "land of the Flan." The region’s first human settlers and their descendants are known as the Flan.
+**The Flanaess** (pronounced flah-*nay*-ess or *flay*-nayz) is another name for Eastern Oerik and means "land of the Flan." The region's first human settlers and their descendants are known as the Flan.
 
 **Greyhawk** is an independent city in Eastern Oerik that attracts large numbers of adventurers. Greyhawk doubles as the name of the campaign setting.
 
-Greyhawk’s Premise
+Greyhawk's Premise
 ------------------
 
-The year is 576 CY (Common Year). Evil is ascendant across the lands of Eastern Oerik. If something isn’t done to curtail the growing threat, Eastern Oerik will fall to tyrants, evil dragons, and monstrous hordes. Heroes are needed to bring hope to the people of the Flanaess. Even if the heroes die trying, the legends of their exploits will live on!
+The year is 576 CY (Common Year). Evil is ascendant across the lands of Eastern Oerik. If something isn't done to curtail the growing threat, Eastern Oerik will fall to tyrants, evil dragons, and monstrous hordes. Heroes are needed to bring hope to the people of the Flanaess. Even if the heroes die trying, the legends of their exploits will live on!
 
 Adventuring parties from the Free City of Greyhawk and other settlements trek across the vast wilderness of Eastern Oerik, slaying monsters and exploring dungeons to find magic items the adventurers can use to defend their homeland and take the fight to their enemies.
 
@@ -43,7 +43,7 @@ Evil chromatic dragons dwell in the wilds of Eastern Oerik. For years, adventure
 ***A Chromatic Dragon Arc.*** The conflict between adventurers and chromatic dragons might follow this broad outline:
 - **Levels 1–4.** Consider introducing this conflict as the adventurers reach level 3 or 4, with the adventurers confronting an aggressive chromatic dragon wyrmling. (You can use the adventure "[The Winged God](/sources/dnd/dmg-2024/creating-adventures#TheWingedGod)" from [chapter 4](/sources/dnd/dmg-2024/creating-adventures).)
 - **Levels 5–10.** The adventurers might face a handful of ambitious young chromatic dragons, without hinting at a more significant conflict.
-- **Levels 11–16.** It eventually becomes clear that the behavior of the adult dragons the characters face isn’t normal. The characters might get involved in one dragon’s schemes to undermine or overthrow another, or the characters might hear whispers of the dragons’ dream of liberating Tiamat.
+- **Levels 11–16.** It eventually becomes clear that the behavior of the adult dragons the characters face isn't normal. The characters might get involved in one dragon's schemes to undermine or overthrow another, or the characters might hear whispers of the dragons' dream of liberating Tiamat.
 - **Levels 17–20.** The conflict reaches its worldshattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see "[Mysteries of Greyhawk](#MysteriesofGreyhawk)" in this chapter) or from the depths of the Nyr Dyv.
 
 #### Elemental Evil
@@ -57,27 +57,27 @@ Evil chromatic dragons dwell in the wilds of Eastern Oerik. For years, adventure
 [Princes of the Apocalypse](/sources/dnd/pota), inspired by *The Temple of Elemental Evil*, presents an alternative arc for an Elemental Evil–themed campaign:
 
 - **Levels 1–4.** The characters discover the villainous activity of four elemental cults.
-- **Levels 5–10.** The characters strike at the four headquarters of these evil cults while investigating the cults’ activities in the surrounding region. While the characters are battling one cult in its headquarters, the other three cults might still be wreaking havoc nearby, forcing the characters to divide their attention.
-- **Levels 11–16.** Finally, the characters discover an ancient Temple of the Elder Elemental Eye deep beneath the cults’ separate temples, and they strive to contain the damage wrought by the cults’ activities and thwart the cults’ evil leaders before these leaders unleash an apocalypse.
+- **Levels 5–10.** The characters strike at the four headquarters of these evil cults while investigating the cults' activities in the surrounding region. While the characters are battling one cult in its headquarters, the other three cults might still be wreaking havoc nearby, forcing the characters to divide their attention.
+- **Levels 11–16.** Finally, the characters discover an ancient Temple of the Elder Elemental Eye deep beneath the cults' separate temples, and they strive to contain the damage wrought by the cults' activities and thwart the cults' evil leaders before these leaders unleash an apocalypse.
 
 Though this adventure is set in the world of the Forgotten Realms, it includes notes on how you might transplant it into Greyhawk or any other setting.
 
 #### Iuz the Evil
 
-North of the Free City of Greyhawk, a demigod named Iuz has reclaimed the vast tract of land he lost after being imprisoned under Castle Greyhawk by the archmage Zagig Yragerne. The newly freed Iuz aims to lay waste to the kingdoms, steadings, temples, and outposts of his rivals. To that end, Iuz’s spies are searching for powerful Artifacts they can use to ensure victory, while evil creatures spawn in Iuz’s homeland and threaten neighboring realms. Adventurers can thwart Iuz by keeping evil Artifacts out of his hands and defeating the vile creatures that serve him.
+North of the Free City of Greyhawk, a demigod named Iuz has reclaimed the vast tract of land he lost after being imprisoned under Castle Greyhawk by the archmage Zagig Yragerne. The newly freed Iuz aims to lay waste to the kingdoms, steadings, temples, and outposts of his rivals. To that end, Iuz's spies are searching for powerful Artifacts they can use to ensure victory, while evil creatures spawn in Iuz's homeland and threaten neighboring realms. Adventurers can thwart Iuz by keeping evil Artifacts out of his hands and defeating the vile creatures that serve him.
 
 ***Goals of Iuz.*** Install loyal operatives in settlements across Eastern Oerik, search libraries and vaults for lore pertaining to ancient and powerful magic, scour dungeons for lost Artifacts and other magic items, secure such items, and use magic and monsters to conquer rival nations.
 
 ***An Iuz Arc.*** The conflict between adventurers and Iuz might follow this broad outline:
 
 - **Levels 1–4.** Early in their adventuring careers, the characters might face what appear to be ordinary toughs who are disrupting mining operations near the Free City of Greyhawk (see "[Beyond the City Walls](#BeyondtheCityWalls)" in this chapter), only to discover these toughs are agents of some greater villain. The identity of this villain remains a mystery—for now. If you use the adventure "[Miner Difficulties](/sources/dnd/dmg-2024/creating-adventures#MinerDifficulties)" from [chapter 4](/sources/dnd/dmg-2024/creating-adventures), NPCs speaking to the characters might assume the trouble in the mine is related to these toughs and their bullying.
-- **Levels 5–10.** You might use the adventure "[Horns of the Beast](/sources/dnd/dmg-2024/creating-adventures#HornsoftheBeast)" from [chapter 4](/sources/dnd/dmg-2024/creating-adventures) to introduce an agent of Iuz to the characters. After their return from that expedition, they start having unpleasant encounters with the City Watch in Greyhawk. Eventually, they discover that Captain-General Sental Nurev is being manipulated by the leaders of Stoink, a petty fief in the Bandit Kingdoms. When the characters undertake an expedition into that dangerous realm to confront Stoink’s leaders and free the captain-general’s captive brother, they discover that the villains were agents of Iuz.
-- **Levels 11–16.** Iuz and the Horned Society launch an all-out invasion into the Shield Lands, overwhelming its defenses and moving toward Furyondy. The characters might have adventures to muster forces in surrounding lands and bring them to Furyondy’s defense or hinder Iuz’s advance.
-- **Levels 17–20.** Finally, the characters discover that Iuz’s assault is merely a cover to distract the southern realms from his true aim: retrieving the [Eye and Hand of Vecna](/magic-items/9228608-eye-and-hand-of-vecna) from an ancient keep on Lake Quag. The characters confront Iuz at the shores of the lake, perhaps facing a terrible choice: Will they wield the power of Vecna to stop Iuz, or will they risk Iuz wielding that awful might against them?
+- **Levels 5–10.** You might use the adventure "[Horns of the Beast](/sources/dnd/dmg-2024/creating-adventures#HornsoftheBeast)" from [chapter 4](/sources/dnd/dmg-2024/creating-adventures) to introduce an agent of Iuz to the characters. After their return from that expedition, they start having unpleasant encounters with the City Watch in Greyhawk. Eventually, they discover that Captain-General Sental Nurev is being manipulated by the leaders of Stoink, a petty fief in the Bandit Kingdoms. When the characters undertake an expedition into that dangerous realm to confront Stoink's leaders and free the captain-general's captive brother, they discover that the villains were agents of Iuz.
+- **Levels 11–16.** Iuz and the Horned Society launch an all-out invasion into the Shield Lands, overwhelming its defenses and moving toward Furyondy. The characters might have adventures to muster forces in surrounding lands and bring them to Furyondy's defense or hinder Iuz's advance.
+- **Levels 17–20.** Finally, the characters discover that Iuz's assault is merely a cover to distract the southern realms from his true aim: retrieving the [Eye and Hand of Vecna](/magic-items/9228608-eye-and-hand-of-vecna) from an ancient keep on Lake Quag. The characters confront Iuz at the shores of the lake, perhaps facing a terrible choice: Will they wield the power of Vecna to stop Iuz, or will they risk Iuz wielding that awful might against them?
 
 ### The Greyhawk Setting
 
-The planet Oerth is at the very center of a Wildspace system called Greyspace. (See [chapter 6](/sources/dnd/dmg-2024/cosmology#Wildspace) for more information about [Wildspace](/sources/dnd/dmg-2024/cosmology#Wildspace)). Oerth has two moons: Luna (a great white moon, also called the Mistress) and Celene (a smaller blue moon, also called the Handmaiden). Greyspace’s sun orbits Oerth, rather than the other way around.
+The planet Oerth is at the very center of a Wildspace system called Greyspace. (See [chapter 6](/sources/dnd/dmg-2024/cosmology#Wildspace) for more information about [Wildspace](/sources/dnd/dmg-2024/cosmology#Wildspace)). Oerth has two moons: Luna (a great white moon, also called the Mistress) and Celene (a smaller blue moon, also called the Handmaiden). Greyspace's sun orbits Oerth, rather than the other way around.
 
 The sun takes 360 days to travel once around Oerth. Luna waxes and wanes in fixed cycles of 28 days each, upon which the months are based, while Celene follows a path that has full moons only four times each year, coinciding with four lunar festivals.
 
@@ -94,9 +94,9 @@ The standard year is 360 days long and consists of twelve twenty-eight-day month
 | (Saturday) | (Sunday) | (Monday) | (Tuesday) | (Wednesday) | (Thursday) | (Friday) |
 |  | | | Day of Worship |  | | Day of Rest |
 
-> ### Your World’s Calendar
+> ### Your World's Calendar
 > 
-> What does your campaign’s calendar look like? The more your campaign calendar resembles the one that’s familiar to you and your players, the easier it will be to remember and use. Familiar names for months and days of the week lend your campaign a wonderful simplicity that many players will appreciate. A calendar that uses ten-day weeks or names such as "Moonday" and "Coldeven" is harder for players to internalize but reminds them they’re in a fantasy world. The Greyhawk calendar has twelve months and seven-day weeks like the Gregorian calendar, but gives unique names to months and days and introduces festivals that fall outside the calendar’s months, giving it a fantastical feel.
+> What does your campaign's calendar look like? The more your campaign calendar resembles the one that's familiar to you and your players, the easier it will be to remember and use. Familiar names for months and days of the week lend your campaign a wonderful simplicity that many players will appreciate. A calendar that uses ten-day weeks or names such as "Moonday" and "Coldeven" is harder for players to internalize but reminds them they're in a fantasy world. The Greyhawk calendar has twelve months and seven-day weeks like the Gregorian calendar, but gives unique names to months and days and introduces festivals that fall outside the calendar's months, giving it a fantastical feel.
 
 #### Factions and Organizations
 
@@ -104,7 +104,7 @@ In addition to the many political entities that dot the lands of the Flanaess an
 
 ##### Circle of Eight
 
-Some of the greatest spellcasters of the world of Greyhawk form the Circle of Eight, a group dedicated to preserving balance in the world. The group’s general aim is to prevent any single country, faction, or other organized group from becoming too powerful and overwhelming others. The membership of the Circle of Eight is secret but includes [Mordenkainen](/sources/dnd/dmg-2024/lore-glossary#Mordenkainen) (the strategist behind the group), [Bigby](/sources/dnd/dmg-2024/lore-glossary#Bigby), [Jallarzi Sallavarian](/sources/dnd/dmg-2024/lore-glossary#JallarziSallavarian), [Otiluke](/sources/dnd/dmg-2024/lore-glossary#Otiluke), and [Otto](/sources/dnd/dmg-2024/lore-glossary#Otto).
+Some of the greatest spellcasters of the world of Greyhawk form the Circle of Eight, a group dedicated to preserving balance in the world. The group's general aim is to prevent any single country, faction, or other organized group from becoming too powerful and overwhelming others. The membership of the Circle of Eight is secret but includes [Mordenkainen](/sources/dnd/dmg-2024/lore-glossary#Mordenkainen) (the strategist behind the group), [Bigby](/sources/dnd/dmg-2024/lore-glossary#Bigby), [Jallarzi Sallavarian](/sources/dnd/dmg-2024/lore-glossary#JallarziSallavarian), [Otiluke](/sources/dnd/dmg-2024/lore-glossary#Otiluke), and [Otto](/sources/dnd/dmg-2024/lore-glossary#Otto).
 
 ##### Knights of the Watch
 
@@ -116,15 +116,15 @@ The knights of the Order of the Hart were organized to preserve the freedom of t
 
 ##### Scarlet Order
 
-The Scarlet Order is a monastic order of Suloise militarists whose spies and assassins have infiltrated many courts and castles throughout the Flanaess, ready to strike. The leader of the order is a seemingly immortal being known as the Father of Obedience, Korenth Zan. He is rumored to be a Suloise monk who walked the lands of Oerik long before the Rain of Colorless Fire destroyed the Suloise Empire. Others claim Korenth is a red dragon—a former consort of [Tiamat](/sources/dnd/dmg-2024/lore-glossary#Tiamat) who became trapped in human form. Whatever the true story, the Father of Obedience is revered by all who pledge their lives to the Scarlet Order. His goals—and, by extension, the order’s goals—are shrouded in mystery and could one day tilt the balance of power across the whole of Eastern Oerik.
+The Scarlet Order is a monastic order of Suloise militarists whose spies and assassins have infiltrated many courts and castles throughout the Flanaess, ready to strike. The leader of the order is a seemingly immortal being known as the Father of Obedience, Korenth Zan. He is rumored to be a Suloise monk who walked the lands of Oerik long before the Rain of Colorless Fire destroyed the Suloise Empire. Others claim Korenth is a red dragon—a former consort of [Tiamat](/sources/dnd/dmg-2024/lore-glossary#Tiamat) who became trapped in human form. Whatever the true story, the Father of Obedience is revered by all who pledge their lives to the Scarlet Order. His goals—and, by extension, the order's goals—are shrouded in mystery and could one day tilt the balance of power across the whole of Eastern Oerik.
 
 > ### Adventurers and Organizations
 > 
 > Factions and organizations aimed at player characters can connect adventurers to your world, providing ties to key NPCs and a clear agenda beyond individual gain. In the same way, villainous organizations create an ongoing sense of menace beyond the threat of solitary foes.
 > 
-> Having different characters tied to different factions can create interesting situations at the gaming table, as long as those factions have similar goals and don’t work in opposition to one another all the time. Adventurers representing different factions might have competing interests or priorities while they pursue the same goals.
+> Having different characters tied to different factions can create interesting situations at the gaming table, as long as those factions have similar goals and don't work in opposition to one another all the time. Adventurers representing different factions might have competing interests or priorities while they pursue the same goals.
 > 
-> Adventurer organizations are also a great source of special rewards beyond Experience Points and treasure. Increased standing in an organization might come with concrete benefits such as access to an organization’s information, equipment, magic, and other resources. See "[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for rules you can use to track characters’ standing in an organization.
+> Adventurer organizations are also a great source of special rewards beyond Experience Points and treasure. Increased standing in an organization might come with concrete benefits such as access to an organization's information, equipment, magic, and other resources. See "[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for rules you can use to track characters' standing in an organization.
 
 #### Magic in Greyhawk
 
@@ -138,7 +138,7 @@ By contrast, magic is common enough in the Free City of Greyhawk that the Guild 
 
 Eastern Oerik is a realm of many mysteries, several of which are described below.
 
-***Bat-Folk of Hepmonaland***. Separated from Eastern Oerik by the Tilva Strait, Hepmonaland is a relatively small continent that few people of the Flanaess known much about. Those who have explored the north spur of Hepmonaland report dense rainforests, severe tropical storms, steamy wetlands, and a fetid swamp (called the Pelisso Swamp). Adventurers are sometimes lured into Hepmonaland’s rainforests by ancient ruins, including tombs and shrines left behind by an ancient civilization of bat-like humanoids whose history is largely forgotten.
+***Bat-Folk of Hepmonaland***. Separated from Eastern Oerik by the Tilva Strait, Hepmonaland is a relatively small continent that few people of the Flanaess known much about. Those who have explored the north spur of Hepmonaland report dense rainforests, severe tropical storms, steamy wetlands, and a fetid swamp (called the Pelisso Swamp). Adventurers are sometimes lured into Hepmonaland's rainforests by ancient ruins, including tombs and shrines left behind by an ancient civilization of bat-like humanoids whose history is largely forgotten.
 
 ***Devastating Magic.*** Almost a thousand years ago, the war between the Baklunish and Suloise empires came to a horrific end. The Baklunish people who lived in what is now the Dry Steppes called down a rain of colorless fire that burned all living things, ignited the landscape, and reduced the Suloise lands to ashes, creating the Sea of Dust. In retaliation, Suloise survivors invoked their own magic to devastate the Baklunish lands. What magic was responsible for the Rain of Colorless Fire and the Invoked Devastation? What would happen if such magic fell into the wrong hands today?
 
@@ -205,7 +205,7 @@ The city stands on the eastern banks of the Selintan River. The river flows sout
 
 Once a frontier hub of the Great Kingdom of Aerdy, Greyhawk proclaimed itself free and independent seventy-eight years ago, claiming the Selintan basin as its territory. Adventurers drawn to the nearby ruins of Castle Greyhawk have provided a steady influx of cash to the city in the years since.
 
-Throughout this section, if a creature’s name appears in **bold** type, you’ll find that creature’s stat block in the *Monster Manual*. If a creature’s alignment isn’t specified, you can decide what it is.
+Throughout this section, if a creature's name appears in **bold** type, you'll find that creature's stat block in the *Monster Manual*. If a creature's alignment isn't specified, you can decide what it is.
 
 ### Start Here
 
@@ -217,7 +217,7 @@ The city contains plenty of rumors, local legends, and quest givers, any of whic
 
 #### Bastion Friendly
 
-There are ample places within the city and on the city’s outskirts where adventurers can build Bastions (see [chapter 8](/sources/dnd/dmg-2024/bastions)).
+There are ample places within the city and on the city's outskirts where adventurers can build Bastions (see [chapter 8](/sources/dnd/dmg-2024/bastions)).
 
 #### Key Conflicts
 
@@ -225,7 +225,7 @@ Two of the three central conflicts of the Greyhawk setting—the threats of Elem
 
 #### Local Hurly-Burly
 
-Greyhawk has a frontier spirit atypical for a settlement of its size. The locals are a tough and rowdy lot. Adventurers seeking action don’t need to look far, as the city contains more than its fair share of troublemakers.
+Greyhawk has a frontier spirit atypical for a settlement of its size. The locals are a tough and rowdy lot. Adventurers seeking action don't need to look far, as the city contains more than its fair share of troublemakers.
 
 #### Nearby Attractions
 
@@ -237,7 +237,7 @@ The city provides a place to rest, heal, acquire information, and procure magic 
 
 #### Trade Hub
 
-Adventurers can buy gear and sell their hard-won loot in the city’s shops and markets.
+Adventurers can buy gear and sell their hard-won loot in the city's shops and markets.
 
 ### How to Use the City
 
@@ -245,19 +245,19 @@ A bustling city like Greyhawk can serve the following important functions in a c
 
 #### Background Connections
 
-Use the backgrounds of the characters to connect them to people and places in the city. These connections help the players feel like Greyhawk is their characters’ home—or will quickly become their new home. A character who was born and raised in Greyhawk might have known one of the city’s prominent figures for many years, while someone who has just arrived in the city might have a mutual friend with that connection or might carry a letter of introduction recommending them to that person. (Each location detailed in the "[City Locations](#CityLocations)" section includes potential connections for two character backgrounds.)
+Use the backgrounds of the characters to connect them to people and places in the city. These connections help the players feel like Greyhawk is their characters' home—or will quickly become their new home. A character who was born and raised in Greyhawk might have known one of the city's prominent figures for many years, while someone who has just arrived in the city might have a mutual friend with that connection or might carry a letter of introduction recommending them to that person. (Each location detailed in the "[City Locations](#CityLocations)" section includes potential connections for two character backgrounds.)
 
 #### City Activities
 
-Greyhawk is an ideal place for activities that support adventuring. There’s endless opportunity for social interaction in such a bustling place, as well as places where characters can rest and recuperate between adventures, acquire new adventuring gear, and spend their gold.
+Greyhawk is an ideal place for activities that support adventuring. There's endless opportunity for social interaction in such a bustling place, as well as places where characters can rest and recuperate between adventures, acquire new adventuring gear, and spend their gold.
 
 #### Home Base
 
-As a home base for characters, Greyhawk can serve as a place to live, train, and recuperate between adventures. As described under "[Getting Players Invested](/sources/dnd/dmg-2024/creating-campaigns#GettingPlayersInvested)" in this chapter, Greyhawk offers a host of potential friends, rivals, villains, and resources. Use the people and locations mentioned in this chapter as a starting point for fleshing out characters’ connections to the city, and work with your players to develop those connections. Choose one neighborhood of the city (see "[City Neighborhoods](#CityNeighborhoods)" below) as a focus for the characters and their activities.
+As a home base for characters, Greyhawk can serve as a place to live, train, and recuperate between adventures. As described under "[Getting Players Invested](/sources/dnd/dmg-2024/creating-campaigns#GettingPlayersInvested)" in this chapter, Greyhawk offers a host of potential friends, rivals, villains, and resources. Use the people and locations mentioned in this chapter as a starting point for fleshing out characters' connections to the city, and work with your players to develop those connections. Choose one neighborhood of the city (see "[City Neighborhoods](#CityNeighborhoods)" below) as a focus for the characters and their activities.
 
 #### Urban Adventures
 
-A city isn’t just a place to spend time between adventures—plenty of adventures happen within the city walls. From wererats in the sewers to scheming bureaucrats in the halls of power, dangers lurk around every corner.
+A city isn't just a place to spend time between adventures—plenty of adventures happen within the city walls. From wererats in the sewers to scheming bureaucrats in the halls of power, dangers lurk around every corner.
 
 ### City Overview
 
@@ -269,7 +269,7 @@ The Free City of Greyhawk is ruled by a council called the Directing Oligarchy, 
 
 #### City Watch
 
-The City Watch is a standing garrison of some eight hundred [Guards](/monsters/16915-guard) and **Veteran Warriors**. Bolstering these defenders are [Mages](/monsters/4831023-mage) from the city’s Guild of Wizardry, as well as [Priests](/monsters/16985-priest) from local temples.
+The City Watch is a standing garrison of some eight hundred [Guards](/monsters/16915-guard) and **Veteran Warriors**. Bolstering these defenders are [Mages](/monsters/4831023-mage) from the city's Guild of Wizardry, as well as [Priests](/monsters/16985-priest) from local temples.
 
 The captain-general and constable of the City Watch are stationed at the Grand Citadel (see "[City Locations](#CityLocations)").
 
@@ -281,13 +281,13 @@ The walls are patrolled regularly. During daytime, the typical patrol is one sen
 
 #### City Gates
 
-Each city gate consists of a pair of iron-reinforced wooden doors that can be barred from the inside. These heavy doors are backed by a massive portcullis of iron bars. A very small child might be able to squeeze between the bars, but not a youth or even an adult halfling. The city’s portcullises are usually left open even when the gates are closed.
+Each city gate consists of a pair of iron-reinforced wooden doors that can be barred from the inside. These heavy doors are backed by a massive portcullis of iron bars. A very small child might be able to squeeze between the bars, but not a youth or even an adult halfling. The city's portcullises are usually left open even when the gates are closed.
 
 Each gate is contained within a small gatehouse flanked by a pair of towers. The tower tops and connecting blockhouse are equipped with arrow slits and holes for pouring boiling oil straight down onto invaders. Each gatehouse tower connects to the city through a door in its base and to the wall top by a door in its side. The towers contain three platforms, beginning at the top of the wall and extending upward. Each of these can shelter and provide a firing platform for up to forty archers.
 
-Three of the city’s gates typically remain open throughout the day and night: the Highway Gate (the grand entrance to the city), the Cargo Gate (used primarily by traders and merchants), and the Garden Gate (one of the city’s two inner gates). The remaining gates are closed from dusk until dawn, and a visitor must produce a written message from the lord mayor of Greyhawk, the captain-general of the City Watch, or a head of state to be allowed through. In the latter case, the guards ensure the traveler is harmless before opening the gates.
+Three of the city's gates typically remain open throughout the day and night: the Highway Gate (the grand entrance to the city), the Cargo Gate (used primarily by traders and merchants), and the Garden Gate (one of the city's two inner gates). The remaining gates are closed from dusk until dawn, and a visitor must produce a written message from the lord mayor of Greyhawk, the captain-general of the City Watch, or a head of state to be allowed through. In the latter case, the guards ensure the traveler is harmless before opening the gates.
 
-Those passing through open gates aren’t asked to explain their business, nor are they detained or turned back unless they are recognized as known fugitives. Wagons and carts might get searched if they trigger the guards’ suspicions, but most vehicles are waved through without inspection. The guards keep a daily roster of who and what pass through their gates.
+Those passing through open gates aren't asked to explain their business, nor are they detained or turned back unless they are recognized as known fugitives. Wagons and carts might get searched if they trigger the guards' suspicions, but most vehicles are waved through without inspection. The guards keep a daily roster of who and what pass through their gates.
 
 #### Crime
 
@@ -301,31 +301,31 @@ The Free City of Greyhawk is home to many thieves, vandals, charlatans, and hool
 
 #### Religion
 
-The city has temples and shrines dedicated to various gods. Religious practices that are certifiably evil aren’t tolerated, however. When an evil sect is discovered in the city, its wealth is confiscated, its leaders are put to death, and all other members are banished from the city for life.
+The city has temples and shrines dedicated to various gods. Religious practices that are certifiably evil aren't tolerated, however. When an evil sect is discovered in the city, its wealth is confiscated, its leaders are put to death, and all other members are banished from the city for life.
 
 See the "[Gods of Greyhawk](#GodsofGreyhawk)" table for many deities worshiped by the inhabitants of the Free City.
 
 ### City Neighborhoods
 
-The Free City of Greyhawk is split into three main sections by two internal walls running west to east. The northern section is home to the High Quarter and the Garden Quarter, where the wealthiest folk of the city reside. The central section is home to the River Quarter, Clerkburg, the Artisans’ Quarter, and the Foreign Quarter. The southern portion, known as the Old City, includes the poorer and rowdier neighborhoods of the Slum Quarter and the Thieves’ Quarter.
+The Free City of Greyhawk is split into three main sections by two internal walls running west to east. The northern section is home to the High Quarter and the Garden Quarter, where the wealthiest folk of the city reside. The central section is home to the River Quarter, Clerkburg, the Artisans' Quarter, and the Foreign Quarter. The southern portion, known as the Old City, includes the poorer and rowdier neighborhoods of the Slum Quarter and the Thieves' Quarter.
 
-Brief descriptions of the city’s neighborhoods are presented below:
+Brief descriptions of the city's neighborhoods are presented below:
 
-**Artisans’ Quarter.** The Artisans’ Quarter is built around a large marketplace. The finest artisans live and work here, and the city’s trade guilds are headquartered here.
+**Artisans' Quarter.** The Artisans' Quarter is built around a large marketplace. The finest artisans live and work here, and the city's trade guilds are headquartered here.
 
 **Clerkburg.** Clerkburg is the university district of Greyhawk, with dozens of schools and colleges and the businesses that support them. Temples line the appropriately named Street of Temples in the southeast corner of the district.
 
 **Foreign Quarter.** The Foreign Quarter is among the most multicultural districts of the city, and it boasts fine apartments and restaurants.
 
-**Garden Quarter.** The Garden Quarter is an extravagant neighborhood similar to the High Quarter, but the mansions aren’t quite as ornate, the estates aren’t as large, and it’s not as gaudy.
+**Garden Quarter.** The Garden Quarter is an extravagant neighborhood similar to the High Quarter, but the mansions aren't quite as ornate, the estates aren't as large, and it's not as gaudy.
 
 **High Quarter.** Palaces, temples, mansions, and gardens fill the posh High Quarter. Extravagant architecture and wide-open spaces define this quarter.
 
-**River Quarter.** The River Quarter encompasses taverns and entertainment venues, as well as the wharves along the Selintan River outside the city wall. Because it’s a hub of trade, it’s the most diverse, multicultural part of the city.
+**River Quarter.** The River Quarter encompasses taverns and entertainment venues, as well as the wharves along the Selintan River outside the city wall. Because it's a hub of trade, it's the most diverse, multicultural part of the city.
 
-**Slum Quarter.** The Slum Quarter is the poorest, most desperate region within Greyhawk’s walls, full of crime-ridden apartments.
+**Slum Quarter.** The Slum Quarter is the poorest, most desperate region within Greyhawk's walls, full of crime-ridden apartments.
 
-**Thieves’ Quarter.** The buildings of the Thieves’ Quarter are slightly less run down than their Slum Quarter equivalents, and its people are marginally better off.
+**Thieves' Quarter.** The buildings of the Thieves' Quarter are slightly less run down than their Slum Quarter equivalents, and its people are marginally better off.
 
 ### City Locations
 
@@ -335,29 +335,29 @@ The locations detailed here can serve as a good starting point for your campaign
 
 > This three-story, slightly run-down inn is situated in the heart of the city. A sign carved to resemble the grinning visage of a black dragon hangs over the front door. A stable is located behind the inn.
 
-The Black Dragon Inn in Clerkburg has good food and affordable rooms. The inn’s stable can hold up to a dozen steeds.
+The Black Dragon Inn in Clerkburg has good food and affordable rooms. The inn's stable can hold up to a dozen steeds.
 
-The inn’s proprietor is Miklos Dare, a human **Veteran Warrior** (Chaotic Good) who loves to recount his heroic exploits in the Battle of Emridy Meadows seven years ago, when warriors from across the Central Flanaess united to drive the forces of wickedness from the Temple of Elemental Evil (see "[Central Flanaess](#CentralFlanaess)" in this chapter). A red-bearded bear of a man with a prosthetic leg, Miklos is affable and proud. His friendly rivalry with Olaf and Sivan, the proprietors of the Silver Dragon Inn just up the street, is the talk of the city. Olaf and Sivan recently hired a mage to make Miklos’s black dragon sign drool acid, much to the chagrin of visitors entering and leaving the Black Dragon. Miklos is itching to pull a similar prank of his own.
+The inn's proprietor is Miklos Dare, a human **Veteran Warrior** (Chaotic Good) who loves to recount his heroic exploits in the Battle of Emridy Meadows seven years ago, when warriors from across the Central Flanaess united to drive the forces of wickedness from the Temple of Elemental Evil (see "[Central Flanaess](#CentralFlanaess)" in this chapter). A red-bearded bear of a man with a prosthetic leg, Miklos is affable and proud. His friendly rivalry with Olaf and Sivan, the proprietors of the Silver Dragon Inn just up the street, is the talk of the city. Olaf and Sivan recently hired a mage to make Miklos's black dragon sign drool acid, much to the chagrin of visitors entering and leaving the Black Dragon. Miklos is itching to pull a similar prank of his own.
 
 ***Character Backgrounds.*** An adventurer with the [Soldier](/backgrounds/406488-soldier) background might have a tie to Miklos, perhaps having fought alongside him at the Battle of Emridy Meadows. A character with the [Wayfarer](/backgrounds/406489-wayfarer) background might know Miklos as a generous man who gives away food and sometimes even lodging to people in need.
 
 ***Reasons to Visit.*** Adventurers might visit the Black Dragon Inn for one of the following reasons:
 
-- **Eavesdropper’s Paradise.** Many clandestine meetings occur at the Black Dragon. Adventurers eavesdropping on private conversations might overhear tantalizing rumors or uncover valuable information.
+- **Eavesdropper's Paradise.** Many clandestine meetings occur at the Black Dragon. Adventurers eavesdropping on private conversations might overhear tantalizing rumors or uncover valuable information.
 
-- **Information Source.** If the adventurers let Miklos tell stories of his past exploits or agree to help him play a prank on his rivals, he can steer them toward new adventure opportunities. He’s also quite familiar with the nature of Elemental Evil.
+- **Information Source.** If the adventurers let Miklos tell stories of his past exploits or agree to help him play a prank on his rivals, he can steer them toward new adventure opportunities. He's also quite familiar with the nature of Elemental Evil.
 
-- **Place to Stay.** The Black Dragon is close to the city’s central marketplace. A traveler can sleep in a common room for 2 SP per night or secure a private room for 5 SP per night. A luxury suite costs 2 GP per night.
+- **Place to Stay.** The Black Dragon is close to the city's central marketplace. A traveler can sleep in a common room for 2 SP per night or secure a private room for 5 SP per night. A luxury suite costs 2 GP per night.
 
 #### Grand Citadel
 
 > A many-towered fortress looms above all quarters of the city from its position atop a low rise. Its outer walls, darkened by soot and smoke, could use a good scrubbing.
 
-The grand edifice at the northern end of the High Quarter, simply called "the Citadel" by the city’s inhabitants, contains barracks for the City Watch, the offices of the captain-general, the city’s treasury, and a large store of armaments for the emergency citizen militia. The Citadel also contains a prison where the city’s most hardened criminals are incarcerated.
+The grand edifice at the northern end of the High Quarter, simply called "the Citadel" by the city's inhabitants, contains barracks for the City Watch, the offices of the captain-general, the city's treasury, and a large store of armaments for the emergency citizen militia. The Citadel also contains a prison where the city's most hardened criminals are incarcerated.
 
-The captain-general of the City Watch is Sental Nurev, a tall, human **Veteran Warrior** (Neutral Good) with thinning blond hair and a mustache. Sental is usually incorruptible, but he is under great stress. The rulers of Stoink, a fortified town in the Bandit Kingdoms, have captured Sental’s brother Sarek and are forcing the captain-general to provide information about Greyhawk’s defenses and local politicians. Sental gives this information to a human [Spy](/monsters/17021-spy) (Chaotic Evil) who stays at the Black Dragon Inn under the false name Skanda Drond. Sental is unaware that the bandit lords of Stoink are pawns of Iuz, whose dreams of conquest extend to the Free City of Greyhawk and far beyond.
+The captain-general of the City Watch is Sental Nurev, a tall, human **Veteran Warrior** (Neutral Good) with thinning blond hair and a mustache. Sental is usually incorruptible, but he is under great stress. The rulers of Stoink, a fortified town in the Bandit Kingdoms, have captured Sental's brother Sarek and are forcing the captain-general to provide information about Greyhawk's defenses and local politicians. Sental gives this information to a human [Spy](/monsters/17021-spy) (Chaotic Evil) who stays at the Black Dragon Inn under the false name Skanda Drond. Sental is unaware that the bandit lords of Stoink are pawns of Iuz, whose dreams of conquest extend to the Free City of Greyhawk and far beyond.
 
-The city’s constable—who serves as second-in-command to the captain-general, manager to the members of the watch, and a member of the Directing Oligarchy—is a compassionate [Priest](/monsters/16985-priest) of Pelor named Derider Fanshen (Neutral Good). Her kindness and talent for healing make her well loved among the watch, and as a former adventurer, she is sympathetic to adventurers’ needs. She’s unaware of Sental’s compromised position.
+The city's constable—who serves as second-in-command to the captain-general, manager to the members of the watch, and a member of the Directing Oligarchy—is a compassionate [Priest](/monsters/16985-priest) of Pelor named Derider Fanshen (Neutral Good). Her kindness and talent for healing make her well loved among the watch, and as a former adventurer, she is sympathetic to adventurers' needs. She's unaware of Sental's compromised position.
 
 ***Character Backgrounds.*** Adventurers with the [Criminal](/backgrounds/406474-criminal) or [Guard](/backgrounds/406480-guard) background might have a connection to the Grand Citadel involving a past run-in with the law or past service on the watch.
 
@@ -365,39 +365,39 @@ The city’s constable—who serves as second-in-command to the captain-general,
 
 - **Appointment.** The adventurers have an appointment to speak with Sental Nurev, perhaps because they need help freeing a companion who was arrested for a crime or because they wish to report a threat to the city.
 
-- **Break-In or Breakout.** The adventurers are hired to break into the Citadel’s treasury vault or break someone out of the Citadel’s prison.
+- **Break-In or Breakout.** The adventurers are hired to break into the Citadel's treasury vault or break someone out of the Citadel's prison.
 
 - **Imprisonment.** The adventurers are imprisoned in the Citadel for some heinous crime.
 
 #### Great Library
 
-> The front of this building is a grand sweep of granite walls and tall columns. A wide ramp leads to a pair of massive doors flanked by stone-carved dragons. Inside, it’s cool and musty.
+> The front of this building is a grand sweep of granite walls and tall columns. A wide ramp leads to a pair of massive doors flanked by stone-carved dragons. Inside, it's cool and musty.
 
-Weapons and armor aren’t permitted in the Great Library. If anyone wearing armor or carrying a visible weapon tries to enter the library, or if a thief is spotted trying to leave the library with one or more stolen books, the stone-carved bronze dragons flanking the entrance animate and attack. These statues are [Stone Golems](/monsters/4904850-stone-golem).
+Weapons and armor aren't permitted in the Great Library. If anyone wearing armor or carrying a visible weapon tries to enter the library, or if a thief is spotted trying to leave the library with one or more stolen books, the stone-carved bronze dragons flanking the entrance animate and attack. These statues are [Stone Golems](/monsters/4904850-stone-golem).
 
 Abra Saghast, a crusty and irascible dragonborn sage, serves as the head librarian. Abra, an [Archmage](/monsters/16789-archmage) (Chaotic Good), has bright-green eyes, and her bronze scales are tinged with aquamarine blue. She typically wears a patchwork robe.
 
-Abra sits behind a high desk in the main hall. Six open archways lead from the main hall to wings where the bulk of the library’s books are shelved, free for visitors to peruse (but not remove from the library). The library has several sages and scribes under contract to write books, mostly detailing current affairs in the city.
+Abra sits behind a high desk in the main hall. Six open archways lead from the main hall to wings where the bulk of the library's books are shelved, free for visitors to peruse (but not remove from the library). The library has several sages and scribes under contract to write books, mostly detailing current affairs in the city.
 
-An iron door leads to a hallway behind the head librarian’s desk. Three scribes ([Mages](/monsters/4831023-mage)) labor here and act as sentries, for next to their desks are three locked, iron doors to the library’s vaults. [Arcane Lock](/spells/2618868-arcane-lock) spells seal these doors, beyond which are repositories for the library’s most valuable or scandalous works. Next to each scribe’s desk is a pull cord hanging through a hole in the ceiling. A tug on any one of these cords releases a homing pigeon from a loft above the library. It takes the bird 1 minute to find and alert an [Archmage](/monsters/16789-archmage), who teleports to the main hall of the library to investigate.
+An iron door leads to a hallway behind the head librarian's desk. Three scribes ([Mages](/monsters/4831023-mage)) labor here and act as sentries, for next to their desks are three locked, iron doors to the library's vaults. [Arcane Lock](/spells/2618868-arcane-lock) spells seal these doors, beyond which are repositories for the library's most valuable or scandalous works. Next to each scribe's desk is a pull cord hanging through a hole in the ceiling. A tug on any one of these cords releases a homing pigeon from a loft above the library. It takes the bird 1 minute to find and alert an [Archmage](/monsters/16789-archmage), who teleports to the main hall of the library to investigate.
 
 ***Character Backgrounds.*** Adventurers with the [Sage](/backgrounds/406485-sage) or [Scribe](/backgrounds/406487-scribe) background might have a connection to the Great Library and its proprietor.
 
 ***Reasons to Visit.*** Adventurers might visit the Great Library for one of the following reasons:
 
-- **Research.** Adventurers searching for a specific book or more information about a specific topic might find what they’re looking for in the library.
+- **Research.** Adventurers searching for a specific book or more information about a specific topic might find what they're looking for in the library.
 
 - **Spellbooks.** The adventurers might need to purloin one of the many spellbooks kept in the library, necessitating a carefully planned heist.
 
-- **Spell Scrolls.** Adventurers can commission the scribes to create a [Spell Scroll](/magic-items/9229085-spell-scroll) that bears a Wizard spell of level 5 or lower. See the [Player’s Handbook](/sources/dnd/phb-2024) for the time required to [craft a scroll](/sources/dnd/phb-2024/equipment#ScribingSpellScrolls); the scribes charge double the cost shown there.
+- **Spell Scrolls.** Adventurers can commission the scribes to create a [Spell Scroll](/magic-items/9229085-spell-scroll) that bears a Wizard spell of level 5 or lower. See the [Player's Handbook](/sources/dnd/phb-2024) for the time required to [craft a scroll](/sources/dnd/phb-2024/equipment#ScribingSpellScrolls); the scribes charge double the cost shown there.
 
 #### High Tower Inn
 
-> Conveniently located near the Selintan River, this inviting inn is distinguished by its tall tower, which is pointed at the top like the hat of an eccentric wizard. The clientele is notably wealthy, but the inn itself isn’t at all ostentatious.
+> Conveniently located near the Selintan River, this inviting inn is distinguished by its tall tower, which is pointed at the top like the hat of an eccentric wizard. The clientele is notably wealthy, but the inn itself isn't at all ostentatious.
 
-The High Tower Inn’s human proprietor, Erlynn Goodfellow, is a soft-spoken, middle-aged, pot-bellied [Mage](/monsters/4831023-mage) (Lawful Good) with gray hair, bright-blue eyes, and platinum-rimmed spectacles. She dabbled in adventuring before realizing she had little taste for danger and her life’s calling might involve more sedentary pursuits. Few guests know of Erlynn’s magical abilities, as she rarely casts spells in front of strangers.
+The High Tower Inn's human proprietor, Erlynn Goodfellow, is a soft-spoken, middle-aged, pot-bellied [Mage](/monsters/4831023-mage) (Lawful Good) with gray hair, bright-blue eyes, and platinum-rimmed spectacles. She dabbled in adventuring before realizing she had little taste for danger and her life's calling might involve more sedentary pursuits. Few guests know of Erlynn's magical abilities, as she rarely casts spells in front of strangers.
 
-The High Tower, located in the Garden Quarter, is a favorite haunt for some of the city’s most famous wizards, including [Otto](/sources/dnd/dmg-2024/lore-glossary#Otto) and [Jallarzi](/sources/dnd/dmg-2024/lore-glossary#JallarziSallavarian).
+The High Tower, located in the Garden Quarter, is a favorite haunt for some of the city's most famous wizards, including [Otto](/sources/dnd/dmg-2024/lore-glossary#Otto) and [Jallarzi](/sources/dnd/dmg-2024/lore-glossary#JallarziSallavarian).
 
 ***Character Backgrounds.*** Adventurers with the [Merchant](/backgrounds/406483-merchant) or [Noble](/backgrounds/406484-noble) background might have a connection to the High Tower Inn, which caters to people of means.
 
@@ -413,17 +413,17 @@ The High Tower, located in the Garden Quarter, is a favorite haunt for some of t
 
 > This grandiose, multistory inn sports a wooden sign bearing the words "Silver Dragon Inn" in fancy silver script, the S shaped like a silver dragon. A more modest sign next to the front door reads, "No metal armor. Shields and weapons must be checked at the door."
 
-The grand Silver Dragon Inn, located in the Foreign Quarter, is often the first place sought by new arrivals to the city. The prices are average, but the food servings are huge. The inn’s menu includes spicy bean dishes, seafood delicacies of the Wild Coast, and rice and vegetable entrées.
+The grand Silver Dragon Inn, located in the Foreign Quarter, is often the first place sought by new arrivals to the city. The prices are average, but the food servings are huge. The inn's menu includes spicy bean dishes, seafood delicacies of the Wild Coast, and rice and vegetable entrées.
 
-Weapons larger than daggers must be checked at the door, together with shields. Customers wearing metal armor aren’t admitted. Two bouncers (Neutral [Tough Bosses](/monsters/4904883-tough-boss)) stand at the door, politely enforcing the rule.
+Weapons larger than daggers must be checked at the door, together with shields. Customers wearing metal armor aren't admitted. Two bouncers (Neutral [Tough Bosses](/monsters/4904883-tough-boss)) stand at the door, politely enforcing the rule.
 
-The inn’s married human proprietors, Olaf Al-Azul (Chaotic Good **Veteran Warrior**) and Sivan Al-Azul (Chaotic Neutral [Assassin](/monsters/16790-assassin)), speak multiple languages and use humor to raise spirits and diffuse tensions. Olaf can almost always break up a fight before it starts, generally with a round of drinks for the instigators. Sivan is quiet and introspective, but he always keeps a hilarious joke or cutting remark at the ready.
+The inn's married human proprietors, Olaf Al-Azul (Chaotic Good **Veteran Warrior**) and Sivan Al-Azul (Chaotic Neutral [Assassin](/monsters/16790-assassin)), speak multiple languages and use humor to raise spirits and diffuse tensions. Olaf can almost always break up a fight before it starts, generally with a round of drinks for the instigators. Sivan is quiet and introspective, but he always keeps a hilarious joke or cutting remark at the ready.
 
 ***Character Backgrounds.*** Adventurers with the [Artisan](/backgrounds/406476-artisan) or [Entertainer](/backgrounds/406478-entertainer) background might do business with the Silver Dragon Inn.
 
 ***Reasons to Visit.*** Adventurers might visit the Silver Dragon for one of the following reasons:
 
-- **Meeting with Foreign Dignitaries.** Foreign dignitaries come here to enjoy the Silver Dragon’s food and accommodations. Characters who plan to visit distant lands might connect with these esteemed visitors.
+- **Meeting with Foreign Dignitaries.** Foreign dignitaries come here to enjoy the Silver Dragon's food and accommodations. Characters who plan to visit distant lands might connect with these esteemed visitors.
 
 - **Place to Stay.** The Silver Dragon is centrally located in the city and has twenty-four guest rooms on the upper floors. A traveler can sleep in a common room for 1 SP per night, a private room for 3 SP per night, or a luxury suite for 1 GP per night.
 
@@ -431,7 +431,7 @@ The inn’s married human proprietors, Olaf Al-Azul (Chaotic Good **Veteran Warr
 
 #### Temple of the Far Horizon
 
-> Hidden among the city’s grander temples is a quiet, modest house of worship with clay-tiled rooftops, a corner bell tower, and well-tended vegetable gardens. Sick and hungry folk gather in short lines outside as they wait for priests to attend to their needs.
+> Hidden among the city's grander temples is a quiet, modest house of worship with clay-tiled rooftops, a corner bell tower, and well-tended vegetable gardens. Sick and hungry folk gather in short lines outside as they wait for priests to attend to their needs.
 
 Situated in the Garden Quarter, this temple is dedicated to Fharlanghn, a god favored by travelers and mercenaries. The [Priests](/monsters/16985-priest) who staff the temple offer nourishment, rest, and healing to those in need, day and night. Several small rooms are maintained for guests, and simple, hot meals are free to all visitors.
 
@@ -439,21 +439,21 @@ Situated in the Garden Quarter, this temple is dedicated to Fharlanghn, a god fa
 
 ***Reasons to Visit.*** Adventurers might visit the temple for one of the following reasons:
 
-- **Adventurers Wanted.** The priests keep tabs on threats in the region around the city. They’re paying close attention to rumors of dragon activity in the nearby Cairn Hills, and they’re looking to hire adventurers to investigate these rumors.
+- **Adventurers Wanted.** The priests keep tabs on threats in the region around the city. They're paying close attention to rumors of dragon activity in the nearby Cairn Hills, and they're looking to hire adventurers to investigate these rumors.
 
-- **Healing.** Adventurers can purchase [Potions of Healing](/magic-items/8960641-potion-of-healing) for 50 GP each, and the temple’s priests have 1d4 such potions in stock on any given day. The priests also have [Cure Wounds](/spells/2619079-cure-wounds) and [Lesser Restoration](/spells/2619016-lesser-restoration) spells prepared and customarily cast them for free. For more powerful magic, such as [Greater Restoration](/spells/2618961-greater-restoration) and [Raise Dead](/spells/2618922-raise-dead) spells, the priests direct the adventurers to the Temple of the Radiant Sun.
+- **Healing.** Adventurers can purchase [Potions of Healing](/magic-items/8960641-potion-of-healing) for 50 GP each, and the temple's priests have 1d4 such potions in stock on any given day. The priests also have [Cure Wounds](/spells/2619079-cure-wounds) and [Lesser Restoration](/spells/2619016-lesser-restoration) spells prepared and customarily cast them for free. For more powerful magic, such as [Greater Restoration](/spells/2618961-greater-restoration) and [Raise Dead](/spells/2618922-raise-dead) spells, the priests direct the adventurers to the Temple of the Radiant Sun.
 
 - **Safe Travels.** By making a small donation to the temple, adventurers increase the likelihood of safe travel to their next destination.
 
-- **Teleportation Circle.** Though it isn’t the only permanent teleportation circle in the city, the circle within the Temple of the Far Horizon is the easiest to access. The priests allow free access to the teleportation circle in either direction. For 2,000 GP, the chief priest will cast the [Teleportation Circle](/spells/2619167-teleportation-circle) spell to open a connection to another permanent circle on the Material Plane.
+- **Teleportation Circle.** Though it isn't the only permanent teleportation circle in the city, the circle within the Temple of the Far Horizon is the easiest to access. The priests allow free access to the teleportation circle in either direction. For 2,000 GP, the chief priest will cast the [Teleportation Circle](/spells/2619167-teleportation-circle) spell to open a connection to another permanent circle on the Material Plane.
 
 #### Temple of the Radiant Sun
 
-> This copper-roofed temple has a gold-inlaid symbol of the sun above its double-door entrance. During the day, sunlight shines through high windows to illuminate the temple’s interior, which is adorned with golden draperies.
+> This copper-roofed temple has a gold-inlaid symbol of the sun above its double-door entrance. During the day, sunlight shines through high windows to illuminate the temple's interior, which is adorned with golden draperies.
 
 This temple, dedicated to serving the god Pelor in the heart of the Garden Quarter, opens at dawn and closes at dusk. In a sanctuary in the heart of the temple, [Priests](/monsters/16985-priest) conduct daily morning rites, as well as all-day observances every Godsday.
 
-Sarana, the temple’s **Archpriest** (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [Staff of Healing](/magic-items/9229097-staff-of-healing). Sarana has straw-colored hair, green eyes, and a forgiving nature.
+Sarana, the temple's **Archpriest** (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [Staff of Healing](/magic-items/9229097-staff-of-healing). Sarana has straw-colored hair, green eyes, and a forgiving nature.
 
 ***Character Backgrounds.*** Adventurers with the [Acolyte](/backgrounds/406475-acolyte) background might have served in the Temple of the Radiant Sun, while those with the Farmer background might seek it out as a place for blessing.
 
@@ -461,19 +461,19 @@ Sarana, the temple’s **Archpriest** (Neutral Good), is a middle-aged, human wo
 
 - **Healing.** The temple sells [Spell Scrolls](/magic-items/9229085-spell-scroll) of [Greater Restoration](/spells/2618961-greater-restoration) for 3,200 GP apiece and [Spell Scrolls](/magic-items/9229085-spell-scroll) of [Remove Curse](/spells/2618943-remove-curse) for 300 GP apiece, and the priests have 1d3 copies of each scroll in stock on any given day. The priests also have [Cure Wounds](/spells/2619079-cure-wounds) and [Lesser Restoration](/spells/2619016-lesser-restoration) spells prepared, which they customarily cast for free.
 
-- **Raise Dead.** Archpriest Sarana is one of a handful of people in the Free City of Greyhawk who can cast the [Raise Dead](/spells/2618922-raise-dead) spell, but she needs the requisite 500 GP diamond to do so. Sarana can recommend a jeweler who sells diamonds of sufficient value. Before agreeing to cast the spell, Sarana casts [Zone of Truth](/spells/2619221-zone-of-truth) and asks questions about the deceased individual to make sure she’s not returning to life someone who should stay dead.
+- **Raise Dead.** Archpriest Sarana is one of a handful of people in the Free City of Greyhawk who can cast the [Raise Dead](/spells/2618922-raise-dead) spell, but she needs the requisite 500 GP diamond to do so. Sarana can recommend a jeweler who sells diamonds of sufficient value. Before agreeing to cast the spell, Sarana casts [Zone of Truth](/spells/2619221-zone-of-truth) and asks questions about the deceased individual to make sure she's not returning to life someone who should stay dead.
 
 - **Service to the Greater Good.** The temple might call upon the adventurers to perform good acts in the city or abroad. Sarana is particularly vigilant about the threat of Elemental Evil, since she was involved in the battle at the Temple of Elemental Evil seven years ago. In exchange for their service, the characters and their companions are entitled to a 50 percent discount on goods purchased at the temple.
 
 #### Unearthed Arcana
 
-> This quaint, two-story shop has a sign depicting a white-bearded human wizard holding a staff that has a copper ball affixed to its tip. Displayed in the store’s window box are various potions, scrolls, wands, and wondrous oddities.
+> This quaint, two-story shop has a sign depicting a white-bearded human wizard holding a staff that has a copper ball affixed to its tip. Displayed in the store's window box are various potions, scrolls, wands, and wondrous oddities.
 
-Magic items are bought and sold in Unearthed Arcana, a quaint shop in Clerkburg. Magical wards render the store’s windows and doors shatterproof, and no one can use magic to enter or leave the shop without the consent of its proprietor, Morley, whose quarters take up the second floor.
+Magic items are bought and sold in Unearthed Arcana, a quaint shop in Clerkburg. Magical wards render the store's windows and doors shatterproof, and no one can use magic to enter or leave the shop without the consent of its proprietor, Morley, whose quarters take up the second floor.
 
-Morley is an [Adult Copper Dragon](/monsters/16768-adult-copper-dragon) (Chaotic Good) who spends his days shape-shifted into a talkative, alert, white-bearded human mage wearing a pointed hat, frayed robes, and pointed slippers. Only a few people in the city—including the esteemed local members of the Circle of Eight, Jallarzi Sallavarian and Otto—know Morley’s true form.
+Morley is an [Adult Copper Dragon](/monsters/16768-adult-copper-dragon) (Chaotic Good) who spends his days shape-shifted into a talkative, alert, white-bearded human mage wearing a pointed hat, frayed robes, and pointed slippers. Only a few people in the city—including the esteemed local members of the Circle of Eight, Jallarzi Sallavarian and Otto—know Morley's true form.
 
-Morley is one of the city’s secret weapons, ready to repel invaders or break a siege should the need arise. The dragon has a soft spot for adventurers who risk their lives for good causes. He occasionally loans magic items free of charge to valorous heroes who can’t afford them, on the condition that the items be returned to him as soon as they’re no longer needed.
+Morley is one of the city's secret weapons, ready to repel invaders or break a siege should the need arise. The dragon has a soft spot for adventurers who risk their lives for good causes. He occasionally loans magic items free of charge to valorous heroes who can't afford them, on the condition that the items be returned to him as soon as they're no longer needed.
 
 ***Character Backgrounds.*** Adventurers with the [Charlatan](/backgrounds/406477-charlatan) or [Hermit](/backgrounds/406482-hermit) background might have a connection to Unearthed Arcana, as Morley has a variety of unusual interests.
 
@@ -505,15 +505,15 @@ Morley is one of the city’s secret weapons, ready to repel invaders or break a
 
 **Ford Keep.** A ferry crossing allows traffic from Greyhawk and regions to the south to cross the Selintan River at its first major bend. The lord mayor of Greyhawk built Ford Keep here to protect the crossing from bandits.
 
-**Gorge of the Selintan.** Soaring cliffs flank the Selintan River for nearly ten miles. Spanning this gorge, 800 feet above the river, is a stone arch bridge sculpted to look like an extension of the natural bedrock. The bridge allows easy travel between Greyhawk and Grossettgrottell. As a defensive measure, the bridge’s gnome architects hid an iron pin somewhere in the bridge; if this pin is removed, the entire structure collapses.
+**Gorge of the Selintan.** Soaring cliffs flank the Selintan River for nearly ten miles. Spanning this gorge, 800 feet above the river, is a stone arch bridge sculpted to look like an extension of the natural bedrock. The bridge allows easy travel between Greyhawk and Grossettgrottell. As a defensive measure, the bridge's gnome architects hid an iron pin somewhere in the bridge; if this pin is removed, the entire structure collapses.
 
 **Grossettgrottell.** An industrious community of gnome miners and foragers lives in this network of hewn tunnels and natural caverns. The gnomes trade gemstones and rare fungi in exchange for help repelling monsters from the Underdark.
 
 **Marsh Keep.** Like Blackwall Keep, Marsh Keep is newly built and watches over the Mistmarsh. The Dwarfwalk road leads east from the tower to Greysmere, a quarrying town with a large population of dwarves.
 
-**Mining Towns.** Blackstone, Diamond Lake, and Steaming Springs are small mining towns governed and protected by the Free City of Greyhawk. The city frequently dispatches adventurers to quell threats to the towns’ miners and mining operations, which of late includes agents of Iuz intent on destabilizing the city’s economy.
+**Mining Towns.** Blackstone, Diamond Lake, and Steaming Springs are small mining towns governed and protected by the Free City of Greyhawk. The city frequently dispatches adventurers to quell threats to the towns' miners and mining operations, which of late includes agents of Iuz intent on destabilizing the city's economy.
 
-**Mistmarsh.** This vast swamp holds the half-sunken ruins of an ancient city that is now shrouded by fog and guarded by a family of black dragons. [Will-o’-wisps](/monsters/17060-will-o-wisp) lure prey to the ruins, where doom awaits.
+**Mistmarsh.** This vast swamp holds the half-sunken ruins of an ancient city that is now shrouded by fog and guarded by a family of black dragons. [Will-o'-wisps](/monsters/17060-will-o-wisp) lure prey to the ruins, where doom awaits.
 
 **Peculiar Manor.** Like other manors in the Plain of Greyhawk, Peculiar Manor was established by a now-forgotten hero of an ancient war. However, a few years ago it was purchased by retired adventurers from Ekbir, Sanjarah and Chetna Mohsin. The Mohsins brew an extraordinary ale they call Old Peculiar, which lends its name to the manor.
 
@@ -534,17 +534,17 @@ Greyhawk Gazetteer
 
 To understand the Greyhawk of today (the year 576 in the Common Year), it is helpful to picture the Flanaess about 200 years ago. At that time, the Great Kingdom of Aerdy stretched from the Vast Swamp to the Rakers, and from the Solnor Ocean to the Yatil and Lortmil Mountains. Between the Lortmil Mountains and the Crystalmists was the Kingdom of Keoland, mimicking the Great Kingdom in its imperialist approach. To the west of the mountains, the Baklunish nations—survivors of the Invoked Devastation—stood much as they do now. And to the north, nomadic peoples (the Chakyik, the Wegwiur, the rovers of the Hunting Lands) and the North Kingdoms were, as now, independent of the politics of the south.
 
-The contraction of the two southern realms over the last two centuries is the primary force that has shaped the modern Flanaess. First, the provinces of Perrenland, Veluna, and Furyondy—far from the overking’s throne in Rauxes—declared their independence from the Great Kingdom. When Nyrond joined them (in 356 CY), the stage was set for the slow disintegration of the Great Kingdom and the ongoing rebellion that dominates the eastern part of the Flanaess to this day.
+The contraction of the two southern realms over the last two centuries is the primary force that has shaped the modern Flanaess. First, the provinces of Perrenland, Veluna, and Furyondy—far from the overking's throne in Rauxes—declared their independence from the Great Kingdom. When Nyrond joined them (in 356 CY), the stage was set for the slow disintegration of the Great Kingdom and the ongoing rebellion that dominates the eastern part of the Flanaess to this day.
 
-The beginning of Aerdy’s decline marked the high-water mark of Keoland’s expansionist policies, as it held sway from the Pomarj to the borders of Ket. Aided by Celene, rebels in the Ulek region strove to curb the kingdom’s warlike ways, and the accession of King Tavish IV in 453 CY marked a dramatic shift in royal policy. The Yeomanry and the Ulek states were granted autonomy, the Gran March and Sterich became semi-independent while remaining loyal to the crown, and the diverse peoples of this region coexist in relative peace once again.
+The beginning of Aerdy's decline marked the high-water mark of Keoland's expansionist policies, as it held sway from the Pomarj to the borders of Ket. Aided by Celene, rebels in the Ulek region strove to curb the kingdom's warlike ways, and the accession of King Tavish IV in 453 CY marked a dramatic shift in royal policy. The Yeomanry and the Ulek states were granted autonomy, the Gran March and Sterich became semi-independent while remaining loyal to the crown, and the diverse peoples of this region coexist in relative peace once again.
 
 With this big picture in mind, you can think of the Flanaess beyond the Free City of Greyhawk as five major regions, each with its own store of adventure possibilities waiting to be explored:
 
 **Central Flanaess.** Diverse peoples clash against Iuz and the forces of Elemental Evil.
 
-**Eastern Flanaess.** The remnants of the Great Kingdom struggle to determine the fate of the lands in the overking’s wicked clutches.
+**Eastern Flanaess.** The remnants of the Great Kingdom struggle to determine the fate of the lands in the overking's wicked clutches.
 
-**Northern Flanaess.** In vast wilderness expanses populated by indigenous folk, one’s mettle is tested by the environment and roving dragons.
+**Northern Flanaess.** In vast wilderness expanses populated by indigenous folk, one's mettle is tested by the environment and roving dragons.
 
 **Old Keoland.** The former provinces of Keoland contend against evil monsters from the western mountains, including dragons and giants.
 
@@ -554,7 +554,7 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 > 
 > Greyhawk has a long history of ancient empires and more recent wars, but the only relevant details of this history are those that feature in your adventures. Highlight significant in-world details by revealing them in the course of your adventures. Use the following techniques to share lore with your players:
 > 
-> **Echoes of the Past.** Features like a crater in the side of a mountain, a defaced statue in the town square, or a holiday celebrating a local hero provide concrete touchstones to past events. The characters might learn that a ruin they’re exploring was destroyed in a catastrophic battle or natural disaster.
+> **Echoes of the Past.** Features like a crater in the side of a mountain, a defaced statue in the town square, or a holiday celebrating a local hero provide concrete touchstones to past events. The characters might learn that a ruin they're exploring was destroyed in a catastrophic battle or natural disaster.
 > 
 > **Historical Records.** Written historical details might appear anywhere in an adventure: glyphs on ancient dungeon walls, books in a library, files in a royal vault, or tapestries depicting key events. Use such set dressing to share important details. Summarize what lengthy works say, and focus on the most plot-worthy parts.
 > 
@@ -562,9 +562,9 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 > 
 > **Magical Footnotes.** Spells such as [Contact Other Plane](/spells/2619052-contact-other-plane), [Legend Lore](/spells/2619010-legend-lore), and [Speak with Dead](/spells/2619068-speak-with-dead) allow characters to learn information while leaving you control of the particulars.
 > 
-> **Primary Sources.** Personify the past through a tragic ghost, an otherworldly guardian, an artificial intelligence, an ancient sage, or another long-lived individual. Such NPCs give you a way to share relevant information and respond to questions from the party. If the characters miss an important detail, this NPC can reinforce details in a way books and recollected facts can’t.
+> **Primary Sources.** Personify the past through a tragic ghost, an otherworldly guardian, an artificial intelligence, an ancient sage, or another long-lived individual. Such NPCs give you a way to share relevant information and respond to questions from the party. If the characters miss an important detail, this NPC can reinforce details in a way books and recollected facts can't.
 > 
-> Any one of these methods is useful for revealing a few details. You can combine them to share nuanced histories and help players feel like they’re digging into a rich and realistic history.
+> Any one of these methods is useful for revealing a few details. You can combine them to share nuanced histories and help players feel like they're digging into a rich and realistic history.
 
 ### Central Flanaess
 
@@ -592,23 +592,23 @@ The rich soil and pleasant climate of the region between the Nyr Dyv and the Yat
 
 #### Battle of Emridy Meadows
 
-Seven years ago, knights and soldiers from Furyondy, the Archclericy of Veluna, the Viscounty of Verbobonc, and the elven kingdom of Celene formed an alliance to repel an evil horde that had gathered in the grassy fields south of the Velverdyva River. This clash of armies—arguably the greatest seen in Eastern Oerik—was called the Battle of Emridy Meadows. The forces of evil were smashed, and their remnants were driven back into the dungeons under their stronghold, the Temple of Elemental Evil. The forces of good, under the command of Prince Thrommel IV of Furyondy, besieged the temple, which fell in a fortnight. Only a few of the temple’s wicked leaders escaped, and it is suspected that these individuals were responsible for the subsequent kidnapping of the prince.
+Seven years ago, knights and soldiers from Furyondy, the Archclericy of Veluna, the Viscounty of Verbobonc, and the elven kingdom of Celene formed an alliance to repel an evil horde that had gathered in the grassy fields south of the Velverdyva River. This clash of armies—arguably the greatest seen in Eastern Oerik—was called the Battle of Emridy Meadows. The forces of evil were smashed, and their remnants were driven back into the dungeons under their stronghold, the Temple of Elemental Evil. The forces of good, under the command of Prince Thrommel IV of Furyondy, besieged the temple, which fell in a fortnight. Only a few of the temple's wicked leaders escaped, and it is suspected that these individuals were responsible for the subsequent kidnapping of the prince.
 
-Prince Thrommel was engaged to marry Lady Jolene, a priest from a prominent noble family of Veluna. Their marriage would have united Furyondy and Veluna as a single entity, with the canon of Veluna ruling in matters spiritual and the king of Furyondy ruling in matters temporal. This combined state, with its powerful elf allies in Celene, could wage a steady war against the evil plaguing Eastern Oerik. The prince’s disappearance has stalled these plans.
+Prince Thrommel was engaged to marry Lady Jolene, a priest from a prominent noble family of Veluna. Their marriage would have united Furyondy and Veluna as a single entity, with the canon of Veluna ruling in matters spiritual and the king of Furyondy ruling in matters temporal. This combined state, with its powerful elf allies in Celene, could wage a steady war against the evil plaguing Eastern Oerik. The prince's disappearance has stalled these plans.
 
 #### The Rise of Iuz
 
-Iuz is the offspring of the demon lord Graz’zt and a human archmage named Iggwilv. For ages, he ruled the lands from the Howling Hills to Lake Whyestil, naming his domain after himself. These lands are so despoiled and dangerous that the otherwise fierce nomads of the Hunting Lands and Wegwiur pass through the Cold Marshes rather than enter the merest edge of Iuz’s realm.
+Iuz is the offspring of the demon lord Graz'zt and a human archmage named Iggwilv. For ages, he ruled the lands from the Howling Hills to Lake Whyestil, naming his domain after himself. These lands are so despoiled and dangerous that the otherwise fierce nomads of the Hunting Lands and Wegwiur pass through the Cold Marshes rather than enter the merest edge of Iuz's realm.
 
-Iuz’s evil reign was interrupted by a sixty-five-year imprisonment in the dungeon under Castle Greyhawk. During his absence, the Kingdom of Furyondy and its allies prospered, while the land of Iuz was overrun with evil bandits and monsters. Iuz’s absence turned him into a legend and attracted a host of new followers, whose misplaced faith invested him with the power of a demigod.
+Iuz's evil reign was interrupted by a sixty-five-year imprisonment in the dungeon under Castle Greyhawk. During his absence, the Kingdom of Furyondy and its allies prospered, while the land of Iuz was overrun with evil bandits and monsters. Iuz's absence turned him into a legend and attracted a host of new followers, whose misplaced faith invested him with the power of a demigod.
 
 Upon winning his freedom, Iuz had no trouble reclaiming his homeland. He forged tenuous alliances with the leaders of the Bandit Kingdoms and the Horned Society, whom he controls through terror. With their aid, he aims to destroy his neighbors and lay waste to the Free City of Greyhawk.
 
-Since the resurgence of Iuz, the northern quarter of the Vesve Forest and the eastern part of the Howling Hills have become filled with marauders and monsters. While the Wegwiur battle Iuz’s forces in the Howling Hills, scouts and troops from Furyondy join forces with Highfolk’s defenders to drive out the Vesve Forest’s evil inhabitants.
+Since the resurgence of Iuz, the northern quarter of the Vesve Forest and the eastern part of the Howling Hills have become filled with marauders and monsters. While the Wegwiur battle Iuz's forces in the Howling Hills, scouts and troops from Furyondy join forces with Highfolk's defenders to drive out the Vesve Forest's evil inhabitants.
 
 #### Central Flanaess Culture
 
-The culture of the Central Flanaess is a result of the long imposition of the Great Kingdom’s rule over a variety of peoples living in close proximity. These peoples, by and large, share the Great Kingdom’s practical, hardworking values, and they rely on the family and local community, rather than the might of nations and armies. They have a strong egalitarian streak unlike the Great Kingdom’s strict social hierarchy, and (beyond the domains of Iuz and the Horned Society) they have little tolerance for would-be tyrants or aloof nobility. Amid a large number of free cities and confederations, the monarchies of Furyondy and Celene are far more democratic in practice than those in other regions.
+The culture of the Central Flanaess is a result of the long imposition of the Great Kingdom's rule over a variety of peoples living in close proximity. These peoples, by and large, share the Great Kingdom's practical, hardworking values, and they rely on the family and local community, rather than the might of nations and armies. They have a strong egalitarian streak unlike the Great Kingdom's strict social hierarchy, and (beyond the domains of Iuz and the Horned Society) they have little tolerance for would-be tyrants or aloof nobility. Amid a large number of free cities and confederations, the monarchies of Furyondy and Celene are far more democratic in practice than those in other regions.
 
 Typical dress in the Central Flanaess includes a tunic of varying length, sometimes worn with close-fitting trousers. A cape or cloak, usually featuring patterns of ovals or diamonds, completes the ensemble. The cuisine of the Central Flanaess uses rice and potatoes alongside cheese and meat that is typically boiled or roasted.
 
@@ -618,7 +618,7 @@ The dual threats of Iuz and Elemental Evil present abundant opportunities for ad
 
 ***Ghost Tower of Inverness.*** Ages ago, an archmage raised the mighty fortress of Inverness from the very rock of the Abbor-Alz. In the great inner tower of the keep, he hid his most prized possession: the Soul-Gem. Legend says this great white diamond fell from the sky and glowed with the brilliance of the sun, and its magic could drag mortal souls screaming from their bodies and trap them. The fortress was ruined long ago, but on foggy nights the great central tower still appears.
 
-***Lost Caverns of Tsojcanth.*** The archmage [Iggwilv](/sources/dnd/dmg-2024/lore-glossary#Iggwilv) is said to have acquired much of her prowess from the hidden magic she discovered within the Lost Caverns of Tsojcanth (pronounced SAWJ-kahn). In these caverns she conducted experiments and rituals to increase her powers. One of these rituals led to her downfall, though, when she accidentally freed the demon lord [Graz’zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) from the prison where she had bound him. Though Graz’zt fled to the [Abyss](/sources/dnd/dmg-2024/cosmology#Abyss), Iggwilv was weakened and forced to abandon the caverns, but a secret cache of her treasure is said to remain. [The Lost Caverns of Tsojcanth](/sources/dnd/qftis/the-lost-caverns-of-tsojcanth) are detailed in [Quests from the Infinite Staircase](/sources/dnd/qftis).
+***Lost Caverns of Tsojcanth.*** The archmage [Iggwilv](/sources/dnd/dmg-2024/lore-glossary#Iggwilv) is said to have acquired much of her prowess from the hidden magic she discovered within the Lost Caverns of Tsojcanth (pronounced SAWJ-kahn). In these caverns she conducted experiments and rituals to increase her powers. One of these rituals led to her downfall, though, when she accidentally freed the demon lord [Graz'zt](/sources/dnd/dmg-2024/cosmology#Layers4547Azzagrat) from the prison where she had bound him. Though Graz'zt fled to the [Abyss](/sources/dnd/dmg-2024/cosmology#Abyss), Iggwilv was weakened and forced to abandon the caverns, but a secret cache of her treasure is said to remain. [The Lost Caverns of Tsojcanth](/sources/dnd/qftis/the-lost-caverns-of-tsojcanth) are detailed in [Quests from the Infinite Staircase](/sources/dnd/qftis).
 
 ***Maure Castle.*** Maure Castle is a forlorn and foreboding place surrounded by boggy ground and scraggly trees. Rumors suggest that a tome holding eldritch lore of unimaginable evil is held within, guarded by a powerful demon.
 
@@ -628,7 +628,7 @@ The dual threats of Iuz and Elemental Evil present abundant opportunities for ad
 
 Once a powerful force for order and good, the Great Kingdom of Aerdy has declined over the last century to a state of utter decadence. The reigning overking—Ivid V, patriarch of the House of Naelax—is rumored to have fiendish advisers as well as a noble court infested with evil. Ruling from the Malachite Throne in Rauxes, Ivid commands an unmatched army currently embroiled in two wars at once: one against the Kingdom of Nyrond and the Prelacy of Almor, and the other against the Iron League (consisting of Idee, Irongate, the Lordship of the Isles, Onnwal, and Sunndi). To pay for these costly wars, the overking has imposed heavy taxes on his subjects, further diminishing his popularity.
 
-Aerdiaak, Ahlissa, Medegia, and Rel Astra are provinces and fiefs of the Great Kingdom. The Sea Baronies are vassal states that provide most of the kingdom’s navy.
+Aerdiaak, Ahlissa, Medegia, and Rel Astra are provinces and fiefs of the Great Kingdom. The Sea Baronies are vassal states that provide most of the kingdom's navy.
 
 
 #### Eastern Flanaess Locations
@@ -651,7 +651,7 @@ Aerdiaak, Ahlissa, Medegia, and Rel Astra are provinces and fiefs of the Great K
 | Onnwal | The Raven of Onnwal, Zyl Grayshadow (dwarf) | Independent state; member of the Iron League |
 | Pale, the Theocracy of the | Supreme Prelate Ogon Tillit (human) | Theocracy ruled by a priest of Pholtus |
 | Rel Astra, City of | Constable Mayor Drax (orc) | Independent fief plotting in secret against the Great Kingdom, hoping to ally with Medegia or the Sea Baronies |
-| Sea Baronies, the | Four sea barons, including High Admiral Kalashe Asperdi (human) | Independent island fiefdoms that serve as the Great Kingdom’s navy |
+| Sea Baronies, the | Four sea barons, including High Admiral Kalashe Asperdi (human) | Independent island fiefdoms that serve as the Great Kingdom's navy |
 | Shar, the Hidden Empire of | Father of Obedience Korenth Zan (human?) | Isolated order of Suloise militants whose spies operate across the Flanaess |
 | Spindrift Isles, the | The Council of Five (on the northern islands) and the Council of Seven (on the southern island) | Independent islands that keep watchful eyes on aggressive island neighbors |
 | Sunndi | Steward Valenta (elf) | Independent fiefdom; member of the Iron League |
@@ -666,25 +666,25 @@ Fanatical Suloise militarists called the Scarlet Order founded the Hidden Empire
 
 #### Eastern Flanaess Culture
 
-The culture of the Eastern Flanaess is largely that of the ancient Aerdi tribe of humans that conquered the region and established the Great Kingdom almost 800 years ago. The Aerdi valued common sense, hard work, and knowing one’s place in a strict social order. Having claimed their position of power through conquest, they put great emphasis on military power and martial skill. These values persist throughout the region, reinforced in the Great Kingdom by strict laws and even stricter social mores.
+The culture of the Eastern Flanaess is largely that of the ancient Aerdi tribe of humans that conquered the region and established the Great Kingdom almost 800 years ago. The Aerdi valued common sense, hard work, and knowing one's place in a strict social order. Having claimed their position of power through conquest, they put great emphasis on military power and martial skill. These values persist throughout the region, reinforced in the Great Kingdom by strict laws and even stricter social mores.
 
-These same values persist in many of the lands resisting the overking’s reign. Nyrond and Almor, in particular, share the stratified social structure of the Great Kingdom, with their king and prelate remaining distant from the common people they rule. The independent states of the Iron League are more egalitarian, sharing that trait with the peoples of the Central Flanaess.
+These same values persist in many of the lands resisting the overking's reign. Nyrond and Almor, in particular, share the stratified social structure of the Great Kingdom, with their king and prelate remaining distant from the common people they rule. The independent states of the Iron League are more egalitarian, sharing that trait with the peoples of the Central Flanaess.
 
-Typical clothing in the Eastern Flanaess is a tunic of varying length, often worn with trousers, with a cape or cloak. The fabrics of the east are often patterned with checks or plaids, with different patterns often relating to the wearer’s lineage. Eastern cuisine pairs rice and potatoes with a variety of meats, especially seafood.
+Typical clothing in the Eastern Flanaess is a tunic of varying length, often worn with trousers, with a cape or cloak. The fabrics of the east are often patterned with checks or plaids, with different patterns often relating to the wearer's lineage. Eastern cuisine pairs rice and potatoes with a variety of meats, especially seafood.
 
 #### Eastern Flanaess and Its Neighbors
 
-The Duchy and County of Urnst bridge the regions of the Central and Eastern Flanaess. Once part of the Great Kingdom’s province of Nyrond, they declared their independence from the Great Kingdom and the new Kingdom of Nyrond at the same time, achieving their separation from Nyrond with minimal bloodshed. While the people of Urnst distrust the king of Nyrond, they don’t hate him like they do the overking.
+The Duchy and County of Urnst bridge the regions of the Central and Eastern Flanaess. Once part of the Great Kingdom's province of Nyrond, they declared their independence from the Great Kingdom and the new Kingdom of Nyrond at the same time, achieving their separation from Nyrond with minimal bloodshed. While the people of Urnst distrust the king of Nyrond, they don't hate him like they do the overking.
 
-The proximity of the Nyr Dyv, the Cairn Hills, and the Shield Lands means the Urnst lands can’t ignore the rising threat of Iuz or the politics of the Free City of Greyhawk. At the same time, Nyrond stands as a buffer between Urnst and the Great Kingdom, but the overking’s threat still looms. The duke and countess of Urnst believe that a united Urnst will stand more strongly against pressures from east and west, which they hope to achieve through the marriage of Countess Belissica Gellor to Byron Lorinar, eldest son of Duke Jalken Lorinar.
+The proximity of the Nyr Dyv, the Cairn Hills, and the Shield Lands means the Urnst lands can't ignore the rising threat of Iuz or the politics of the Free City of Greyhawk. At the same time, Nyrond stands as a buffer between Urnst and the Great Kingdom, but the overking's threat still looms. The duke and countess of Urnst believe that a united Urnst will stand more strongly against pressures from east and west, which they hope to achieve through the marriage of Countess Belissica Gellor to Byron Lorinar, eldest son of Duke Jalken Lorinar.
 
 #### Eastern Flanaess Adventures
 
 The story of the Eastern Flanaess is a tale of scrappy rebels—Nyrond, Almor, and the Iron League—defying the overwhelming power of a corrupt and decadent empire. This story lends itself to campaigns exploring themes of supernatural horror (in the fiend-haunted courts of the overking), swashbuckling (in the cities across the region as well as the eastern seas), and war (see "[Flavors of Fantasy](/sources/dnd/dmg-2024/creating-campaigns#FlavorsofFantasy)" in this chapter).
 
-***Havens of Unrest.*** Those who despise and challenge the Great Kingdom’s oppression—outlaws both good and bad—find refuge in borderlands just beyond the reach of the overking’s soldiers. These include the woods and swamp near Rel Astra (the eastern reaches of the Grandwood Forest and the Lone Heath) and the Hestmark Highlands east of Sunndi. The outlaws in the Grandwood include significant numbers of elves and halflings as well as humans, while those in the Hestmark Highlands include dwarves and gnomes.
+***Havens of Unrest.*** Those who despise and challenge the Great Kingdom's oppression—outlaws both good and bad—find refuge in borderlands just beyond the reach of the overking's soldiers. These include the woods and swamp near Rel Astra (the eastern reaches of the Grandwood Forest and the Lone Heath) and the Hestmark Highlands east of Sunndi. The outlaws in the Grandwood include significant numbers of elves and halflings as well as humans, while those in the Hestmark Highlands include dwarves and gnomes.
 
-***Tomb of Horrors.*** Deep within the Vast Swamp is the sinister Tomb of Horrors—a labyrinthine crypt filled with terrible traps, strange and ferocious monsters, and rich and magical treasures. Somewhere within rests the demilich [Acererak](/sources/dnd/dmg-2024/lore-glossary#Acererak), who ruled much of the region long ago. The demilich is said to take perverse pleasure in devouring adventurers’ souls.
+***Tomb of Horrors.*** Deep within the Vast Swamp is the sinister Tomb of Horrors—a labyrinthine crypt filled with terrible traps, strange and ferocious monsters, and rich and magical treasures. Somewhere within rests the demilich [Acererak](/sources/dnd/dmg-2024/lore-glossary#Acererak), who ruled much of the region long ago. The demilich is said to take perverse pleasure in devouring adventurers' souls.
 
 The [Tomb of Horrors](/sources/dnd/tftyp/a7/tomb-of-horrors) is detailed in [Tales from the Yawning Portal](/sources/dnd/tftyp).
 
@@ -732,17 +732,17 @@ As their distinct kingdoms suggest, the people of the North Kingdoms value their
 
 #### The Hunting Lands
 
-The People of the Hunting Lands (called Rovers of the Barrens by their neighbors) have a history of raiding the outskirts of Furyondy, the Bandit Kingdoms, Tenh, and Wegwiur, which hasn’t won them many allies. The nomads’ legendary dominance of the north has faded, as the forces of Iuz and the Horned Society wage steady war against them while raiders from the Hold of Stonefist prey on the Hunting Lands farther east. Many of the Rovers’ mightiest warriors—the Wardogs—have perished in battles against all these relentless foes.
+The People of the Hunting Lands (called Rovers of the Barrens by their neighbors) have a history of raiding the outskirts of Furyondy, the Bandit Kingdoms, Tenh, and Wegwiur, which hasn't won them many allies. The nomads' legendary dominance of the north has faded, as the forces of Iuz and the Horned Society wage steady war against them while raiders from the Hold of Stonefist prey on the Hunting Lands farther east. Many of the Rovers' mightiest warriors—the Wardogs—have perished in battles against all these relentless foes.
 
-The people of the Hunting Lands value a close connection to the natural world. They view nature as an entity to be respected, not controlled, and their myths and legends teach the value of accepting nature’s bounty as a gift that evokes gratitude. They wear clothes made entirely of animal skins, including belts, capes, robes, and slippers, and decorate their skin with paints and tattoos.
+The people of the Hunting Lands value a close connection to the natural world. They view nature as an entity to be respected, not controlled, and their myths and legends teach the value of accepting nature's bounty as a gift that evokes gratitude. They wear clothes made entirely of animal skins, including belts, capes, robes, and slippers, and decorate their skin with paints and tattoos.
 
 #### Northern Flanaess and Its Neighbors
 
 The regions of the north exist on the fringes of other regions of the Flanaess. Three realms are the primary points of intersection between the Northern Flanaess and neighboring areas.
 
-***Bandit Kingdoms.*** The Bandit Kingdoms is a lawless frontier between the Hunting Lands in the north, the Horned Society and the Shield Lands in the Central Flanaess, and the Duchy of Tenh in the east. No single bandit lord is powerful enough to conquer the whole territory, and the combined strength of all is often required to defend against retaliation by neighboring states for the bandit lords’ aggression. At least one of the bandit lords, Renfus the Mottled (ruler of Stoink), is wholly in the service of Iuz.
+***Bandit Kingdoms.*** The Bandit Kingdoms is a lawless frontier between the Hunting Lands in the north, the Horned Society and the Shield Lands in the Central Flanaess, and the Duchy of Tenh in the east. No single bandit lord is powerful enough to conquer the whole territory, and the combined strength of all is often required to defend against retaliation by neighboring states for the bandit lords' aggression. At least one of the bandit lords, Renfus the Mottled (ruler of Stoink), is wholly in the service of Iuz.
 
-***Ratik.*** As a former province of the Great Kingdom, Ratik rides the boundary between the northern and eastern regions of the Flanaess. Without the protection of the Great Kingdom, Ratik has been forced to defend itself against frequent raids from the North Kingdoms and the Sea Baronies, as well as attacks from mountain-dwelling monsters. Baron Lexnol Haarkof’s emissaries hope to forge an alliance with the North Kingdoms and redirect the berserkers’ aggressions toward the Hold of Stonefist.
+***Ratik.*** As a former province of the Great Kingdom, Ratik rides the boundary between the northern and eastern regions of the Flanaess. Without the protection of the Great Kingdom, Ratik has been forced to defend itself against frequent raids from the North Kingdoms and the Sea Baronies, as well as attacks from mountain-dwelling monsters. Baron Lexnol Haarkof's emissaries hope to forge an alliance with the North Kingdoms and redirect the berserkers' aggressions toward the Hold of Stonefist.
 
 ***Wegwiur.*** Wolf-Mother Bargra Yefkos of the Wegwiur Hordes is preoccupied with the threat of Iuz, and she meets frequently with clan leaders and Perrenlander mercenaries to strategize. The Wegwiur consider their territory to extend to the Dulsi River, so they fiercely defend the western Howling Hills from the incursion of the hideous monsters that serve Iuz. Several large battles between Wegwiur and the forces of Iuz have taken place in that area.
 
@@ -752,7 +752,7 @@ The cold north is an ideal location for a campaign featuring themes of [sword-an
 
 ### Old Keoland
 
-United by their shared history as part of the ancient Kingdom of Keoland, the marches and fiefdoms between the Lortmil Mountains and the higher mountains to the west gather diverse populations of many different species in relative peace with each other. Even the long-standing feud between Keoland and the Hold of the Sea Princes might be drawing to an end under the leadership of Keoland’s current ruler, King Kimbertos Skotti. The region enjoys a warm, mild climate but faces many threats from monstrous foes.
+United by their shared history as part of the ancient Kingdom of Keoland, the marches and fiefdoms between the Lortmil Mountains and the higher mountains to the west gather diverse populations of many different species in relative peace with each other. Even the long-standing feud between Keoland and the Hold of the Sea Princes might be drawing to an end under the leadership of Keoland's current ruler, King Kimbertos Skotti. The region enjoys a warm, mild climate but faces many threats from monstrous foes.
 
 
 #### Old Keoland Locations
@@ -762,9 +762,9 @@ United by their shared history as part of the ancient Kingdom of Keoland, the ma
 | --- | --- | --- |
 | Bissel, the March of | Margrave Imran Rendulkar (human) | Bone of contention between Keoland, Veluna, and Ket |
 | Geoff, the Grand Duchy of | Grand Duchess Owena Blackthorn (human) | Isolated fiefdom with a long history of battling giants in the nearby mountains |
-| Gran March, the | Commandant Magnus Onyxbeard (dwarf) | Nominal vassal of Keoland and ally with Bissel; the commandant is elected from among the March’s noble houses |
+| Gran March, the | Commandant Magnus Onyxbeard (dwarf) | Nominal vassal of Keoland and ally with Bissel; the commandant is elected from among the March's noble houses |
 | Hold of the Sea Princes, the | Prince Zygmund III of Monmurg (human) | Independent oligarchy of sea traders founded by buccaneers; now a powerful naval force |
-| Keoland, the Kingdom of | King Kimbertos Skotti (human) | Heart of the Old Keoland region, surrounded by friendly neighbors that swear fealty to Keoland’s monarch |
+| Keoland, the Kingdom of | King Kimbertos Skotti (human) | Heart of the Old Keoland region, surrounded by friendly neighbors that swear fealty to Keoland's monarch |
 | Lortmil Mountains, the | — | Natural border between the Old Keoland region and the Central Flanaess |
 | Sterich, the March of | Marquise Quercha Emondav (human) | Nominal vassal state of Keoland, but its ruler is more like a sister than a vassal to the king of Keoland |
 | Ulek, the County of | Countess Lewenn Richfield (human) | Former vassal of Keoland |
@@ -777,7 +777,7 @@ United by their shared history as part of the ancient Kingdom of Keoland, the ma
 
 Old Keoland is a diverse region of the Flanaess where different cultures have mingled for many centuries. Keolish folk often garden, maintain close family ties, have a down-to-earth nature, and love storytelling.
 
-The clothes worn in Old Keoland tend toward loose-fitting shirts and wide-legged pants, voluminous cloaks for cold or wet weather, and sturdy boots. This region’s cuisine represents a fusion of Central Flan dishes of rice, potato, and meat with some spices and seasonings brought from the west, creating unique flavors.
+The clothes worn in Old Keoland tend toward loose-fitting shirts and wide-legged pants, voluminous cloaks for cold or wet weather, and sturdy boots. This region's cuisine represents a fusion of Central Flan dishes of rice, potato, and meat with some spices and seasonings brought from the west, creating unique flavors.
 
 #### Old Keoland and Its Neighbors
 
@@ -804,9 +804,9 @@ One reason for the amicable relations among the nations of Old Keoland is the da
 
 Survivors of the Invoked Devastation that destroyed the ancient Baklunish empire settled the temperate prairies, forests, and coastal lands of the Western Flanaess about a thousand years ago. Largely separated from the rest of the Flanaess by the Yatils, the Barrier Peaks, and the Crystalmist Mountains, these realms are a stronghold of Baklunish cultures.
 
-The nations of Ekbir, Tusmit, and Zeif represent the heart of the region, and two rivers—the Blashikmund and the Tuflik—form natural borders between them. Although the nations currently enjoy peaceful relations, Tusmit profits by playing its political neighbors against each other—Ekbir against Zeif, Zeif against the Ulakandar nomads, the Ulakandar nomads against Ket, and so forth. Pasha Qharlan Sylba of Tusmit is careful to keep his name well clear of these schemes so he can avoid embroiling Tusmit in open warfare. But Tusmit’s spies are currently causing discord by spreading rumors that Zeif is planning to invade Ekbir. Ekbir’s sultan believes the rumors are true and is readying his army.
+The nations of Ekbir, Tusmit, and Zeif represent the heart of the region, and two rivers—the Blashikmund and the Tuflik—form natural borders between them. Although the nations currently enjoy peaceful relations, Tusmit profits by playing its political neighbors against each other—Ekbir against Zeif, Zeif against the Ulakandar nomads, the Ulakandar nomads against Ket, and so forth. Pasha Qharlan Sylba of Tusmit is careful to keep his name well clear of these schemes so he can avoid embroiling Tusmit in open warfare. But Tusmit's spies are currently causing discord by spreading rumors that Zeif is planning to invade Ekbir. Ekbir's sultan believes the rumors are true and is readying his army.
 
-Sultan Naxas Murad of Zeif is a reclusive man, a great philosopher, and a stern father figure to the rulers of Ekbir and Tusmit. Over the years, advisers and family members have urged Naxas to expand Zeif’s borders through military conquest, but he refuses to do so, citing failed land grabs by kingdoms through history as proof that imperial expansion across the Flanaess rarely ends well.
+Sultan Naxas Murad of Zeif is a reclusive man, a great philosopher, and a stern father figure to the rulers of Ekbir and Tusmit. Over the years, advisers and family members have urged Naxas to expand Zeif's borders through military conquest, but he refuses to do so, citing failed land grabs by kingdoms through history as proof that imperial expansion across the Flanaess rarely ends well.
 
 
 #### Western Flanaess Locations
@@ -821,7 +821,7 @@ Sultan Naxas Murad of Zeif is a reclusive man, a great philosopher, and a stern 
 | Sea of Dust, the | — | Wasteland where the Suel Imperium once stood |
 | Tusmit, the Pashalik of | Pasha Qharlan Sylba (human) | Monarchy profiting by playing its neighbors against each other |
 | Ull | Orakhan Drasika Borinok (human) | Independent fiefdom founded by Ulakandar nomads who settled the land |
-| Zeif, the Sultanate of | Sultan Naxas Murad (human) | Monarchy ruled by a reclusive philosopher who resists his advisers’ call to imperial expansion |
+| Zeif, the Sultanate of | Sultan Naxas Murad (human) | Monarchy ruled by a reclusive philosopher who resists his advisers' call to imperial expansion |
 
 #### Western Flanaess Culture
 
@@ -831,7 +831,7 @@ The clothing favored by the people of the Western Flanaess features bright patte
 
 #### Western Flanaess and Its Neighbors
 
-Ket is the crossroads between the Western Flanaess and the rest of the continent, nestled between the Yatil Mountains and Barrier Peaks. Though it was founded by Baklunish settlers, Ket’s proximity to both Bissel (and the lands of Old Keoland) and Veluna (and the Central Flanaess) makes it a vibrant, multicultural land rich from extensive trade. Its culture reflects the breadth of its trade, including sizable populations of dragonborn and tieflings and displaying a fusion of Baklunish and Oeridian influence. This mixture is visible in the title of its ruler, which is a combination of a Baklunish title (bey) and an Oeridian one (graf). The beygraf is a noble chosen by the lords of Lopolla’s wealthiest, most influential families. Many of these lords also serve as generals in the Kettish military. The current beygraf, Zoltana Lhaz, is a skilled diplomat who so far has balanced the interests of different forces both inside her nation and among her neighbors.
+Ket is the crossroads between the Western Flanaess and the rest of the continent, nestled between the Yatil Mountains and Barrier Peaks. Though it was founded by Baklunish settlers, Ket's proximity to both Bissel (and the lands of Old Keoland) and Veluna (and the Central Flanaess) makes it a vibrant, multicultural land rich from extensive trade. Its culture reflects the breadth of its trade, including sizable populations of dragonborn and tieflings and displaying a fusion of Baklunish and Oeridian influence. This mixture is visible in the title of its ruler, which is a combination of a Baklunish title (bey) and an Oeridian one (graf). The beygraf is a noble chosen by the lords of Lopolla's wealthiest, most influential families. Many of these lords also serve as generals in the Kettish military. The current beygraf, Zoltana Lhaz, is a skilled diplomat who so far has balanced the interests of different forces both inside her nation and among her neighbors.
 
 #### Western Flanaess Adventures
 

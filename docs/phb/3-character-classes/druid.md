@@ -10,7 +10,7 @@
     | Weapon Proficiencies | Simple weapons |
     | Tool Proficiencies | Herbalism Kit |
     | Armor Training | Light armor and Shields |
-    | Starting Equipment | *Choose A or B:* (A) [Leather Armor](/equipment/10-leather), [Shield](/equipment/8-shield), [Sickle](/equipment/13-sickle), [Druidic Focus](/equipment/532-druidic-focus) ([Quarterstaff](/equipment/12-quarterstaff)), [Explorer’s Pack](/equipment/522-explorers-pack), [Herbalism Kit](/equipment/460-herbalism-kit), and 9 GP; or (B) 50 GP |
+    | Starting Equipment | *Choose A or B:* (A) [Leather Armor](/equipment/10-leather), [Shield](/equipment/8-shield), [Sickle](/equipment/13-sickle), [Druidic Focus](/equipment/532-druidic-focus) ([Quarterstaff](/equipment/12-quarterstaff)), [Explorer's Pack](/equipment/522-explorers-pack), [Herbalism Kit](/equipment/460-herbalism-kit), and 9 GP; or (B) 50 GP |
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.
 
@@ -23,12 +23,12 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 ### As a Level 1 Druid
 
 * Gain all the traits in the [Core Druid Traits table](#CoreDruidTraits).
-* Gain the Druid’s level 1 features, which are listed in the [Druid Features table](#DruidFeatures).
+* Gain the Druid's level 1 features, which are listed in the [Druid Features table](#DruidFeatures).
 
 ### As a Multiclass Druid
 
 * Gain the following traits from the [Core Druid Traits table](#CoreDruidTraits): Hit Point Die and training with Light armor and Shields.
-* Gain the Druid’s level 1 features, which are listed in the [Druid Features table](#DruidFeatures). See the multiclassing rules in [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
+* Gain the Druid's level 1 features, which are listed in the [Druid Features table](#DruidFeatures). See the multiclassing rules in [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#Multiclassing) to determine your available spell slots.
 
 ## Druid Class Features
 
@@ -61,7 +61,7 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through studying the mystical forces of nature. See [chapter 7](https://www.dndbeyond.com/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](#DruidSpellList) later in the class’s description.
+You have learned to cast spells through studying the mystical forces of nature. See [chapter 7](https://www.dndbeyond.com/sources/dnd/phb-2024/spells/) for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](#DruidSpellList) later in the class's description.
 
 ***Cantrips.*** You know two cantrips of your choice from the Druid spell list. [Druidcraft](/spells/2619158-druidcraft) and [Produce Flame](/spells/2618901-produce-flame) are recommended.
 
@@ -73,9 +73,9 @@ When you reach Druid levels 4 and 10, you learn another cantrip of your choice f
 
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [Animal Friendship](/spells/2618847-animal-friendship), [Cure Wounds](/spells/2619079-cure-wounds), [Faerie Fire](/spells/2618858-faerie-fire), and [Thunderwave](/spells/2619184-thunderwave) are recommended.
 
-The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Druid feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.
+If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.
 
 ***Changing Your Prepared Spells.*** Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest), you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
 
@@ -87,7 +87,7 @@ If another Druid feature gives you spells that you always have prepared, those s
 
 You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [Speak with Animals](/spells/2619059-speak-with-animals) spell prepared.
 
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence ([Investigation](/sources/dnd/free-rules/playing-the-game#Skills)) check but can’t decipher it without magic.
+You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence ([Investigation](/sources/dnd/free-rules/playing-the-game#Skills)) check but can't decipher it without magic.
 
 ### Level 1: Primal Order
 
@@ -125,11 +125,11 @@ When choosing known forms, you may look in the *Monster Manual* or elsewhere for
 
 **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to your Druid level.
 
-**Game Statistics.** Your game statistics are replaced by the Beast’s stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast’s stat block is higher than yours, use the one in the stat block.
+**Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
 
-**No Spellcasting.** You can’t cast spells, but shape-shifting doesn’t break your [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) or otherwise interfere with a spell you’ve already cast.
+**No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [Concentration](/sources/dnd/free-rules/rules-glossary#Concentration) or otherwise interfere with a spell you've already cast.
 
-**Objects.** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
+**Objects.** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
 
 ### Level 2: Wild Companion
 
@@ -139,7 +139,7 @@ When you cast the spell in this way, the familiar is Fey and disappears when you
 
 ### Level 3: Druid Subclass
 
-You gain a Druid subclass of your choice. The [Circle of the Land](#CircleoftheLand), [Circle of the Moon](#CircleoftheMoon), [Circle of the Sea](#CircleoftheSea), and [Circle of the Stars](#CircleoftheStars) subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
+You gain a Druid subclass of your choice. The [Circle of the Land](#CircleoftheLand), [Circle of the Moon](#CircleoftheMoon), [Circle of the Sea](#CircleoftheSea), and [Circle of the Stars](#CircleoftheStars) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower.
 
 ### Level 4: Ability Score Improvement
 
@@ -149,7 +149,7 @@ You gain the Ability Score Improvement feat (see [chapter 5](https://www.dndbeyo
 
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ### Level 7: Elemental Fury
 
@@ -157,13 +157,13 @@ The might of the elements flows through you. You gain one of the following optio
 
 ***Potent Spellcasting.*** Add your Wisdom modifier to the damage you deal with any Druid cantrip.
 
-***Primal Strike.*** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
+***Primal Strike.*** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
 ### Level 15: Improved Elemental Fury
 
 The option you chose for Elemental Fury grows more powerful, as detailed below.
 
-***Potent Spellcasting.*** When you cast a Druid cantrip with a range of 10 feet or greater, the spell’s range increases by 300 feet.
+***Potent Spellcasting.*** When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet.
 
 ***Primal Strike.*** The extra damage of your Primal Strike increases to 2d8.
 
@@ -181,13 +181,13 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 ***Evergreen Wild Shape.*** Whenever you roll [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) and have no uses of Wild Shape left, you regain one expended use of it.
 
-***Nature Magician.*** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
+***Nature Magician.*** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ***Longevity.*** The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
 
 ## Druid Spell List
 
-This section presents the Druid spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it’s a Ritual, and *M* means it requires a specific Material component.
+This section presents the Druid spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
 
 
 ### Cantrips (Level 0 Druid Spells)
@@ -348,7 +348,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | [Find the Path](/spells/2618881-find-the-path) | Divination | C, M |
 | [Flesh to Stone](/spells/2618905-flesh-to-stone) | Transmutation | C |
 | [Heal](/spells/2618979-heal) | Abjuration | — |
-| [Heroes’ Feast](/spells/2618983-heroes-feast) | Conjuration | M |
+| [Heroes' Feast](/spells/2618983-heroes-feast) | Conjuration | M |
 | [Move Earth](/spells/2619120-move-earth) | Transmutation | C |
 | [Sunbeam](/spells/2619121-sunbeam) | Evocation | C |
 | [Transport via Plants](/spells/2619196-transport-via-plants) | Conjuration | — |
@@ -402,7 +402,7 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 *Celebrate Connection to the Natural World*
 
-The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of their communities.
+The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
 
 #### Level 3: Circle of the Land Spells
 
@@ -452,7 +452,7 @@ Whenever you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRes
 | 7 | [Polymorph](/spells/2618876-polymorph) |
 | 9 | [Insect Plague](/spells/2619183-insect-plague) |
 
-#### Level 3: Land’s Aid
+#### Level 3: Land's Aid
 
 As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [Sphere](/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect) centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.
 
@@ -462,14 +462,14 @@ The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 
 
 You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest) before you do so again.
 
-In addition, when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you’re a level 6 Druid, you can recover up to three levels’ worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can’t do so again until you finish a Long Rest.
+In addition, when you finish a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest), you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a Long Rest.
 
-#### Level 10: Nature’s Ward
+#### Level 10: Nature's Ward
 
-You are immune to the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature’s Ward table.
+You are immune to the [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition, and you have Resistance to a damage type associated with your current land choice in the Circle Spells feature, as shown in the Nature's Ward table.
 
 
-#### Nature’s Ward
+#### Nature's Ward
 
 
 | Land Type | Resistance |
@@ -479,9 +479,9 @@ You are immune to the [Poisoned](/sources/dnd/free-rules/rules-glossary#Poisoned
 | Temperate | Lightning |
 | Tropical | Poison |
 
-#### Level 14: Nature’s Sanctuary
+#### Level 14: Nature's Sanctuary
 
-As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition or die. You and your allies have [Half Cover](/sources/dnd/free-rules/rules-glossary#Cover) while in that area, and your allies gain the current Resistance of your Nature’s Ward while there.
+As a [Magic](/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube](/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition or die. You and your allies have [Half Cover](/sources/dnd/free-rules/rules-glossary#Cover) while in that area, and your allies gain the current Resistance of your Nature's Ward while there.
 
 As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet of yourself.
 
@@ -491,7 +491,7 @@ As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet
 
 Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.
 
-Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid’s blood.
+Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.
 
 #### Level 3: Circle Forms
 
@@ -499,7 +499,7 @@ You can channel lunar magic when you assume a Wild Shape form, granting you the 
 
 ***Challenge Rating.*** The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
 
-***Armor Class.*** Until you leave the form, your AC equals 13 plus your Wisdom modifier if that total is higher than the Beast’s AC.
+***Armor Class.*** Until you leave the form, your AC equals 13 plus your Wisdom modifier if that total is higher than the Beast's AC.
 
 ***Temporary Hit Points.*** You gain a number of [Temporary Hit Points](/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to three times your Druid level.
 
@@ -507,7 +507,7 @@ You can channel lunar magic when you assume a Wild Shape form, granting you the 
 
 When you reach a Druid level specified in the Circle of the Moon Spells table, you thereafter always have the listed spells prepared.
 
-In addition, you can cast the spells from this feature while you’re in a Wild Shape form.
+In addition, you can cast the spells from this feature while you're in a Wild Shape form.
 
 
 #### Circle of the Moon Spells
@@ -538,7 +538,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 The power of the moon suffuses you, granting you the following benefits.
 
-***Improved Lunar Radiance.*** Once per turn, you can deal an extra 2d10 Radiant damage to a target you hit with a Wild Shape form’s attack.
+***Improved Lunar Radiance.*** Once per turn, you can deal an extra 2d10 Radiant damage to a target you hit with a Wild Shape form's attack.
 
 ***Shared Moonlight.*** Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space.
 
@@ -546,7 +546,7 @@ The power of the moon suffuses you, granting you the following benefits.
 
 *Become One with Tides and Storms*
 
-Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature’s wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
+Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
 
 #### Level 3: Circle of the Sea Spells
 
@@ -597,7 +597,7 @@ The Circle of the Stars has tracked heavenly patterns since time immemorial, dis
 
 #### Level 3: Star Map
 
-You’ve created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a Spellcasting Focus for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.
+You've created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a Spellcasting Focus for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.
 
 While holding the map, you have the [Guidance](/spells/2618971-guidance) and [Guiding Bolt](/spells/2619136-guiding-bolt) spells prepared, and you can cast *Guiding Bolt* without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/sources/dnd/free-rules/rules-glossary#LongRest).
 

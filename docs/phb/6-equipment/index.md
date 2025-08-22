@@ -1,11 +1,11 @@
 # Chapter 6: Equipment
 
-The right equipment can make the difference between success and failure for adventurers. This chapter provides rules and prices for weapons, armor, and other kinds of equipment that characters might purchase or find. The DM lets you know if a shop has an item for sale and whether it’s available at the listed price.
+The right equipment can make the difference between success and failure for adventurers. This chapter provides rules and prices for weapons, armor, and other kinds of equipment that characters might purchase or find. The DM lets you know if a shop has an item for sale and whether it's available at the listed price.
 
 Coins
 -----
 
-Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of their material. The Coin Values table lists coins and how much they’re worth relative to the Gold Piece, which is the game’s main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of their material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
@@ -22,12 +22,12 @@ A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 | Platinum Piece (PP) | 10 |
 
 !!! note "Selling Equipment"
-    Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The *[Dungeon Master’s Guide](/sources/dnd/dmg-2024)* has prices for [magic items](/sources/dnd/dmg-2024/magic-items).
+    Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The *[Dungeon Master's Guide](/sources/dnd/dmg-2024)* has prices for [magic items](/sources/dnd/dmg-2024/magic-items).
 
 Weapons
 -------
 
-The Weapons table in this section shows the game’s main weapons. The table lists the cost and weight of each weapon, as well as the following details:
+The Weapons table in this section shows the game's main weapons. The table lists the cost and weight of each weapon, as well as the following details:
 
 **Category.** Every weapon falls into a category: Simple or Martial. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
 
@@ -90,7 +90,7 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 
 ### Weapon Proficiency
 
-Anyone can wield a weapon, but you must have proficiency with it to add your Proficiency Bonus to an attack roll you make with it. A player character’s features can provide weapon proficiencies. A monster is proficient with any weapon in its stat block.
+Anyone can wield a weapon, but you must have proficiency with it to add your Proficiency Bonus to an attack roll you make with it. A player character's features can provide weapon proficiencies. A monster is proficient with any weapon in its stat block.
 
 ### Properties
 
@@ -98,7 +98,7 @@ Here are definitions of the properties in the Properties column of the Weapons t
 
 #### Ammunition
 
-You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon’s range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
+You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 #### Finesse
 
@@ -106,14 +106,14 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 
 #### Heavy
 
-You have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on attack rolls with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 13 or if it’s a Ranged weapon and your Dexterity score isn’t at least 13.
+You have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 !!! note "Improvised Weapons"
     If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[Improvised Weapons](/sources/dnd/free-rules/rules-glossary#ImprovisedWeapons)" in the [rules glossary](/sources/dnd/phb-2024/rules-glossary#ImprovisedWeapons). Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
 
 #### Light
 
-When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don’t add your ability modifier to the extra attack’s damage unless that modifier is negative. For example, you can attack with a [Shortsword](/equipment/30-shortsword) in one hand and a [Dagger](/equipment/3-dagger) in the other using the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action and a Bonus Action, but you don’t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [Shortsword](/equipment/30-shortsword) in one hand and a [Dagger](/equipment/3-dagger) in the other using the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 #### Loading
 
@@ -121,7 +121,7 @@ You can fire only one piece of ammunition from a Loading weapon when you use an 
 
 #### Range
 
-A Range weapon has a range in parentheses after the [Ammunition](/sources/dnd/free-rules/equipment#Ammunition) or [Thrown](/sources/dnd/free-rules/equipment#Thrown) property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second is the weapon’s long range. When attacking a target beyond normal range, you have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on the attack roll. You can’t attack a target beyond the long range.
+A Range weapon has a range in parentheses after the [Ammunition](/sources/dnd/free-rules/equipment#Ammunition) or [Thrown](/sources/dnd/free-rules/equipment#Thrown) property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on the attack roll. You can't attack a target beyond the long range.
 
 #### Reach
 
@@ -145,7 +145,7 @@ Each weapon has a mastery property, which is usable only by a character who has 
 
 #### Cleave
 
-If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 #### Graze
 
@@ -165,7 +165,7 @@ If you hit a creature with this weapon, that creature has [Disadvantage](/source
 
 #### Slow
 
-If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
+If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
 
 #### Topple
 
@@ -178,13 +178,13 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 Armor
 -----
 
-The Armor table lists the game’s main armor. The table includes the cost and weight of armor, as well as the following details:
+The Armor table lists the game's main armor. The table includes the cost and weight of armor, as well as the following details:
 
 **Category.** Every type of armor falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armor (as shown in the table).
 
-**Armor Class (AC).** The table’s Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
+**Armor Class (AC).** The table's Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
 
-**Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+**Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
 **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on Dexterity ([Stealth](/sources/dnd/free-rules/playing-the-game#Skills)) checks.
 
@@ -214,11 +214,11 @@ The Armor table lists the game’s main armor. The table includes the cost and w
 
 ### Armor Training
 
-Anyone can don armor or hold a Shield, but only those with training can use them effectively, as explained below. A character’s class and other features determine the character’s armor training. A monster has training with any armor in its stat block.
+Anyone can don armor or hold a Shield, but only those with training can use them effectively, as explained below. A character's class and other features determine the character's armor training. A monster has training with any armor in its stat block.
 
 #### Light, Medium, or Heavy Armor
 
-If you wear Light, Medium, or Heavy armor and lack training with it, you have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on any [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test) that involves Strength or Dexterity, and you can’t cast spells.
+If you wear Light, Medium, or Heavy armor and lack training with it, you have [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on any [D20 Test](/sources/dnd/free-rules/rules-glossary#D20Test) that involves Strength or Dexterity, and you can't cast spells.
 
 #### Shield
 
@@ -229,16 +229,16 @@ You gain the Armor Class benefit of a Shield only if you have training with it.
 A creature can wear only one suit of armor at a time and wield only one Shield at a time.
 
 !!! note "Variant: Equipment Sizes"
-    In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, an orc adventurer won’t fit in a halfling’s Leather Armor, and a cloud giant’s robe would be far too large for a gnome.
+    In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, an orc adventurer won't fit in a halfling's Leather Armor, and a cloud giant's robe would be far too large for a gnome.
 
-    The DM can impose more realism. For example, a suit of Plate Armor made for one human might not fit another one without significant alterations, and a guard’s uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
+    The DM can impose more realism. For example, a suit of Plate Armor made for one human might not fit another one without significant alterations, and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
 
     Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit a smith, a tailor, a leatherworker, or a similar expert to make the item wearable. The cost for such work is 1d4 × 10 percent of the market price of the item.
 
 Tools
 -----
 
-A tool helps you make specialized ability checks, craft certain items, or both. A tool’s description includes the tool’s cost and weight, as well as the following entries:
+A tool helps you make specialized ability checks, craft certain items, or both. A tool's description includes the tool's cost and weight, as well as the following entries:
 
 **Ability.** This entry lists the ability to use when making an ability check with the tool.
 
@@ -250,25 +250,25 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 
 ### Tool Proficiency
 
-If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that’s used with that check, you have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the check too.
+If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the check too.
 
 Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
 
-### Artisan’s Tools
+### Artisan's Tools
 
-Artisan’s Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
+Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
 
 ---
 
-#### Alchemist’s Supplies [(50 GP)](/equipment/397-alchemists-supplies)
+#### Alchemist's Supplies [(50 GP)](/equipment/397-alchemists-supplies)
 
 **Ability:** Intelligence   
 **Utilize:** Identify a substance (DC 15), or start a fire (DC 15)   
-**Craft:** [Acid](/equipment/500-acid), [Alchemist’s Fire](/equipment/504-alchemists-fire), [Component Pouch](/equipment/538-component-pouch), [Oil](/equipment/393-oil), [Paper](/equipment/394-paper), [Perfume](/equipment/396-perfume)
+**Craft:** [Acid](/equipment/500-acid), [Alchemist's Fire](/equipment/504-alchemists-fire), [Component Pouch](/equipment/538-component-pouch), [Oil](/equipment/393-oil), [Paper](/equipment/394-paper), [Perfume](/equipment/396-perfume)
 
 ---
 
-#### Brewer’s Supplies [(20 GP)](/equipment/402-brewers-supplies)
+#### Brewer's Supplies [(20 GP)](/equipment/402-brewers-supplies)
 
 **Ability:** Intelligence   
 **Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10)   
@@ -276,7 +276,7 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Calligrapher’s Supplies [(10 GP)](/equipment/404-calligraphers-supplies)
+#### Calligrapher's Supplies [(10 GP)](/equipment/404-calligraphers-supplies)
 
 **Ability:** Dexterity   
 **Utilize:** Write text with impressive flourishes that guard against forgery (DC 15)   
@@ -284,7 +284,7 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Carpenter’s Tools [(8 GP)](/equipment/409-carpenters-tools)
+#### Carpenter's Tools [(8 GP)](/equipment/409-carpenters-tools)
 
 **Ability:** Strength   
 **Utilize:** Seal or pry open a door or container (DC 20)   
@@ -292,7 +292,7 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Cartographer’s Tools [(15 GP)](/equipment/413-cartographers-tools)
+#### Cartographer's Tools [(15 GP)](/equipment/413-cartographers-tools)
 
 **Ability:** Wisdom   
 **Utilize:** Draft a map of a small area (DC 15)   
@@ -300,23 +300,23 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Cobbler’s Tools [(5 GP)](/equipment/416-cobblers-tools)
+#### Cobbler's Tools [(5 GP)](/equipment/416-cobblers-tools)
 
 **Ability:** Dexterity   
-**Utilize:** Modify footwear to give [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the wearer’s next Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check (DC 10)   
-**Craft:** [Climber’s Kit](/equipment/533-climbers-kit)
+**Utilize:** Modify footwear to give [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on the wearer's next Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check (DC 10)   
+**Craft:** [Climber's Kit](/equipment/533-climbers-kit)
 
 ---
 
-#### Cook’s Utensils [(1 GP)](/equipment/419-cooks-utensils)
+#### Cook's Utensils [(1 GP)](/equipment/419-cooks-utensils)
 
 **Ability:** Wisdom   
-**Utilize:** Improve food’s flavor (DC 10), or detect spoiled or poisoned food (DC 15)   
+**Utilize:** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)   
 **Craft:** [Rations](/equipment/411-rations)
 
 ---
 
-#### Glassblower’s Tools [(30 GP)](/equipment/421-glassblowers-tools)
+#### Glassblower's Tools [(30 GP)](/equipment/421-glassblowers-tools)
 
 **Ability:** Intelligence   
 **Utilize:** Discern what a glass object held in the past 24 hours (DC 15)   
@@ -324,15 +324,15 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Jeweler’s Tools [(25 GP)](/equipment/423-jewelers-tools)
+#### Jeweler's Tools [(25 GP)](/equipment/423-jewelers-tools)
 
 **Ability:** Intelligence   
-**Utilize:** Discern a gem’s value (DC 15)   
+**Utilize:** Discern a gem's value (DC 15)   
 **Craft:** [Arcane Focus](/equipment/544-arcane-focus), [Holy Symbol](/equipment/514-holy-symbol)
 
 ---
 
-#### Leatherworker’s Tools [(5 GP)](/equipment/425-leatherworkers-tools)
+#### Leatherworker's Tools [(5 GP)](/equipment/425-leatherworkers-tools)
 
 **Ability:** Dexterity   
 **Utilize:** Add a design to a leather item (DC 10)   
@@ -340,7 +340,7 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Mason’s Tools [(10 GP)](/equipment/428-masons-tools)
+#### Mason's Tools [(10 GP)](/equipment/428-masons-tools)
 
 **Ability:** Strength   
 **Utilize:** Chisel a symbol or hole in stone (DC 10)   
@@ -348,15 +348,15 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Painter’s Supplies [(10 GP)](/equipment/432-painters-supplies)
+#### Painter's Supplies [(10 GP)](/equipment/432-painters-supplies)
 
 **Ability:** Wisdom   
-**Utilize:** Paint a recognizable image of something you’ve seen (DC 10)   
+**Utilize:** Paint a recognizable image of something you've seen (DC 10)   
 **Craft:** [Druidic Focus](/equipment/532-druidic-focus), [Holy Symbol](/equipment/514-holy-symbol)
 
 ---
 
-#### Potter’s Tools [(10 GP)](/equipment/436-potters-tools)
+#### Potter's Tools [(10 GP)](/equipment/436-potters-tools)
 
 **Ability:** Intelligence   
 **Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15)   
@@ -364,7 +364,7 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Smith’s Tools [(20 GP)](/equipment/438-smiths-tools)
+#### Smith's Tools [(20 GP)](/equipment/438-smiths-tools)
 
 **Ability:** Strength   
 **Utilize:** Pry open a door or container (DC 20)   
@@ -372,15 +372,15 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Tinker’s Tools [(50 GP)](/equipment/441-tinkers-tools)
+#### Tinker's Tools [(50 GP)](/equipment/441-tinkers-tools)
 
 **Ability:** Dexterity   
 **Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)   
-**Craft:** [Musket](/equipment/43-musket), [Pistol](/equipment/42-pistol), [Bell](/equipment/429-bell), [Bullseye Lantern](/equipment/494-bullseye-lantern), [Flask](/equipment/519-flask), [Hooded Lantern](/equipment/493-hooded-lantern), [Hunter’s Trap](/equipment/506-hunting-trap), [Lock](/equipment/490-lock), [Manacles](/equipment/487-manacles), [Mirror](/equipment/484-mirror), [Shovel](/equipment/422-shovel), [Signal Whistle](/equipment/424-signal-whistle), [Tinderbox](/equipment/434-tinderbox)
+**Craft:** [Musket](/equipment/43-musket), [Pistol](/equipment/42-pistol), [Bell](/equipment/429-bell), [Bullseye Lantern](/equipment/494-bullseye-lantern), [Flask](/equipment/519-flask), [Hooded Lantern](/equipment/493-hooded-lantern), [Hunter's Trap](/equipment/506-hunting-trap), [Lock](/equipment/490-lock), [Manacles](/equipment/487-manacles), [Mirror](/equipment/484-mirror), [Shovel](/equipment/422-shovel), [Signal Whistle](/equipment/424-signal-whistle), [Tinderbox](/equipment/434-tinderbox)
 
 ---
 
-#### Weaver’s Tools [(1 GP)](/equipment/443-weavers-tools)
+#### Weaver's Tools [(1 GP)](/equipment/443-weavers-tools)
 
 **Ability:** Dexterity   
 **Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)   
@@ -388,7 +388,7 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 ---
 
-#### Woodcarver’s Tools [(1 GP)](/equipment/445-woodcarvers-tools)
+#### Woodcarver's Tools [(1 GP)](/equipment/445-woodcarvers-tools)
 
 **Ability:** Dexterity   
 **Utilize:** Carve a pattern in wood (DC 10)   
@@ -413,7 +413,7 @@ These tools support adventure and other pursuits.
 #### Forgery Kit [(15 GP)](/equipment/543-forgery-kit)
 
 **Ability:** Dexterity   
-**Utilize:** Mimic 10 or fewer words of someone else’s handwriting (DC 15), or duplicate a wax seal (DC 20)
+**Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
 
 ---
 
@@ -429,7 +429,7 @@ These tools support adventure and other pursuits.
 
 **Ability:** Intelligence   
 **Utilize:** Identify a plant (DC 10)   
-**Craft:** [Antitoxin](/equipment/520-antitoxin), [Candle](/equipment/501-candle), [Healer’s Kit](/equipment/515-healers-kit), [Potion of Healing](/magic-items/8960641-potion-of-healing)
+**Craft:** [Antitoxin](/equipment/520-antitoxin), [Candle](/equipment/501-candle), [Healer's Kit](/equipment/515-healers-kit), [Potion of Healing](/magic-items/8960641-potion-of-healing)
 
 ---
 
@@ -441,14 +441,14 @@ These tools support adventure and other pursuits.
 
 ---
 
-#### Navigator’s Tools [(25 GP)](/equipment/488-navigators-tools)
+#### Navigator's Tools [(25 GP)](/equipment/488-navigators-tools)
 
 **Ability:** Wisdom   
 **Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
 
 ---
 
-#### Poisoner’s Kit [(50 GP)](/equipment/492-poisoners-kit)
+#### Poisoner's Kit [(50 GP)](/equipment/492-poisoners-kit)
 
 **Ability:** Intelligence   
 **Utilize:** Detect a poisoned object (DC 10)   
@@ -456,7 +456,7 @@ These tools support adventure and other pursuits.
 
 ---
 
-#### Thieves’ Tools [(25 GP)](/equipment/495-thieves-tools)
+#### Thieves' Tools [(25 GP)](/equipment/495-thieves-tools)
 
 **Ability:** Dexterity   
 **Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
@@ -466,7 +466,7 @@ Adventuring Gear
 
 A Warlock channels magic through an Arcane Focus
 
-The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item’s price appearing after its name.
+The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
 
 ### Adventuring Gear
@@ -475,7 +475,7 @@ The Adventuring Gear table in this section includes gear that adventurers often 
 | Item | Weight | Cost |
 | --- | --- | --- |
 | [Acid](#Acid25GP) | 1 lb. | 25 GP |
-| [Alchemist’s Fire](#AlchemistsFire50GP) | 1 lb. | 50 GP |
+| [Alchemist's Fire](#AlchemistsFire50GP) | 1 lb. | 50 GP |
 | [Ammunition](#AmmunitionVaries) | Varies | Varies |
 | [Antitoxin](#Antitoxin50GP) | — | 50 GP |
 | [Arcane Focus](#ArcaneFocusVaries) | Varies | Varies |
@@ -490,27 +490,27 @@ The Adventuring Gear table in this section includes gear that adventurers often 
 | [Book](#Book25GP) | 5 lb. | 25 GP |
 | [Bottle, Glass](#BottleGlass2GP) | 2 lb. | 2 GP |
 | [Bucket](#Bucket5CP) | 2 lb. | 5 CP |
-| [Burglar’s Pack](#BurglarsPack16GP) | 42 lb. | 16 GP |
+| [Burglar's Pack](#BurglarsPack16GP) | 42 lb. | 16 GP |
 | [Caltrops](#Caltrops1GP) | 2 lb. | 1 GP |
 | [Candle](#Candle1CP) | — | 1 CP |
 | [Case, Crossbow Bolt](#CaseCrossbowBolt1GP) | 1 lb. | 1 GP |
 | [Case, Map or Scroll](#CaseMaporScroll1GP) | 1 lb. | 1 GP |
 | [Chain](#Chain5GP) | 10 lb. | 5 GP |
 | [Chest](#Chest5GP) | 25 lb. | 5 GP |
-| [Climber’s Kit](#ClimbersKit25GP) | 12 lb. | 25 GP |
+| [Climber's Kit](#ClimbersKit25GP) | 12 lb. | 25 GP |
 | [Clothes, Fine](#ClothesFine15GP) | 6 lb. | 15 GP |
-| [Clothes, Traveler’s](#ClothesTravelers2GP) | 4 lb. | 2 GP |
+| [Clothes, Traveler's](#ClothesTravelers2GP) | 4 lb. | 2 GP |
 | [Component Pouch](#ComponentPouch25GP) | 2 lb. | 25 GP |
 | [Costume](#Costume5GP) | 4 lb. | 5 GP |
 | [Crowbar](#Crowbar2GP) | 5 lb. | 2 GP |
-| [Diplomat’s Pack](#DiplomatsPack39GP) | 39 lb. | 39 GP |
+| [Diplomat's Pack](#DiplomatsPack39GP) | 39 lb. | 39 GP |
 | [Druidic Focus](#DruidicFocusVaries) | Varies | Varies |
-| [Dungeoneer’s Pack](#DungeoneersPack12GP) | 55 lb. | 12 GP |
-| [Entertainer’s Pack](#EntertainersPack40GP) | 58½ lb. | 40 GP |
-| [Explorer’s Pack](#ExplorersPack10GP) | 55 lb. | 10 GP |
+| [Dungeoneer's Pack](#DungeoneersPack12GP) | 55 lb. | 12 GP |
+| [Entertainer's Pack](#EntertainersPack40GP) | 58½ lb. | 40 GP |
+| [Explorer's Pack](#ExplorersPack10GP) | 55 lb. | 10 GP |
 | [Flask](#Flask2CP) | 1 lb. | 2 CP |
 | [Grappling Hook](#GrapplingHook2GP) | 4 lb. | 2 GP |
-| [Healer’s Kit](#HealersKit5GP) | 3 lb. | 5 GP |
+| [Healer's Kit](#HealersKit5GP) | 3 lb. | 5 GP |
 | [Holy Symbol](#HolySymbolVaries) | Varies | Varies |
 | [Holy Water](#HolyWater25GP) | 1 lb. | 25 GP |
 | [Hunting Trap](#HuntingTrap5GP) | 25 lb. | 5 GP |
@@ -536,14 +536,14 @@ The Adventuring Gear table in this section includes gear that adventurers often 
 | [Pot, Iron](#PotIron2GP) | 10 lb. | 2 GP |
 | [Potion of Healing](#PotionofHealing50GP) | 1/2 lb. | 50 GP |
 | [Pouch](#Pouch5SP) | 1 lb. | 5 SP |
-| [Priest’s Pack](#PriestsPack33GP) | 29 lb. | 33 GP |
+| [Priest's Pack](#PriestsPack33GP) | 29 lb. | 33 GP |
 | [Quiver](#Quiver1GP) | 1 lb. | 1 GP |
 | [Ram, Portable](#RamPortable4GP) | 35 lb. | 4 GP |
 | [Rations](#Rations5SP) | 2 lb. | 5 SP |
 | [Robe](#Robe1GP) | 4 lb. | 1 GP |
 | [Rope](#Rope1GP) | 5 lb. | 1 GP |
 | [Sack](#Sack1CP) | 1/2 lb. | 1 CP |
-| [Scholar’s Pack](#ScholarsPack40GP) | 22 lb. | 40 GP |
+| [Scholar's Pack](#ScholarsPack40GP) | 22 lb. | 40 GP |
 | [Shovel](#Shovel2GP) | 5 lb. | 2 GP |
 | [Signal Whistle](#SignalWhistle5CP) | — | 5 CP |
 | [*Spell Scroll* (Cantrip)](#SpellScrollCantrip30GPLevel150GP) | — | 30 GP |
@@ -565,15 +565,15 @@ When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) 
 
 ---
 
-#### Alchemist’s Fire [(50 GP)](/equipment/504-alchemists-fire)
+#### Alchemist's Fire [(50 GP)](/equipment/504-alchemists-fire)
 
-When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start [burning](/sources/dnd/free-rules/rules-glossary#BurningHazard) (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary#BurningHazard)).
+When you take the [Attack](/sources/dnd/free-rules/rules-glossary#AttackAction) action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start [burning](/sources/dnd/free-rules/rules-glossary#BurningHazard) (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary#BurningHazard)).
 
 ---
 
 #### Ammunition (Varies)
 
-Ammunition is required by a weapon that has the [Ammunition](/sources/dnd/free-rules/equipment#Ammunition) property. A weapon’s description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
+Ammunition is required by a weapon that has the [Ammunition](/sources/dnd/free-rules/equipment#Ammunition) property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
 
 
 ##### Ammunition
@@ -639,7 +639,7 @@ A Basket holds up to 40 pounds within 2 cubic feet.
 
 #### Bedroll [(1 GP)](/equipment/420-bedroll)
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the *Dungeon Master’s Guide*).
+A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the *Dungeon Master's Guide*).
 
 ---
 
@@ -651,7 +651,7 @@ When rung as a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) a
 
 #### Blanket [(5 SP)](/equipment/431-blanket)
 
-While wrapped in a blanket, you have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on saving throws against extreme cold (see the *Dungeon Master’s Guide*).
+While wrapped in a blanket, you have [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on saving throws against extreme cold (see the *Dungeon Master's Guide*).
 
 ---
 
@@ -679,9 +679,9 @@ A Bucket holds up to half a cubic foot of contents.
 
 ---
 
-#### Burglar’s Pack [(16 GP)](/equipment/491-burglars-pack)
+#### Burglar's Pack [(16 GP)](/equipment/491-burglars-pack)
 
-A Burglar’s Pack contains the following items: [Backpack](/equipment/399-backpack), [Ball Bearings](/equipment/406-ball-bearings), [Bell](/equipment/429-bell), 10 [Candles](/equipment/501-candle), [Crowbar](/equipment/535-crowbar), [Hooded Lantern](/equipment/493-hooded-lantern), 7 flasks of [Oil](/equipment/393-oil), 5 days of [Rations](/equipment/411-rations), [Rope](/equipment/415-rope), [Tinderbox](/equipment/434-tinderbox), and [Waterskin](/equipment/442-waterskin).
+A Burglar's Pack contains the following items: [Backpack](/equipment/399-backpack), [Ball Bearings](/equipment/406-ball-bearings), [Bell](/equipment/429-bell), 10 [Candles](/equipment/501-candle), [Crowbar](/equipment/535-crowbar), [Hooded Lantern](/equipment/493-hooded-lantern), 7 flasks of [Oil](/equipment/393-oil), 5 days of [Rations](/equipment/411-rations), [Rope](/equipment/415-rope), [Tinderbox](/equipment/434-tinderbox), and [Waterskin](/equipment/442-waterskin).
 
 ---
 
@@ -711,7 +711,7 @@ A Map or Scroll Case holds up to 10 sheets of [paper](/equipment/394-paper) or 5
 
 #### Chain [(5 GP)](/equipment/521-chain)
 
-As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition), [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition), or [Restrained](/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition if you succeed on a DC 13 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action. Bursting the Chain requires a successful DC 20 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action.
+As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition), [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition), or [Restrained](/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition if you succeed on a DC 13 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action. Bursting the Chain requires a successful DC 20 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action.
 
 ---
 
@@ -721,9 +721,9 @@ A Chest holds up to 12 cubic feet of contents.
 
 ---
 
-#### Climber’s Kit [(25 GP)](/equipment/533-climbers-kit)
+#### Climber's Kit [(25 GP)](/equipment/533-climbers-kit)
 
-A Climber’s Kit includes boot tips, gloves, pitons, and a harness. As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can use the Climber’s Kit to anchor yourself; when you do, you can’t fall more than 25 feet from the anchor point, and you can’t move more than 25 feet from there without undoing the anchor as a Bonus Action.
+A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a Bonus Action.
 
 ---
 
@@ -733,9 +733,9 @@ Fine Clothes are made of expensive fabrics and adorned with expertly crafted det
 
 ---
 
-#### Clothes, Traveler’s [(2 GP)](/equipment/541-travelers-clothes)
+#### Clothes, Traveler's [(2 GP)](/equipment/541-travelers-clothes)
 
-Traveler’s Clothes are resilient garments designed for travel in various environments.
+Traveler's Clothes are resilient garments designed for travel in various environments.
 
 ---
 
@@ -753,13 +753,13 @@ While wearing a Costume, you have [Advantage](/sources/dnd/free-rules/rules-glos
 
 #### Crowbar [(2 GP)](/equipment/535-crowbar)
 
-Using a Crowbar gives you [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on Strength checks where the Crowbar’s leverage can be applied.
+Using a Crowbar gives you [Advantage](/sources/dnd/free-rules/rules-glossary#Advantage) on Strength checks where the Crowbar's leverage can be applied.
 
 ---
 
-#### Diplomat’s Pack [(39 GP)](/equipment/534-diplomats-pack)
+#### Diplomat's Pack [(39 GP)](/equipment/534-diplomats-pack)
 
-A Diplomat’s Pack contains the following items: [Chest](/equipment/528-chest), [Fine Clothes](/equipment/539-fine-clothes), [Ink](/equipment/503-ink), 5 [Ink Pens](/equipment/502-ink-pen), [Lamp](/equipment/496-lamp), 2 [Map or Scroll Cases](/equipment/518-map-or-scroll-case), 4 flasks of [Oil](/equipment/393-oil), 5 sheets of [Paper](/equipment/394-paper), 5 sheets of [Parchment](/equipment/395-parchment), [Perfume](/equipment/396-perfume), and [Tinderbox](/equipment/434-tinderbox).
+A Diplomat's Pack contains the following items: [Chest](/equipment/528-chest), [Fine Clothes](/equipment/539-fine-clothes), [Ink](/equipment/503-ink), 5 [Ink Pens](/equipment/502-ink-pen), [Lamp](/equipment/496-lamp), 2 [Map or Scroll Cases](/equipment/518-map-or-scroll-case), 4 flasks of [Oil](/equipment/393-oil), 5 sheets of [Paper](/equipment/394-paper), 5 sheets of [Parchment](/equipment/395-parchment), [Perfume](/equipment/396-perfume), and [Tinderbox](/equipment/434-tinderbox).
 
 ---
 
@@ -779,21 +779,21 @@ A Druidic Focus takes one of the forms in the Druidic Focuses table and is carve
 
 ---
 
-#### Dungeoneer’s Pack [(12 GP)](/equipment/525-dungeoneers-pack)
+#### Dungeoneer's Pack [(12 GP)](/equipment/525-dungeoneers-pack)
 
-A Dungeoneer’s Pack contains the following items: [Backpack](/equipment/399-backpack), [Caltrops](/equipment/497-caltrops), [Crowbar](/equipment/535-crowbar), 2 flasks of [Oil](/equipment/393-oil), 10 days of [Rations](/equipment/411-rations), [Rope](/equipment/415-rope), [Tinderbox](/equipment/434-tinderbox), 10 [Torches](/equipment/437-torch), and [Waterskin](/equipment/442-waterskin).
-
----
-
-#### Entertainer’s Pack [(40 GP)](/equipment/524-entertainers-pack)
-
-An Entertainer’s Pack contains the following items: [Backpack](/equipment/399-backpack), [Bedroll](/equipment/420-bedroll), [Bell](/equipment/429-bell), [Bullseye Lantern](/equipment/494-bullseye-lantern), 3 [Costumes](/equipment/536-costume), [Mirror](/equipment/484-mirror), 8 flasks of [Oil](/equipment/393-oil), 9 days of [Rations](/equipment/411-rations), [Tinderbox](/equipment/434-tinderbox), and [Waterskin](/equipment/442-waterskin).
+A Dungeoneer's Pack contains the following items: [Backpack](/equipment/399-backpack), [Caltrops](/equipment/497-caltrops), [Crowbar](/equipment/535-crowbar), 2 flasks of [Oil](/equipment/393-oil), 10 days of [Rations](/equipment/411-rations), [Rope](/equipment/415-rope), [Tinderbox](/equipment/434-tinderbox), 10 [Torches](/equipment/437-torch), and [Waterskin](/equipment/442-waterskin).
 
 ---
 
-#### Explorer’s Pack [(10 GP)](/equipment/522-explorers-pack)
+#### Entertainer's Pack [(40 GP)](/equipment/524-entertainers-pack)
 
-An Explorer’s Pack contains the following items: [Backpack](/equipment/399-backpack), [Bedroll](/equipment/420-bedroll), 2 flasks of [Oil](/equipment/393-oil), 10 days of [Rations](/equipment/411-rations), [Rope](/equipment/415-rope), [Tinderbox](/equipment/434-tinderbox), 10 [Torches](/equipment/437-torch), and [Waterskin](/equipment/442-waterskin).
+An Entertainer's Pack contains the following items: [Backpack](/equipment/399-backpack), [Bedroll](/equipment/420-bedroll), [Bell](/equipment/429-bell), [Bullseye Lantern](/equipment/494-bullseye-lantern), 3 [Costumes](/equipment/536-costume), [Mirror](/equipment/484-mirror), 8 flasks of [Oil](/equipment/393-oil), 9 days of [Rations](/equipment/411-rations), [Tinderbox](/equipment/434-tinderbox), and [Waterskin](/equipment/442-waterskin).
+
+---
+
+#### Explorer's Pack [(10 GP)](/equipment/522-explorers-pack)
+
+An Explorer's Pack contains the following items: [Backpack](/equipment/399-backpack), [Bedroll](/equipment/420-bedroll), 2 flasks of [Oil](/equipment/393-oil), 10 days of [Rations](/equipment/411-rations), [Rope](/equipment/415-rope), [Tinderbox](/equipment/434-tinderbox), 10 [Torches](/equipment/437-torch), and [Waterskin](/equipment/442-waterskin).
 
 ---
 
@@ -809,9 +809,9 @@ As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you
 
 ---
 
-#### Healer’s Kit [(5 GP)](/equipment/515-healers-kit)
+#### Healer's Kit [(5 GP)](/equipment/515-healers-kit)
 
-A Healer’s Kit has ten uses. As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can expend one of its uses to stabilize an [Unconscious](/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) creature that has 0 Hit Points without needing to make a Wisdom ([Medicine](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+A Healer's Kit has ten uses. As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can expend one of its uses to stabilize an [Unconscious](/sources/dnd/free-rules/rules-glossary#UnconsciousCondition) creature that has 0 Hit Points without needing to make a Wisdom ([Medicine](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
 ---
 
@@ -890,7 +890,7 @@ A Hooded Lantern burns [Oil](/equipment/393-oil) as fuel to cast [Bright Light](
 
 #### Lock [(10 GP)](/equipment/490-lock)
 
-A Lock comes with a key. Without the key, a creature can use [Thieves’ Tools](/equipment/495-thieves-tools) to pick this Lock with a successful DC 15 Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+A Lock comes with a key. Without the key, a creature can use [Thieves' Tools](/equipment/495-thieves-tools) to pick this Lock with a successful DC 15 Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
 ---
 
@@ -904,7 +904,7 @@ A Magnifying Glass grants [Advantage](/sources/dnd/free-rules/rules-glossary#Adv
 
 As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition), [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition), or [Restrained](/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check. While bound, a creature has [Disadvantage](/sources/dnd/free-rules/rules-glossary#Disadvantage) on attack rolls, and the creature is [Restrained](/sources/dnd/free-rules/rules-glossary#RestrainedCondition) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action.
 
-Each set of Manacles comes with a key. Without the key, a creature can use [Thieves’ Tools](/equipment/495-thieves-tools) to pick the Manacles’ lock with a successful DC 15 Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check.
+Each set of Manacles comes with a key. Without the key, a creature can use [Thieves' Tools](/equipment/495-thieves-tools) to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
 ---
 
@@ -936,7 +936,7 @@ You can douse a creature, object, or space with Oil or use it as fuel, as detail
 
 ***Dousing a Space.*** You can take the [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
 
-***Fuel.*** Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn’t need to be consecutive; you can extinguish the burning Oil (as a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action) and rekindle it again until it has burned for a total of 6 hours.
+***Fuel.*** Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action) and rekindle it again until it has burned for a total of 6 hours.
 
 ---
 
@@ -988,9 +988,9 @@ A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
 
 ---
 
-#### Priest’s Pack [(33 GP)](/equipment/405-priests-pack)
+#### Priest's Pack [(33 GP)](/equipment/405-priests-pack)
 
-A Priest’s Pack contains the following items: [Backpack](/equipment/399-backpack), [Blanket](/equipment/431-blanket), [Holy Water](/equipment/507-holy-water), [Lamp](/equipment/496-lamp), 7 days of [Rations](/equipment/411-rations), [Robe](/equipment/412-robe), and [Tinderbox](/equipment/434-tinderbox).
+A Priest's Pack contains the following items: [Backpack](/equipment/399-backpack), [Blanket](/equipment/431-blanket), [Holy Water](/equipment/507-holy-water), [Lamp](/equipment/496-lamp), 7 days of [Rations](/equipment/411-rations), [Robe](/equipment/412-robe), and [Tinderbox](/equipment/434-tinderbox).
 
 ---
 
@@ -1022,7 +1022,7 @@ A Robe has vocational or ceremonial significance. Some events and locations admi
 
 As a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([Sleight of Hand](/sources/dnd/free-rules/playing-the-game#Skills)) check. The Rope can be burst with a successful DC 20 Strength ([Athletics](/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
-You can bind an unwilling creature with the Rope only if the creature has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition), [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition), or [Restrained](/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action.
+You can bind an unwilling creature with the Rope only if the creature has the [Grappled](/sources/dnd/free-rules/rules-glossary#GrappledCondition), [Incapacitated](/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition), or [Restrained](/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](/sources/dnd/free-rules/playing-the-game#Skills)) check as an action.
 
 ---
 
@@ -1032,9 +1032,9 @@ A Sack holds up to 30 pounds within 1 cubic foot.
 
 ---
 
-#### Scholar’s Pack [(40 GP)](/equipment/418-scholars-pack)
+#### Scholar's Pack [(40 GP)](/equipment/418-scholars-pack)
 
-A Scholar’s Pack contains the following items: [Backpack](/equipment/399-backpack), [Book](/equipment/439-book), [Ink](/equipment/503-ink), [Ink Pen](/equipment/502-ink-pen), [Lamp](/equipment/496-lamp), 10 flasks of [Oil](/equipment/393-oil), 10 sheets of [Parchment](/equipment/395-parchment), and [Tinderbox](/equipment/434-tinderbox).
+A Scholar's Pack contains the following items: [Backpack](/equipment/399-backpack), [Book](/equipment/439-book), [Ink](/equipment/503-ink), [Ink Pen](/equipment/502-ink-pen), [Lamp](/equipment/496-lamp), 10 flasks of [Oil](/equipment/393-oil), 10 sheets of [Parchment](/equipment/395-parchment), and [Tinderbox](/equipment/434-tinderbox).
 
 ---
 
@@ -1052,7 +1052,7 @@ When blown as a [Utilize](/sources/dnd/free-rules/rules-glossary#UtilizeAction) 
 
 #### Spell Scroll [(Cantrip, 30 GP](/magic-items/8960642-spell-scroll-cantrip) [Level 1, 50 GP)](/magic-items/8960643-spell-scroll-level-1)
 
-A *Spell Scroll* (Cantrip) or *Spell Scroll* (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
+A *Spell Scroll* (Cantrip) or *Spell Scroll* (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.
 
@@ -1103,12 +1103,12 @@ A Vial holds up to 4 ounces.
 
 #### Waterskin [(2 SP)](/equipment/442-waterskin)
 
-A Waterskin holds up to 4 pints. If you don’t drink sufficient water, you risk [dehydration](/sources/dnd/free-rules/rules-glossary#DehydrationHazard) (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary#DehydrationHazard)).
+A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk [dehydration](/sources/dnd/free-rules/rules-glossary#DehydrationHazard) (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary#DehydrationHazard)).
 
 Mounts and Vehicles
 -------------------
 
-A mount can help you move more quickly through the wilderness, but its primary purpose is to carry gear that would otherwise slow you down. The [Mounts and Other Animals table](#MountsandOtherAnimals) shows each animal’s carrying capacity. See [appendix B](/sources/dnd/phb-2024/creature-stat-blocks/) for the animals’ stat blocks.
+A mount can help you move more quickly through the wilderness, but its primary purpose is to carry gear that would otherwise slow you down. The [Mounts and Other Animals table](#MountsandOtherAnimals) shows each animal's carrying capacity. See [appendix B](/sources/dnd/phb-2024/creature-stat-blocks/) for the animals' stat blocks.
 
 ### Mounts and Cargo
 
@@ -1161,7 +1161,7 @@ The Airborne and Waterborne Vehicles table provides statistics for various types
 
 #### Speed
 
-A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can’t move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
+A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
 
 #### Crew
 
@@ -1173,7 +1173,7 @@ The table lists the number of Small and Medium passengers the ship can accommoda
 
 #### Damage Threshold
 
-If a vehicle has a [damage threshold](/sources/dnd/free-rules/rules-glossary#DamageThreshold) (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary#DamageThreshold)), it’s noted in the table.
+If a vehicle has a [damage threshold](/sources/dnd/free-rules/rules-glossary#DamageThreshold) (see the [rules glossary](/sources/dnd/phb-2024/rules-glossary#DamageThreshold)), it's noted in the table.
 
 #### Ship Repair
 
@@ -1202,13 +1202,13 @@ This section outlines services and other expenses that adventurers might spend m
 
 Lifestyle expenses summarize the cost of living in a fantasy world. They cover lodging, food, equipment maintenance, and other necessities.
 
-At the start of each week or month (DM’s choice), choose a lifestyle below—Wretched, Squalid, Poor, Modest, Comfortable, Wealthy, or Aristocratic—and pay the price to sustain that lifestyle.
+At the start of each week or month (DM's choice), choose a lifestyle below—Wretched, Squalid, Poor, Modest, Comfortable, Wealthy, or Aristocratic—and pay the price to sustain that lifestyle.
 
 Lifestyles have no inherent consequences, but the DM might take them into account when determining risks or how others perceive your character.
 
 #### Wretched (Free)
 
-You survive via chance and charity. You’re often exposed to natural dangers as a result of sleeping outside.
+You survive via chance and charity. You're often exposed to natural dangers as a result of sleeping outside.
 
 #### Squalid (1 SP per Day)
 
@@ -1228,7 +1228,7 @@ You spend modestly for your necessities and enjoy a few luxuries.
 
 #### Wealthy (4 GP per Day)
 
-You’re accustomed to the finer things in life and might have servants.
+You're accustomed to the finer things in life and might have servants.
 
 #### Aristocratic (10 GP per Day)
 
@@ -1236,7 +1236,7 @@ You pay for the best and might have a staff that supports your lifestyle. Others
 
 ### Food, Drink, and Lodging
 
-The Food, Drink, and Lodging table gives prices for food and a single night’s lodging. Prices for daily lodging and meals are included in your lifestyle’s expenses.
+The Food, Drink, and Lodging table gives prices for food and a single night's lodging. Prices for daily lodging and meals are included in your lifestyle's expenses.
 
 
 #### Food, Drink, and Lodging
@@ -1278,7 +1278,7 @@ Drivers or crew hired to conduct passengers to their destinations charge the rat
 | Coach ride between towns | 3 CP per mile |
 | Coach ride within a city | 1 CP per mile |
 | Road or gate toll | 1 CP |
-| Ship’s passage | 1 SP per mile |
+| Ship's passage | 1 SP per mile |
 
 ### Hirelings
 
@@ -1315,29 +1315,29 @@ Most settlements contain individuals who are willing to cast spells in exchange 
 Magic Items
 -----------
 
-Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in the *Dungeon Master’s Guide*, since the DM decides when you find such an item. Here’s what you need to know about using magic items.
+Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in the *Dungeon Master's Guide*, since the DM decides when you find such an item. Here's what you need to know about using magic items.
 
 ### Identifying a Magic Item
 
-Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item’s properties isn’t automatic.
+Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item's properties isn't automatic.
 
-The [Identify](/spells/2619180-identify) spell is the fastest way to reveal an item’s properties. Alternatively, you can focus on one magic item during a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest) while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
+The [Identify](/spells/2619180-identify) spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest) while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it’s a [Ring of Feather Falling](/magic-items/4721-ring-of-feather-falling).
+Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a [Ring of Feather Falling](/magic-items/4721-ring-of-feather-falling).
 
 Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [Ring of Swimming](/magic-items/4732-ring-of-swimming), the DM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
 
 ### Attunement
 
-Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item’s magical properties. Without becoming attuned to an item that requires Attunement, you gain only its nonmagical benefits unless its description states otherwise. For example, a magic Shield that requires Attunement provides the benefits of a normal Shield if you aren’t attuned to it, but none of its magical properties.
+Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. Without becoming attuned to an item that requires Attunement, you gain only its nonmagical benefits unless its description states otherwise. For example, a magic Shield that requires Attunement provides the benefits of a normal Shield if you aren't attuned to it, but none of its magical properties.
 
 #### Attune during a Short Rest
 
-Attuning to an item requires you to spend a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest) focused on only that item while being in physical contact with it (this can’t be the same Short Rest used to learn the item’s properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you’re attuned to the magic item and can access its full magical capabilities.
+Attuning to an item requires you to spend a [Short Rest](/sources/dnd/free-rules/rules-glossary#ShortRest) focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
 
 #### No More Than Three Items
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can’t attune to more than one copy of an item. For example, you can’t attune to more than one [Ring of Protection](/magic-items/4726-ring-of-protection) at a time.
+You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [Ring of Protection](/magic-items/4726-ring-of-protection) at a time.
 
 #### Ending Attunement
 
@@ -1345,13 +1345,13 @@ Your Attunement to an item ends if you no longer satisfy the prerequisites for A
 
 ### Wearing and Wielding Items
 
-Using a magic item’s properties might mean wearing or wielding it. A magic item meant to be worn must be donned in the intended fashion: boots go on feet, gloves on hands, hats and helmets on a head, and rings on a finger. Magic armor must be donned, a Shield strapped to the arm, a cloak fastened about the shoulders. A weapon must be held.
+Using a magic item's properties might mean wearing or wielding it. A magic item meant to be worn must be donned in the intended fashion: boots go on feet, gloves on hands, hats and helmets on a head, and rings on a finger. Magic armor must be donned, a Shield strapped to the arm, a cloak fastened about the shoulders. A weapon must be held.
 
-In most cases, a magic item that’s meant to be worn can fit a creature regardless of size or build. Magic garments are made to be easily adjustable, or they magically adjust themselves to the wearer.
+In most cases, a magic item that's meant to be worn can fit a creature regardless of size or build. Magic garments are made to be easily adjustable, or they magically adjust themselves to the wearer.
 
 #### Multiple Items of the Same Kind
 
-You can’t wear more than one of certain magic items. You can’t normally wear more than one pair of footwear, one pair of gloves or gauntlets, one pair of bracers, one suit of armor, one item of headwear, or one cloak. The DM might make exceptions.
+You can't wear more than one of certain magic items. You can't normally wear more than one pair of footwear, one pair of gloves or gauntlets, one pair of bracers, one suit of armor, one item of headwear, or one cloak. The DM might make exceptions.
 
 #### Paired Items
 
@@ -1368,7 +1368,7 @@ To craft a nonmagical item, you need tools, raw materials, and time, each of whi
 
 #### Tools
 
-This chapter’s "[Tools](#Tools)" section lists which tools are required to make certain items. The DM assigns required tools for items not listed there.
+This chapter's "[Tools](#Tools)" section lists which tools are required to make certain items. The DM assigns required tools for items not listed there.
 
 You must use the required tool to make an item and have proficiency with that tool. Anyone who helps you must also have proficiency with it.
 
@@ -1380,7 +1380,7 @@ To make an item, you need raw materials worth half its purchase cost (round down
 
 To determine how many days (working 8 hours a day) it takes to make an item, divide its purchase cost in GP by 10 (round a fraction up to a day). For example, you need 5 days to make a Heavy Crossbow, which sells for 50 GP.
 
-If an item requires multiple days, the days needn’t be consecutive.
+If an item requires multiple days, the days needn't be consecutive.
 
 Characters can combine their efforts to shorten the crafting time. Divide the time needed to create an item by the number of characters working on it. Normally, only one other character can assist you, but the DM might allow more assistants.
 
@@ -1394,11 +1394,11 @@ A spellcaster can transfer a spell to a scroll and create a [Spell Scroll](/magi
 
 #### Time and Cost
 
-Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the [Spell Scroll Costs table](#SpellScrollCosts). For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn’t be consecutive.
+Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the [Spell Scroll Costs table](#SpellScrollCosts). For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn't be consecutive.
 
 #### Prerequisites for the Scribe
 
-To scribe a scroll, you must have proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill or with [Calligrapher’s Supplies](/equipment/404-calligraphers-supplies) and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll’s spell uses your spell save DC and spell attack bonus.
+To scribe a scroll, you must have proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills) skill or with [Calligrapher's Supplies](/equipment/404-calligraphers-supplies) and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
 
 #### Cantrips
 
