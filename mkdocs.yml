@@ -62,6 +62,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   icon:
     logo: simple/dungeonsanddragons
   palette:
