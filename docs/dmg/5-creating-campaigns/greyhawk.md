@@ -94,9 +94,8 @@ The standard year is 360 days long and consists of twelve twenty-eight-day month
 | (Saturday) | (Sunday) | (Monday) | (Tuesday) | (Wednesday) | (Thursday) | (Friday) |
 |  | | | Day of Worship |  | | Day of Rest |
 
-> ### Your World's Calendar
-> 
-> What does your campaign's calendar look like? The more your campaign calendar resembles the one that's familiar to you and your players, the easier it will be to remember and use. Familiar names for months and days of the week lend your campaign a wonderful simplicity that many players will appreciate. A calendar that uses ten-day weeks or names such as "Moonday" and "Coldeven" is harder for players to internalize but reminds them they're in a fantasy world. The Greyhawk calendar has twelve months and seven-day weeks like the Gregorian calendar, but gives unique names to months and days and introduces festivals that fall outside the calendar's months, giving it a fantastical feel.
+!!! note "Your World's Calendar"
+    What does your campaign's calendar look like? The more your campaign calendar resembles the one that's familiar to you and your players, the easier it will be to remember and use. Familiar names for months and days of the week lend your campaign a wonderful simplicity that many players will appreciate. A calendar that uses ten-day weeks or names such as "Moonday" and "Coldeven" is harder for players to internalize but reminds them they're in a fantasy world. The Greyhawk calendar has twelve months and seven-day weeks like the Gregorian calendar, but gives unique names to months and days and introduces festivals that fall outside the calendar's months, giving it a fantastical feel.
 
 #### Factions and Organizations
 
@@ -118,13 +117,12 @@ The knights of the Order of the Hart were organized to preserve the freedom of t
 
 The Scarlet Order is a monastic order of Suloise militarists whose spies and assassins have infiltrated many courts and castles throughout the Flanaess, ready to strike. The leader of the order is a seemingly immortal being known as the Father of Obedience, Korenth Zan. He is rumored to be a Suloise monk who walked the lands of Oerik long before the Rain of Colorless Fire destroyed the Suloise Empire. Others claim Korenth is a red dragon—a former consort of [Tiamat](/sources/dnd/dmg-2024/lore-glossary#Tiamat) who became trapped in human form. Whatever the true story, the Father of Obedience is revered by all who pledge their lives to the Scarlet Order. His goals—and, by extension, the order's goals—are shrouded in mystery and could one day tilt the balance of power across the whole of Eastern Oerik.
 
-> ### Adventurers and Organizations
-> 
-> Factions and organizations aimed at player characters can connect adventurers to your world, providing ties to key NPCs and a clear agenda beyond individual gain. In the same way, villainous organizations create an ongoing sense of menace beyond the threat of solitary foes.
-> 
-> Having different characters tied to different factions can create interesting situations at the gaming table, as long as those factions have similar goals and don't work in opposition to one another all the time. Adventurers representing different factions might have competing interests or priorities while they pursue the same goals.
-> 
-> Adventurer organizations are also a great source of special rewards beyond Experience Points and treasure. Increased standing in an organization might come with concrete benefits such as access to an organization's information, equipment, magic, and other resources. See "[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for rules you can use to track characters' standing in an organization.
+!!! note "Adventurers and Organizations"
+    Factions and organizations aimed at player characters can connect adventurers to your world, providing ties to key NPCs and a clear agenda beyond individual gain. In the same way, villainous organizations create an ongoing sense of menace beyond the threat of solitary foes.
+
+    Having different characters tied to different factions can create interesting situations at the gaming table, as long as those factions have similar goals and don't work in opposition to one another all the time. Adventurers representing different factions might have competing interests or priorities while they pursue the same goals.
+
+    Adventurer organizations are also a great source of special rewards beyond Experience Points and treasure. Increased standing in an organization might come with concrete benefits such as access to an organization's information, equipment, magic, and other resources. See "[Renown](/sources/dnd/dmg-2024/dms-toolbox#Renown)" in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) for rules you can use to track characters' standing in an organization.
 
 #### Magic in Greyhawk
 
@@ -333,7 +331,8 @@ The locations detailed here can serve as a good starting point for your campaign
 
 #### Black Dragon Inn
 
-> This three-story, slightly run-down inn is situated in the heart of the city. A sign carved to resemble the grinning visage of a black dragon hangs over the front door. A stable is located behind the inn.
+!!! quote ""
+    This three-story, slightly run-down inn is situated in the heart of the city. A sign carved to resemble the grinning visage of a black dragon hangs over the front door. A stable is located behind the inn.
 
 The Black Dragon Inn in Clerkburg has good food and affordable rooms. The inn's stable can hold up to a dozen steeds.
 
@@ -351,7 +350,8 @@ The inn's proprietor is Miklos Dare, a human **Veteran Warrior** (Chaotic Good) 
 
 #### Grand Citadel
 
-> A many-towered fortress looms above all quarters of the city from its position atop a low rise. Its outer walls, darkened by soot and smoke, could use a good scrubbing.
+!!! quote ""
+    A many-towered fortress looms above all quarters of the city from its position atop a low rise. Its outer walls, darkened by soot and smoke, could use a good scrubbing.
 
 The grand edifice at the northern end of the High Quarter, simply called "the Citadel" by the city's inhabitants, contains barracks for the City Watch, the offices of the captain-general, the city's treasury, and a large store of armaments for the emergency citizen militia. The Citadel also contains a prison where the city's most hardened criminals are incarcerated.
 
@@ -371,7 +371,8 @@ The city's constable—who serves as second-in-command to the captain-general, m
 
 #### Great Library
 
-> The front of this building is a grand sweep of granite walls and tall columns. A wide ramp leads to a pair of massive doors flanked by stone-carved dragons. Inside, it's cool and musty.
+!!! quote ""
+    The front of this building is a grand sweep of granite walls and tall columns. A wide ramp leads to a pair of massive doors flanked by stone-carved dragons. Inside, it's cool and musty.
 
 Weapons and armor aren't permitted in the Great Library. If anyone wearing armor or carrying a visible weapon tries to enter the library, or if a thief is spotted trying to leave the library with one or more stolen books, the stone-carved bronze dragons flanking the entrance animate and attack. These statues are [Stone Golems](/monsters/4904850-stone-golem).
 
@@ -393,7 +394,8 @@ An iron door leads to a hallway behind the head librarian's desk. Three scribes 
 
 #### High Tower Inn
 
-> Conveniently located near the Selintan River, this inviting inn is distinguished by its tall tower, which is pointed at the top like the hat of an eccentric wizard. The clientele is notably wealthy, but the inn itself isn't at all ostentatious.
+!!! quote ""
+    Conveniently located near the Selintan River, this inviting inn is distinguished by its tall tower, which is pointed at the top like the hat of an eccentric wizard. The clientele is notably wealthy, but the inn itself isn't at all ostentatious.
 
 The High Tower Inn's human proprietor, Erlynn Goodfellow, is a soft-spoken, middle-aged, pot-bellied [Mage](/monsters/4831023-mage) (Lawful Good) with gray hair, bright-blue eyes, and platinum-rimmed spectacles. She dabbled in adventuring before realizing she had little taste for danger and her life's calling might involve more sedentary pursuits. Few guests know of Erlynn's magical abilities, as she rarely casts spells in front of strangers.
 
@@ -411,7 +413,8 @@ The High Tower, located in the Garden Quarter, is a favorite haunt for some of t
 
 #### Silver Dragon Inn
 
-> This grandiose, multistory inn sports a wooden sign bearing the words "Silver Dragon Inn" in fancy silver script, the S shaped like a silver dragon. A more modest sign next to the front door reads, "No metal armor. Shields and weapons must be checked at the door."
+!!! quote ""
+    This grandiose, multistory inn sports a wooden sign bearing the words "Silver Dragon Inn" in fancy silver script, the S shaped like a silver dragon. A more modest sign next to the front door reads, "No metal armor. Shields and weapons must be checked at the door."
 
 The grand Silver Dragon Inn, located in the Foreign Quarter, is often the first place sought by new arrivals to the city. The prices are average, but the food servings are huge. The inn's menu includes spicy bean dishes, seafood delicacies of the Wild Coast, and rice and vegetable entrées.
 
@@ -431,7 +434,8 @@ The inn's married human proprietors, Olaf Al-Azul (Chaotic Good **Veteran Warrio
 
 #### Temple of the Far Horizon
 
-> Hidden among the city's grander temples is a quiet, modest house of worship with clay-tiled rooftops, a corner bell tower, and well-tended vegetable gardens. Sick and hungry folk gather in short lines outside as they wait for priests to attend to their needs.
+!!! quote ""
+    Hidden among the city's grander temples is a quiet, modest house of worship with clay-tiled rooftops, a corner bell tower, and well-tended vegetable gardens. Sick and hungry folk gather in short lines outside as they wait for priests to attend to their needs.
 
 Situated in the Garden Quarter, this temple is dedicated to Fharlanghn, a god favored by travelers and mercenaries. The [Priests](/monsters/16985-priest) who staff the temple offer nourishment, rest, and healing to those in need, day and night. Several small rooms are maintained for guests, and simple, hot meals are free to all visitors.
 
@@ -449,7 +453,8 @@ Situated in the Garden Quarter, this temple is dedicated to Fharlanghn, a god fa
 
 #### Temple of the Radiant Sun
 
-> This copper-roofed temple has a gold-inlaid symbol of the sun above its double-door entrance. During the day, sunlight shines through high windows to illuminate the temple's interior, which is adorned with golden draperies.
+!!! quote ""
+    This copper-roofed temple has a gold-inlaid symbol of the sun above its double-door entrance. During the day, sunlight shines through high windows to illuminate the temple's interior, which is adorned with golden draperies.
 
 This temple, dedicated to serving the god Pelor in the heart of the Garden Quarter, opens at dawn and closes at dusk. In a sanctuary in the heart of the temple, [Priests](/monsters/16985-priest) conduct daily morning rites, as well as all-day observances every Godsday.
 
@@ -467,7 +472,8 @@ Sarana, the temple's **Archpriest** (Neutral Good), is a middle-aged, human woma
 
 #### Unearthed Arcana
 
-> This quaint, two-story shop has a sign depicting a white-bearded human wizard holding a staff that has a copper ball affixed to its tip. Displayed in the store's window box are various potions, scrolls, wands, and wondrous oddities.
+!!! quote ""
+    This quaint, two-story shop has a sign depicting a white-bearded human wizard holding a staff that has a copper ball affixed to its tip. Displayed in the store's window box are various potions, scrolls, wands, and wondrous oddities.
 
 Magic items are bought and sold in Unearthed Arcana, a quaint shop in Clerkburg. Magical wards render the store's windows and doors shatterproof, and no one can use magic to enter or leave the shop without the consent of its proprietor, Morley, whose quarters take up the second floor.
 
@@ -550,21 +556,20 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 
 **Western Flanaess.** The Baklunish peoples and nations navigate complex political relationships.
 
-> ### Living History
-> 
-> Greyhawk has a long history of ancient empires and more recent wars, but the only relevant details of this history are those that feature in your adventures. Highlight significant in-world details by revealing them in the course of your adventures. Use the following techniques to share lore with your players:
-> 
-> **Echoes of the Past.** Features like a crater in the side of a mountain, a defaced statue in the town square, or a holiday celebrating a local hero provide concrete touchstones to past events. The characters might learn that a ruin they're exploring was destroyed in a catastrophic battle or natural disaster.
-> 
-> **Historical Records.** Written historical details might appear anywhere in an adventure: glyphs on ancient dungeon walls, books in a library, files in a royal vault, or tapestries depicting key events. Use such set dressing to share important details. Summarize what lengthy works say, and focus on the most plot-worthy parts.
-> 
-> **Scholarly Expertise.** Characters who have proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) skill can be fonts of useful information. When it would be helpful for a group to know something about the setting, ask such characters to make an Intelligence check using the relevant skill, then share plot-relevant details if their roll warrants it.
-> 
-> **Magical Footnotes.** Spells such as [Contact Other Plane](/spells/2619052-contact-other-plane), [Legend Lore](/spells/2619010-legend-lore), and [Speak with Dead](/spells/2619068-speak-with-dead) allow characters to learn information while leaving you control of the particulars.
-> 
-> **Primary Sources.** Personify the past through a tragic ghost, an otherworldly guardian, an artificial intelligence, an ancient sage, or another long-lived individual. Such NPCs give you a way to share relevant information and respond to questions from the party. If the characters miss an important detail, this NPC can reinforce details in a way books and recollected facts can't.
-> 
-> Any one of these methods is useful for revealing a few details. You can combine them to share nuanced histories and help players feel like they're digging into a rich and realistic history.
+!!! note "Living History"
+    Greyhawk has a long history of ancient empires and more recent wars, but the only relevant details of this history are those that feature in your adventures. Highlight significant in-world details by revealing them in the course of your adventures. Use the following techniques to share lore with your players:
+
+    **Echoes of the Past.** Features like a crater in the side of a mountain, a defaced statue in the town square, or a holiday celebrating a local hero provide concrete touchstones to past events. The characters might learn that a ruin they're exploring was destroyed in a catastrophic battle or natural disaster.
+
+    **Historical Records.** Written historical details might appear anywhere in an adventure: glyphs on ancient dungeon walls, books in a library, files in a royal vault, or tapestries depicting key events. Use such set dressing to share important details. Summarize what lengthy works say, and focus on the most plot-worthy parts.
+
+    **Scholarly Expertise.** Characters who have proficiency in the [Arcana](/sources/dnd/free-rules/playing-the-game#Skills), [History](/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](/sources/dnd/free-rules/playing-the-game#Skills) skill can be fonts of useful information. When it would be helpful for a group to know something about the setting, ask such characters to make an Intelligence check using the relevant skill, then share plot-relevant details if their roll warrants it.
+
+    **Magical Footnotes.** Spells such as [Contact Other Plane](/spells/2619052-contact-other-plane), [Legend Lore](/spells/2619010-legend-lore), and [Speak with Dead](/spells/2619068-speak-with-dead) allow characters to learn information while leaving you control of the particulars.
+
+    **Primary Sources.** Personify the past through a tragic ghost, an otherworldly guardian, an artificial intelligence, an ancient sage, or another long-lived individual. Such NPCs give you a way to share relevant information and respond to questions from the party. If the characters miss an important detail, this NPC can reinforce details in a way books and recollected facts can't.
+
+    Any one of these methods is useful for revealing a few details. You can combine them to share nuanced histories and help players feel like they're digging into a rich and realistic history.
 
 ### Central Flanaess
 

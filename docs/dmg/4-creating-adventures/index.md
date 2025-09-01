@@ -19,13 +19,12 @@ Follow these steps to create an adventure:
 
 The rest of this chapter offers inspiration and advice for each of these four steps.
 
-> ### Using Published Adventures
-> 
-> A published adventure includes a pregenerated scenario with the maps, NPCs, monsters, and treasures you need to run it. This allows you to focus your preparation time on plot developments that arise from the characters' actions.
-> 
-> You can adjust a published adventure so it better suits your campaign and appeals to your players. For example, you can replace the villain of an adventure with one the players have already encountered in your campaign, or add details from your campaign setting so the adventure involves your players' characters in ways that the adventure's designer never could have imagined.
-> 
-> Published adventures also provide inspiration for your own adventures. You can even take a part of an adventure and incorporate it into a different one. For example, you might use a map of a temple but repopulate it with monsters of your choice, or you might use a chase sequence as a model for a pursuit scene in your campaign.
+!!! note "Using Published Adventures"
+    A published adventure includes a pregenerated scenario with the maps, NPCs, monsters, and treasures you need to run it. This allows you to focus your preparation time on plot developments that arise from the characters' actions.
+    
+    You can adjust a published adventure so it better suits your campaign and appeals to your players. For example, you can replace the villain of an adventure with one the players have already encountered in your campaign, or add details from your campaign setting so the adventure involves your players' characters in ways that the adventure's designer never could have imagined.
+
+    Published adventures also provide inspiration for your own adventures. You can even take a part of an adventure and incorporate it into a different one. For example, you might use a map of a temple but repopulate it with monsters of your choice, or you might use a chase sequence as a model for a pursuit scene in your campaign.
 
 Lay Out the Premise
 -------------------
@@ -36,13 +35,12 @@ But while it's worthwhile to compare an adventure to these other forms of storyt
 
 You might find it helpful to think about an adventure not as a narrative that arcs from beginning to end with little chance for deviation, but more in terms of situations that you are presenting to the characters. The adventure unfolds organically from the players' responses to the situations you present.
 
-> ### Guide Rails and Railroads
-> 
-> Players need to feel like they're in control of their characters, the choices they make matter, and what they do has some effect on the outcome of the adventure and on the game world. Keep that in mind as you're planning adventures. If your adventure relies on certain events, plan for multiple ways they might come about, or be prepared for clever players to prevent those events from happening as you expect. Otherwise, your players might end up feeling railroaded.
-> 
-> On the flip side, players sometimes willfully disregard the adventure hooks you put in front of them and go entirely off the rails. See "[Respect for the DM](/sources/dnd/dmg-2024/the-basics#RespectfortheDM)" in [chapter 1](/sources/dnd/dmg-2024/the-basics) and "[Draw In the Players](#DrawInthePlayers)" later in this chapter for advice about dealing with this situation.
-> 
-> One way to give players impactful choices is to keep multiple adventure possibilities available to them at the same time. If the characters have two or three things they can investigate or pursue, they have a meaningful choice. And if whatever threads they don't investigate turn into bigger problems, you've clearly demonstrated that their decisions matter.
+!!! note "Guide Rails and Railroads"
+    Players need to feel like they're in control of their characters, the choices they make matter, and what they do has some effect on the outcome of the adventure and on the game world. Keep that in mind as you're planning adventures. If your adventure relies on certain events, plan for multiple ways they might come about, or be prepared for clever players to prevent those events from happening as you expect. Otherwise, your players might end up feeling railroaded.
+    
+    On the flip side, players sometimes willfully disregard the adventure hooks you put in front of them and go entirely off the rails. See "[Respect for the DM](/sources/dnd/dmg-2024/the-basics#RespectfortheDM)" in [chapter 1](/sources/dnd/dmg-2024/the-basics) and "[Draw In the Players](#DrawInthePlayers)" later in this chapter for advice about dealing with this situation.
+    
+    One way to give players impactful choices is to keep multiple adventure possibilities available to them at the same time. If the characters have two or three things they can investigate or pursue, they have a meaningful choice. And if whatever threads they don't investigate turn into bigger problems, you've clearly demonstrated that their decisions matter.
 
 ### Adventure Premise
 
@@ -176,9 +174,8 @@ Of course, not every adventure takes place in a dungeon. A wilderness trek acros
 
 Adventures can also take place in cities, towns, and villages, which are often no less dangerous than dungeons or the wilds. The "[Settlements](/sources/dnd/dmg-2024/dms-toolbox#Settlements)" section in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox) can help you create a settlement where an adventure can take place.
 
-> ### Writing for Yourself
-> 
-> When you're preparing an adventure to run for your friends, you don't need to write hundreds of pages describing each location in exhaustive detail. You can run a game with no more written notes than you'll find in one of the short adventures at the end of this chapter.
+!!! note "Writing for Yourself"
+    When you're preparing an adventure to run for your friends, you don't need to write hundreds of pages describing each location in exhaustive detail. You can run a game with no more written notes than you'll find in one of the short adventures at the end of this chapter.
 
 #### Adventure Maps
 
@@ -195,6 +192,12 @@ An adventure location almost always benefits from a map, and the more thoughtful
 An inhabited adventure location has its own ecosystem. The creatures that live there need to eat, drink, breathe, and sleep. Predators need prey, and intelligent creatures search for lairs offering the best combination of air, food, water, and security. Keep these factors in mind when designing an adventure location. If the site has an internal logic, adventurers can use their understanding of that logic to make informed decisions.
 
 For example, characters who find a pool of fresh water in a dungeon might infer that many of the creatures inhabiting the dungeon come to that spot to drink. The adventurers might set an ambush at the pool. Likewise, closed or locked doors can restrict the movement of some creatures. A dungeon infested with carrion crawlers or stirges would need open passages so that these creatures can move about to find food.
+
+![Common Map Symbols](common-map-symbols.png)
+
+/// caption
+Common Map Symbols
+///
 
 #### Adventure Inhabitants
 
@@ -213,17 +216,16 @@ If an adventure situation directly affects the characters or the people and plac
 
 If the adventure situation doesn't have an obvious impact on the characters or the people or things they care about, you can use other techniques to draw in the players. These are best tailored to the motivations of your players and their characters. For example, some adventuring groups are noble heroes who respond without hesitation to the pleas of innocent villagers crying for help; other groups are hardened mercenaries who respond only to offers of payment. Some groups are devoted to gods, rulers, or other patrons who might send them on quests, either directly or through intermediaries.
 
-> ### Subvert Clichés
-> 
-> As you populate your world with interesting supporting characters, consider the following:
-> 
-> **Avoiding Stereotypes.** Show how multiple people from the same culture are different. Don't use a real-world accent in a disparaging way.
-> 
-> **Beautiful Diversity.** Feature members of different genders, ethnicities, and sexualities, as well as people with varied beliefs, capabilities, roles, professions, interests, and outlooks.
-> 
-> **Fresh Spin.** Whenever possible, put a fresh spin on a familiar trope. The mysterious figure who presents adventurers with a quest on behalf of the king might be the king in disguise. The wizard in the tower might be a projected illusion created by a band of thieves to guard their loot.
-> 
-> **Relatability.** Treat NPCs as real people with real motivations. Put yourself in their shoes. What would you do?
+!!! note "Subvert Clichés"
+    As you populate your world with interesting supporting characters, consider the following:
+    
+    **Avoiding Stereotypes.** Show how multiple people from the same culture are different. Don't use a real-world accent in a disparaging way.
+    
+    **Beautiful Diversity.** Feature members of different genders, ethnicities, and sexualities, as well as people with varied beliefs, capabilities, roles, professions, interests, and outlooks.
+    
+    **Fresh Spin.** Whenever possible, put a fresh spin on a familiar trope. The mysterious figure who presents adventurers with a quest on behalf of the king might be the king in disguise. The wizard in the tower might be a projected illusion created by a band of thieves to guard their loot.
+    
+    **Relatability.** Treat NPCs as real people with real motivations. Put yourself in their shoes. What would you do?
 
 ### Adventure Patrons
 
@@ -679,9 +681,8 @@ Each adventure in this section includes the following information:
 
 Use your imagination to bring the locations and encounters to life, and build on the ideas the players bring to each encounter. Alter these outlines freely to suit your tastes—and those of your players—and your ideas for your campaign.
 
-> ### A Starting Campaign
-> 
-> You can use the adventures in this section to get a new campaign off the ground. These adventures are linked to locations near the [Free City of Greyhawk](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk), as described in [chapter 5](/sources/dnd/dmg-2024/greyhawk). You can run the first three adventures in sequence, having the characters gain a level after each adventure. They might return to their home base in the city between adventures, or they could travel to Greyhawk after they complete "[The Winged God](#TheWingedGod)." Use the encounters and interactions the characters have in these early levels, and the situations that interest your players, to plan later adventures.
+!!! note "A Starting Campaign"
+    You can use the adventures in this section to get a new campaign off the ground. These adventures are linked to locations near the [Free City of Greyhawk](/sources/dnd/dmg-2024/greyhawk#FreeCityofGreyhawk), as described in [chapter 5](/sources/dnd/dmg-2024/greyhawk). You can run the first three adventures in sequence, having the characters gain a level after each adventure. They might return to their home base in the city between adventures, or they could travel to Greyhawk after they complete "[The Winged God](#TheWingedGod)." Use the encounters and interactions the characters have in these early levels, and the situations that interest your players, to plan later adventures.
 
 ### The Fouled Stream
 

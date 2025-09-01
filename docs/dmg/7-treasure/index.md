@@ -265,17 +265,16 @@ Magic Items
 
 Magic items are gleaned from the hoards of felled monsters or discovered in long-lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner's capabilities in wondrous ways.
 
-> ### Magic Item Rules
-> 
-> Rules for [identifying](/sources/dnd/phb-2024/equipment#IdentifyingaMagicItem), [attuning to](/sources/dnd/phb-2024/equipment#Attunement), and [using](/sources/dnd/phb-2024/equipment#WearingandWieldingItems) magic items appear in the [Player's Handbook](/sources/dnd/phb-2024). Additional rules are presented below.
-> 
-> ***Attunement Prerequisites.*** If a magic item has a class prerequisite, a creature must be a member of that class to attune to the item. If a creature must be a spellcaster to attune to an item, the creature qualifies if it can cast at least one spell using its traits or features, not by using a magic item or the like.
-> 
-> ***Items Made for Specific Creatures.*** Magic items that are meant to be worn tend to magically adjust themselves to the wearer. However, you can decide that a magic item doesn't adjust its size to fit any wearer. For example, a particular armorer might make items usable only by folk who are sized and shaped like dwarves.
-> 
-> ***Unusual Anatomy.*** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can't wear magic boots.
-> 
-> ***Paired Items.*** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single [Glove of Missile Snaring](/magic-items/9228697-gloves-of-missile-snaring) so long as the matching glove is on their person.
+!!! note "Magic Item Rules"
+    Rules for [identifying](/sources/dnd/phb-2024/equipment#IdentifyingaMagicItem), [attuning to](/sources/dnd/phb-2024/equipment#Attunement), and [using](/sources/dnd/phb-2024/equipment#WearingandWieldingItems) magic items appear in the [Player's Handbook](/sources/dnd/phb-2024). Additional rules are presented below.
+
+    ***Attunement Prerequisites.*** If a magic item has a class prerequisite, a creature must be a member of that class to attune to the item. If a creature must be a spellcaster to attune to an item, the creature qualifies if it can cast at least one spell using its traits or features, not by using a magic item or the like.
+
+    ***Items Made for Specific Creatures.*** Magic items that are meant to be worn tend to magically adjust themselves to the wearer. However, you can decide that a magic item doesn't adjust its size to fit any wearer. For example, a particular armorer might make items usable only by folk who are sized and shaped like dwarves.
+
+    ***Unusual Anatomy.*** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can't wear magic boots.
+
+    ***Paired Items.*** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single [Glove of Missile Snaring](/magic-items/9228697-gloves-of-missile-snaring) so long as the matching glove is on their person.
 
 ### Magic Item Categories
 
@@ -399,9 +398,8 @@ If a magic item incorporates an item that has a purchase cost in the [Player's H
 
 Awarding magic items is the purview of the DM. You can award a magic item because the story calls for it or the players would be especially pleased to have it. This section helps you to determine which magic items end up in the characters' possession.
 
-> ### Are Magic Items Necessary?
-> 
-> The D&D game assumes that magic items appear sporadically and that they are a boon unless an item bears a curse. Characters and monsters are built to face each other without the help of magic items, which means that having a magic item makes a character more powerful or versatile than a generic character of the same level. As DM, you never have to worry about awarding magic items just so the characters can keep up with the campaign's threats. Magic items are truly prizes—desirable but not necessary.
+!!! note "Are Magic Items Necessary?"
+    The D&D game assumes that magic items appear sporadically and that they are a boon unless an item bears a curse. Characters and monsters are built to face each other without the help of magic items, which means that having a magic item makes a character more powerful or versatile than a generic character of the same level. As DM, you never have to worry about awarding magic items just so the characters can keep up with the campaign's threats. Magic items are truly prizes—desirable but not necessary.
 
 #### Magic Items Awarded by Level
 
@@ -440,6 +438,7 @@ To use the table, find the level of the characters in the top row. Roll 1d100, a
 
 
 **————— 1d100 Roll —————**
+
 | Levels 1–4 | Levels 5–10 | Levels 11–16 | Levels 17–20 | Item's Rarity |
 | --- | --- | --- | --- | --- |
 | 01–54 | 01–30 | 01–11 | — | Common |
@@ -448,15 +447,14 @@ To use the table, find the level of the characters in the top row. Roll 1d100, a
 | — | 99–00 | 71–93 | 21–64 | Very Rare |
 | — | — | 94–00 | 65–00 | Legendary |
 
->### Magic Items for Starting Characters
->
->If you're starting a campaign for characters above level 1, the [Player's Handbook](/sources/dnd/phb-2024) offers [suggestions](/sources/dnd/phb-2024/creating-a-character#StartingEquipmentatHigherLevels) for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
->
->**DM Choice:** Choose items for each character using your own judgment.
->
->**Player Choice:** Let the players choose whatever items they want, within the specified rarity.
->
->**Random Determination:** Use the tables at the end of this chapter to randomly determine starting items. Use the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) for Sorcerers, Warlocks, and Wizards. Use the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) for Barbarians, Fighters, Paladins, and Rangers. Use the [Implements tables](/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) for Bards, Monks, and Rogues. Use the [Relics tables](/sources/dnd/dmg-2024/random-magic-items#RelicsTables) for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) and the rest of the character's items from the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables).
+!!! note "Magic Items for Starting Characters"
+    If you're starting a campaign for characters above level 1, the [Player's Handbook](/sources/dnd/phb-2024) offers [suggestions](/sources/dnd/phb-2024/creating-a-character#StartingEquipmentatHigherLevels) for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
+
+    **DM Choice:** Choose items for each character using your own judgment.
+
+    **Player Choice:** Let the players choose whatever items they want, within the specified rarity.
+
+    **Random Determination:** Use the tables at the end of this chapter to randomly determine starting items. Use the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) for Sorcerers, Warlocks, and Wizards. Use the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) for Barbarians, Fighters, Paladins, and Rangers. Use the [Implements tables](/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) for Bards, Monks, and Rogues. Use the [Relics tables](/sources/dnd/dmg-2024/random-magic-items#RelicsTables) for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the [Arcana tables](/sources/dnd/dmg-2024/random-magic-items#ArcanaTables) and the rest of the character's items from the [Armaments tables](/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables).
 
 ### Activating a Magic Item
 

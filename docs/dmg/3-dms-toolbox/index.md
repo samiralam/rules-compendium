@@ -1110,13 +1110,12 @@ People honor multiple gods of a pantheon in different circumstances. A person mi
 
 Cities and large towns can host numerous temples dedicated to individual gods important to the community, while smaller settlements might have a single shrine devoted to any gods the locals revere. Temples and shrines outside settlements often mark places where a god (or the manifestation of a god) appeared or caused a miracle. These sites can become the focus of pilgrims who travel long distances to partake in the holy power assumed to linger there.
 
-> ### Build Your Own Pantheon
-> 
-> Most of the published D&D settings described in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns#DDSettings) have their own pantheons of gods. If you're creating your own setting, you can use the list of Greyhawk gods in [chapter 5](/sources/dnd/dmg-2024/greyhawk#GodsofGreyhawk) or build your own pantheon.
-> 
-> A simple way to build a basic pantheon is to create one god for each of the [Outer Planes](/sources/dnd/dmg-2024/cosmology#OuterPlanes) described in [chapter 6](/sources/dnd/dmg-2024/cosmology#OuterPlanes), except for the [Nine Hells](/sources/dnd/dmg-2024/cosmology#NineHells) (ruled by the archdevil [Asmodeus](/sources/dnd/dmg-2024/cosmology#Nessus)) and the [Abyss](/sources/dnd/dmg-2024/cosmology#Abyss) (the domain of demons). So [Arborea](/sources/dnd/dmg-2024/cosmology#Arborea) might be the domain of a god who is patron of the arts, celebrated at great feasts, while [Gehenna's](/sources/dnd/dmg-2024/cosmology#Gehenna) deity might be a greedy, vengeful god worshiped by people of the same bent. If you prefer, you can also put multiple deities on the same plane, so [Arcadia](/sources/dnd/dmg-2024/cosmology#Arcadia) might be home to twin gods who are patrons of merchants and smiths.
-> 
-> Alternatively, you might decide that your world has only one god (who might be viewed differently by various sects or religions), or one good god and one evil god. Or your world might be alive with spirits great and small, from lesser river spirits to the godlike spirits who inhabit great mountains. Impersonal forces and philosophies can also fill the role of gods in a campaign.
+!!! note "Build Your Own Pantheon"
+    Most of the published D&D settings described in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns#DDSettings) have their own pantheons of gods. If you're creating your own setting, you can use the list of Greyhawk gods in [chapter 5](/sources/dnd/dmg-2024/greyhawk#GodsofGreyhawk) or build your own pantheon.
+    
+    A simple way to build a basic pantheon is to create one god for each of the [Outer Planes](/sources/dnd/dmg-2024/cosmology#OuterPlanes) described in [chapter 6](/sources/dnd/dmg-2024/cosmology#OuterPlanes), except for the [Nine Hells](/sources/dnd/dmg-2024/cosmology#NineHells) (ruled by the archdevil [Asmodeus](/sources/dnd/dmg-2024/cosmology#Nessus)) and the [Abyss](/sources/dnd/dmg-2024/cosmology#Abyss) (the domain of demons). So [Arborea](/sources/dnd/dmg-2024/cosmology#Arborea) might be the domain of a god who is patron of the arts, celebrated at great feasts, while [Gehenna's](/sources/dnd/dmg-2024/cosmology#Gehenna) deity might be a greedy, vengeful god worshiped by people of the same bent. If you prefer, you can also put multiple deities on the same plane, so [Arcadia](/sources/dnd/dmg-2024/cosmology#Arcadia) might be home to twin gods who are patrons of merchants and smiths.
+    
+    Alternatively, you might decide that your world has only one god (who might be viewed differently by various sects or religions), or one good god and one evil god. Or your world might be alive with spirits great and small, from lesser river spirits to the godlike spirits who inhabit great mountains. Impersonal forces and philosophies can also fill the role of gods in a campaign.
 
 Hazards
 -------
@@ -1660,9 +1659,8 @@ NPCs who keep showing up over the course of a campaign build the sense that the 
 
 You can use different stat blocks in the *Monster Manual*, perhaps with some tweaks, to reflect the same NPC at different times as they grow over the course of a campaign. For example, characters on their very first adventure might face a villain who uses the stat block of a **Mage Apprentice**, only to have that villain escape and return many adventures later to haunt them as a [Mage](/monsters/4831023-mage). Still later, the same villain might reappear as an [Archmage](/monsters/16789-archmage). Of course, the trick here is making sure that the villain survives from one adventure to the next, or at least coming up with a plausible way for the villain to return from death. After all, death is rarely the final word for adventurers, so it needn't be for their opponents.
 
-> ### Don't Go Overboard
-> 
-> Developing nonplayer characters can be fun. That said, use your time wisely. Don't write three pages of backstory for an NPC whose interactions with the adventurers will be over in three minutes. The advice in this section is meant to help you create an interesting character quickly while providing just enough detail.
+!!! note "Don't Go Overboard"
+    Developing nonplayer characters can be fun. That said, use your time wisely. Don't write three pages of backstory for an NPC whose interactions with the adventurers will be over in three minutes. The advice in this section is meant to help you create an interesting character quickly while providing just enough detail.
 
 ### NPCs as Party Members
 
@@ -1913,11 +1911,10 @@ The Settlements by Size table provides population ranges for villages, towns, an
 | Town | 501–5,000 | 2,000 GP |
 | City | 5,001 and higher | 200,000 GP |
 
-> ### Do I Need a Settlement Map?
-> 
-> A settlement doesn't always require a map. Simply describing the settlement to your players is usually sufficient. But if it's important for the players to know where certain buildings or other locations are in the settlement, having a map is helpful.
-> 
-> For an example of a settlement map, see the [Crossroads Village map](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/map-12.03-crossroads-village.jpg) in [appendix B](/sources/dnd/dmg-2024/maps#MapCrossroadsVillage).
+!!! note "Do I Need a Settlement Map?"
+    A settlement doesn't always require a map. Simply describing the settlement to your players is usually sufficient. But if it's important for the players to know where certain buildings or other locations are in the settlement, having a map is helpful.
+    
+    For an example of a settlement map, see the [Crossroads Village map](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/map-12.03-crossroads-village.jpg) in [appendix B](/sources/dnd/dmg-2024/maps#MapCrossroadsVillage).
 
 ### Settlement Tables and Tracker
 
@@ -2565,7 +2562,7 @@ If the trap requires an attack roll or allows a saving throw, use the appropriat
 #### Building a Trap
 
 
-|  | —————— Nuisance Traps —————— | | | ——————— Deadly Traps ——————— | | |
+|  | Nuisance Traps | | | Deadly Traps | | |
 | --- | --- | --- | --- | --- | --- | --- |
 | Levels | Attack Bonus | Save DC | Damage | Attack Bonus | Save DC | Damage |
 | 1–4 | +4 | 10–12 | 5 (1d10) | +8 | 13–15 | 11 (2d10) |

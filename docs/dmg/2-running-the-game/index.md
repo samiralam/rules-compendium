@@ -337,9 +337,7 @@ In other situations that call for a saving throw, it's up to you to decide which
 
 You establish the Difficulty Class for an ability check or a saving throw when a rule or an adventure doesn't give you one. Choose a DC from the Typical DCs table based on the task's difficulty.
 
-
 #### Typical DCs
-
 
 | Task | DC |
 | --- | --- |
@@ -673,17 +671,16 @@ For each stage, note where it starts and ends, the distance covered, and the pre
 
 Depending on how you planned the stages, the end of a stage might mean the characters arrive at a landmark, a waystation, or an adventure location, whether or not it's their final destination.
 
-> ### Journeys without Destinations
-> 
-> Sometimes, characters travel without a clear path to follow or a clear destination in mind. In such a case, use the grid of your map (squares or hexes) to define the stages of the journey, however many miles each square or hex might be. (This style of play is sometimes called "hex crawling.")
-> 
-> In this kind of wilderness exploration, you can take one of two approaches to travel challenges:
-> 
-> **Sandbox Approach:** Your map of the area determines what characters find when they enter any particular hex on the map. You might have encounters or obstacles in place for every hex, or they could be spread farther apart.
-> 
-> **Random Approach:** Use tables to randomly determine encounters or obstacles in each hex the characters enter.
-> 
-> Whichever approach you use, running a journey otherwise works the same as described in the rest of the "Travel" section.
+!!! note "Journeys without Destinations"
+    Sometimes, characters travel without a clear path to follow or a clear destination in mind. In such a case, use the grid of your map (squares or hexes) to define the stages of the journey, however many miles each square or hex might be. (This style of play is sometimes called "hex crawling.")
+
+    In this kind of wilderness exploration, you can take one of two approaches to travel challenges:
+
+    **Sandbox Approach:** Your map of the area determines what characters find when they enter any particular hex on the map. You might have encounters or obstacles in place for every hex, or they could be spread farther apart.
+
+    **Random Approach:** Use tables to randomly determine encounters or obstacles in each hex the characters enter.
+
+    Whichever approach you use, running a journey otherwise works the same as described in the rest of the "Travel" section.
 
 #### Weather
 
@@ -719,10 +716,14 @@ A group of characters can travel overland at a Normal, Fast, or Slow pace, as de
 
 ***Special Movement.*** If a party can travel at a high Speed for an extended time, as with a spell such as [Wind Walk](/spells/2619211-wind-walk) or a magic item such as a [Carpet of Flying](/magic-items/9228381-carpet-of-flying), translate the party's Speed into travel rates using these rules:
 
-- **Miles per hour** = Speed ÷ 10
-- **Miles per day** (Normal pace) = Miles per hour × number of hours traveled (typically 8)
-- **Fast pace** = Miles per day × 1⅓ (round down)
-- **Slow pace** = Miles per day × 2/3 (round down)
+!!! info ""
+    **Miles per hour** = Speed ÷ 10
+    
+    **Miles per day** (Normal pace) = Miles per hour × number of hours traveled (typically 8)
+    
+    **Fast pace** = Miles per day × 1⅓ (round down)
+    
+    **Slow pace** = Miles per day × 2/3 (round down)
 
 If the characters are flying or their special movement allows them to ignore [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain), they can move at a Fast pace regardless of the terrain.
 
@@ -782,13 +783,12 @@ Characters without water and [Rations](/equipment/411-rations) can stave off [de
 
 A foraging character finds nothing on a failed check. On a successful check, roll 1d6 and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
 
-> ### Do Players Need to Track Rations?
-> 
-> You might decide that tracking [Rations](/equipment/411-rations) is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](/sources/dnd/free-rules/playing-the-game#Skills) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [Create Food and Water](/spells/2619073-create-food-and-water) spell) to sustain them.
-> 
-> On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
-> 
-> As always, communicate your expectations about these rules to the players ahead of time. If you don't plan on tracking Rations, tell your players that before they spend an hour purchasing supplies for their journey.
+!!! note "Do Players Need to Track Rations?"
+    You might decide that tracking [Rations](/equipment/411-rations) is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](/sources/dnd/free-rules/playing-the-game#Skills) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [Create Food and Water](/spells/2619073-create-food-and-water) spell) to sustain them.
+
+    On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
+
+    As always, communicate your expectations about these rules to the players ahead of time. If you don't plan on tracking Rations, tell your players that before they spend an hour purchasing supplies for their journey.
 
 #### Navigation
 
@@ -963,19 +963,17 @@ If the miniature you use for a monster takes up an amount of space different fro
 
 An area of effect must be translated onto squares or hexes to determine which potential targets are in the area. If the area has a point of origin, choose an intersection of squares or hexes to be the point of origin, then follow its rules as normal. If an area of effect covers at least half a square or hex, the entire square or hex is affected.
 
-[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/01-013.creature-size-square-and-hex.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/01-013.creature-size-square-and-hex.png)
+![Creature Size on Squares and Hexes](creature-size.png)
 
+/// caption
 Creature Size on Squares and Hexes
+///
 
+![Cover on Squares and Hexes](cover.png)
 
-
----
-
-
-[![](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/01-014.cover-on-squares-hexes.png)](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/01-014.cover-on-squares-hexes.png)
-
+/// caption
 Cover on Squares and Hexes
-
+///
 
 #### Line of Sight
 
@@ -1009,11 +1007,10 @@ Although it's important that the players understand what's going on in terms of 
 
 As the characters fight monsters, you can reveal information to help the players make good choices, as described in the sections that follow.
 
-> ### Awarding Heroic Inspiration
-> 
-> As discussed in the [Player's Handbook](/sources/dnd/phb-2024), [Heroic Inspiration](/sources/dnd/free-rules/rules-glossary#HeroicInspiration) is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Heroic Inspiration.
-> 
-> You can also use Heroic Inspiration to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of Heroic Inspiration is aligned with the expectations you set out at the start of your game (see "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics)).
+!!! note "Awarding Heroic Inspiration"
+    As discussed in the [Player's Handbook](/sources/dnd/phb-2024), [Heroic Inspiration](/sources/dnd/free-rules/rules-glossary#HeroicInspiration) is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Heroic Inspiration.
+
+    You can also use Heroic Inspiration to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of Heroic Inspiration is aligned with the expectations you set out at the start of your game (see "[Ensuring Fun for All](/sources/dnd/dmg-2024/the-basics#EnsuringFunforAll)" in [chapter 1](/sources/dnd/dmg-2024/the-basics)).
 
 #### Loss of Hit Points
 

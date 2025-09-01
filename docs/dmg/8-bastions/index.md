@@ -1037,9 +1037,8 @@ Nothing significant happens. Roll on the following table, fleshing out the detai
 | 7 | Some practical joker has been putting rotten eggs in people's boots. |
 | 8 | Someone thought they saw a ghost. |
 
-> ### Bastion Tracker
-> 
-> Players can use the [Bastion Tracker](#BastionTrackerSheet) sheet as a record of the facilities and other characteristics of their Bastions. Encourage your players to list their hirelings on this sheet and develop them more fully as NPCs on separate sheets (perhaps using the [NPC Tracker](/sources/dnd/dmg-2024/dms-toolbox#NPCTracker) in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). Similarly, the Bastion Tracker provides space to indicate the space of each special facility, but encourage players to draw maps of their Bastions (see "[Bastion Map](#BastionMap)" earlier in this chapter).
+!!! note "Bastion Tracker"
+    Players can use the [Bastion Tracker](#BastionTrackerSheet) sheet as a record of the facilities and other characteristics of their Bastions. Encourage your players to list their hirelings on this sheet and develop them more fully as NPCs on separate sheets (perhaps using the [NPC Tracker](/sources/dnd/dmg-2024/dms-toolbox#NPCTracker) in [chapter 3](/sources/dnd/dmg-2024/dms-toolbox)). Similarly, the Bastion Tracker provides space to indicate the space of each special facility, but encourage players to draw maps of their Bastions (see "[Bastion Map](#BastionMap)" earlier in this chapter).
 
 #### Attack
 

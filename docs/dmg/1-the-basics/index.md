@@ -35,23 +35,22 @@ The most important part of being a good DM is facilitating the fun of everyone a
 
 **It's OK to Make Mistakes.** If you overlook or misrepresent something, correct yourself and move on. No one expects you to memorize every rule or detail. Even if you don't realize your mistake until after a game session is over, it's OK to acknowledge the mistake at the start of the next session and make adjustments moving forward.
 
-> ### What's New in the 2024 Version?
-> 
-> This is the 2024 version of the fifth edition *Dungeon Master's Guide*. Much of the book has been reorganized, expanded, and rewritten from the 2014 version, and the versions of things in this book replace versions from older books. Here are a few highlights:
-> 
-> **Sound Advice.** Every chapter (but especially chapters 1, [chapter 2](/sources/dnd/dmg-2024/running-the-game), [chapter 4](/sources/dnd/dmg-2024/creating-adventures), and [chapter 5](/sources/dnd/dmg-2024/creating-campaigns)) has new advice for Dungeon Masters of all experience levels.
-> 
-> **Tracking Sheets.** Helpful sheets throughout the book give you tools to plan your game and keep track of your campaign. These sheets are also available for download in [appendix C](/sources/dnd/dmg-2024/tracking-sheets).
-> 
-> **Encounter-Building Assistance.** The rules for estimating the difficulty of combat encounters have changed, as you'll see in [chapter 4](/sources/dnd/dmg-2024/creating-adventures#CombatEncounterDifficulty).
-> 
-> **Ready-Made Elements.** Sample adventures in [chapter 4](/sources/dnd/dmg-2024/creating-adventures#AdventureExamples), a [campaign setting](/sources/dnd/dmg-2024/greyhawk) in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns), and new maps in [appendix B](/sources/dnd/dmg-2024/maps) make it easier to run a game right away.
-> 
-> **Expanded and Revised Magic Items.** [Chapter 7](/sources/dnd/dmg-2024/treasure) is packed with new magic items and old ones that have been revised.
-> 
-> **Bastions.** [Chapter 8](/sources/dnd/dmg-2024/bastions) has rules that allow player characters to build, maintain, and enjoy their own strongholds.
-> 
-> **Lore Glossary.** In [appendix A](/sources/dnd/dmg-2024/lore-glossary), a helpful glossary explains many of the iconic people and locations found throughout the D&D multiverse.
+!!! note "What's New in the 2024 Version?"
+    This is the 2024 version of the fifth edition *Dungeon Master's Guide*. Much of the book has been reorganized, expanded, and rewritten from the 2014 version, and the versions of things in this book replace versions from older books. Here are a few highlights:
+
+    **Sound Advice.** Every chapter (but especially chapters 1, [chapter 2](/sources/dnd/dmg-2024/running-the-game), [chapter 4](/sources/dnd/dmg-2024/creating-adventures), and [chapter 5](/sources/dnd/dmg-2024/creating-campaigns)) has new advice for Dungeon Masters of all experience levels.
+
+    **Tracking Sheets.** Helpful sheets throughout the book give you tools to plan your game and keep track of your campaign. These sheets are also available for download in [appendix C](/sources/dnd/dmg-2024/tracking-sheets).
+
+    **Encounter-Building Assistance.** The rules for estimating the difficulty of combat encounters have changed, as you'll see in [chapter 4](/sources/dnd/dmg-2024/creating-adventures#CombatEncounterDifficulty).
+
+    **Ready-Made Elements.** Sample adventures in [chapter 4](/sources/dnd/dmg-2024/creating-adventures#AdventureExamples), a [campaign setting](/sources/dnd/dmg-2024/greyhawk) in [chapter 5](/sources/dnd/dmg-2024/creating-campaigns), and new maps in [appendix B](/sources/dnd/dmg-2024/maps) make it easier to run a game right away.
+
+    **Expanded and Revised Magic Items.** [Chapter 7](/sources/dnd/dmg-2024/treasure) is packed with new magic items and old ones that have been revised.
+
+    **Bastions.** [Chapter 8](/sources/dnd/dmg-2024/bastions) has rules that allow player characters to build, maintain, and enjoy their own strongholds.
+
+    **Lore Glossary.** In [appendix A](/sources/dnd/dmg-2024/lore-glossary), a helpful glossary explains many of the iconic people and locations found throughout the D&D multiverse.
 
 Things You Need
 ---------------
@@ -96,13 +95,12 @@ If possible, play in an area with minimal visual or auditory distractions. Favor
 
 You can also play D&D anywhere you might come together in an online space, from a group video call to a sophisticated virtual tabletop.
 
-> ### Scheduling Games
-> 
-> Sometimes the hardest thing about running a game is finding a time when everyone can play. Some groups play for a few hours every week, while others set aside a whole day once a month. Create a schedule that works best for your group.
-> 
-> For new groups, it often helps to schedule a single-session game (often called a "one-shot") as a way for people to try it out. If everyone has a great time at that one session, it can be easier to get them to make a long-term commitment.
-> 
-> Scheduling conflicts are sometimes inescapable. The "[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers some advice on what to do when a player has to miss a session.
+!!! note "Scheduling Games"
+    Sometimes the hardest thing about running a game is finding a time when everyone can play. Some groups play for a few hours every week, while others set aside a whole day once a month. Create a schedule that works best for your group.
+
+    For new groups, it often helps to schedule a single-session game (often called a "one-shot") as a way for people to try it out. If everyone has a great time at that one session, it can be easier to get them to make a long-term commitment.
+
+    Scheduling conflicts are sometimes inescapable. The "[Group Size](/sources/dnd/dmg-2024/running-the-game#GroupSize)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) offers some advice on what to do when a player has to miss a session.
 
 ### Dice
 
@@ -267,9 +265,8 @@ The game has a rhythm and flow that includes periods of action and excitement in
 
 Expect players to discuss the events of the game, spend time planning, and engage in long conversations in character. You don't need to be involved in those discussions unless they have questions for you. Learn to recognize the times when you can take a break as the DM, and then resume the action as soon as everyone's ready.
 
-> ### Taking Breaks
-> 
-> When you finish a lengthy combat encounter or a tension-filled scene, or if you need time to think, take a quick break. Give your brain a few moments to refocus, relax, or prepare for the next encounter. It's OK to leave the players in suspense during a break while you figure out the consequences of their actions.
+!!! note "Taking Breaks"
+    When you finish a lengthy combat encounter or a tension-filled scene, or if you need time to think, take a quick break. Give your brain a few moments to refocus, relax, or prepare for the next encounter. It's OK to leave the players in suspense during a break while you figure out the consequences of their actions.
 
 ### Ending a Session
 
@@ -286,123 +283,124 @@ These pages present a short example of play, similar to the ones in the [Player'
 
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
 
-**Jared (as DM):** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?
+??? quote annotate "Scene"
+    **Jared (as DM):** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?
 
-**Amy:** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.
+    **Amy:** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.
 
-**Russell:** So we set out and followed the river upstream. At the first fork, we met a treant named Borogrove who pointed us to a cave that was the source of the polluted stream.
+    **Russell:** So we set out and followed the river upstream. At the first fork, we met a treant named Borogrove who pointed us to a cave that was the source of the polluted stream.
 
-**Amy:** Before he wandered off, he gave us a magic acorn, and that's where we ended last week.
+    **Amy:** Before he wandered off, he gave us a magic acorn, and that's where we ended last week.
 
-**Jared:** So now you're in this gloomy forest. Dry leaves rustle under your feet. You're still beside the stream, which looks murky and unwholesome beneath the shadowy trees. What do you want to do now?
+    **Jared:** So now you're in this gloomy forest. Dry leaves rustle under your feet. You're still beside the stream, which looks murky and unwholesome beneath the shadowy trees. What do you want to do now?
 
-**Russell (as Shreeve):** We continue upstream? *(The others nod.)*
+    **Russell (as Shreeve):** We continue upstream? *(The others nod.)*
 
-**Jared:** OK, you make your way upstream for about another hour. The farther you go, the murkier and stinkier the water becomes. Rounding a bend, you can see a cave in the hillside ahead of you. The stream tumbles from the cave mouth. There are withered shrubs clumped around the cave, apparently poisoned by this nasty water.
+    **Jared:** OK, you make your way upstream for about another hour. The farther you go, the murkier and stinkier the water becomes. Rounding a bend, you can see a cave in the hillside ahead of you. The stream tumbles from the cave mouth. There are withered shrubs clumped around the cave, apparently poisoned by this nasty water.
 
-**Phillip (as Gareth):** Into the cave!
+    **Phillip (as Gareth):** Into the cave!
 
-**Jared:** Who's leading the way?
+    **Jared:** Who's leading the way? (1)
 
-> The DM knows something the players don't: the withered shrubs are actually monsters. It's important to establish which characters are closest to the hidden monsters.
+    **Russell:** I'll go first.
 
-**Russell:** I'll go first.
+    **Jared:** The cave entrance is ten feet wide, with the stream running right down the middle. Do you want to go single file or two abreast?
 
-**Jared:** The cave entrance is ten feet wide, with the stream running right down the middle. Do you want to go single file or two abreast?
+    **Phillip:** I don't love the idea of stepping across the stream. Let's go single file, staying on this side of the water. *(Everyone else agrees.)* (2)
 
-**Phillip:** I don't love the idea of stepping across the stream. Let's go single file, staying on this side of the water. *(Everyone else agrees.)*2
+    **Jared:** OK, who's second?
 
-> By asking the players to choose their characters' marching order, the DM cleverly pivots away from the withered shrubs. The players don't realize their characters are in danger, and the DM is waiting for the right time to reveal the hidden monsters.
+    **Phillip:** Gareth will go second.
 
-**Jared:** OK, who's second?
+    **Maeve (as Mirabella):** I'll be third in line.
 
-**Phillip:** Gareth will go second.
+    **Amy (as Auro):** I'll make sure nothing's following us.
 
-**Maeve (as Mirabella):** I'll be third in line.
+    **Jared:** OK, Shreeve, as you reach the cave mouth, you hear the shrubs rustling.
 
-**Amy (as Auro):** I'll make sure nothing's following us.
+    **Russell:** Oh, I should've checked to make sure nothing was hiding in the shrubs!
 
-**Jared:** OK, Shreeve, as you reach the cave mouth, you hear the shrubs rustling.
+    **Jared:** In fact, the shrubs themselves are moving. They're not rooted at all—each one has two little legs and sharp claws! Everyone, roll Initiative.
 
-**Russell:** Oh, I should've checked to make sure nothing was hiding in the shrubs!
+    **Russell:** How many shrubs are attacking?
 
-**Jared:** In fact, the shrubs themselves are moving. They're not rooted at all—each one has two little legs and sharp claws! Everyone, roll Initiative.
+    **Jared:** Six. Auro, what's your Initiative?
 
-**Russell:** How many shrubs are attacking?
+    **Amy:** I got a 14.
 
-**Jared:** Six. Auro, what's your Initiative?
+    **Russell:** Shreeve goes on 5.
 
-**Amy:** I got a 14.
+    **Maeve:** A natural 20 gives me a 21!
 
-**Russell:** Shreeve goes on 5.
+    **Phillip:** 19 for Gareth. (3)
 
-**Maeve:** A natural 20 gives me a 21!
+    **Jared:** Mirabella, you're first. What do you do?
 
-**Phillip:** 19 for Gareth.
+    **Maeve:** How many of these walking bundles of kindling can I get in a 15-foot Cone?
 
-> The DM rolls [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the "[Running Combat](/sources/dnd/dmg-2024/running-the-game#RunningCombat)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for advice about rolling and tracking Initiative.
+    **Jared:** There are three on your side of the stream and three on the other side. You can get either group in your Cone. (4)
 
-**Jared:** Mirabella, you're first. What do you do?
+    **Maeve:** Mirabella puts her thumbs together and wiggles her fingertips. *(Maeve mimics this action.)* Fire shoots out from her fingers, catching the ones on our side of the stream. *Burning Hands*!
 
-**Maeve:** How many of these walking bundles of kindling can I get in a 15-foot Cone?
+    **Jared:** OK, what do I need to do? (5)
 
-**Jared:** There are three on your side of the stream and three on the other side. You can get either group in your Cone.
+    **Maeve:** The shrub things need to make Dexterity saving throws. The DC is 14.
 
-> The DM doesn't have the exact positions of the monsters mapped out on a grid, but it's fair to assume that they're clumped close together as they move to attack the characters.
+    **Jared:** And how much damage do they take?
 
-**Maeve:** Mirabella puts her thumbs together and wiggles her fingertips. *(Maeve mimics this action.)* Fire shoots out from her fingers, catching the ones on our side of the stream. *Burning Hands*!
+    **Maeve:** *(Maeve rolls 3d6 for the spell's damage.)* 13 Fire damage if they fail the save, 6 if they succeed.
 
-**Jared:** OK, what do I need to do?
+    **Jared:** Magical fire tears through them and leaves smears of ash behind! Anything else, Mirabella? (6)
 
-> It's always fair for the DM to expect players to explain what their spells and abilities do. The DM has enough to keep track of!
+    **Maeve:** My work here is done. *(She mimes blowing smoke away from her fingertips.)*
 
-**Maeve:** The shrub things need to make Dexterity saving throws. The DC is 14.
+    **Jared:** Gareth, you're up next.
 
-**Jared:** And how much damage do they take?
+    **Phillip:** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting *Toll the Dead*. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.
 
-**Maeve:** *(Maeve rolls 3d6 for the spell's damage.)* 13 Fire damage if they fail the save, 6 if they succeed.
+    **Jared:** Well, I rolled a 1.
 
-**Jared:** Magical fire tears through them and leaves smears of ash behind! Anything else, Mirabella?
+    **Phillip:** It takes 7 Necrotic damage!
 
-> Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [Vulnerability](/sources/dnd/free-rules/rules-glossary#Vulnerability) to Fire damage (because they're just dry shrubs) and so few [Hit Points](/sources/dnd/free-rules/rules-glossary#HitPoints) that they'll die no matter what they roll.
+    **Jared:** Whatever moisture was in this "bundle of kindling" seems to dry up, and the thing keels over dead. Anything else, Gareth?
 
-**Maeve:** My work here is done. *(She mimes blowing smoke away from her fingertips.)*
+    **Phillip:** He glares menacingly at the other shrubs.
 
-**Jared:** Gareth, you're up next.
+    **Jared:** OK, their turn. One skitters toward Mirabella!
 
-**Phillip:** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting *Toll the Dead*. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.
+    **Russell:** Can I interject myself between it and Mirabella?
 
-**Jared:** Well, I rolled a 1.
+    **Jared:** Sure, I'll allow it. You step into the monster's path and... *(The DM makes an attack roll for the monster but rolls a 7, which isn't going to hit.)* It tears at your cloak but fails to wound you. The other one has lost any interest in fighting, and it starts running away. Now it's Auro's turn. (7)
 
-**Phillip:** It takes 7 Necrotic damage!
+    **Amy:** Auro looks at the one that just attacked Shreeve and pulls out his dagger. I get a 23 to hit!
 
-**Jared:** Whatever moisture was in this "bundle of kindling" seems to dry up, and the thing keels over dead. Anything else, Gareth?
+    **Jared:** That hits! What's your damage?
 
-**Phillip:** He glares menacingly at the other shrubs.
+    **Amy:** Since Shreeve is next to it, I can use my Sneak Attack! The shrub takes 12 Piercing damage.
 
-**Jared:** OK, their turn. One skitters toward Mirabella!
+    **Jared:** It's felled! Mirabella, the last one is running away. Will you let it escape?
 
-**Russell:** Can I interject myself between it and Mirabella?
+    **Maeve:** I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast *Fire Bolt*, getting a 14 to hit.
 
-**Jared:** Sure, I'll allow it. You step into the monster's path and... *(The DM makes an attack roll for the monster but rolls a 7, which isn't going to hit.)* It tears at your cloak but fails to wound you. The other one has lost any interest in fighting, and it starts running away. Now it's Auro's turn.
+    **Jared:** You nailed it.
 
-> It's not Shreeve's turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster's attack because it gives Shreeve a fun heroic moment. The DM changes the monster's target to Shreeve and makes an attack roll.
+    **Maeve:** It takes 10 Fire damage!
 
-**Amy:** Auro looks at the one that just attacked Shreeve and pulls out his dagger. I get a 23 to hit!
+    **Jared:** Yeah, the last shrub is incinerated. Well done!
 
-**Jared:** That hits! What's your damage?
+1. The DM knows something the players don't: the withered shrubs are actually monsters. It's important to establish which characters are closest to the hidden monsters.
 
-**Amy:** Since Shreeve is next to it, I can use my Sneak Attack! The shrub takes 12 Piercing damage.
+2. By asking the players to choose their characters' marching order, the DM cleverly pivots away from the withered shrubs. The players don't realize their characters are in danger, and the DM is waiting for the right time to reveal the hidden monsters.
 
-**Jared:** It's felled! Mirabella, the last one is running away. Will you let it escape?
+3. The DM rolls [Initiative](/sources/dnd/free-rules/rules-glossary#Initiative) just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the "[Running Combat](/sources/dnd/dmg-2024/running-the-game#RunningCombat)" section in [chapter 2](/sources/dnd/dmg-2024/running-the-game) for advice about rolling and tracking Initiative.
 
-**Maeve:** I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast *Fire Bolt*, getting a 14 to hit.
+4. The DM doesn't have the exact positions of the monsters mapped out on a grid, but it's fair to assume that they're clumped close together as they move to attack the characters.
 
-**Jared:** You nailed it.
+5. It's always fair for the DM to expect players to explain what their spells and abilities do. The DM has enough to keep track of!
 
-**Maeve:** It takes 10 Fire damage!
+6. Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [Vulnerability](/sources/dnd/free-rules/rules-glossary#Vulnerability) to Fire damage (because they're just dry shrubs) and so few [Hit Points](/sources/dnd/free-rules/rules-glossary#HitPoints) that they'll die no matter what they roll.
 
-**Jared:** Yeah, the last shrub is incinerated. Well done!
+7. It's not Shreeve's turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster's attack because it gives Shreeve a fun heroic moment. The DM changes the monster's target to Shreeve and makes an attack roll.
 
 
 Every DM Is Unique
@@ -410,11 +408,10 @@ Every DM Is Unique
 
 The preceding example of play shows how one Dungeon Master might run an encounter, but no two DMs run the game in exactly the same way—and that's how it should be! You'll be most successful as a DM if you choose a play style that works best for you and your players.
 
-> ### The Rule of Fun
-> 
-> D&D is a game, and everyone should have fun playing it. Everyone shares equal responsibility in moving the game along, and everyone contributes to the fun when they treat each other with respect and consideration: talking through disagreements among players or their characters, and remembering that arguments or mean-spirited squabbles can get in the way of the fun.
-> 
-> People have many different ideas about what makes D&D fun. The "right way" to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.
+!!! note "The Rule of Fun"
+    D&D is a game, and everyone should have fun playing it. Everyone shares equal responsibility in moving the game along, and everyone contributes to the fun when they treat each other with respect and consideration: talking through disagreements among players or their characters, and remembering that arguments or mean-spirited squabbles can get in the way of the fun.
+
+    People have many different ideas about what makes D&D fun. The "right way" to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.
 
 ### Play Style
 
@@ -500,23 +497,22 @@ Telling players what to expect prepares them as they imagine what sorts of chara
 
 Being clear about your expectations and making sure you understand your players' expectations in return can help ensure a smooth game. Take your players' opinions and desires seriously, and make sure they take yours just as seriously. Ideally, you'll find a style of play that suits everyone.
 
-### Using the Game Expectations Sheet
-> 
-> The [Game Expectations](#GameExpectationsSheet) tracking sheet is a tool you can use to set expectations at the start of a game and ensure the game is fun for everyone.
-> 
-> Before distributing the sheet to players, fill in the two topmost boxes:
-> 
-> **Game Theme and Flavor.** In this box, broadly describe the direction you envision for your game. See the "Setting Expectations" section for the kinds of information to include here.
-> 
-> **Potentially Sensitive Elements.** If you know that some elements of the game might run up against some players' limits, list those elements in this box. See the "Hard and Soft Limits" section for examples.
-> 
-> Once the above information is added, give a copy of the sheet to each player. Players can fill out their sheets anonymously, but ask each of them to add the following information:
-> 
-> **Limits.** Using an **X** for a hard limit or a question mark for a soft limit, indicate any potentially sensitive elements that are problematic. Add any other elements to avoid.
-> 
-> **Hopes, Expectations, and Concerns.** In the last two boxes, share any hopes and expectations for the game, and list any concerns about behavior at the table.
-> 
-> Collect all the sheets, and gather your players' limits into a separate, anonymous document the whole group can access.
+!!! note "Using the Game Expectations Sheet"
+    The [Game Expectations](#GameExpectationsSheet) tracking sheet is a tool you can use to set expectations at the start of a game and ensure the game is fun for everyone.
+
+    Before distributing the sheet to players, fill in the two topmost boxes:
+
+    **Game Theme and Flavor.** In this box, broadly describe the direction you envision for your game. See the "Setting Expectations" section for the kinds of information to include here.
+
+    **Potentially Sensitive Elements.** If you know that some elements of the game might run up against some players' limits, list those elements in this box. See the "Hard and Soft Limits" section for examples.
+
+    Once the above information is added, give a copy of the sheet to each player. Players can fill out their sheets anonymously, but ask each of them to add the following information:
+
+    **Limits.** Using an **X** for a hard limit or a question mark for a soft limit, indicate any potentially sensitive elements that are problematic. Add any other elements to avoid.
+
+    **Hopes, Expectations, and Concerns.** In the last two boxes, share any hopes and expectations for the game, and list any concerns about behavior at the table.
+
+    Collect all the sheets, and gather your players' limits into a separate, anonymous document the whole group can access.
 
 #### Hard and Soft Limits
 
@@ -559,13 +555,12 @@ If you can't tell which of these dynamics is in play, have a conversation with t
 
 Your players need to know from the start that you'll run a game that is fun, fair, and tailored for them; that you'll allow each of them to contribute to the story; and that you'll pay attention to them when they take their turns. Your players also count on you to make sure an adventure's threats don't target them personally. Never make players feel uncomfortable or threatened.
 
-> ### Do You Really Do That?
-> 
-> Can players retract what they just said their characters did? Some DMs take a hard-line position: "If you said it, your character did it." Such a strict position tends to make players much more careful about what they say, which can dampen the atmosphere and discourage humor.
-> 
-> Other DMs let players change their minds freely. This creates a more relaxed mood at the table, which might slow the pace of the game.
-> 
-> A common compromise is to rule that players can retract or change anything their characters did up until the point they learn the consequences of their actions. Once you describe what happens as a result, it's too late for the players to change their minds.
+!!! note "Do You Really Do That?"
+    Can players retract what they just said their characters did? Some DMs take a hard-line position: "If you said it, your character did it." Such a strict position tends to make players much more careful about what they say, which can dampen the atmosphere and discourage humor.
+
+    Other DMs let players change their minds freely. This creates a more relaxed mood at the table, which might slow the pace of the game.
+
+    A common compromise is to rule that players can retract or change anything their characters did up until the point they learn the consequences of their actions. Once you describe what happens as a result, it's too late for the players to change their minds.
 
 #### Sharing the Spotlight
 
@@ -661,11 +656,10 @@ Setting clear expectations is essential when dealing with this kind of rules exp
 
 Outlining these principles can help hold players' exploits at bay. If a player persistently tries to twist the rules of the game, have a conversation with that player outside the game and ask them to stop.
 
-> ### Knowing the Rules
-> 
-> You don't have to be an expert on the rules to be a good DM. Of course it's helpful to be familiar with the rules, especially the ones in the [Player's Handbook](/sources/dnd/phb-2024), but facilitating fun is more important than implementing the rules perfectly. If you're not sure how to apply the rules in a situation, you can always ask the opinion of the players as a group. It might take a few minutes, but it's usually possible to reach an answer that feels fair to everyone, and that's more important than a "correct" answer.
-> 
-> You don't need to know every spell in the [Player's Handbook](/sources/dnd/phb-2024) or the features of every class. Set the expectation that players are responsible for telling you what their abilities and spells do.
+!!! note "Knowing the Rules"
+    You don't have to be an expert on the rules to be a good DM. Of course it's helpful to be familiar with the rules, especially the ones in the [Player's Handbook](/sources/dnd/phb-2024), but facilitating fun is more important than implementing the rules perfectly. If you're not sure how to apply the rules in a situation, you can always ask the opinion of the players as a group. It might take a few minutes, but it's usually possible to reach an answer that feels fair to everyone, and that's more important than a "correct" answer.
+
+    You don't need to know every spell in the [Player's Handbook](/sources/dnd/phb-2024) or the features of every class. Set the expectation that players are responsible for telling you what their abilities and spells do.
 
 ### Rules for the Virtual Table
 

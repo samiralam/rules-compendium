@@ -1075,11 +1075,10 @@ Reality's fabric unravels and spins anew, allowing you to avoid or erase one eve
 
 A powerful devil becomes your enemy. The devil seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
 
-> ### A Question of Enmity
-> 
-> Two of the cards in the *Deck of Many Things* can earn a character the enmity of another being. With the Flames card, the enmity is overt. The character should experience the devil's malevolent efforts on multiple occasions. Seeking out the fiend shouldn't be a simple task, and the adventurer should clash with the devil's allies and followers a few times before being able to confront the devil.
-> 
-> In the case of the [Rogue](#Rogue) card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
+!!! note "A Question of Enmity"
+    Two of the cards in the *Deck of Many Things* can earn a character the enmity of another being. With the Flames card, the enmity is overt. The character should experience the devil's malevolent efforts on multiple occasions. Seeking out the fiend shouldn't be a simple task, and the adventurer should clash with the devil's allies and followers a few times before being able to confront the devil.
+
+    In the case of the [Rogue](#Rogue) card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
 
 #### Fool
 
@@ -1125,42 +1124,46 @@ At any time you choose within one year of drawing this card, you can ask a quest
 
 An [Avatar of Death](/monsters/27734-avatar-of-death) (see the accompanying stat block) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 Hit Points or you die. If an ally of yours deals damage to the avatar, that ally summons another [Avatar of Death](/monsters/27734-avatar-of-death). The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
-> ##### [Avatar of Death](/monsters/27734-avatar-of-death)
-> 
-> *Medium Undead, Neutral Evil*
-> 
-> **AC** 20 **Initiative** +3 (13)
-> 
-> **HP** Half the HP maximum of its summoner
-> 
-> **Speed** 60 ft., Fly 60 ft. (hover)
-> 
-> | Mod | Save |
-> | --- | --- |
-> | STR | 16 | +3 | +3 |
-> | DEX | 16 | +3 | +3 |
-> | CON | 16 | +3 | +3 |
-> | INT | 16 | +3 | +3 |
-> | WIS | 16 | +3 | +3 |
-> | CHA | 16 | +3 | +3 |
-> 
-> **Immunities** Necrotic, Poison; [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Petrified](/sources/dnd/free-rules/rules-glossary#PetrifiedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition), [Unconscious](/sources/dnd/free-rules/rules-glossary#UnconsciousCondition)
-> 
-> **Senses** [Truesight](/sources/dnd/free-rules/rules-glossary#Truesight) 60 ft., Passive Perception 13
-> 
-> **Languages** All languages known to its summoner
-> 
-> **CR** None (XP 0; PB equals its summoner's)
-> 
-> ###### Traits
-> 
-> ***Incorporeal Movement.*** The avatar can move through other creatures and objects as if they were [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain). It takes 5 (1d10) Force damage if it ends its turn inside an object.
-> 
-> ###### Actions
-> 
-> ***Multiattack.*** The avatar makes a number of Reaping Scythe attacks equal to half the summoner's Proficiency Bonus (rounded up).
-> 
-> ***Reaping Scythe.*** *Melee Attack Roll:* Automatic hit, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage plus 4 (1d8) Necrotic damage.
+!!! info "[Avatar of Death](/monsters/27734-avatar-of-death)"
+
+    *Medium Undead, Neutral Evil*
+
+    **AC** 20 **Initiative** +3 (13)
+
+    **HP** Half the HP maximum of its summoner
+
+    **Speed** 60 ft., Fly 60 ft. (hover)
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 16 | +3 | +3 |
+    | DEX | 16 | +3 | +3 |
+    | CON | 16 | +3 | +3 |
+    | INT | 16 | +3 | +3 |
+    | WIS | 16 | +3 | +3 |
+    | CHA | 16 | +3 | +3 |
+
+    **Immunities** Necrotic, Poison; [Charmed](/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Exhaustion](/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Petrified](/sources/dnd/free-rules/rules-glossary#PetrifiedCondition), [Poisoned](/sources/dnd/free-rules/rules-glossary#PoisonedCondition), [Unconscious](/sources/dnd/free-rules/rules-glossary#UnconsciousCondition)
+
+    **Senses** [Truesight](/sources/dnd/free-rules/rules-glossary#Truesight) 60 ft., Passive Perception 13
+
+    **Languages** All languages known to its summoner
+
+    **CR** None (XP 0; PB equals its summoner's)
+
+    <p style="font-size: 125%;">
+    Traits
+    </p>
+
+    ***Incorporeal Movement.*** The avatar can move through other creatures and objects as if they were [Difficult Terrain](/sources/dnd/free-rules/rules-glossary#DifficultTerrain). It takes 5 (1d10) Force damage if it ends its turn inside an object.
+
+    <p style="font-size: 125%;">
+    Actions
+    </p>
+
+    ***Multiattack.*** The avatar makes a number of Reaping Scythe attacks equal to half the summoner's Proficiency Bonus (rounded up).
+
+    ***Reaping Scythe.*** *Melee Attack Roll:* Automatic hit, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage plus 4 (1d8) Necrotic damage.
 
 #### Star
 
@@ -1615,30 +1618,30 @@ This ebony statuette, carved in the likeness of a horsefly, can become a [Giant 
 These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a [Lion](/monsters/4775826-lion) for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
 
 
-> ##### [Giant Fly](/monsters/27750-giant-fly)
-> 
-> *Large Beast, Unaligned*
-> 
-> **AC** 11 **Initiative** +1 (11)
-> 
-> **HP** 19 (3d10 + 3)
-> 
-> **Speed** 30 ft., Fly 60 ft.
-> 
-> | Mod | Save |
-> | --- | --- |
-> | STR | 14 | +2 | +2 |
-> | DEX | 13 | +1 | +1 |
-> | CON | 13 | +1 | +1 |
-> | INT | 2 | −4 | −4 |
-> | WIS | 10 | +0 | +0 |
-> | CHA | 3 | −4 | −4 |
-> 
-> **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
-> 
-> **Languages** None
-> 
-> **CR** 0 (XP 0; PB +2)
+!!! info "[Giant Fly](/monsters/27750-giant-fly)"
+
+    *Large Beast, Unaligned*
+
+    **AC** 11 **Initiative** +1 (11)
+
+    **HP** 19 (3d10 + 3)
+
+    **Speed** 30 ft., Fly 60 ft.
+
+    |  |  | Mod | Save |
+    | --- | --- | --- | --- |
+    | STR | 14 | +2 | +2 |
+    | DEX | 13 | +1 | +1 |
+    | CON | 13 | +1 | +1 |
+    | INT | 2 | −4 | −4 |
+    | WIS | 10 | +0 | +0 |
+    | CHA | 3 | −4 | −4 |
+
+    **Senses** [Darkvision](/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+
+    **Languages** None
+
+    **CR** 0 (XP 0; PB +2)
 
 
 
