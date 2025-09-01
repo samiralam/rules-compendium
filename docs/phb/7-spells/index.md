@@ -170,6 +170,10 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ![The different shapes of an area of effect](areas-of-effect.png)
 
+/// caption
+The different shapes of an area of effect
+///
+
 ***Awareness of Being Targeted.*** Unless a spell has a perceptible effect, a creature doesn't know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell's description says otherwise.
 
 ***Invalid Targets.*** If you cast a spell on someone or something that can't be affected by it, nothing happens to that target, but if you used a spell slot to cast the spell, the slot is still expended.
