@@ -1,0 +1,4383 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://rules.womford.quest/phb/3-character-classes/cleric/">
+      
+      
+        <link rel="prev" href="../bard/">
+      
+      
+        <link rel="next" href="../druid/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.18">
+    
+    
+      
+        <title>Cleric - Rules Compendium</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cleric-a-miraculous-priest-of-divine-power" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Rules Compendium" class="md-header__button md-logo" aria-label="Rules Compendium" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.921 2.217C4.859 1.297 6.122.742 7.988.838c2.944.152 4.358 2.096 4.358 4.193 0 1.011-.536 2.363-1.276 3.323-.045-.044-.083-.087-.13-.131a21 21 0 0 0-.49-.436c-.484-.421-1.03-.905-1.397-1.426.807-1.413.346-3.414-1.359-3.414-.998 0-1.83.88-1.759 2.047-.26.552-.387 1.352-.337 2.062-.489-.295-.901-.618-1.095-1.067l-.626-1.445-.493 1.492a2.5 2.5 0 0 0-.088 1.135l-.01-.001a3.27 3.27 0 0 1-.555-1.57c-.18-1.908.764-2.964 1.19-3.383m-.45 6.824c.114-.434-.778-1.173-1.11-1.311 1.224-.047 1.833.175 1.833.175-.32-.454-.423-1.146-.242-1.695.667 1.539 3.052 1.786 3.642 3.062-.084-.55-.625-1.169-1.253-1.53-.337-.838-.085-2.383.327-2.808-.145 2.22 3.149 3.49 3.832 5.105-.4-1.383-1.936-2.258-2.664-3.086-.24-.55-.056-1.48.205-1.799-.077 1.488 1.592 2.648 2.483 3.48 1.051.979 1.349 1.845 1.207 2.553.23.058.547.273.493.638.336-.075.677-.445.76-.673.165 1.104-.51 2.273-1.266 2.621 0 0 .203-.527-.141-.93-.34-.398-1.305-.403-1.631-.38 0 0 .4-.57.242-.86-.2-.357-2.087-.2-2.93.094.287-.03.967.044 1.205.14-.132.189-.478.989-.23 1.229.23.22.53-.162.53-.162s-.294.875-.082 1.078c.21.203.662.059.662.059-.281.687-1.379 1.16-2.146 1.16.274-.084.725-.553.795-.836-.2.097-.726.153-.928.117.248-.097.746-.712.592-1.405-.229-1.009-1.69-1.137-2.425-.649.238-.678.95-1.312 1.507-1.52a7.5 7.5 0 0 0-1.117-.273c.468-.369 1.642-.67 2.241-.639-.914-.225-2.586.057-3.352.927.245 0 .875.114 1.118.19-1.048.182-2.478 1.122-2.898 1.566.11-.584.28-1.08.136-1.43-.202-.497-.826-.704-2.07-.457.84-.809 2.56-1.31 2.676-1.751zm5.724.783c.166.563.39 1.08 1.097 1.08 0 0-.248-.779-1.097-1.08m10.479 6.203c.533.088 1.282.635 1.282 1.417 0 1.275-1.652 1.667-2.566 1.469.97-.648.84-2.512-.326-3.178.395 1.045-.79 2.082-1.942 1.172-.641-.506-2.123-1.694-2.785-2.206-.66-.511-1.434-.214-1.74-.437-.348-.254-.125-.97-.6-1.236-.399-.222-.79-.098-1.253-.246-.42-.133-.733-.448-.68-.872-.178.303-.19.83.129 1.186.316.352.844.57 1.062.957.282.5-.193 1.196 1.062 2.143.6.452 1.53 1.195 2.137 1.707 1.021.862.476 1.94.61 2.879.155 1.096 1.072 1.704 1.682 1.858-.526-.46-.725-1.62.014-2.33.038.916.725 2.35 2.292 2.753 1.667.427 3.439-.482 3.807-1.122-.643.28-1.854-.022-2.353-.472 1.956.267 3.686-1.038 3.686-2.712 0-1.633-1.645-2.898-3.518-2.73m-8.5.793c-.667 1.1-2.088 2.531-3.529 2.531-2.651 0-3.98-3.61-1.007-6.564a1.4 1.4 0 0 0-.4-.06c-.255 0-.504.064-.668.174l-1.168.776.264-1.432a2 2 0 0 1 .093-.225c-.675.322-1.339.782-1.588 1.045L2.02 14.28l.122-1.703q.04-.2.08-.385c.06-.275.135-.618.089-.732a.2.2 0 0 0-.083-.091C1.68 11.775.177 13.055 0 14.936c0 0 .291-.395.544-.487.167-.062.313.017.153.487-.061.184-1.51 3.96 1.34 6.57 0 0-.312-.768-.124-1 .092-.114.212-.123.376.08.123.156.251.306.438.51s.447.447.729.657c.853.575 2.011 1.037 3.329 1.037 3.526 0 5.395-2.34 6.43-4.305a2 2 0 0 0-.155-.15 57 57 0 0 0-1.887-1.515zm1.91-2.884c.208.067.42.158.627.319.244.188.603.471.987.776.306-.65 1.009-2.003 2.097-3.204.98-1.08 2.69-1.184 3.588-.526.577-.502 2.569-.974 3.617-.687-.639-.668-1.996-1.564-3.496-1.564-1.237 0-1.936.583-2.113.32-.228-.336.837-.833.837-.833-1.46.058-2.523 1.711-2.966 1.505-.262-.12.395-.92.395-.92-1.336.746-2.455 2.328-2.688 3.291 1.229-1.448 3.614-2.486 5.166-2.267-2.629.122-4.891 2.276-6.05 3.79Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Rules Compendium
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Cleric
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../introduction/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Player's Handbook
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../dmg/1-the-basics/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Dungeon Master's Guide
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Rules Compendium" class="md-nav__button md-logo" aria-label="Rules Compendium" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.921 2.217C4.859 1.297 6.122.742 7.988.838c2.944.152 4.358 2.096 4.358 4.193 0 1.011-.536 2.363-1.276 3.323-.045-.044-.083-.087-.13-.131a21 21 0 0 0-.49-.436c-.484-.421-1.03-.905-1.397-1.426.807-1.413.346-3.414-1.359-3.414-.998 0-1.83.88-1.759 2.047-.26.552-.387 1.352-.337 2.062-.489-.295-.901-.618-1.095-1.067l-.626-1.445-.493 1.492a2.5 2.5 0 0 0-.088 1.135l-.01-.001a3.27 3.27 0 0 1-.555-1.57c-.18-1.908.764-2.964 1.19-3.383m-.45 6.824c.114-.434-.778-1.173-1.11-1.311 1.224-.047 1.833.175 1.833.175-.32-.454-.423-1.146-.242-1.695.667 1.539 3.052 1.786 3.642 3.062-.084-.55-.625-1.169-1.253-1.53-.337-.838-.085-2.383.327-2.808-.145 2.22 3.149 3.49 3.832 5.105-.4-1.383-1.936-2.258-2.664-3.086-.24-.55-.056-1.48.205-1.799-.077 1.488 1.592 2.648 2.483 3.48 1.051.979 1.349 1.845 1.207 2.553.23.058.547.273.493.638.336-.075.677-.445.76-.673.165 1.104-.51 2.273-1.266 2.621 0 0 .203-.527-.141-.93-.34-.398-1.305-.403-1.631-.38 0 0 .4-.57.242-.86-.2-.357-2.087-.2-2.93.094.287-.03.967.044 1.205.14-.132.189-.478.989-.23 1.229.23.22.53-.162.53-.162s-.294.875-.082 1.078c.21.203.662.059.662.059-.281.687-1.379 1.16-2.146 1.16.274-.084.725-.553.795-.836-.2.097-.726.153-.928.117.248-.097.746-.712.592-1.405-.229-1.009-1.69-1.137-2.425-.649.238-.678.95-1.312 1.507-1.52a7.5 7.5 0 0 0-1.117-.273c.468-.369 1.642-.67 2.241-.639-.914-.225-2.586.057-3.352.927.245 0 .875.114 1.118.19-1.048.182-2.478 1.122-2.898 1.566.11-.584.28-1.08.136-1.43-.202-.497-.826-.704-2.07-.457.84-.809 2.56-1.31 2.676-1.751zm5.724.783c.166.563.39 1.08 1.097 1.08 0 0-.248-.779-1.097-1.08m10.479 6.203c.533.088 1.282.635 1.282 1.417 0 1.275-1.652 1.667-2.566 1.469.97-.648.84-2.512-.326-3.178.395 1.045-.79 2.082-1.942 1.172-.641-.506-2.123-1.694-2.785-2.206-.66-.511-1.434-.214-1.74-.437-.348-.254-.125-.97-.6-1.236-.399-.222-.79-.098-1.253-.246-.42-.133-.733-.448-.68-.872-.178.303-.19.83.129 1.186.316.352.844.57 1.062.957.282.5-.193 1.196 1.062 2.143.6.452 1.53 1.195 2.137 1.707 1.021.862.476 1.94.61 2.879.155 1.096 1.072 1.704 1.682 1.858-.526-.46-.725-1.62.014-2.33.038.916.725 2.35 2.292 2.753 1.667.427 3.439-.482 3.807-1.122-.643.28-1.854-.022-2.353-.472 1.956.267 3.686-1.038 3.686-2.712 0-1.633-1.645-2.898-3.518-2.73m-8.5.793c-.667 1.1-2.088 2.531-3.529 2.531-2.651 0-3.98-3.61-1.007-6.564a1.4 1.4 0 0 0-.4-.06c-.255 0-.504.064-.668.174l-1.168.776.264-1.432a2 2 0 0 1 .093-.225c-.675.322-1.339.782-1.588 1.045L2.02 14.28l.122-1.703q.04-.2.08-.385c.06-.275.135-.618.089-.732a.2.2 0 0 0-.083-.091C1.68 11.775.177 13.055 0 14.936c0 0 .291-.395.544-.487.167-.062.313.017.153.487-.061.184-1.51 3.96 1.34 6.57 0 0-.312-.768-.124-1 .092-.114.212-.123.376.08.123.156.251.306.438.51s.447.447.729.657c.853.575 2.011 1.037 3.329 1.037 3.526 0 5.395-2.34 6.43-4.305a2 2 0 0 0-.155-.15 57 57 0 0 0-1.887-1.515zm1.91-2.884c.208.067.42.158.627.319.244.188.603.471.987.776.306-.65 1.009-2.003 2.097-3.204.98-1.08 2.69-1.184 3.588-.526.577-.502 2.569-.974 3.617-.687-.639-.668-1.996-1.564-3.496-1.564-1.237 0-1.936.583-2.113.32-.228-.336.837-.833.837-.833-1.46.058-2.523 1.711-2.966 1.505-.262-.12.395-.92.395-.92-1.336.746-2.455 2.328-2.688 3.291 1.229-1.448 3.614-2.486 5.166-2.267-2.629.122-4.891 2.276-6.05 3.79Z"/></svg>
+
+    </a>
+    Rules Compendium
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Player's Handbook
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Player's Handbook
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../1-playing-the-game/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1: Playing the Game
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 1: Playing the Game
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../2-creating-a-character/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2: Creating a Character
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 2: Creating a Character
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3: Character Classes
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 3: Character Classes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../barbarian/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Barbarian
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Cleric
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cleric
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#becoming-a-cleric">
+    <span class="md-ellipsis">
+      Becoming a Cleric...
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Becoming a Cleric...">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-level-1-cleric">
+    <span class="md-ellipsis">
+      As a Level 1 Cleric
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-multiclass-cleric">
+    <span class="md-ellipsis">
+      As a Multiclass Cleric
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cleric-class-features">
+    <span class="md-ellipsis">
+      Cleric Class Features
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Cleric Class Features">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-spellcasting">
+    <span class="md-ellipsis">
+      Level 1: Spellcasting
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-divine-order">
+    <span class="md-ellipsis">
+      Level 1: Divine Order
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-channel-divinity">
+    <span class="md-ellipsis">
+      Level 2: Channel Divinity
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-cleric-subclass">
+    <span class="md-ellipsis">
+      Level 3: Cleric Subclass
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-ability-score-improvement">
+    <span class="md-ellipsis">
+      Level 4: Ability Score Improvement
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-sear-undead">
+    <span class="md-ellipsis">
+      Level 5: Sear Undead
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-blessed-strikes">
+    <span class="md-ellipsis">
+      Level 7: Blessed Strikes
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-10-divine-intervention">
+    <span class="md-ellipsis">
+      Level 10: Divine Intervention
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-14-improved-blessed-strikes">
+    <span class="md-ellipsis">
+      Level 14: Improved Blessed Strikes
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-19-epic-boon">
+    <span class="md-ellipsis">
+      Level 19: Epic Boon
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-20-greater-divine-intervention">
+    <span class="md-ellipsis">
+      Level 20: Greater Divine Intervention
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cleric-spell-list">
+    <span class="md-ellipsis">
+      Cleric Spell List
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Cleric Spell List">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cantrips-level-0-cleric-spells">
+    <span class="md-ellipsis">
+      Cantrips (Level 0 Cleric Spells)
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-cleric-spells">
+    <span class="md-ellipsis">
+      Level 1 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-cleric-spells">
+    <span class="md-ellipsis">
+      Level 2 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-cleric-spells">
+    <span class="md-ellipsis">
+      Level 3 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-cleric-spells">
+    <span class="md-ellipsis">
+      Level 4 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-cleric-spells">
+    <span class="md-ellipsis">
+      Level 5 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-6-cleric-spells">
+    <span class="md-ellipsis">
+      Level 6 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-cleric-spells">
+    <span class="md-ellipsis">
+      Level 7 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-8-cleric-spells">
+    <span class="md-ellipsis">
+      Level 8 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-cleric-spells">
+    <span class="md-ellipsis">
+      Level 9 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cleric-subclasses">
+    <span class="md-ellipsis">
+      Cleric Subclasses
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Cleric Subclasses">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#life-domain">
+    <span class="md-ellipsis">
+      Life Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#light-domain">
+    <span class="md-ellipsis">
+      Light Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#trickery-domain">
+    <span class="md-ellipsis">
+      Trickery Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#war-domain">
+    <span class="md-ellipsis">
+      War Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../druid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Druid
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fighter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fighter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Monk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../paladin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Paladin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ranger/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ranger
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rogue/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rogue
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sorcerer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sorcerer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../warlock/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Warlock
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wizard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Wizard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../4-character-origins/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 4: Character Origins
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 4: Character Origins
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../5-feats/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 5: Feats
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 5: Feats
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../6-equipment/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 6: Equipment
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 6: Equipment
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../7-spells/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 7: Spells
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_8" id="__nav_2_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 7: Spells
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7-spells/spell-descriptions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Spell Descriptions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_9" id="__nav_2_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Appendices
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_9">
+            <span class="md-nav__icon md-icon"></span>
+            Appendices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-a-the-multiverse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix A: The Multiverse
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-b-creature-stats/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix B: Creature Stats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-c-rules-glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix C: Rules Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Dungeon Master's Guide
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Dungeon Master's Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/1-the-basics/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1: The Basics
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 1: The Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/2-running-the-game/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2: Running the Game
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 2: Running the Game
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/3-dms-toolbox/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3: DM's Toolbox
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 3: DM's Toolbox
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/4-creating-adventures/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 4: Creating Adventures
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 4: Creating Adventures
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/5-creating-campaigns/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 5: Creating Campaigns
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 5: Creating Campaigns
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/5-creating-campaigns/greyhawk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Greyhawk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/6-cosmology/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 6: Cosmology
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 6: Cosmology
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/7-treasure/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 7: Treasure
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_7" id="__nav_3_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_7">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 7: Treasure
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/7-treasure/magic-items/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Magic Items A-Z
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/7-treasure/random-magic-items/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Random Magic Items
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/8-bastions/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 8: Bastions
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_8">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 8: Bastions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_9" id="__nav_3_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Appendices
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_9">
+            <span class="md-nav__icon md-icon"></span>
+            Appendices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/appendices/appendix-a-lore-glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix A: Lore Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#becoming-a-cleric">
+    <span class="md-ellipsis">
+      Becoming a Cleric...
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Becoming a Cleric...">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-level-1-cleric">
+    <span class="md-ellipsis">
+      As a Level 1 Cleric
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-multiclass-cleric">
+    <span class="md-ellipsis">
+      As a Multiclass Cleric
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cleric-class-features">
+    <span class="md-ellipsis">
+      Cleric Class Features
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Cleric Class Features">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-spellcasting">
+    <span class="md-ellipsis">
+      Level 1: Spellcasting
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-divine-order">
+    <span class="md-ellipsis">
+      Level 1: Divine Order
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-channel-divinity">
+    <span class="md-ellipsis">
+      Level 2: Channel Divinity
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-cleric-subclass">
+    <span class="md-ellipsis">
+      Level 3: Cleric Subclass
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-ability-score-improvement">
+    <span class="md-ellipsis">
+      Level 4: Ability Score Improvement
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-sear-undead">
+    <span class="md-ellipsis">
+      Level 5: Sear Undead
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-blessed-strikes">
+    <span class="md-ellipsis">
+      Level 7: Blessed Strikes
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-10-divine-intervention">
+    <span class="md-ellipsis">
+      Level 10: Divine Intervention
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-14-improved-blessed-strikes">
+    <span class="md-ellipsis">
+      Level 14: Improved Blessed Strikes
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-19-epic-boon">
+    <span class="md-ellipsis">
+      Level 19: Epic Boon
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-20-greater-divine-intervention">
+    <span class="md-ellipsis">
+      Level 20: Greater Divine Intervention
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cleric-spell-list">
+    <span class="md-ellipsis">
+      Cleric Spell List
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Cleric Spell List">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cantrips-level-0-cleric-spells">
+    <span class="md-ellipsis">
+      Cantrips (Level 0 Cleric Spells)
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-cleric-spells">
+    <span class="md-ellipsis">
+      Level 1 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-cleric-spells">
+    <span class="md-ellipsis">
+      Level 2 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-cleric-spells">
+    <span class="md-ellipsis">
+      Level 3 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-cleric-spells">
+    <span class="md-ellipsis">
+      Level 4 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-cleric-spells">
+    <span class="md-ellipsis">
+      Level 5 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-6-cleric-spells">
+    <span class="md-ellipsis">
+      Level 6 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-cleric-spells">
+    <span class="md-ellipsis">
+      Level 7 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-8-cleric-spells">
+    <span class="md-ellipsis">
+      Level 8 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-cleric-spells">
+    <span class="md-ellipsis">
+      Level 9 Cleric Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cleric-subclasses">
+    <span class="md-ellipsis">
+      Cleric Subclasses
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Cleric Subclasses">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#life-domain">
+    <span class="md-ellipsis">
+      Life Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#light-domain">
+    <span class="md-ellipsis">
+      Light Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#trickery-domain">
+    <span class="md-ellipsis">
+      Trickery Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#war-domain">
+    <span class="md-ellipsis">
+      War Domain
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="cleric-a-miraculous-priest-of-divine-power">Cleric: A Miraculous Priest of Divine Power<a class="headerlink" href="#cleric-a-miraculous-priest-of-divine-power" title="Permanent link">#</a></h1>
+<div class="admonition info">
+<p class="admonition-title">Core Cleric Traits</p>
+<table>
+<thead>
+<tr>
+<th>Primary Ability</th>
+<th>Wisdom</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Point Die</td>
+<td>D8 per Cleric level</td>
+</tr>
+<tr>
+<td>Saving Throw Proficiencies</td>
+<td>Wisdom and Charisma</td>
+</tr>
+<tr>
+<td>Skill Proficiencies</td>
+<td><em>Choose 2:</em> <a href="/sources/dnd/free-rules/playing-the-game#Skills">History</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Insight</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Medicine</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Persuasion</a>, or <a href="/sources/dnd/free-rules/playing-the-game#Skills">Religion</a></td>
+</tr>
+<tr>
+<td>Weapon Proficiencies</td>
+<td>Simple weapons</td>
+</tr>
+<tr>
+<td>Armor Training</td>
+<td>Light and Medium armor and Shields</td>
+</tr>
+<tr>
+<td>Starting Equipment</td>
+<td><em>Choose A or B:</em> (A) <a href="/equipment/12-chain-shirt">Chain Shirt</a>, <a href="/equipment/8-shield">Shield</a>, <a href="/equipment/11-mace">Mace</a>, <a href="/equipment/514-holy-symbol">Holy Symbol</a>, <a href="/equipment/405-priests-pack">Priest's Pack</a>, and 7 GP; or (B) 110 GP</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.</p>
+<p>Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn't rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.</p>
+<p>Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.</p>
+<h2 id="becoming-a-cleric">Becoming a Cleric...<a class="headerlink" href="#becoming-a-cleric" title="Permanent link">#</a></h2>
+<h3 id="as-a-level-1-cleric">As a Level 1 Cleric<a class="headerlink" href="#as-a-level-1-cleric" title="Permanent link">#</a></h3>
+<ul>
+<li>Gain all the traits in the <a href="#CoreClericTraits">Core Cleric Traits table</a>.</li>
+<li>Gain the Cleric's level 1 features, which are listed in the <a href="#ClericFeatures">Cleric Features table</a>.</li>
+</ul>
+<h3 id="as-a-multiclass-cleric">As a Multiclass Cleric<a class="headerlink" href="#as-a-multiclass-cleric" title="Permanent link">#</a></h3>
+<ul>
+<li>Gain the following traits from the <a href="#CoreClericTraits">Core Cleric Traits table</a>: Hit Point Die and training with Light and Medium armor and Shields.</li>
+<li>Gain the Cleric's level 1 features, which are listed in the <a href="#ClericFeatures">Cleric Features table</a>. See the multiclassing rules in <a href="https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character#Multiclassing">chapter 2</a> to determine your available spell slots.</li>
+</ul>
+<h2 id="cleric-class-features">Cleric Class Features<a class="headerlink" href="#cleric-class-features" title="Permanent link">#</a></h2>
+<p>As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.</p>
+<h4 id="cleric-features">Cleric Features<a class="headerlink" href="#cleric-features" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Class Features</th>
+<th>Channel Divinity</th>
+<th>Cantrips</th>
+<th>Prepared Spells</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+2</td>
+<td><a href="#Level1ClericSpellcasting">Spellcasting</a>, <a href="#Level1DivineOrder">Divine Order</a></td>
+<td>—</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+2</td>
+<td><a href="#Level2ClericChannelDivinity">Channel Divinity</a></td>
+<td>2</td>
+<td>3</td>
+<td>5</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+2</td>
+<td><a href="#Level3ClericSubclass">Cleric Subclass</a></td>
+<td>2</td>
+<td>3</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+2</td>
+<td><a href="#Level4ClericAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>2</td>
+<td>4</td>
+<td>7</td>
+<td>4</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+3</td>
+<td><a href="#Level5SearUndead">Sear Undead</a></td>
+<td>2</td>
+<td>4</td>
+<td>9</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+3</td>
+<td>Subclass feature</td>
+<td>3</td>
+<td>4</td>
+<td>10</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+3</td>
+<td><a href="#Level7BlessedStrikes">Blessed Strikes</a></td>
+<td>3</td>
+<td>4</td>
+<td>11</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+3</td>
+<td><a href="#Level4ClericAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>3</td>
+<td>4</td>
+<td>12</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>9</td>
+<td>+4</td>
+<td>—</td>
+<td>3</td>
+<td>4</td>
+<td>14</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+4</td>
+<td><a href="#Level10DivineIntervention">Divine Intervention</a></td>
+<td>3</td>
+<td>5</td>
+<td>15</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>11</td>
+<td>+4</td>
+<td>—</td>
+<td>3</td>
+<td>5</td>
+<td>16</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>12</td>
+<td>+4</td>
+<td><a href="#Level4ClericAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>3</td>
+<td>5</td>
+<td>16</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>13</td>
+<td>+5</td>
+<td>—</td>
+<td>3</td>
+<td>5</td>
+<td>17</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>14</td>
+<td>+5</td>
+<td><a href="#Level14ImprovedBlessedStrikes">Improved Blessed Strikes</a></td>
+<td>3</td>
+<td>5</td>
+<td>17</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>15</td>
+<td>+5</td>
+<td>—</td>
+<td>3</td>
+<td>5</td>
+<td>18</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>16</td>
+<td>+5</td>
+<td><a href="#Level4ClericAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>3</td>
+<td>5</td>
+<td>18</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>17</td>
+<td>+6</td>
+<td>Subclass feature</td>
+<td>3</td>
+<td>5</td>
+<td>19</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>+6</td>
+<td>—</td>
+<td>4</td>
+<td>5</td>
+<td>20</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>19</td>
+<td>+6</td>
+<td><a href="#Level19ClericEpicBoon">Epic Boon</a></td>
+<td>4</td>
+<td>5</td>
+<td>21</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>+6</td>
+<td><a href="#Level20GreaterDivineIntervention">Greater Divine Intervention</a></td>
+<td>4</td>
+<td>5</td>
+<td>22</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-1-spellcasting">Level 1: Spellcasting<a class="headerlink" href="#level-1-spellcasting" title="Permanent link">#</a></h3>
+<p>You have learned to cast spells through prayer and meditation. See <a href="https://www.dndbeyond.com/sources/dnd/phb-2024/spells/">chapter 7</a> for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the <a href="#ClericSpellList">Cleric spell list</a> later in the class's description.</p>
+<p><strong><em>Cantrips.</em></strong> You know three cantrips of your choice from the Cleric spell list. <a href="/spells/2618971-guidance">Guidance</a>, <a href="/spells/2618967-sacred-flame">Sacred Flame</a>, and <a href="/spells/2619174-thaumaturgy">Thaumaturgy</a> are recommended.</p>
+<p>Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.</p>
+<p>When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the <a href="#ClericFeatures">Cleric Features table</a>.</p>
+<p><strong><em>Spell Slots.</em></strong> The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p><strong><em>Prepared Spells of Level 1+.</em></strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. <a href="/spells/2618933-bless">Bless</a>, <a href="/spells/2619079-cure-wounds">Cure Wounds</a>, <a href="/spells/2619136-guiding-bolt">Guiding Bolt</a>, and <a href="/spells/2619020-shield-of-faith">Shield of Faith</a> are recommended.</p>
+<p>The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the <a href="#ClericFeatures">Cleric Features table</a>. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p>
+<p>If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.</p>
+<p><strong><em>Changing Your Prepared Spells.</em></strong> Whenever you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.</p>
+<p><strong><em>Spellcasting Ability.</em></strong> Wisdom is your spellcasting ability for your Cleric spells.</p>
+<p><strong><em>Spellcasting Focus.</em></strong> You can use a <a href="/equipment/514-holy-symbol">Holy Symbol</a> as a Spellcasting Focus for your Cleric spells.</p>
+<h3 id="level-1-divine-order">Level 1: Divine Order<a class="headerlink" href="#level-1-divine-order" title="Permanent link">#</a></h3>
+<p>You have dedicated yourself to one of the following sacred roles of your choice.</p>
+<p><strong><em>Protector.</em></strong> Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.</p>
+<p><strong><em>Thaumaturge.</em></strong> You know one extra cantrip from the <a href="#ClericSpellList">Cleric spell list</a>. In addition, your mystical connection to the divine gives you a bonus to your Intelligence (<a href="/sources/dnd/free-rules/playing-the-game#Skills">Arcana</a> or <a href="/sources/dnd/free-rules/playing-the-game#Skills">Religion</a>) checks. The bonus equals your Wisdom modifier (minimum of +1).</p>
+<h3 id="level-2-channel-divinity">Level 2: Channel Divinity<a class="headerlink" href="#level-2-channel-divinity" title="Permanent link">#</a></h3>
+<p>You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.</p>
+<p>You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short Rest</a>, and you regain all expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the <a href="#ClericFeatures">Cleric Features table</a>.</p>
+<p>If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.</p>
+<p><strong><em>Divine Spark.</em></strong> As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).</p>
+<p>You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).</p>
+<p><strong><em>Turn Undead.</em></strong> As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you present your Holy Symbol and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the <a href="/sources/dnd/free-rules/rules-glossary#FrightenedCondition">Frightened</a> and <a href="/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition">Incapacitated</a> conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the Incapacitated condition, or if you die.</p>
+<h3 id="level-3-cleric-subclass">Level 3: Cleric Subclass<a class="headerlink" href="#level-3-cleric-subclass" title="Permanent link">#</a></h3>
+<p>You gain a Cleric subclass of your choice. The <a href="#LifeDomain">Life Domain</a>, <a href="#LightDomain">Light Domain</a>, <a href="#TrickeryDomain">Trickery Domain</a>, and <a href="#WarDomain">War Domain</a> subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower.</p>
+<h3 id="level-4-ability-score-improvement">Level 4: Ability Score Improvement<a class="headerlink" href="#level-4-ability-score-improvement" title="Permanent link">#</a></h3>
+<p>You gain the Ability Score Improvement feat (see <a href="https://www.dndbeyond.com/sources/dnd/phb-2024/feats#AbilityScoreImprovement">chapter 5</a>) or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.</p>
+<h3 id="level-5-sear-undead">Level 5: Sear Undead<a class="headerlink" href="#level-5-sear-undead" title="Permanent link">#</a></h3>
+<p>Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the turn effect.</p>
+<h3 id="level-7-blessed-strikes">Level 7: Blessed Strikes<a class="headerlink" href="#level-7-blessed-strikes" title="Permanent link">#</a></h3>
+<p>Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).</p>
+<p><strong><em>Divine Strike.</em></strong> Once on each of your turns when you hit a creature with an attack roll using a weapon, you can cause the target to take an extra 1d8 Necrotic or Radiant damage (your choice).</p>
+<p><strong><em>Potent Spellcasting.</em></strong> Add your Wisdom modifier to the damage you deal with any Cleric cantrip.</p>
+<h3 id="level-10-divine-intervention">Level 10: Divine Intervention<a class="headerlink" href="#level-10-divine-intervention" title="Permanent link">#</a></h3>
+<p>You can call on your deity or pantheon to intervene on your behalf. As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, choose any Cleric spell of level 5 or lower that doesn't require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="level-14-improved-blessed-strikes">Level 14: Improved Blessed Strikes<a class="headerlink" href="#level-14-improved-blessed-strikes" title="Permanent link">#</a></h3>
+<p>The option you chose for Blessed Strikes grows more powerful.</p>
+<p><strong><em>Divine Strike.</em></strong> The extra damage of your Divine Strike increases to 2d8.</p>
+<p><strong><em>Potent Spellcasting.</em></strong> When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of <a href="/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints">Temporary Hit Points</a> equal to twice your Wisdom modifier.</p>
+<h3 id="level-19-epic-boon">Level 19: Epic Boon<a class="headerlink" href="#level-19-epic-boon" title="Permanent link">#</a></h3>
+<p>You gain an Epic Boon feat (see <a href="https://www.dndbeyond.com/sources/dnd/phb-2024/feats#EpicBoonFeats">chapter 5</a>) or another feat of your choice for which you qualify. <a href="https://www.dndbeyond.com/sources/dnd/phb-2024/feats#BoonofFate">Boon of Fate</a> is recommended.</p>
+<h3 id="level-20-greater-divine-intervention">Level 20: Greater Divine Intervention<a class="headerlink" href="#level-20-greater-divine-intervention" title="Permanent link">#</a></h3>
+<p>You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose <a href="/spells/2619213-wish">Wish</a> when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rests</a>.</p>
+<h2 id="cleric-spell-list">Cleric Spell List<a class="headerlink" href="#cleric-spell-list" title="Permanent link">#</a></h2>
+<p>This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, <em>C</em> means the spell requires Concentration, <em>R</em> means it's a Ritual, and <em>M</em> means it requires a specific Material component.</p>
+<h3 id="cantrips-level-0-cleric-spells">Cantrips (Level 0 Cleric Spells)<a class="headerlink" href="#cantrips-level-0-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618971-guidance">Guidance</a></td>
+<td>Divination</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618996-light">Light</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619033-mending">Mending</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618947-resistance">Resistance</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618967-sacred-flame">Sacred Flame</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619067-spare-the-dying">Spare the Dying</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619174-thaumaturgy">Thaumaturgy</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619188-toll-the-dead">Toll the Dead</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619217-word-of-radiance">Word of Radiance</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-1-cleric-spells">Level 1 Cleric Spells<a class="headerlink" href="#level-1-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618900-bane">Bane</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618933-bless">Bless</a></td>
+<td>Enchantment</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618985-command">Command</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619074-create-or-destroy-water">Create or Destroy Water</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619079-cure-wounds">Cure Wounds</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619090-detect-evil-and-good">Detect Evil and Good</a></td>
+<td>Divination</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619097-detect-magic">Detect Magic</a></td>
+<td>Divination</td>
+<td>C, R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619093-detect-poison-and-disease">Detect Poison and Disease</a></td>
+<td>Divination</td>
+<td>C, R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619136-guiding-bolt">Guiding Bolt</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619143-healing-word">Healing Word</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619181-inflict-wounds">Inflict Wounds</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618912-protection-from-evil-and-good">Protection from Evil and Good</a></td>
+<td>Abjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618917-purify-food-and-drink">Purify Food and Drink</a></td>
+<td>Transmutation</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619003-sanctuary">Sanctuary</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619020-shield-of-faith">Shield of Faith</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-2-cleric-spells">Level 2 Cleric Spells<a class="headerlink" href="#level-2-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618845-aid">Aid</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618882-augury">Augury</a></td>
+<td>Divination</td>
+<td>R, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618938-blindness-deafness">Blindness/Deafness</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618959-calm-emotions">Calm Emotions</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619065-continual-flame">Continual Flame</a></td>
+<td>Evocation</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619165-enhance-ability">Enhance Ability</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618883-find-traps">Find Traps</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618942-gentle-repose">Gentle Repose</a></td>
+<td>Necromancy</td>
+<td>R, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619153-hold-person">Hold Person</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619016-lesser-restoration">Lesser Restoration</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619002-locate-object">Locate Object</a></td>
+<td>Divination</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618892-prayer-of-healing">Prayer of Healing</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618915-protection-from-poison">Protection from Poison</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619061-silence">Silence</a></td>
+<td>Illusion</td>
+<td>C, R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619081-spiritual-weapon">Spiritual Weapon</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619203-warding-bond">Warding Bond</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619221-zone-of-truth">Zone of Truth</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-3-cleric-spells">Level 3 Cleric Spells<a class="headerlink" href="#level-3-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618853-animate-dead">Animate Dead</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618891-aura-of-vitality">Aura of Vitality</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618911-beacon-of-hope">Beacon of Hope</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618923-bestow-curse">Bestow Curse</a></td>
+<td>Necromancy</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618972-clairvoyance">Clairvoyance</a></td>
+<td>Divination</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619073-create-food-and-water">Create Food and Water</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619083-daylight">Daylight</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619103-dispel-magic">Dispel Magic</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618873-feign-death">Feign Death</a></td>
+<td>Necromancy</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2618951-glyph-of-warding">Glyph of Warding</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619018-magic-circle">Magic Circle</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619028-mass-healing-word">Mass Healing Word</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619031-meld-into-stone">Meld into Stone</a></td>
+<td>Transmutation</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2618908-protection-from-energy">Protection from Energy</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618943-remove-curse">Remove Curse</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618956-revivify">Revivify</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619015-sending">Sending</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619068-speak-with-dead">Speak with Dead</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619078-spirit-guardians">Spirit Guardians</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619190-tongues">Tongues</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619207-water-walk">Water Walk</a></td>
+<td>Transmutation</td>
+<td>R</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-4-cleric-spells">Level 4 Cleric Spells<a class="headerlink" href="#level-4-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618884-aura-of-life">Aura of Life</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618888-aura-of-purity">Aura of Purity</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618906-banishment">Banishment</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619070-control-water">Control Water</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619085-death-ward">Death Ward</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619140-divination">Divination</a></td>
+<td>Divination</td>
+<td>R, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618921-freedom-of-movement">Freedom of Movement</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619135-guardian-of-faith">Guardian of Faith</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619001-locate-creature">Locate Creature</a></td>
+<td>Divination</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619092-stone-shape">Stone Shape</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-5-cleric-spells">Level 5 Cleric Spells<a class="headerlink" href="#level-5-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618970-circle-of-power">Circle of Power</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618987-commune">Commune</a></td>
+<td>Divination</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619063-contagion">Contagion</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619096-dispel-evil-and-good">Dispel Evil and Good</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618920-flame-strike">Flame Strike</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618940-geas">Geas</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618961-greater-restoration">Greater Restoration</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619138-hallow">Hallow</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619183-insect-plague">Insect Plague</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619010-legend-lore">Legend Lore</a></td>
+<td>Divination</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619026-mass-cure-wounds">Mass Cure Wounds</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618864-planar-binding">Planar Binding</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618922-raise-dead">Raise Dead</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619007-scrying">Scrying</a></td>
+<td>Divination</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619108-summon-celestial">Summon Celestial</a></td>
+<td>Conjuration</td>
+<td>C, M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-6-cleric-spells">Level 6 Cleric Spells<a class="headerlink" href="#level-6-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618929-blade-barrier">Blade Barrier</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619076-create-undead">Create Undead</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618881-find-the-path">Find the Path</a></td>
+<td>Divination</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618913-forbiddance">Forbiddance</a></td>
+<td>Abjuration</td>
+<td>R, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618977-harm">Harm</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618979-heal">Heal</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618983-heroes-feast">Heroes' Feast</a></td>
+<td>Conjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618861-planar-ally">Planar Ally</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619121-sunbeam">Sunbeam</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619201-true-seeing">True Seeing</a></td>
+<td>Divination</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619218-word-of-recall">Word of Recall</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-7-cleric-spells">Level 7 Cleric Spells<a class="headerlink" href="#level-7-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2619046-conjure-celestial">Conjure Celestial</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619144-divine-word">Divine Word</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619193-etherealness">Etherealness</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618896-fire-storm">Fire Storm</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618867-plane-shift">Plane Shift</a></td>
+<td>Conjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618837-power-word-fortify">Power Word Fortify</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618937-regenerate">Regenerate</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618953-resurrection">Resurrection</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619127-symbol">Symbol</a></td>
+<td>Abjuration</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-8-cleric-spells">Level 8 Cleric Spells<a class="headerlink" href="#level-8-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618860-antimagic-field">Antimagic Field</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619054-control-weather">Control Weather</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619160-earthquake">Earthquake</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619155-holy-aura">Holy Aura</a></td>
+<td>Abjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619123-sunburst">Sunburst</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-9-cleric-spells">Level 9 Cleric Spells<a class="headerlink" href="#level-9-cleric-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618878-astral-projection">Astral Projection</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618932-gate">Gate</a></td>
+<td>Conjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619027-mass-heal">Mass Heal</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618880-power-word-heal">Power Word Heal</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619199-true-resurrection">True Resurrection</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cleric-subclasses">Cleric Subclasses<a class="headerlink" href="#cleric-subclasses" title="Permanent link">#</a></h2>
+<p>A Cleric subclass is a specialization that grants you features at certain Cleric levels, as specified in the subclass. Each Cleric subclass is named after a domain of existence that is favored by a god, pantheon, or religious order. This section presents the <a href="#LifeDomain">Life Domain</a>, <a href="#LightDomain">Light Domain</a>, <a href="#TrickeryDomain">Trickery Domain</a>, and <a href="#WarDomain">War Domain</a> subclasses.</p>
+<h3 id="life-domain">Life Domain<a class="headerlink" href="#life-domain" title="Permanent link">#</a></h3>
+<p><em>Soothe the Hurts of the World</em></p>
+<p>The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.</p>
+<p>Existence itself relies on the positive energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.</p>
+<h4 id="level-3-disciple-of-life">Level 3: Disciple of Life<a class="headerlink" href="#level-3-disciple-of-life" title="Permanent link">#</a></h4>
+<p>When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level.</p>
+<h4 id="level-3-life-domain-spells">Level 3: Life Domain Spells<a class="headerlink" href="#level-3-life-domain-spells" title="Permanent link">#</a></h4>
+<p>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="life-domain-spells">Life Domain Spells<a class="headerlink" href="#life-domain-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Cleric Level</th>
+<th>Prepared Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618845-aid">Aid</a>, <a href="/spells/2618933-bless">Bless</a>, <a href="/spells/2619079-cure-wounds">Cure Wounds</a>, <a href="/spells/2619016-lesser-restoration">Lesser Restoration</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2619028-mass-healing-word">Mass Healing Word</a>, <a href="/spells/2618956-revivify">Revivify</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2618884-aura-of-life">Aura of Life</a>, <a href="/spells/2619085-death-ward">Death Ward</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2618961-greater-restoration">Greater Restoration</a>, <a href="/spells/2619026-mass-cure-wounds">Mass Cure Wounds</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-preserve-life">Level 3: Preserve Life<a class="headerlink" href="#level-3-preserve-life" title="Permanent link">#</a></h4>
+<p>As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you present your Holy Symbol and expend a use of your Channel Divinity to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose <a href="/sources/dnd/free-rules/rules-glossary#Bloodied">Bloodied</a> creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.</p>
+<h4 id="level-6-blessed-healer">Level 6: Blessed Healer<a class="headerlink" href="#level-6-blessed-healer" title="Permanent link">#</a></h4>
+<p>The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one or more creatures other than yourself, you regain Hit Points equal to 2 plus the spell slot's level.</p>
+<h4 id="level-17-supreme-healing">Level 17: Supreme Healing<a class="headerlink" href="#level-17-supreme-healing" title="Permanent link">#</a></h4>
+<p>When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.</p>
+<h3 id="light-domain">Light Domain<a class="headerlink" href="#light-domain" title="Permanent link">#</a></h3>
+<p><em>Bring Light to Banish Darkness</em></p>
+<p>The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.</p>
+<p>The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul's improvement.</p>
+<h4 id="level-3-light-domain-spells">Level 3: Light Domain Spells<a class="headerlink" href="#level-3-light-domain-spells" title="Permanent link">#</a></h4>
+<p>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="light-domain-spells">Light Domain Spells<a class="headerlink" href="#light-domain-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Cleric Level</th>
+<th>Prepared Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618946-burning-hands">Burning Hands</a>, <a href="/spells/2618858-faerie-fire">Faerie Fire</a>, <a href="/spells/2619005-scorching-ray">Scorching Ray</a>, <a href="/spells/2619011-see-invisibility">See Invisibility</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2619083-daylight">Daylight</a>, <a href="/spells/2618887-fireball">Fireball</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2618863-arcane-eye">Arcane Eye</a>, <a href="/spells/2619107-wall-of-fire">Wall of Fire</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2618920-flame-strike">Flame Strike</a>, <a href="/spells/2619007-scrying">Scrying</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-radiance-of-the-dawn">Level 3: Radiance of the Dawn<a class="headerlink" href="#level-3-radiance-of-the-dawn" title="Permanent link">#</a></h4>
+<p>As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you present your Holy Symbol and expend a use of your Channel Divinity to emit a flash of light in a 30-foot <a href="/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect">Emanation</a> originating from yourself. Any magical <a href="/sources/dnd/free-rules/rules-glossary#Darkness">Darkness</a>—such as that created by the <a href="/spells/2619080-darkness">Darkness</a> spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to 2d10 plus your Cleric level on a failed save or half as much damage on a successful one.</p>
+<h4 id="level-3-warding-flare">Level 3: Warding Flare<a class="headerlink" href="#level-3-warding-flare" title="Permanent link">#</a></h4>
+<p>When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a Reaction to impose <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a> on the attack roll, causing light to flare before it hits or misses.</p>
+<p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h4 id="level-6-improved-warding-flare">Level 6: Improved Warding Flare<a class="headerlink" href="#level-6-improved-warding-flare" title="Permanent link">#</a></h4>
+<p>You regain all expended uses of your Warding Flare when you finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short</a> or <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p>In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of <a href="/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints">Temporary Hit Points</a> equal to 2d6 plus your Wisdom modifier.</p>
+<h4 id="level-17-corona-of-light">Level 17: Corona of Light<a class="headerlink" href="#level-17-corona-of-light" title="Permanent link">#</a></h4>
+<p>As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit <a href="/sources/dnd/free-rules/rules-glossary#BrightLight">Bright Light</a> in a 60-foot radius and <a href="/sources/dnd/free-rules/rules-glossary#DimLight">Dim Light</a> for an additional 30 feet. Your enemies in the Bright Light have <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a> on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.</p>
+<p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="trickery-domain">Trickery Domain<a class="headerlink" href="#trickery-domain" title="Permanent link">#</a></h3>
+<p><em>Make Mischief and Challenge Authority</em></p>
+<p>The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.</p>
+<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.</p>
+<h4 id="level-3-blessing-of-the-trickster">Level 3: Blessing of the Trickster<a class="headerlink" href="#level-3-blessing-of-the-trickster" title="Permanent link">#</a></h4>
+<p>As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you can choose yourself or a willing creature within 30 feet of yourself to have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on Dexterity (<a href="/sources/dnd/free-rules/playing-the-game#Skills">Stealth</a>) checks. This blessing lasts until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> or you use this feature again.</p>
+<h4 id="level-3-trickery-domain-spells">Level 3: Trickery Domain Spells<a class="headerlink" href="#level-3-trickery-domain-spells" title="Permanent link">#</a></h4>
+<p>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="trickery-domain-spells">Trickery Domain Spells<a class="headerlink" href="#trickery-domain-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Cleric Level</th>
+<th>Prepared Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618964-charm-person">Charm Person</a>, <a href="/spells/2619102-disguise-self">Disguise Self</a>, <a href="/spells/2619116-invisibility">Invisibility</a>, <a href="/spells/2618849-pass-without-trace">Pass without Trace</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2619168-hypnotic-pattern">Hypnotic Pattern</a>, <a href="/spells/2619122-nondetection">Nondetection</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2619043-confusion">Confusion</a>, <a href="/spells/2619100-dimension-door">Dimension Door</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2619148-dominate-person">Dominate Person</a>, <a href="/spells/2619109-modify-memory">Modify Memory</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-invoke-duplicity">Level 3: Invoke Duplicity<a class="headerlink" href="#level-3-invoke-duplicity" title="Permanent link">#</a></h4>
+<p>As a Bonus Action, you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the <a href="/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition">Incapacitated</a> condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.</p>
+<p><strong><em>Cast Spells.</em></strong> You can cast spells as though you were in the illusion's space, but you must use your own senses.</p>
+<p><strong><em>Distract.</em></strong> When both you and your illusion are within 5 feet of a creature that can see the illusion, you have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on attack rolls against that creature, given how distracting the illusion is to the target.</p>
+<p><strong><em>Move.</em></strong> As a Bonus Action, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.</p>
+<h4 id="level-6-tricksters-transposition">Level 6: Trickster's Transposition<a class="headerlink" href="#level-6-tricksters-transposition" title="Permanent link">#</a></h4>
+<p>Whenever you take the Bonus Action to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.</p>
+<h4 id="level-17-improved-duplicity">Level 17: Improved Duplicity<a class="headerlink" href="#level-17-improved-duplicity" title="Permanent link">#</a></h4>
+<p>The illusion of your Invoke Duplicity has grown more powerful in the following ways.</p>
+<p><strong><em>Shared Distraction.</em></strong> When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a>.</p>
+<p><strong><em>Healing Illusion.</em></strong> When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of Hit Points equal to your Cleric level.</p>
+<h3 id="war-domain">War Domain<a class="headerlink" href="#war-domain" title="Permanent link">#</a></h3>
+<p><em>Inspire Valor and Smite Foes</em></p>
+<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p>
+<p>Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.</p>
+<h4 id="level-3-guided-strike">Level 3: Guided Strike<a class="headerlink" href="#level-3-guided-strike" title="Permanent link">#</a></h4>
+<p>When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.</p>
+<h4 id="level-3-war-domain-spells">Level 3: War Domain Spells<a class="headerlink" href="#level-3-war-domain-spells" title="Permanent link">#</a></h4>
+<p>Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the War Domain Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="war-domain-spells">War Domain Spells<a class="headerlink" href="#war-domain-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Cleric Level</th>
+<th>Prepared Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2619136-guiding-bolt">Guiding Bolt</a>, <a href="/spells/2619024-magic-weapon">Magic Weapon</a>, <a href="/spells/2619020-shield-of-faith">Shield of Faith</a>, <a href="/spells/2619081-spiritual-weapon">Spiritual Weapon</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2619057-crusaders-mantle">Crusader's Mantle</a>, <a href="/spells/2619078-spirit-guardians">Spirit Guardians</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2618894-fire-shield">Fire Shield</a>, <a href="/spells/2618921-freedom-of-movement">Freedom of Movement</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2619152-hold-monster">Hold Monster</a>, <a href="/spells/2619087-steel-wind-strike">Steel Wind Strike</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-war-priest">Level 3: War Priest<a class="headerlink" href="#level-3-war-priest" title="Permanent link">#</a></h4>
+<p>As a Bonus Action, you can make one attack with a weapon or an <a href="/sources/dnd/free-rules/rules-glossary#UnarmedStrike">Unarmed Strike</a>. You can use this Bonus Action a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short</a> or <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h4 id="level-6-war-gods-blessing">Level 6: War God's Blessing<a class="headerlink" href="#level-6-war-gods-blessing" title="Permanent link">#</a></h4>
+<p>You can expend a use of your Channel Divinity to cast <a href="/spells/2619020-shield-of-faith">Shield of Faith</a> or <a href="/spells/2619081-spiritual-weapon">Spiritual Weapon</a> rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require <a href="/sources/dnd/free-rules/rules-glossary#Concentration">Concentration</a>. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the <a href="/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition">Incapacitated</a> condition, or die.</p>
+<h4 id="level-17-avatar-of-battle">Level 17: Avatar of Battle<a class="headerlink" href="#level-17-avatar-of-battle" title="Permanent link">#</a></h4>
+<p>You gain Resistance to Bludgeoning, Piercing, and Slashing damage.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../bard/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Bard">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Bard
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../druid/" class="md-footer__link md-footer__link--next" aria-label="Next: Druid">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Druid
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../..", "features": ["search.share", "search.suggest", "navigation.tabs", "navigation.path", "navigation.top", "navigation.footer", "navigation.indexes", "navigation.expand", "toc.follow"], "search": "../../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.92b07e13.min.js"></script>
+      
+    
+  </body>
+</html>

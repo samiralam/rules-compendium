@@ -1,0 +1,4749 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://rules.womford.quest/phb/3-character-classes/sorcerer/">
+      
+      
+        <link rel="prev" href="../rogue/">
+      
+      
+        <link rel="next" href="../warlock/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.18">
+    
+    
+      
+        <title>Sorcerer - Rules Compendium</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#sorcerer-a-dazzling-mage-filled-with-innate-magic" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Rules Compendium" class="md-header__button md-logo" aria-label="Rules Compendium" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.921 2.217C4.859 1.297 6.122.742 7.988.838c2.944.152 4.358 2.096 4.358 4.193 0 1.011-.536 2.363-1.276 3.323-.045-.044-.083-.087-.13-.131a21 21 0 0 0-.49-.436c-.484-.421-1.03-.905-1.397-1.426.807-1.413.346-3.414-1.359-3.414-.998 0-1.83.88-1.759 2.047-.26.552-.387 1.352-.337 2.062-.489-.295-.901-.618-1.095-1.067l-.626-1.445-.493 1.492a2.5 2.5 0 0 0-.088 1.135l-.01-.001a3.27 3.27 0 0 1-.555-1.57c-.18-1.908.764-2.964 1.19-3.383m-.45 6.824c.114-.434-.778-1.173-1.11-1.311 1.224-.047 1.833.175 1.833.175-.32-.454-.423-1.146-.242-1.695.667 1.539 3.052 1.786 3.642 3.062-.084-.55-.625-1.169-1.253-1.53-.337-.838-.085-2.383.327-2.808-.145 2.22 3.149 3.49 3.832 5.105-.4-1.383-1.936-2.258-2.664-3.086-.24-.55-.056-1.48.205-1.799-.077 1.488 1.592 2.648 2.483 3.48 1.051.979 1.349 1.845 1.207 2.553.23.058.547.273.493.638.336-.075.677-.445.76-.673.165 1.104-.51 2.273-1.266 2.621 0 0 .203-.527-.141-.93-.34-.398-1.305-.403-1.631-.38 0 0 .4-.57.242-.86-.2-.357-2.087-.2-2.93.094.287-.03.967.044 1.205.14-.132.189-.478.989-.23 1.229.23.22.53-.162.53-.162s-.294.875-.082 1.078c.21.203.662.059.662.059-.281.687-1.379 1.16-2.146 1.16.274-.084.725-.553.795-.836-.2.097-.726.153-.928.117.248-.097.746-.712.592-1.405-.229-1.009-1.69-1.137-2.425-.649.238-.678.95-1.312 1.507-1.52a7.5 7.5 0 0 0-1.117-.273c.468-.369 1.642-.67 2.241-.639-.914-.225-2.586.057-3.352.927.245 0 .875.114 1.118.19-1.048.182-2.478 1.122-2.898 1.566.11-.584.28-1.08.136-1.43-.202-.497-.826-.704-2.07-.457.84-.809 2.56-1.31 2.676-1.751zm5.724.783c.166.563.39 1.08 1.097 1.08 0 0-.248-.779-1.097-1.08m10.479 6.203c.533.088 1.282.635 1.282 1.417 0 1.275-1.652 1.667-2.566 1.469.97-.648.84-2.512-.326-3.178.395 1.045-.79 2.082-1.942 1.172-.641-.506-2.123-1.694-2.785-2.206-.66-.511-1.434-.214-1.74-.437-.348-.254-.125-.97-.6-1.236-.399-.222-.79-.098-1.253-.246-.42-.133-.733-.448-.68-.872-.178.303-.19.83.129 1.186.316.352.844.57 1.062.957.282.5-.193 1.196 1.062 2.143.6.452 1.53 1.195 2.137 1.707 1.021.862.476 1.94.61 2.879.155 1.096 1.072 1.704 1.682 1.858-.526-.46-.725-1.62.014-2.33.038.916.725 2.35 2.292 2.753 1.667.427 3.439-.482 3.807-1.122-.643.28-1.854-.022-2.353-.472 1.956.267 3.686-1.038 3.686-2.712 0-1.633-1.645-2.898-3.518-2.73m-8.5.793c-.667 1.1-2.088 2.531-3.529 2.531-2.651 0-3.98-3.61-1.007-6.564a1.4 1.4 0 0 0-.4-.06c-.255 0-.504.064-.668.174l-1.168.776.264-1.432a2 2 0 0 1 .093-.225c-.675.322-1.339.782-1.588 1.045L2.02 14.28l.122-1.703q.04-.2.08-.385c.06-.275.135-.618.089-.732a.2.2 0 0 0-.083-.091C1.68 11.775.177 13.055 0 14.936c0 0 .291-.395.544-.487.167-.062.313.017.153.487-.061.184-1.51 3.96 1.34 6.57 0 0-.312-.768-.124-1 .092-.114.212-.123.376.08.123.156.251.306.438.51s.447.447.729.657c.853.575 2.011 1.037 3.329 1.037 3.526 0 5.395-2.34 6.43-4.305a2 2 0 0 0-.155-.15 57 57 0 0 0-1.887-1.515zm1.91-2.884c.208.067.42.158.627.319.244.188.603.471.987.776.306-.65 1.009-2.003 2.097-3.204.98-1.08 2.69-1.184 3.588-.526.577-.502 2.569-.974 3.617-.687-.639-.668-1.996-1.564-3.496-1.564-1.237 0-1.936.583-2.113.32-.228-.336.837-.833.837-.833-1.46.058-2.523 1.711-2.966 1.505-.262-.12.395-.92.395-.92-1.336.746-2.455 2.328-2.688 3.291 1.229-1.448 3.614-2.486 5.166-2.267-2.629.122-4.891 2.276-6.05 3.79Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Rules Compendium
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Sorcerer
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../introduction/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Player's Handbook
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../dmg/1-the-basics/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Dungeon Master's Guide
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Rules Compendium" class="md-nav__button md-logo" aria-label="Rules Compendium" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.921 2.217C4.859 1.297 6.122.742 7.988.838c2.944.152 4.358 2.096 4.358 4.193 0 1.011-.536 2.363-1.276 3.323-.045-.044-.083-.087-.13-.131a21 21 0 0 0-.49-.436c-.484-.421-1.03-.905-1.397-1.426.807-1.413.346-3.414-1.359-3.414-.998 0-1.83.88-1.759 2.047-.26.552-.387 1.352-.337 2.062-.489-.295-.901-.618-1.095-1.067l-.626-1.445-.493 1.492a2.5 2.5 0 0 0-.088 1.135l-.01-.001a3.27 3.27 0 0 1-.555-1.57c-.18-1.908.764-2.964 1.19-3.383m-.45 6.824c.114-.434-.778-1.173-1.11-1.311 1.224-.047 1.833.175 1.833.175-.32-.454-.423-1.146-.242-1.695.667 1.539 3.052 1.786 3.642 3.062-.084-.55-.625-1.169-1.253-1.53-.337-.838-.085-2.383.327-2.808-.145 2.22 3.149 3.49 3.832 5.105-.4-1.383-1.936-2.258-2.664-3.086-.24-.55-.056-1.48.205-1.799-.077 1.488 1.592 2.648 2.483 3.48 1.051.979 1.349 1.845 1.207 2.553.23.058.547.273.493.638.336-.075.677-.445.76-.673.165 1.104-.51 2.273-1.266 2.621 0 0 .203-.527-.141-.93-.34-.398-1.305-.403-1.631-.38 0 0 .4-.57.242-.86-.2-.357-2.087-.2-2.93.094.287-.03.967.044 1.205.14-.132.189-.478.989-.23 1.229.23.22.53-.162.53-.162s-.294.875-.082 1.078c.21.203.662.059.662.059-.281.687-1.379 1.16-2.146 1.16.274-.084.725-.553.795-.836-.2.097-.726.153-.928.117.248-.097.746-.712.592-1.405-.229-1.009-1.69-1.137-2.425-.649.238-.678.95-1.312 1.507-1.52a7.5 7.5 0 0 0-1.117-.273c.468-.369 1.642-.67 2.241-.639-.914-.225-2.586.057-3.352.927.245 0 .875.114 1.118.19-1.048.182-2.478 1.122-2.898 1.566.11-.584.28-1.08.136-1.43-.202-.497-.826-.704-2.07-.457.84-.809 2.56-1.31 2.676-1.751zm5.724.783c.166.563.39 1.08 1.097 1.08 0 0-.248-.779-1.097-1.08m10.479 6.203c.533.088 1.282.635 1.282 1.417 0 1.275-1.652 1.667-2.566 1.469.97-.648.84-2.512-.326-3.178.395 1.045-.79 2.082-1.942 1.172-.641-.506-2.123-1.694-2.785-2.206-.66-.511-1.434-.214-1.74-.437-.348-.254-.125-.97-.6-1.236-.399-.222-.79-.098-1.253-.246-.42-.133-.733-.448-.68-.872-.178.303-.19.83.129 1.186.316.352.844.57 1.062.957.282.5-.193 1.196 1.062 2.143.6.452 1.53 1.195 2.137 1.707 1.021.862.476 1.94.61 2.879.155 1.096 1.072 1.704 1.682 1.858-.526-.46-.725-1.62.014-2.33.038.916.725 2.35 2.292 2.753 1.667.427 3.439-.482 3.807-1.122-.643.28-1.854-.022-2.353-.472 1.956.267 3.686-1.038 3.686-2.712 0-1.633-1.645-2.898-3.518-2.73m-8.5.793c-.667 1.1-2.088 2.531-3.529 2.531-2.651 0-3.98-3.61-1.007-6.564a1.4 1.4 0 0 0-.4-.06c-.255 0-.504.064-.668.174l-1.168.776.264-1.432a2 2 0 0 1 .093-.225c-.675.322-1.339.782-1.588 1.045L2.02 14.28l.122-1.703q.04-.2.08-.385c.06-.275.135-.618.089-.732a.2.2 0 0 0-.083-.091C1.68 11.775.177 13.055 0 14.936c0 0 .291-.395.544-.487.167-.062.313.017.153.487-.061.184-1.51 3.96 1.34 6.57 0 0-.312-.768-.124-1 .092-.114.212-.123.376.08.123.156.251.306.438.51s.447.447.729.657c.853.575 2.011 1.037 3.329 1.037 3.526 0 5.395-2.34 6.43-4.305a2 2 0 0 0-.155-.15 57 57 0 0 0-1.887-1.515zm1.91-2.884c.208.067.42.158.627.319.244.188.603.471.987.776.306-.65 1.009-2.003 2.097-3.204.98-1.08 2.69-1.184 3.588-.526.577-.502 2.569-.974 3.617-.687-.639-.668-1.996-1.564-3.496-1.564-1.237 0-1.936.583-2.113.32-.228-.336.837-.833.837-.833-1.46.058-2.523 1.711-2.966 1.505-.262-.12.395-.92.395-.92-1.336.746-2.455 2.328-2.688 3.291 1.229-1.448 3.614-2.486 5.166-2.267-2.629.122-4.891 2.276-6.05 3.79Z"/></svg>
+
+    </a>
+    Rules Compendium
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Player's Handbook
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Player's Handbook
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../1-playing-the-game/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1: Playing the Game
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 1: Playing the Game
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../2-creating-a-character/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2: Creating a Character
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 2: Creating a Character
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3: Character Classes
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 3: Character Classes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../barbarian/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Barbarian
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cleric/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cleric
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../druid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Druid
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fighter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fighter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../monk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Monk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../paladin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Paladin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ranger/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ranger
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rogue/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rogue
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Sorcerer
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sorcerer
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#becoming-a-sorcerer">
+    <span class="md-ellipsis">
+      Becoming a Sorcerer...
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Becoming a Sorcerer...">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-level-1-character">
+    <span class="md-ellipsis">
+      As a Level 1 Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-multiclass-character">
+    <span class="md-ellipsis">
+      As a Multiclass Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#sorcerer-class-features">
+    <span class="md-ellipsis">
+      Sorcerer Class Features
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Sorcerer Class Features">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-spellcasting">
+    <span class="md-ellipsis">
+      Level 1: Spellcasting
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-innate-sorcery">
+    <span class="md-ellipsis">
+      Level 1: Innate Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-font-of-magic">
+    <span class="md-ellipsis">
+      Level 2: Font of Magic
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-metamagic">
+    <span class="md-ellipsis">
+      Level 2: Metamagic
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-sorcerer-subclass">
+    <span class="md-ellipsis">
+      Level 3: Sorcerer Subclass
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-ability-score-improvement">
+    <span class="md-ellipsis">
+      Level 4: Ability Score Improvement
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-sorcerous-restoration">
+    <span class="md-ellipsis">
+      Level 5: Sorcerous Restoration
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-sorcery-incarnate">
+    <span class="md-ellipsis">
+      Level 7: Sorcery Incarnate
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-19-epic-boon">
+    <span class="md-ellipsis">
+      Level 19: Epic Boon
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-20-arcane-apotheosis">
+    <span class="md-ellipsis">
+      Level 20: Arcane Apotheosis
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#metamagic-options">
+    <span class="md-ellipsis">
+      Metamagic Options
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#sorcerer-spell-list">
+    <span class="md-ellipsis">
+      Sorcerer Spell List
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Sorcerer Spell List">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cantrips-level-0-sorcerer-spells">
+    <span class="md-ellipsis">
+      Cantrips (Level 0 Sorcerer Spells)
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 1 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 2 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 3 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 4 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 5 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-6-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 6 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 7 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-8-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 8 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 9 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#sorcerer-subclasses">
+    <span class="md-ellipsis">
+      Sorcerer Subclasses
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Sorcerer Subclasses">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#aberrant-sorcery">
+    <span class="md-ellipsis">
+      Aberrant Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#clockwork-sorcery">
+    <span class="md-ellipsis">
+      Clockwork Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#draconic-sorcery">
+    <span class="md-ellipsis">
+      Draconic Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#wild-magic-sorcery">
+    <span class="md-ellipsis">
+      Wild Magic Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../warlock/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Warlock
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wizard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Wizard
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../4-character-origins/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 4: Character Origins
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 4: Character Origins
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../5-feats/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 5: Feats
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 5: Feats
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../6-equipment/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 6: Equipment
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 6: Equipment
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../7-spells/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 7: Spells
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_8" id="__nav_2_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 7: Spells
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../7-spells/spell-descriptions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Spell Descriptions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_9" id="__nav_2_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Appendices
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_9">
+            <span class="md-nav__icon md-icon"></span>
+            Appendices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-a-the-multiverse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix A: The Multiverse
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-b-creature-stats/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix B: Creature Stats
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../appendices/appendix-c-rules-glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix C: Rules Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Dungeon Master's Guide
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Dungeon Master's Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/1-the-basics/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1: The Basics
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 1: The Basics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/2-running-the-game/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2: Running the Game
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 2: Running the Game
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/3-dms-toolbox/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3: DM's Toolbox
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 3: DM's Toolbox
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/4-creating-adventures/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 4: Creating Adventures
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 4: Creating Adventures
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/5-creating-campaigns/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 5: Creating Campaigns
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 5: Creating Campaigns
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/5-creating-campaigns/greyhawk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Greyhawk
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/6-cosmology/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 6: Cosmology
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 6: Cosmology
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/7-treasure/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 7: Treasure
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_7" id="__nav_3_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_7">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 7: Treasure
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/7-treasure/magic-items/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Magic Items A-Z
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/7-treasure/random-magic-items/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Random Magic Items
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../dmg/8-bastions/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Chapter 8: Bastions
+    
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_8">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 8: Bastions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_9" id="__nav_3_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Appendices
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_9">
+            <span class="md-nav__icon md-icon"></span>
+            Appendices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../dmg/appendices/appendix-a-lore-glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Appendix A: Lore Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#becoming-a-sorcerer">
+    <span class="md-ellipsis">
+      Becoming a Sorcerer...
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Becoming a Sorcerer...">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-level-1-character">
+    <span class="md-ellipsis">
+      As a Level 1 Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#as-a-multiclass-character">
+    <span class="md-ellipsis">
+      As a Multiclass Character
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#sorcerer-class-features">
+    <span class="md-ellipsis">
+      Sorcerer Class Features
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Sorcerer Class Features">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-spellcasting">
+    <span class="md-ellipsis">
+      Level 1: Spellcasting
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-innate-sorcery">
+    <span class="md-ellipsis">
+      Level 1: Innate Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-font-of-magic">
+    <span class="md-ellipsis">
+      Level 2: Font of Magic
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-metamagic">
+    <span class="md-ellipsis">
+      Level 2: Metamagic
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-sorcerer-subclass">
+    <span class="md-ellipsis">
+      Level 3: Sorcerer Subclass
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-ability-score-improvement">
+    <span class="md-ellipsis">
+      Level 4: Ability Score Improvement
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-sorcerous-restoration">
+    <span class="md-ellipsis">
+      Level 5: Sorcerous Restoration
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-sorcery-incarnate">
+    <span class="md-ellipsis">
+      Level 7: Sorcery Incarnate
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-19-epic-boon">
+    <span class="md-ellipsis">
+      Level 19: Epic Boon
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-20-arcane-apotheosis">
+    <span class="md-ellipsis">
+      Level 20: Arcane Apotheosis
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#metamagic-options">
+    <span class="md-ellipsis">
+      Metamagic Options
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#sorcerer-spell-list">
+    <span class="md-ellipsis">
+      Sorcerer Spell List
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Sorcerer Spell List">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#cantrips-level-0-sorcerer-spells">
+    <span class="md-ellipsis">
+      Cantrips (Level 0 Sorcerer Spells)
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-1-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 1 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-2-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 2 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-3-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 3 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-4-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 4 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-5-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 5 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-6-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 6 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-7-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 7 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-8-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 8 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#level-9-sorcerer-spells">
+    <span class="md-ellipsis">
+      Level 9 Sorcerer Spells
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#sorcerer-subclasses">
+    <span class="md-ellipsis">
+      Sorcerer Subclasses
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+  <nav class="md-nav" aria-label="Sorcerer Subclasses">
+    <ul class="md-nav__list">
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#aberrant-sorcery">
+    <span class="md-ellipsis">
+      Aberrant Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#clockwork-sorcery">
+    <span class="md-ellipsis">
+      Clockwork Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#draconic-sorcery">
+    <span class="md-ellipsis">
+      Draconic Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+        <!-- Table of contents item -->
+<li class="md-nav__item">
+  <a class="md-nav__link" href="#wild-magic-sorcery">
+    <span class="md-ellipsis">
+      Wild Magic Sorcery
+    </span>
+  </a>
+
+  <!-- Table of contents list -->
+  
+</li>
+      
+    </ul>
+  </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="sorcerer-a-dazzling-mage-filled-with-innate-magic">Sorcerer: A Dazzling Mage Filled with Innate Magic<a class="headerlink" href="#sorcerer-a-dazzling-mage-filled-with-innate-magic" title="Permanent link">#</a></h1>
+<div class="admonition info">
+<p class="admonition-title">Core Sorcerer Traits</p>
+<table>
+<thead>
+<tr>
+<th>Primary Ability</th>
+<th>Charisma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit Point Die</td>
+<td>D6 per Sorcerer level</td>
+</tr>
+<tr>
+<td>Saving Throw Proficiencies</td>
+<td>Constitution and Charisma</td>
+</tr>
+<tr>
+<td>Skill Proficiencies</td>
+<td><em>Choose 2:</em> <a href="/sources/dnd/free-rules/playing-the-game#Skills">Arcana</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Deception</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Insight</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Intimidation</a>, <a href="/sources/dnd/free-rules/playing-the-game#Skills">Persuasion</a>, or <a href="/sources/dnd/free-rules/playing-the-game#Skills">Religion</a></td>
+</tr>
+<tr>
+<td>Weapon Proficiencies</td>
+<td>Simple weapons</td>
+</tr>
+<tr>
+<td>Armor Training</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Starting Equipment</td>
+<td><em>Choose A or B:</em>(A) <a href="/equipment/14-spear">Spear</a>, 2 <a href="/equipment/3-dagger">Daggers</a>, <a href="/equipment/544-arcane-focus">Arcane Focus</a> (<a href="/equipment/523-crystal">crystal</a>), <a href="/equipment/525-dungeoneers-pack">Dungeoneer's Pack</a>, and 28 GP; or (B) 50 GP</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby's birth or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.</p>
+<p>Sorcerers don't learn magic; the raw, roiling power of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect its source.</p>
+<p>Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn't like to stay quiet. A Sorcerer's magic wants to be wielded.</p>
+<h2 id="becoming-a-sorcerer">Becoming a Sorcerer...<a class="headerlink" href="#becoming-a-sorcerer" title="Permanent link">#</a></h2>
+<h3 id="as-a-level-1-character">As a Level 1 Character<a class="headerlink" href="#as-a-level-1-character" title="Permanent link">#</a></h3>
+<ul>
+<li>Gain all the traits in the <a href="#CoreSorcererTraits">Core Sorcerer Traits table</a>.</li>
+<li>Gain the Sorcerer's level 1 features, which are listed in the <a href="#SorcererFeatures">Sorcerer Features table</a>.</li>
+</ul>
+<h3 id="as-a-multiclass-character">As a Multiclass Character<a class="headerlink" href="#as-a-multiclass-character" title="Permanent link">#</a></h3>
+<ul>
+<li>Gain the Hit Point Die from the <a href="#CoreSorcererTraits">Core Sorcerer Traits table</a>.</li>
+<li>Gain the Sorcerer's level 1 features, which are listed in the <a href="#SorcererFeatures">Sorcerer Features table</a>. See the multiclassing rules in <a href="/sources/dnd/phb-2024/creating-a-character#Multiclassing">chapter 2</a> to determine your available spell slots.</li>
+</ul>
+<h2 id="sorcerer-class-features">Sorcerer Class Features<a class="headerlink" href="#sorcerer-class-features" title="Permanent link">#</a></h2>
+<p>As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.</p>
+<h4 id="sorcerer-features">Sorcerer Features<a class="headerlink" href="#sorcerer-features" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Class Features</th>
+<th>Sorcery Points</th>
+<th>Cantrips</th>
+<th>Prepared Spells</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+2</td>
+<td><a href="#Level1SorcererSpellcasting">Spellcasting</a>, <a href="#Level1InnateSorcery">Innate Sorcery</a></td>
+<td>—</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+2</td>
+<td><a href="#Level2FontofMagic">Font of Magic</a>, <a href="#Level2Metamagic">Metamagic</a></td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+2</td>
+<td><a href="#Level3SorcererSubclass">Sorcerer Subclass</a></td>
+<td>3</td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+2</td>
+<td><a href="#Level4SorcererAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>4</td>
+<td>5</td>
+<td>7</td>
+<td>4</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+3</td>
+<td><a href="#Level5SorcerousRestoration">Sorcerous Restoration</a></td>
+<td>5</td>
+<td>5</td>
+<td>9</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+3</td>
+<td>Subclass feature</td>
+<td>6</td>
+<td>5</td>
+<td>10</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+3</td>
+<td><a href="#Level7SorceryIncarnate">Sorcery Incarnate</a></td>
+<td>7</td>
+<td>5</td>
+<td>11</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+3</td>
+<td><a href="#Level4SorcererAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>8</td>
+<td>5</td>
+<td>12</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>9</td>
+<td>+4</td>
+<td>—</td>
+<td>9</td>
+<td>5</td>
+<td>14</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+4</td>
+<td><a href="#Level2Metamagic">Metamagic</a></td>
+<td>10</td>
+<td>6</td>
+<td>15</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>11</td>
+<td>+4</td>
+<td>—</td>
+<td>11</td>
+<td>6</td>
+<td>16</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>12</td>
+<td>+4</td>
+<td><a href="#Level4SorcererAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>12</td>
+<td>6</td>
+<td>16</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>13</td>
+<td>+5</td>
+<td>—</td>
+<td>13</td>
+<td>6</td>
+<td>17</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>14</td>
+<td>+5</td>
+<td>Subclass feature</td>
+<td>14</td>
+<td>6</td>
+<td>17</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>15</td>
+<td>+5</td>
+<td>—</td>
+<td>15</td>
+<td>6</td>
+<td>18</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>16</td>
+<td>+5</td>
+<td><a href="#Level4SorcererAbilityScoreImprovement">Ability Score Improvement</a></td>
+<td>16</td>
+<td>6</td>
+<td>18</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>17</td>
+<td>+6</td>
+<td><a href="#Level2Metamagic">Metamagic</a></td>
+<td>17</td>
+<td>6</td>
+<td>19</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>+6</td>
+<td>Subclass feature</td>
+<td>18</td>
+<td>6</td>
+<td>20</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>19</td>
+<td>+6</td>
+<td><a href="#Level19SorcererEpicBoon">Epic Boon</a></td>
+<td>19</td>
+<td>6</td>
+<td>21</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>+6</td>
+<td><a href="#Level20ArcaneApotheosis">Arcane Apotheosis</a></td>
+<td>20</td>
+<td>6</td>
+<td>22</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-1-spellcasting">Level 1: Spellcasting<a class="headerlink" href="#level-1-spellcasting" title="Permanent link">#</a></h3>
+<p>Drawing from your innate magic, you can cast spells. See <a href="/sources/dnd/phb-2024/spells/">chapter 7</a> for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the <a href="#SorcererSpellList">Sorcerer spell list</a> later in the class's description.</p>
+<p><strong><em>Cantrips.</em></strong> You know four Sorcerer cantrips of your choice. <a href="/spells/2618996-light">Light</a>, <a href="/spells/2618893-prestidigitation">Prestidigitation</a>, <a href="/spells/2618986-shocking-grasp">Shocking Grasp</a>, and <a href="/spells/2618839-sorcerous-burst">Sorcerous Burst</a> are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.</p>
+<p>When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the <a href="#SorcererFeatures">Sorcerer Features table</a>.</p>
+<p><strong><em>Spell Slots.</em></strong> The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p><strong><em>Prepared Spells of Level 1+.</em></strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. <a href="/spells/2618946-burning-hands">Burning Hands</a> and <a href="/spells/2619097-detect-magic">Detect Magic</a> are recommended.</p>
+<p>The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the <a href="#SorcererFeatures">Sorcerer Features table</a>. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.</p>
+<p>If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.</p>
+<p><strong><em>Changing Your Prepared Spells.</em></strong> Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.</p>
+<p><strong><em>Spellcasting Ability.</em></strong> Charisma is your spellcasting ability for your Sorcerer spells.</p>
+<p><strong><em>Spellcasting Focus.</em></strong> You can use an <a href="/equipment/544-arcane-focus">Arcane Focus</a> as a Spellcasting Focus for your Sorcerer spells.</p>
+<h3 id="level-1-innate-sorcery">Level 1: Innate Sorcery<a class="headerlink" href="#level-1-innate-sorcery" title="Permanent link">#</a></h3>
+<p>An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:</p>
+<ul>
+<li>The spell save DC of your Sorcerer spells increases by 1.</li>
+<li>You have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on the attack rolls of Sorcerer spells you cast.</li>
+</ul>
+<p>You can use this feature twice, and you regain all expended uses of it when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="level-2-font-of-magic">Level 2: Font of Magic<a class="headerlink" href="#level-2-font-of-magic" title="Permanent link">#</a></h3>
+<p>You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.</p>
+<p>You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the <a href="#SorcererFeatures">Sorcerer Features table</a>. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p>You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.</p>
+<p><strong><em>Converting Spell Slots to Sorcery Points.</em></strong> You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).</p>
+<p><strong><em>Creating Spell Slots.</em></strong> As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.</p>
+<p>Any spell slot you create with this feature vanishes when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h4 id="creating-spell-slots">Creating Spell Slots<a class="headerlink" href="#creating-spell-slots" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Spell Slot Level</th>
+<th>Sorcery Point Cost</th>
+<th>Min. Sorcerer Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5</td>
+<td>7</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-2-metamagic">Level 2: Metamagic<a class="headerlink" href="#level-2-metamagic" title="Permanent link">#</a></h3>
+<p>Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "<a href="#MetamagicOptions">Metamagic Options</a>" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.</p>
+<p>You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.</p>
+<p>Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.</p>
+<h3 id="level-3-sorcerer-subclass">Level 3: Sorcerer Subclass<a class="headerlink" href="#level-3-sorcerer-subclass" title="Permanent link">#</a></h3>
+<p>You gain a Sorcerer subclass of your choice. The <a href="#AberrantSorcery">Aberrant Sorcery</a>, <a href="#ClockworkSorcery">Clockwork Sorcery</a>, <a href="#DraconicSorcery">Draconic Sorcery</a>, and <a href="#WildMagicSorcery">Wild Magic Sorcery</a> subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.</p>
+<h3 id="level-4-ability-score-improvement">Level 4: Ability Score Improvement<a class="headerlink" href="#level-4-ability-score-improvement" title="Permanent link">#</a></h3>
+<p>You gain the Ability Score Improvement feat (see <a href="/sources/dnd/phb-2024/feats#AbilityScoreImprovement">chapter 5</a>) or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.</p>
+<h3 id="level-5-sorcerous-restoration">Level 5: Sorcerous Restoration<a class="headerlink" href="#level-5-sorcerous-restoration" title="Permanent link">#</a></h3>
+<p>When you finish a <a href="/sources/dnd/free-rules/rules-glossary#ShortRest">Short Rest</a>, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h3 id="level-7-sorcery-incarnate">Level 7: Sorcery Incarnate<a class="headerlink" href="#level-7-sorcery-incarnate" title="Permanent link">#</a></h3>
+<p>If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.</p>
+<p>In addition, while your Innate Sorcery feature is active, you can use up to two of your <a href="#MetamagicOptions">Metamagic options</a> on each spell you cast.</p>
+<h3 id="level-19-epic-boon">Level 19: Epic Boon<a class="headerlink" href="#level-19-epic-boon" title="Permanent link">#</a></h3>
+<p>You gain an Epic Boon feat (see <a href="/sources/dnd/phb-2024/feats#EpicBoonFeats">chapter 5</a>) or another feat of your choice for which you qualify. <a href="/sources/dnd/phb-2024/feats#BoonofDimensionalTravel">Boon of Dimensional Travel</a> is recommended.</p>
+<h3 id="level-20-arcane-apotheosis">Level 20: Arcane Apotheosis<a class="headerlink" href="#level-20-arcane-apotheosis" title="Permanent link">#</a></h3>
+<p>While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turns without spending Sorcery Points on it.</p>
+<h3 id="metamagic-options">Metamagic Options<a class="headerlink" href="#metamagic-options" title="Permanent link">#</a></h3>
+<p>The following options are available to your <a href="#Level2Metamagic">Metamagic feature</a>. The options are presented in alphabetical order.</p>
+<h4 id="careful-spell">Careful Spell<a class="headerlink" href="#careful-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.</p>
+<h4 id="distant-spell">Distant Spell<a class="headerlink" href="#distant-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell's range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell's range 30 feet.</p>
+<h4 id="empowered-spell">Empowered Spell<a class="headerlink" href="#empowered-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls.</p>
+<p>You can use Empowered Spell even if you've already used a different Metamagic option during the casting of the spell.</p>
+<h4 id="extended-spell">Extended Spell<a class="headerlink" href="#extended-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.</p>
+<p>If the affected spell requires <a href="/sources/dnd/free-rules/rules-glossary#Concentration">Concentration</a>, you have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on any saving throw you make to maintain that Concentration.</p>
+<h4 id="heightened-spell">Heightened Spell<a class="headerlink" href="#heightened-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 2 Sorcery Points</em></p>
+<p>When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a> on saves against the spell.</p>
+<h4 id="quickened-spell">Quickened Spell<a class="headerlink" href="#quickened-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 2 Sorcery Points</em></p>
+<p>When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.</p>
+<h4 id="seeking-spell">Seeking Spell<a class="headerlink" href="#seeking-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll.</p>
+<p>You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.</p>
+<h4 id="subtle-spell">Subtle Spell<a class="headerlink" href="#subtle-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.</p>
+<h4 id="transmuted-spell">Transmuted Spell<a class="headerlink" href="#transmuted-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.</p>
+<h4 id="twinned-spell">Twinned Spell<a class="headerlink" href="#twinned-spell" title="Permanent link">#</a></h4>
+<p><em>Cost: 1 Sorcery Point</em></p>
+<p>When you cast a spell, such as <a href="/spells/2618964-charm-person">Charm Person</a>, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.</p>
+<h2 id="sorcerer-spell-list">Sorcerer Spell List<a class="headerlink" href="#sorcerer-spell-list" title="Permanent link">#</a></h2>
+<p>This section presents the Sorcerer spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, <em>C</em> means the spell requires Concentration, <em>R</em> means it's a Ritual, and <em>M</em> means it requires a specific Material component.</p>
+<h3 id="cantrips-level-0-sorcerer-spells">Cantrips (Level 0 Sorcerer Spells)<a class="headerlink" href="#cantrips-level-0-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618844-acid-splash">Acid Splash</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618931-blade-ward">Blade Ward</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618965-chill-touch">Chill Touch</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619058-dancing-lights">Dancing Lights</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618834-elementalism">Elementalism</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618890-fire-bolt">Fire Bolt</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618924-friends">Friends</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618996-light">Light</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619008-mage-hand">Mage Hand</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619033-mending">Mending</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619034-message">Message</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619037-mind-sliver">Mind Sliver</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619039-minor-illusion">Minor Illusion</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618875-poison-spray">Poison Spray</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618893-prestidigitation">Prestidigitation</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618930-ray-of-frost">Ray of Frost</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618986-shocking-grasp">Shocking Grasp</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618839-sorcerous-burst">Sorcerous Burst</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619179-thunderclap">Thunderclap</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619204-true-strike">True Strike</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-1-sorcerer-spells">Level 1 Sorcerer Spells<a class="headerlink" href="#level-1-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618946-burning-hands">Burning Hands</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618964-charm-person">Charm Person</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618966-chromatic-orb">Chromatic Orb</a></td>
+<td>Evocation</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618978-color-spray">Color Spray</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618993-comprehend-languages">Comprehend Languages</a></td>
+<td>Divination</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619097-detect-magic">Detect Magic</a></td>
+<td>Divination</td>
+<td>C, R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619102-disguise-self">Disguise Self</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619189-expeditious-retreat">Expeditious Retreat</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618866-false-life">False Life</a></td>
+<td>Necromancy</td>
+<td>–</td>
+</tr>
+<tr>
+<td><a href="/spells/2618874-feather-fall">Feather Fall</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618910-fog-cloud">Fog Cloud</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618957-grease">Grease</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619171-ice-knife">Ice Knife</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618991-jump">Jump</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619006-mage-armor">Mage Armor</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619022-magic-missile">Magic Missile</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618935-ray-of-sickness">Ray of Sickness</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619019-shield">Shield</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619062-silent-image">Silent Image</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619064-sleep">Sleep</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619184-thunderwave">Thunderwave</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619215-witch-bolt">Witch Bolt</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-2-sorcerer-spells">Level 2 Sorcerer Spells<a class="headerlink" href="#level-2-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618846-alter-self">Alter Self</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618831-arcane-vigor">Arcane Vigor</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618938-blindness-deafness">Blindness/Deafness</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618945-blur">Blur</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618974-cloud-of-daggers">Cloud of Daggers</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619056-crown-of-madness">Crown of Madness</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619080-darkness">Darkness</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619082-darkvision">Darkvision</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619099-detect-thoughts">Detect Thoughts</a></td>
+<td>Divination</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619150-dragons-breath">Dragon's Breath</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619165-enhance-ability">Enhance Ability</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619170-enlarge-reduce">Enlarge/Reduce</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618899-flame-blade">Flame Blade</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618919-flaming-sphere">Flaming Sphere</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619137-gust-of-wind">Gust of Wind</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619153-hold-person">Hold Person</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619116-invisibility">Invisibility</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618992-knock">Knock</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618994-levitate">Levitate</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619024-magic-weapon">Magic Weapon</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619038-mind-spike">Mind Spike</a></td>
+<td>Divination</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619060-mirror-image">Mirror Image</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619133-misty-step">Misty Step</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618854-phantasmal-force">Phantasmal Force</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619005-scorching-ray">Scorching Ray</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619011-see-invisibility">See Invisibility</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619017-shatter">Shatter</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619071-spider-climb">Spider Climb</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619101-suggestion">Suggestion</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619208-web">Web</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-3-sorcerer-spells">Level 3 Sorcerer Spells<a class="headerlink" href="#level-3-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618939-blink">Blink</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618972-clairvoyance">Clairvoyance</a></td>
+<td>Divination</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619072-counterspell">Counterspell</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619083-daylight">Daylight</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619103-dispel-magic">Dispel Magic</a></td>
+<td>Abjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618872-fear">Fear</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618887-fireball">Fireball</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618909-fly">Fly</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618927-gaseous-form">Gaseous Form</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619141-haste">Haste</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619168-hypnotic-pattern">Hypnotic Pattern</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618999-lightning-bolt">Lightning Bolt</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619025-major-image">Major Image</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618908-protection-from-energy">Protection from Energy</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618998-sleet-storm">Sleet Storm</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619066-slow">Slow</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619091-stinking-cloud">Stinking Cloud</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619190-tongues">Tongues</a></td>
+<td>Divination</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619214-vampiric-touch">Vampiric Touch</a></td>
+<td>Necromancy</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619205-water-breathing">Water Breathing</a></td>
+<td>Transmutation</td>
+<td>R</td>
+</tr>
+<tr>
+<td><a href="/spells/2619207-water-walk">Water Walk</a></td>
+<td>Transmutation</td>
+<td>R</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-4-sorcerer-spells">Level 4 Sorcerer Spells<a class="headerlink" href="#level-4-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618906-banishment">Banishment</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618934-blight">Blight</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618963-charm-monster">Charm Monster</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619043-confusion">Confusion</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619100-dimension-door">Dimension Door</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619146-dominate-beast">Dominate Beast</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618894-fire-shield">Fire Shield</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618958-greater-invisibility">Greater Invisibility</a></td>
+<td>Illusion</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619178-ice-storm">Ice Storm</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618876-polymorph">Polymorph</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619095-stoneskin">Stoneskin</a></td>
+<td>Transmutation</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619219-vitriolic-sphere">Vitriolic Sphere</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619107-wall-of-fire">Wall of Fire</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-5-sorcerer-spells">Level 5 Sorcerer Spells<a class="headerlink" href="#level-5-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618855-animate-objects">Animate Objects</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618928-bigbys-hand">Bigby's Hand</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618976-cloudkill">Cloudkill</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619042-cone-of-cold">Cone of Cold</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619077-creation">Creation</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619148-dominate-person">Dominate Person</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619152-hold-monster">Hold Monster</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619183-insect-plague">Insect Plague</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619014-seeming">Seeming</a></td>
+<td>Illusion</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619129-synaptic-static">Synaptic Static</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619157-telekinesis">Telekinesis</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619167-teleportation-circle">Teleportation Circle</a></td>
+<td>Conjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619200-wall-of-stone">Wall of Stone</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-6-sorcerer-spells">Level 6 Sorcerer Spells<a class="headerlink" href="#level-6-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618865-arcane-gate">Arcane Gate</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618960-chain-lightning">Chain Lightning</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618969-circle-of-death">Circle of Death</a></td>
+<td>Necromancy</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619094-disintegrate">Disintegrate</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619191-eyebite">Eyebite</a></td>
+<td>Necromancy</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618905-flesh-to-stone">Flesh to Stone</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618950-globe-of-invulnerability">Globe of Invulnerability</a></td>
+<td>Abjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619029-mass-suggestion">Mass Suggestion</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619120-move-earth">Move Earth</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619126-otilukes-freezing-sphere">Otiluke's Freezing Sphere</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619121-sunbeam">Sunbeam</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619201-true-seeing">True Seeing</a></td>
+<td>Divination</td>
+<td>M</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-7-sorcerer-spells">Level 7 Sorcerer Spells<a class="headerlink" href="#level-7-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2619086-delayed-blast-fireball">Delayed Blast Fireball</a></td>
+<td>Evocation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619193-etherealness">Etherealness</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618885-finger-of-death">Finger of Death</a></td>
+<td>Necromancy</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618896-fire-storm">Fire Storm</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618867-plane-shift">Plane Shift</a></td>
+<td>Conjuration</td>
+<td>M</td>
+</tr>
+<tr>
+<td><a href="/spells/2618895-prismatic-spray">Prismatic Spray</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618954-reverse-gravity">Reverse Gravity</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619163-teleport">Teleport</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-8-sorcerer-spells">Level 8 Sorcerer Spells<a class="headerlink" href="#level-8-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2619088-demiplane">Demiplane</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619147-dominate-monster">Dominate Monster</a></td>
+<td>Enchantment</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619160-earthquake">Earthquake</a></td>
+<td>Transmutation</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2619177-incendiary-cloud">Incendiary Cloud</a></td>
+<td>Conjuration</td>
+<td>C</td>
+</tr>
+<tr>
+<td><a href="/spells/2618889-power-word-stun">Power Word Stun</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619123-sunburst">Sunburst</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3 id="level-9-sorcerer-spells">Level 9 Sorcerer Spells<a class="headerlink" href="#level-9-sorcerer-spells" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>Spell</th>
+<th>School</th>
+<th>Special</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/spells/2618932-gate">Gate</a></td>
+<td>Conjuration</td>
+<td>C, M</td>
+</tr>
+<tr>
+<td><a href="/spells/2619035-meteor-swarm">Meteor Swarm</a></td>
+<td>Evocation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2618886-power-word-kill">Power Word Kill</a></td>
+<td>Enchantment</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619185-time-stop">Time Stop</a></td>
+<td>Transmutation</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/spells/2619213-wish">Wish</a></td>
+<td>Conjuration</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sorcerer-subclasses">Sorcerer Subclasses<a class="headerlink" href="#sorcerer-subclasses" title="Permanent link">#</a></h2>
+<p>A Sorcerer subclass is a specialization that grants you features at certain Sorcerer levels, as specified in the subclass. This section presents the <a href="#AberrantSorcery">Aberrant Sorcery</a>, <a href="#ClockworkSorcery">Clockwork Sorcery</a>, <a href="#DraconicSorcery">Draconic Sorcery</a>, and <a href="#WildMagicSorcery">Wild Magic Sorcery</a> subclasses.</p>
+<h3 id="aberrant-sorcery">Aberrant Sorcery<a class="headerlink" href="#aberrant-sorcery" title="Permanent link">#</a></h3>
+<p><em>Wield Unnatural Psionic Power</em></p>
+<p>An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?</p>
+<p>Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm's warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole's psionic power is yours. However you acquired this power, your mind is aflame with it.</p>
+<h4 id="level-3-psionic-spells">Level 3: Psionic Spells<a class="headerlink" href="#level-3-psionic-spells" title="Permanent link">#</a></h4>
+<p>When you reach a Sorcerer level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="psionic-spells">Psionic Spells<a class="headerlink" href="#psionic-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Sorcerer Level</th>
+<th>Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618871-arms-of-hadar">Arms of Hadar</a>, <a href="/spells/2618959-calm-emotions">Calm Emotions</a>, <a href="/spells/2619099-detect-thoughts">Detect Thoughts</a>, <a href="/spells/2619104-dissonant-whispers">Dissonant Whispers</a>, <a href="/spells/2619037-mind-sliver">Mind Sliver</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2619162-hunger-of-hadar">Hunger of Hadar</a>, <a href="/spells/2619015-sending">Sending</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2619187-evards-black-tentacles">Evard's Black Tentacles</a>, <a href="/spells/2619105-summon-aberration">Summon Aberration</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2618925-rarys-telepathic-bond">Rary's Telepathic Bond</a>, <a href="/spells/2619157-telekinesis">Telekinesis</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-telepathic-speech">Level 3: Telepathic Speech<a class="headerlink" href="#level-3-telepathic-speech" title="Permanent link">#</a></h4>
+<p>You can form a telepathic connection between your mind and the mind of another. As a Bonus Action, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.</p>
+<p>The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature.</p>
+<h4 id="level-6-psionic-sorcery">Level 6: Psionic Sorcery<a class="headerlink" href="#level-6-psionic-sorcery" title="Permanent link">#</a></h4>
+<p>When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.</p>
+<h4 id="level-6-psychic-defenses">Level 6: Psychic Defenses<a class="headerlink" href="#level-6-psychic-defenses" title="Permanent link">#</a></h4>
+<p>You have Resistance to Psychic damage, and you have <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on saving throws to avoid or end the <a href="/sources/dnd/free-rules/rules-glossary#CharmedCondition">Charmed</a> or <a href="/sources/dnd/free-rules/rules-glossary#FrightenedCondition">Frightened</a> condition.</p>
+<h4 id="level-14-revelation-in-flesh">Level 14: Revelation in Flesh<a class="headerlink" href="#level-14-revelation-in-flesh" title="Permanent link">#</a></h4>
+<p>You can unleash the aberrant truth hidden within yourself. As a Bonus Action, you can spend 1 Sorcery Point or more to magically alter your body for 10 minutes. For each Sorcery Point you spend, you gain one of the following benefits of your choice, the effects of which last until the alteration ends.</p>
+<p><strong><em>Aquatic Adaptation.</em></strong> You gain a Swim Speed equal to twice your Speed, and you can breathe underwater. Gills grow from your neck or flare behind your ears, and your fingers become webbed or you grow wriggling cilia.</p>
+<p><strong><em>Glistening Flight.</em></strong> You gain a Fly Speed equal to your Speed, and you can hover. As you fly, your skin glistens with mucus or otherworldly light.</p>
+<p><strong><em>See the Invisible.</em></strong> You can see any <a href="/sources/dnd/free-rules/rules-glossary#InvisibleCondition">Invisible</a> creature within 60 feet of yourself that isn't behind <a href="/sources/dnd/free-rules/rules-glossary#Cover">Total Cover</a>. Your eyes also turn black or become writhing sensory tendrils.</p>
+<p><strong><em>Wormlike Movement.</em></strong> Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch, and you can spend 5 feet of movement to escape from nonmagical restraints or the <a href="/sources/dnd/free-rules/rules-glossary#GrappledCondition">Grappled</a> condition.</p>
+<h4 id="level-18-warping-implosion">Level 18: Warping Implosion<a class="headerlink" href="#level-18-warping-implosion" title="Permanent link">#</a></h4>
+<p>You can unleash a space-warping anomaly. As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes 3d10 Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.</p>
+<p>Once you use this feature, you can't do so again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> unless you spend 5 Sorcery Points (no action required) to restore your use of it.</p>
+<h3 id="clockwork-sorcery">Clockwork Sorcery<a class="headerlink" href="#clockwork-sorcery" title="Permanent link">#</a></h3>
+<p><em>Channel Cosmic Forces of Order</em></p>
+<p>The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.</p>
+<h4 id="level-3-clockwork-spells">Level 3: Clockwork Spells<a class="headerlink" href="#level-3-clockwork-spells" title="Permanent link">#</a></h4>
+<p>When you reach a Sorcerer level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="clockwork-spells">Clockwork Spells<a class="headerlink" href="#clockwork-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Sorcerer Level</th>
+<th>Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618845-aid">Aid</a>, <a href="/spells/2619222-alarm">Alarm</a>, <a href="/spells/2619016-lesser-restoration">Lesser Restoration</a>, <a href="/spells/2618912-protection-from-evil-and-good">Protection from Evil and Good</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2619103-dispel-magic">Dispel Magic</a>, <a href="/spells/2618908-protection-from-energy">Protection from Energy</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2618921-freedom-of-movement">Freedom of Movement</a>, <a href="/spells/2619111-summon-construct">Summon Construct</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2618961-greater-restoration">Greater Restoration</a>, <a href="/spells/2619194-wall-of-force">Wall of Force</a></td>
+</tr>
+</tbody>
+</table>
+<p>In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.</p>
+<h4 id="manifestations-of-order">Manifestations of Order<a class="headerlink" href="#manifestations-of-order" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>1d6</th>
+<th>Manifestation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Spectral cogwheels hover behind you.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The hands of a clock spin in your eyes.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Your skin glows with a brassy sheen.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Floating equations and geometric objects overlay your body.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Your Spellcasting Focus temporarily takes the form of a Tiny clockwork mechanism.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The ticking of gears or ringing of a clock can be heard by you and those affected by your magic.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-3-restore-balance">Level 3: Restore Balance<a class="headerlink" href="#level-3-restore-balance" title="Permanent link">#</a></h4>
+<p>Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a d20 with <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> or <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a>, you can take a Reaction to prevent the roll from being affected by Advantage and Disadvantage.</p>
+<p>You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h4 id="level-6-bastion-of-law">Level 6: Bastion of Law<a class="headerlink" href="#level-6-bastion-of-law" title="Permanent link">#</a></h4>
+<p>You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.</p>
+<p>The ward lasts until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> or until you use this feature again.</p>
+<h4 id="level-14-trance-of-order">Level 14: Trance of Order<a class="headerlink" href="#level-14-trance-of-order" title="Permanent link">#</a></h4>
+<p>You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a>, and whenever you make a <a href="/sources/dnd/free-rules/rules-glossary#D20Test">D20 Test</a>, you can treat a roll of 9 or lower on the d20 as a 10.</p>
+<p>Once you use this feature, you can't use it again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> unless you spend 5 Sorcery Points (no action required) to restore your use of it.</p>
+<h4 id="level-18-clockwork-cavalcade">Level 18: Clockwork Cavalcade<a class="headerlink" href="#level-18-clockwork-cavalcade" title="Permanent link">#</a></h4>
+<p>You momentarily summon spirits of order to expunge disorder around you. As a <a href="/sources/dnd/free-rules/rules-glossary#MagicAction">Magic</a> action, you summon the spirits in a 30-foot <a href="/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect">Cube</a> originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the Cube before vanishing. Once you use this action, you can't use it again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> unless you spend 7 Sorcery Points (no action required) to restore your use of it.</p>
+<p><strong><em>Heal.</em></strong> The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.</p>
+<p><strong><em>Repair.</em></strong> Any damaged objects entirely in the Cube are repaired instantly.</p>
+<p><strong><em>Dispel.</em></strong> Every spell of level 6 and lower ends on creatures and objects of your choice in the Cube.</p>
+<h3 id="draconic-sorcery">Draconic Sorcery<a class="headerlink" href="#draconic-sorcery" title="Permanent link">#</a></h3>
+<p><em>Breathe the Magic of Dragons</em></p>
+<p>Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.</p>
+<h4 id="level-3-draconic-resilience">Level 3: Draconic Resilience<a class="headerlink" href="#level-3-draconic-resilience" title="Permanent link">#</a></h4>
+<p>The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.</p>
+<p>Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.</p>
+<h4 id="level-3-draconic-spells">Level 3: Draconic Spells<a class="headerlink" href="#level-3-draconic-spells" title="Permanent link">#</a></h4>
+<p>When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.</p>
+<h4 id="draconic-spells">Draconic Spells<a class="headerlink" href="#draconic-spells" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>Sorcerer Level</th>
+<th>Spells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="/spells/2618846-alter-self">Alter Self</a>, <a href="/spells/2618966-chromatic-orb">Chromatic Orb</a>, <a href="/spells/2618985-command">Command</a>, <a href="/spells/2619150-dragons-breath">Dragon's Breath</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/spells/2618872-fear">Fear</a>, <a href="/spells/2618909-fly">Fly</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/spells/2618863-arcane-eye">Arcane Eye</a>, <a href="/spells/2618963-charm-monster">Charm Monster</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/spells/2619010-legend-lore">Legend Lore</a>, <a href="/spells/2618843-summon-dragon">Summon Dragon</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="level-6-elemental-affinity">Level 6: Elemental Affinity<a class="headerlink" href="#level-6-elemental-affinity" title="Permanent link">#</a></h4>
+<p>Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.</p>
+<p>You have Resistance to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.</p>
+<h4 id="level-14-dragon-wings">Level 14: Dragon Wings<a class="headerlink" href="#level-14-dragon-wings" title="Permanent link">#</a></h4>
+<p>As a Bonus Action, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.</p>
+<p>Once you use this feature, you can't use it again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> unless you spend 3 Sorcery Points (no action required) to restore your use of it.</p>
+<h4 id="level-18-dragon-companion">Level 18: Dragon Companion<a class="headerlink" href="#level-18-dragon-companion" title="Permanent link">#</a></h4>
+<p>You can cast <a href="/spells/2618843-summon-dragon">Summon Dragon</a> without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<p>Whenever you start casting the spell, you can modify it so that it doesn't require <a href="/sources/dnd/free-rules/rules-glossary#Concentration">Concentration</a>. If you do so, the spell's duration becomes 1 minute for that casting.</p>
+<h3 id="wild-magic-sorcery">Wild Magic Sorcery<a class="headerlink" href="#wild-magic-sorcery" title="Permanent link">#</a></h3>
+<p><em>Unleash Chaotic Magic</em></p>
+<p>Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.</p>
+<h4 id="level-3-wild-magic-surge">Level 3: Wild Magic Surge<a class="headerlink" href="#level-3-wild-magic-surge" title="Permanent link">#</a></h4>
+<p>Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll 1d20 immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the <a href="#WildMagicSurge">Wild Magic Surge table</a> to create a magical effect.</p>
+<p>If the magical effect is a spell, it is too wild to be affected by your Metamagic.</p>
+<h4 id="level-3-tides-of-chaos">Level 3: Tides of Chaos<a class="headerlink" href="#level-3-tides-of-chaos" title="Permanent link">#</a></h4>
+<p>You can manipulate chaos itself to give yourself <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on one <a href="/sources/dnd/free-rules/rules-glossary#D20Test">D20 Test</a> before you roll the d20. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a> before you can use this feature again.</p>
+<p>If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest, you automatically roll on the <a href="#WildMagicSurge">Wild Magic Surge table</a>.</p>
+<h4 id="level-6-bend-luck">Level 6: Bend Luck<a class="headerlink" href="#level-6-bend-luck" title="Permanent link">#</a></h4>
+<p>You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a <a href="/sources/dnd/free-rules/rules-glossary#D20Test">D20 Test</a>, you can take a Reaction and spend 1 Sorcery Point to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the d20 roll.</p>
+<h4 id="level-14-controlled-chaos">Level 14: Controlled Chaos<a class="headerlink" href="#level-14-controlled-chaos" title="Permanent link">#</a></h4>
+<p>You gain a modicum of control over the surges of your wild magic. Whenever you roll on the <a href="#WildMagicSurge">Wild Magic Surge table</a>, you can roll twice and use either number.</p>
+<h4 id="level-18-tamed-surge">Level 18: Tamed Surge<a class="headerlink" href="#level-18-tamed-surge" title="Permanent link">#</a></h4>
+<p>Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the Wild Magic Surge table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.</p>
+<p>Once you use this feature, you can't do so again until you finish a <a href="/sources/dnd/free-rules/rules-glossary#LongRest">Long Rest</a>.</p>
+<h4 id="wild-magic-surge">Wild Magic Surge<a class="headerlink" href="#wild-magic-surge" title="Permanent link">#</a></h4>
+<table>
+<thead>
+<tr>
+<th>1d100</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01–04</td>
+<td>Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.</td>
+</tr>
+<tr>
+<td>05–08</td>
+<td>A creature that is <a href="/sources/dnd/free-rules/rules-glossary#FriendlyAttitude">Friendly</a> toward you appears in a random unoccupied space within 60 feet of you. The creature is under the DM's control and disappears 1 minute later. Roll 1d4 to determine the creature: on a <strong>1</strong>, a <a href="/monsters/17180-duodrone">Modron Duodrone</a> appears; on a <strong>2</strong>, a <a href="/monsters/17145-flumph">Flumph</a> appears; on a <strong>3</strong>, a <a href="/monsters/17176-monodrone">Modron Monodrone</a> appears; on a <strong>4</strong>, a <a href="/monsters/17042-unicorn">Unicorn</a> appears. See the <em>Monster Manual</em> for the creature's stat block.</td>
+</tr>
+<tr>
+<td>09–12</td>
+<td>For the next minute, you regain 5 Hit Points at the start of each of your turns.</td>
+</tr>
+<tr>
+<td>13–16</td>
+<td>Creatures have <a href="/sources/dnd/free-rules/rules-glossary#Disadvantage">Disadvantage</a> on saving throws against the next spell you cast in the next minute that involves a saving throw.</td>
+</tr>
+<tr>
+<td>17–20</td>
+<td>You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll 1d8 to determine the effect: on a <strong>1</strong>, you're surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a <strong>2</strong>, your size increases by one size category; on a <strong>3</strong>, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a <strong>4</strong>, you must shout when you speak; on a <strong>5</strong>, illusory butterflies flutter in the air within 10 feet of you; on a <strong>6</strong>, an eye appears on your forehead, granting you <a href="/sources/dnd/free-rules/rules-glossary#Advantage">Advantage</a> on Wisdom (<a href="/sources/dnd/free-rules/playing-the-game#Skills">Perception</a>) checks; on an <strong>7</strong>, pink bubbles float out of your mouth whenever you speak; on an <strong>8</strong>, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a <a href="/spells/2618943-remove-curse">Remove Curse</a> spell.</td>
+</tr>
+<tr>
+<td>21–24</td>
+<td>For the next minute, all your spells with a casting time of an action have a casting time of a Bonus Action.</td>
+</tr>
+<tr>
+<td>25–28</td>
+<td>You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied.</td>
+</tr>
+<tr>
+<td>29–32</td>
+<td>The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die.</td>
+</tr>
+<tr>
+<td>33–36</td>
+<td>You have Resistance to all damage for the next minute.</td>
+</tr>
+<tr>
+<td>37–40</td>
+<td>You turn into a potted plant until the start of your next turn. While you're a plant, you have the <a href="/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition">Incapacitated</a> condition and have Vulnerability to all damage. If you drop to 0 Hit Points, your pot breaks, and your form reverts.</td>
+</tr>
+<tr>
+<td>41–44</td>
+<td>For the next minute, you can teleport up to 20 feet as a Bonus Action on each of your turns.</td>
+</tr>
+<tr>
+<td>45–48</td>
+<td>You and up to three creatures you choose within 30 feet of you have the <a href="/sources/dnd/free-rules/rules-glossary#InvisibleCondition">Invisible</a> condition for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell.</td>
+</tr>
+<tr>
+<td>49–52</td>
+<td>A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to <a href="/spells/2619022-magic-missile">Magic Missile</a>.</td>
+</tr>
+<tr>
+<td>53–56</td>
+<td>You can take one extra action on this turn.</td>
+</tr>
+<tr>
+<td>57–60</td>
+<td>You cast a random spell. If the spell normally requires <a href="/sources/dnd/free-rules/rules-glossary#Concentration">Concentration</a>, it doesn't require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a <strong>1</strong>, <a href="/spells/2619043-confusion">Confusion</a>; on a <strong>2</strong>, <a href="/spells/2618887-fireball">Fireball</a>; on a <strong>3</strong>, <a href="/spells/2618910-fog-cloud">Fog Cloud</a>; on a <strong>4</strong>, <a href="/spells/2618909-fly">Fly</a> (cast on a random creature within 60 feet of you), on a <strong>5</strong>, <a href="/spells/2618957-grease">Grease</a>; on a <strong>6</strong>, <a href="/spells/2618994-levitate">Levitate</a> (cast on yourself); on a <strong>7</strong>, <a href="/spells/2619022-magic-missile">Magic Missile</a> (cast as a level 5 spell); on an <strong>8</strong>, <a href="/spells/2619060-mirror-image">Mirror Image</a>; on a <strong>9</strong>, <a href="/spells/2618876-polymorph">Polymorph</a> (cast on yourself), and if you fail the saving throw, you turn into a <a href="/monsters/4775823-goat">Goat</a> (see <a href="/sources/dnd/phb-2024/creature-stat-blocks#Goat">appendix B</a>); on a <strong>10</strong>, <a href="/spells/2619011-see-invisibility">See Invisibility</a>.</td>
+</tr>
+<tr>
+<td>61–64</td>
+<td>For the next minute, any flammable, nonmagical object you touch that isn't being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is burning.</td>
+</tr>
+<tr>
+<td>65–68</td>
+<td>If you die within the next hour, you immediately revive as if by the <a href="/spells/2618941-reincarnate">Reincarnate</a> spell.</td>
+</tr>
+<tr>
+<td>69–72</td>
+<td>You have the <a href="/sources/dnd/free-rules/rules-glossary#FrightenedCondition">Frightened</a> condition until the end of your next turn. The DM determines the source of your fear.</td>
+</tr>
+<tr>
+<td>73–76</td>
+<td>You teleport up to 60 feet to an unoccupied space you can see.</td>
+</tr>
+<tr>
+<td>77–80</td>
+<td>A random creature within 60 feet of you has the <a href="/sources/dnd/free-rules/rules-glossary#PoisonedCondition">Poisoned</a> condition for 1d4 hours.</td>
+</tr>
+<tr>
+<td>81–84</td>
+<td>You radiate <a href="/sources/dnd/free-rules/rules-glossary#BrightLight">Bright Light</a> in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you has the <a href="/sources/dnd/free-rules/rules-glossary#BlindedCondition">Blinded</a> condition until the end of its next turn.</td>
+</tr>
+<tr>
+<td>85–88</td>
+<td>Up to three creatures of your choice that you can see within 30 feet of you take 1d10 Necrotic damage. You regain Hit Points equal to the sum of the Necrotic damage dealt.</td>
+</tr>
+<tr>
+<td>89–92</td>
+<td>Up to three creatures of your choice that you can see within 30 feet of you take 4d10 Lightning damage.</td>
+</tr>
+<tr>
+<td>93–96</td>
+<td>You and all creatures within 30 feet of you have Vulnerability to Piercing damage for the next minute.</td>
+</tr>
+<tr>
+<td>97–00</td>
+<td>Roll 1d6: On a <strong>1</strong>, you regain 2d10 Hit Points; on a <strong>2</strong>, one ally of your choice within 300 feet of you regains 2d10 Hit Points; on a <strong>3</strong>, you regain your lowest-level expended spell slot; on a <strong>4</strong>, one ally of your choice within 300 feet of you regains their lowest-level expended spell slot; on a <strong>5</strong>, you regain all your expended Sorcery Points; on a <strong>6</strong>, all the effects of row 17–20 affect you simultaneously.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../rogue/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Rogue">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Rogue
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../warlock/" class="md-footer__link md-footer__link--next" aria-label="Next: Warlock">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Warlock
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../..", "features": ["search.share", "search.suggest", "navigation.tabs", "navigation.path", "navigation.top", "navigation.footer", "navigation.indexes", "navigation.expand", "toc.follow"], "search": "../../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.92b07e13.min.js"></script>
+      
+    
+  </body>
+</html>
